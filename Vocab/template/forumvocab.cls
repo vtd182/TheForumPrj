@@ -75,8 +75,41 @@
   UprightFont = UTM-Impact
 ]
 
-% IPA font - uses the main font which should support IPA
-% No character substitution - display IPA symbols as-is
+% IPA font: prefer a font with good IPA coverage to avoid missing glyphs.
+\IfFontExistsTF{Charis SIL}{%
+  \newfontfamily\forumvocab@ipafont{Charis SIL}[Scale=MatchLowercase]%
+}{%
+  \IfFontExistsTF{Doulos SIL}{%
+    \newfontfamily\forumvocab@ipafont{Doulos SIL}[Scale=MatchLowercase]%
+  }{%
+    \IfFontExistsTF{Gentium Plus}{%
+      \newfontfamily\forumvocab@ipafont{Gentium Plus}[Scale=MatchLowercase]%
+    }{%
+      \IfFontExistsTF{Noto Serif}{%
+        \newfontfamily\forumvocab@ipafont{Noto Serif}[Scale=MatchLowercase]%
+      }{%
+        \IfFontExistsTF{Noto Sans}{%
+          \newfontfamily\forumvocab@ipafont{Noto Sans}[Scale=MatchLowercase]%
+        }{%
+          \IfFontExistsTF{Times New Roman}{%
+            \newfontfamily\forumvocab@ipafont{Times New Roman}[Scale=MatchLowercase]%
+          }{%
+            \newfontfamily\forumvocab@ipafont[
+              Path=\forumvocab@fontroot/latin-modern-roman/,
+              Extension=.otf,
+              UprightFont=lmroman10-regular,
+              BoldFont=lmroman10-bold,
+              ItalicFont=lmroman10-italic,
+              BoldItalicFont=lmroman10-bolditalic,
+              Scale=MatchLowercase
+            ]{Latin Modern Roman}%
+          }%
+        }%
+      }%
+    }%
+  }%
+}
+\newcommand{\forumvocab@ipa}[1]{{\forumvocab@ipafont\itshape #1}}
 
 % ============================================
 % 4. COLOR DEFINITIONS
@@ -282,14 +315,22 @@
 % ============================================
 % 10. VOCABULARY ENTRY COMMANDS
 % ============================================
+\newcommand{\forumvocab@vocabhead}[2]{%
+  {\sffamily\bfseries\color{forumred}\large #1}%
+  \hspace{0.4em}%
+  {\forumvocab@ipa{#2}}%
+}
+\newcommand{\forumvocab@vocabline}[3]{%
+  \forumvocab@vocabhead{#1}{#2}%
+  \hspace{0.6em}---\hspace{0.6em}%
+  #3\par
+}
+
 % Full version with example
 % Usage: \vocabentry{word}{pronunciation}{definition}{example}{translation}
 \newcommand{\vocabentry}[5]{%
-  \noindent
-  {\sffamily\bfseries\color{forumred}\large #1}\\
-  {\itshape #2}\\
-  #3\\
-  {\itshape\textbf{Example:} #4}\\
+  \noindent\forumvocab@vocabline{#1}{#2}{#3}%
+  {\itshape\textbf{Example:} #4}\par
   {\itshape (#5)}
   
   \vspace{8pt}
@@ -298,10 +339,7 @@
 % Short version without example
 % Usage: \vocabshort{word}{pronunciation}{definition}
 \newcommand{\vocabshort}[3]{%
-  \noindent
-  {\sffamily\bfseries\color{forumred}\large #1}\\
-  {\itshape #2}\\
-  #3
+  \noindent\forumvocab@vocabline{#1}{#2}{#3}%
   
   \vspace{8pt}
 }

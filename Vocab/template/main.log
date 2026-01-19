@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  19 JAN 2026 14:51
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  19 JAN 2026 15:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -484,6 +484,47 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"[./UTM-Impact.ttf]/OT:language=dflt;"
 
+
+Package fontspec Info: 
+(fontspec)             Times New Roman scale = 0.9636299023440277.
+
+
+Package fontspec Info: 
+(fontspec)             Times New Roman scale = 0.9636299023440277.
+
+
+Package fontspec Info: 
+(fontspec)             Times New Roman/B scale = 0.9440481727713549.
+
+
+Package fontspec Info: 
+(fontspec)             Times New Roman/I scale = 1.001912475428977.
+
+
+Package fontspec Info: 
+(fontspec)             Times New Roman/BI scale = 0.9818519945425632.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Scale=MatchLowercase].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9636299023440277]"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9440481727713549]"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1.001912475428977]"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.9818519945425632]"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;"
+
 ) (./main.aux)
 \openout1 = `main.aux'.
 
@@ -597,32 +638,35 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 23.
 (./data.tex
-Missing character: There is no ˈ (U+02C8) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ɑ (U+0251) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ː (U+02D0) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ɪ (U+026A) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ˈ (U+02C8) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ɪ (U+026A) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ɪ (U+026A) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ˈ (U+02C8) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ʃ (U+0283) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ɪ (U+026A) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ˈ (U+02C8) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ɪ (U+026A) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ɡ (U+0261) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 11.56348pt on input line 16.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
+(Font)              scaled to size 12.02289pt on input line 16.
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
-\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The instructions were
+Overfull \hbox (2.2997pt too wide) in paragraph at lines 22--22
+[]\TU/LatinModernSans(0)/b/n/14.4 pervasive[] \TU/TimesNewRoman(0)/m/it/12 /pərˈveɪsɪv/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Spreading
  []
 
-Missing character: There is no ɪ (U+026A) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ˈ (U+02C8) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ː (U+02D0) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ɪ (U+026A) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ɪ (U+026A) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ɡ (U+0261) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ˈ (U+02C8) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ɪ (U+026A) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\TU/LatinModernSans(0)/b/n/14.4 substantiate[] \TU/TimesNewRoman(0)/m/it/12 /səbˈstænʃieɪt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The instructions were
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]\TU/LatinModernSans(0)/b/n/14.4 elucidate[] \TU/TimesNewRoman(0)/m/it/12 /ɪˈluːsɪdeɪt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To make
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\TU/LatinModernSans(0)/b/n/14.4 pragmatic[] \TU/TimesNewRoman(0)/m/it/12 /præɡˈmætɪk/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
 \TU/LatinModernRoman(0)/m/n/12 Dealing with things sensibly and
@@ -633,35 +677,88 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 \TU/LatinModernRoman(0)/m/it/12 problem-solving focuses on practical
  []
 
-Missing character: There is no ˈ (U+02C8) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ʃ (U+0283) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ˌ (U+02CC) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ʒ (U+0292) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ʌ (U+028C) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ˈ (U+02C8) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ʊ (U+028A) in font [../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]\TU/LatinModernSans(0)/b/n/14.4 contentious[] \TU/TimesNewRoman(0)/m/it/12 /kənˈtenʃəs/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]\TU/LatinModernSans(0)/b/n/14.4 juxtapose[] \TU/TimesNewRoman(0)/m/it/12 /ˌdʒʌkstəˈpoʊz/ (v) \TU/LatinModernRoman(0)/m/n/12 — To
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]\TU/LatinModernSans(0)/b/n/14.4 corroborate[] \TU/TimesNewRoman(0)/m/it/12 /'kOrOb@reIt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]\TU/LatinModernSans(0)/b/n/14.4 extrapolate[] \TU/TimesNewRoman(0)/m/it/12 /Ik'straep@leIt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To
+ []
+
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [1
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]\TU/LatinModernSans(0)/b/n/14.4 ubiquitous[] \TU/TimesNewRoman(0)/m/it/12 /ju:'bIkwIt@s/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
 Underfull \hbox (badness 6016) in paragraph at lines 89--89
-\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Smartphones have become
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Smartphones have become
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 They found a way to
+[]\TU/LatinModernSans(0)/b/n/14.4 circumvent[] \TU/TimesNewRoman(0)/m/it/12 /'s3:k@mvent/ (v) \TU/LatinModernRoman(0)/m/n/12 — To
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 They found a way to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+[]\TU/LatinModernSans(0)/b/n/14.4 ostensibly[] \TU/TimesNewRoman(0)/m/it/12 /O'stens@bli/ (adv) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
 Underfull \hbox (badness 5696) in paragraph at lines 107--107
-\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The government tried to
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The government tried to
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The new policy only
+[]\TU/LatinModernSans(0)/b/n/14.4 exacerbate[] \TU/TimesNewRoman(0)/m/it/12 /Ig'zaes@beIt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 113--113
+\TU/LatinModernRoman(0)/m/n/12 make (a problem, bad situation, or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The new policy only
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+[]\TU/LatinModernSans(0)/b/n/14.4 proliferate[] \TU/TimesNewRoman(0)/m/it/12 /pr@'lIf@reIt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To
+ []
+
+
+Overfull \hbox (3.044pt too wide) in paragraph at lines 125--125
+[]\TU/LatinModernSans(0)/b/n/14.4 ephemeral[] \TU/TimesNewRoman(0)/m/it/12 /I'fem@r@l/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Lasting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
+[]\TU/LatinModernSans(0)/b/n/14.4 inherent[] \TU/TimesNewRoman(0)/m/it/12 /In'hIr@nt/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Existing
  []
 
 )
@@ -675,12 +772,12 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 18875 strings out of 473832
- 439838 string characters out of 5729481
- 864320 words of memory out of 5000000
- 41646 multiletter control sequences out of 15000+600000
- 559085 words of font info for 67 fonts, out of 8000000 for 9000
+ 18930 strings out of 473832
+ 441559 string characters out of 5729481
+ 864456 words of memory out of 5000000
+ 41678 multiletter control sequences out of 15000+600000
+ 559189 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 131i,15n,135p,501b,970s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,15n,135p,501b,968s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (2 pages).
