@@ -1,29 +1,42 @@
 % ============================================
-% IELTS VOCABULARY TEMPLATE - STYLE DEFINITIONS
+% FORUMVOCAB DOCUMENT CLASS
 % ============================================
-% This file contains all styling, colors, and formatting
-% for the vocabulary template. Do not modify unless you
-% want to change the design.
+% A custom LaTeX class for IELTS Vocabulary documents
+% Created by: The Forum Center
+% Version: 1.0
 % ============================================
-\usepackage[utf8]{inputenc}
-\usepackage[T5]{fontenc}
-\usepackage[english,vietnamese]{babel}
-\usepackage[a4paper, left=2cm, right=2cm, top=0cm, bottom=0cm, includehead, includefoot, headheight=50pt, footskip=1.5cm]{geometry}
-\usepackage{fancyhdr}
-\usepackage{multicol}
-\usepackage{xcolor}
-\usepackage{tcolorbox}
-\usepackage{graphicx}
-\usepackage{tikz}
-\usepackage{eso-pic}
-\usepackage{palatino} % Similar to the PDF's serif font
-\usepackage{helvet}   % Sans-serif font for headers
-\usepackage{newunicodechar} % Support for unicode characters
-\usepackage{fontspec} % For custom fonts
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesClass{forumvocab}[2026/01/19 v1.0 IELTS Vocabulary Document Class]
+
+% ============================================
+% 1. BASE CLASS
+% ============================================
+\LoadClass[12pt,a4paper]{article}
+
+% ============================================
+% 2. REQUIRED PACKAGES
+% ============================================
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[T5]{fontenc}
+\RequirePackage[english,vietnamese]{babel}
+\RequirePackage[a4paper, left=2cm, right=2cm, top=0cm, bottom=0cm, includehead, includefoot, headheight=50pt, footskip=1.5cm]{geometry}
+\RequirePackage{fancyhdr}
+\RequirePackage{multicol}
+\RequirePackage{xcolor}
+\RequirePackage{tcolorbox}
+\RequirePackage{graphicx}
+\RequirePackage{tikz}
+\RequirePackage{eso-pic}
+\RequirePackage{palatino}   % Similar to the PDF's serif font
+\RequirePackage{helvet}     % Sans-serif font for headers
+\RequirePackage{newunicodechar}
+\RequirePackage{fontspec}
 \usetikzlibrary{calc}
 
-
-% Define custom Impact-like font
+% ============================================
+% 3. CUSTOM FONT DEFINITIONS
+% ============================================
 \newfontfamily\impactfont{UTM-Impact.ttf}[
   Path = ./,
   Extension = .ttf,
@@ -31,17 +44,15 @@
 ]
 
 % ============================================
-% COLOR DEFINITIONS
+% 4. COLOR DEFINITIONS
 % ============================================
 \definecolor{forumred}{HTML}{E52B20}      % Main red color
 \definecolor{textblack}{HTML}{000000}      % Main text color
 \definecolor{watermarkgray}{HTML}{FFE5E5}  % Watermark color (lighter red)
 
 % ============================================
-% IPA UNICODE CHARACTER SUPPORT
+% 5. IPA UNICODE CHARACTER SUPPORT
 % ============================================
-% Define common IPA characters for phonetic transcription
-% Using simple text substitutes that don't require special packages
 \newunicodechar{ɑ}{a}
 \newunicodechar{ː}{:}
 \newunicodechar{ˈ}{'}
@@ -66,118 +77,109 @@
 \newunicodechar{ɒ}{o}
 
 % ============================================
-% PAGE LAYOUT
+% 6. PAGE LAYOUT
 % ============================================
 \setlength{\parindent}{0pt}
 \setlength{\columnsep}{1.5cm}
 \setlength{\headheight}{40pt}
 
 % ============================================
-% WATERMARK
+% 7. WATERMARK (WITH GUARD)
 % ============================================
-% Logo watermark centered on each page using TikZ for opacity
-\AddToShipoutPictureBG{%
-  \begin{tikzpicture}[remember picture, overlay]
-    \node[opacity=0.15] at (current page.center) {%
-      \includegraphics[width=15cm]{../wm/logoTF.png}%
-    };
-  \end{tikzpicture}%
-}
+% Guard to ensure watermark is only registered once
+\ifdefined\forumvocab@watermark@registered\else
+  \newcommand{\forumvocab@watermark@registered}{}
+  \AddToShipoutPictureBG{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \node[opacity=0.15] at (current page.center) {%
+        \includegraphics[width=15cm]{../wm/logoTF.png}%
+      };
+    \end{tikzpicture}%
+  }
+\fi
 
 % ============================================
-% HEADER & FOOTER SETUP
+% 8. HEADER & FOOTER STYLES
 % ============================================
 \pagestyle{fancy}
 \fancyhf{} % Clear all headers and footers
 
-% Footer - Red page number positioned 1.3x line width above bottom line
-% Line width = 3pt, so distance = 1.3 * 3pt = 3.9pt ≈ 4pt
+% Footer - Red page number
 \fancyfoot[C]{%
   \raisebox{0.15cm}{\textcolor{forumred}{\Large\bfseries\thepage}}%
 }
 
-% Redefine plain style for first page
+% ----- First Page Style -----
 \fancypagestyle{firstpage}{%
   \fancyhf{}
   \renewcommand{\headrulewidth}{0pt}
-  % Add top border line
+  % Top border line
   \fancyhead[C]{%
     \begin{tikzpicture}[remember picture, overlay]
-        \draw[forumred, line width=5pt] 
-            (current page.north west) -- 
-            (current page.north east);
-        \end{tikzpicture}%
-    }
-    % Add bottom border line and page number
-    \fancyfoot[C]{%
-        \begin{tikzpicture}[remember picture, overlay]
-        \draw[forumred, line width=5pt] 
-            (current page.south west) -- 
-            (current page.south east);
-        % Page number: 1.3 times line width above bottom line
-        % Line width = 5pt, spacing = 1.3 × 5pt = 6.5pt
-        % Total yshift = 2.5pt (half line) + 6.5pt (spacing) = 9pt
-        \node[text=forumred, font=\Large\bfseries] 
-            at ([yshift=20pt]current page.south) 
-            {\thepage};
+      \draw[forumred, line width=5pt] 
+        (current page.north west) -- 
+        (current page.north east);
     \end{tikzpicture}%
   }
-}
-
-% Default header for pages 2+
-\fancypagestyle{otherpages}{%
-  \fancyhf{}
-  \renewcommand{\headrulewidth}{0pt}
-  \fancyhead[C]{%
-    \begin{tikzpicture}[remember picture, overlay]
-
-        % Thick top line
-        \draw[forumred, line width=8pt] 
-            (current page.north west) -- 
-            (current page.north east);
-
-        % Badge size
-        \def\w{5.4cm}
-        \def\h{0.7cm}
-        \def\r{9pt}
-
-        % Badge position (half line width)
-        \coordinate (badgeTopCenter) 
-            at ([yshift=-4pt]current page.north);
-
-        \coordinate (A) at ($(badgeTopCenter)+(-\w/2,0)$);
-
-        % Badge shape
-        \path[fill=forumred]
-            (A)
-            -- ++(\w,0)
-            -- ++(0,-\h+\r)
-            arc[start angle=0,end angle=-90,radius=\r]
-            -- ++(-\w+2*\r,0)
-            arc[start angle=-90,end angle=-180,radius=\r]
-            -- ++(0,\h-\r)
-            -- cycle;
-
-        % Text
-        \node[
-            text=white,
-            font=\sffamily\bfseries\fontsize{10}{12}\selectfont
-        ]
-        at ($(badgeTopCenter)+(0,-\h/2)$)
-        {Self-study IELTS Material};
-
-    \end{tikzpicture}
-
-  }
-  % Add bottom border line and page number
+  % Bottom border line and page number
   \fancyfoot[C]{%
     \begin{tikzpicture}[remember picture, overlay]
       \draw[forumred, line width=5pt] 
         (current page.south west) -- 
         (current page.south east);
-      % Page number: 1.3 times line width above bottom line
-      % Line width = 5pt, spacing = 1.3 × 5pt = 6.5pt
-      % Total yshift = 2.5pt (half line) + 6.5pt (spacing) = 9pt
+      \node[text=forumred, font=\Large\bfseries] 
+        at ([yshift=20pt]current page.south) 
+        {\thepage};
+    \end{tikzpicture}%
+  }
+}
+
+% ----- Other Pages Style -----
+\fancypagestyle{otherpages}{%
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0pt}
+  \fancyhead[C]{%
+    \begin{tikzpicture}[remember picture, overlay]
+      % Thick top line
+      \draw[forumred, line width=8pt] 
+        (current page.north west) -- 
+        (current page.north east);
+
+      % Badge dimensions
+      \def\w{5.4cm}
+      \def\h{0.7cm}
+      \def\r{9pt}
+
+      % Badge position
+      \coordinate (badgeTopCenter) at ([yshift=-4pt]current page.north);
+      \coordinate (A) at ($(badgeTopCenter)+(-\w/2,0)$);
+
+      % Badge shape
+      \path[fill=forumred]
+        (A)
+        -- ++(\w,0)
+        -- ++(0,-\h+\r)
+        arc[start angle=0,end angle=-90,radius=\r]
+        -- ++(-\w+2*\r,0)
+        arc[start angle=-90,end angle=-180,radius=\r]
+        -- ++(0,\h-\r)
+        -- cycle;
+
+      % Badge text
+      \node[
+        text=white,
+        font=\sffamily\bfseries\fontsize{10}{12}\selectfont
+      ]
+      at ($(badgeTopCenter)+(0,-\h/2)$)
+      {Self-study IELTS Material};
+    \end{tikzpicture}
+  }
+  % Bottom border line and page number
+  \fancyfoot[C]{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \draw[forumred, line width=5pt] 
+        (current page.south west) -- 
+        (current page.south east);
       \node[text=forumred, font=\Large\bfseries] 
         at ([yshift=20pt]current page.south) 
         {\thepage};
@@ -186,7 +188,7 @@
 }
 
 % ============================================
-% FIRST PAGE HEADER COMMAND
+% 9. FIRST PAGE HEADER COMMAND
 % ============================================
 % Usage: \makefirstpageheader{Author}{Document Title}{Topic Title}
 \newcommand{\makefirstpageheader}[3]{%
@@ -203,18 +205,16 @@
     rectangle
     ([yshift=-\HeaderHeight]current page.north east);
 
-  % ===== MAIN TITLE (LOCKED TO BOTTOM) =====
-    \node[
+  % ===== MAIN TITLE =====
+  \node[
     text=white,
     font=\impactfont\fontsize{72}{80}\selectfont,
     anchor=south,
     inner sep=0pt,
     outer sep=0pt
-    ]
-    at ([yshift=-\HeaderHeight-1.2pt]current page.north)
-    {IELTS VOCABULARY};
-
-
+  ]
+  at ([yshift=-\HeaderHeight-1.2pt]current page.north)
+  {IELTS VOCABULARY};
 
   % ===== WHITE SEPARATOR =====
   \fill[white]
@@ -235,7 +235,7 @@
     anchor=west
   ]
   at ([xshift=2cm,
-        yshift=-\HeaderHeight-\WhiteGap-\SubHeight/2]
+       yshift=-\HeaderHeight-\WhiteGap-\SubHeight/2]
       current page.north west)
   {#1};
 
@@ -246,13 +246,13 @@
     anchor=east
   ]
   at ([xshift=-2cm,
-        yshift=-\HeaderHeight-\WhiteGap-\SubHeight/2]
+       yshift=-\HeaderHeight-\WhiteGap-\SubHeight/2]
       current page.north east)
   {#2};
 
 \end{tikzpicture}
 
-% ===== PUSH CONTENT DOWN EXACTLY =====
+% ===== PUSH CONTENT DOWN =====
 \vspace{3.6cm}
 
 \noindent
@@ -261,10 +261,10 @@
 \vspace{12pt}
 }
 
-
 % ============================================
-% VOCABULARY ENTRY FORMATTING
+% 10. VOCABULARY ENTRY COMMANDS
 % ============================================
+% Full version with example
 % Usage: \vocabentry{word}{pronunciation}{definition}{example}{translation}
 \newcommand{\vocabentry}[5]{%
   \noindent
@@ -277,7 +277,7 @@
   \vspace{8pt}
 }
 
-% Short version without example (optional)
+% Short version without example
 % Usage: \vocabshort{word}{pronunciation}{definition}
 \newcommand{\vocabshort}[3]{%
   \noindent
@@ -289,12 +289,13 @@
 }
 
 % ============================================
-% SECTION COMMANDS (Optional)
+% 11. SECTION COMMANDS
 % ============================================
-% Use this if you want to add section headers within the vocabulary
 \newcommand{\vocabsection}[1]{%
   \vspace{10pt}
   \noindent
   {\sffamily\bfseries\large\color{forumred} #1}
   \vspace{6pt}
 }
+
+\endinput
