@@ -2,8 +2,8 @@ This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded forma
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**environmentVocab.tex
-(./environmentVocab.tex
+**citylifeAndUrbanizationVocab.tex
+(./citylifeAndUrbanizationVocab.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (./forumvocab.cls
@@ -677,8 +677,8 @@ Package fontspec Info:
 (fontspec)             <->s*[0.9818519945425632]"Times New
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;"
 
-) (./environmentVocab.aux)
-\openout1 = `environmentVocab.aux'.
+) (./citylifeAndUrbanizationVocab.aux)
+\openout1 = `citylifeAndUrbanizationVocab.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
@@ -805,71 +805,67 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 (Font)              scaled to size 12.02289pt on input line 9.
 
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
-[]\TU/LatinModernSans(0)/b/n/14.4 Sustainability[] \TU/TimesNewRoman(0)/m/it/12
- /səˌsteɪnəˈbɪləti/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Urbanization[] \TU/TimesNewRoman(0)/m/it/12 /
+ˌɜːrbənəˈzeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Rapi
+d urbanization in
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--15
-[]\TU/LatinModernSans(0)/b/n/14.4 Biodiversity[] \TU/TimesNewRoman(0)/m/it/12 /
-ˌbaɪoʊdaɪˈvɜːrsəti/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Infrastructure[] \TU/TimesNewRoman(0)/m/it/12
+ /ˈɪnfrəstrʌktʃər/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 21--21
-[]\TU/LatinModernSans(0)/b/n/14.4 Conservation[] \TU/TimesNewRoman(0)/m/it/12 /
-ˌkɑːnsərˈveɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Metropolis[] \TU/TimesNewRoman(0)/m/it/12 /mə
+ˈtrɑːpəlɪs/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 7415) in paragraph at lines 27--27
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
-environmental report
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-[]\TU/LatinModernSans(0)/b/n/14.4 Ecosystem[] \TU/TimesNewRoman(0)/m/it/12 /ˈiː
-koʊsɪstəm/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]\TU/LatinModernSans(0)/b/n/14.4 Congestion[] \TU/TimesNewRoman(0)/m/it/12 /kə
+nˈdʒestʃən/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 33--33
-\TU/LatinModernRoman(0)/m/n/12 biological community of interacting
+[]\TU/LatinModernSans(0)/b/n/14.4 Cosmopolitan[] \TU/TimesNewRoman(0)/m/it/12 /
+ˌkɑːzməˈpɑːlɪtən/ (adj)
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 39--39
-[]\TU/LatinModernSans(0)/b/n/14.4 Deforestation[] \TU/TimesNewRoman(0)/m/it/12 
-/ˌdiːˌfɔːrɪˈsteɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Commute[] \TU/TimesNewRoman(0)/m/it/12 /kəˈmj
+uːt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To travel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
-[]\TU/LatinModernSans(0)/b/n/14.4 Renewable[] \TU/TimesNewRoman(0)/m/it/12 /rɪˈ
-nuːəbl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — (Of a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Envi
-ronmental degradation
+Overfull \hbox (20.83165pt too wide) in paragraph at lines 45--45
+[]\TU/LatinModernSans(0)/b/n/14.4 Affordable[] \TU/TimesNewRoman(0)/m/it/12 /əˈ
+fɔːrdəbl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Inexpensive;
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 57--57
-\TU/LatinModernRoman(0)/m/it/12 is often a direct result of rapid
+[]\TU/LatinModernSans(0)/b/n/14.4 Slum[] \TU/TimesNewRoman(0)/m/it/12 /slʌm/ (n
+) \TU/LatinModernRoman(0)/m/n/12 — A squalid and
  []
 
 
-Overfull \hbox (10.50546pt too wide) in paragraph at lines 63--63
-[]\TU/LatinModernSans(0)/b/n/14.4 Emissions[] \TU/TimesNewRoman(0)/m/it/12 /iˈm
-ɪʃnz/ (n) \TU/LatinModernRoman(0)/m/n/12 — The production
+Underfull \hbox (badness 6110) in paragraph at lines 57--57
+\TU/LatinModernRoman(0)/m/n/12 overcrowded urban street or district
  []
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 63--63
-\TU/LatinModernRoman(0)/m/it/12 reduce carbon emissions from heavy
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]\TU/LatinModernSans(0)/b/n/14.4 Suburb[] \TU/TimesNewRoman(0)/m/it/12 /ˈsʌbɜː
+rb/ (n) \TU/LatinModernRoman(0)/m/n/12 — An outlying
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
@@ -877,896 +873,799 @@ File: ../wm/logoTF.png Graphic file (type bmp)
 [1
 
 ]
-Overfull \hbox (2.24693pt too wide) in paragraph at lines 75--75
-[]\TU/LatinModernSans(0)/b/n/14.4 Pollutant[] \TU/TimesNewRoman(0)/m/it/12 /pəˈ
-luːtənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A substance
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\TU/LatinModernSans(0)/b/n/14.4 Gentrification[] \TU/TimesNewRoman(0)/m/it/12
+ /ˌdʒentrɪfɪˈkeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]\TU/LatinModernSans(0)/b/n/14.4 Mitigation[] \TU/TimesNewRoman(0)/m/it/12 /ˌm
-ɪtɪˈɡeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+Underfull \hbox (badness 6625) in paragraph at lines 81--81
+\TU/LatinModernRoman(0)/m/it/12 destruction of agricultural land and
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 87--87
-[]\TU/LatinModernSans(0)/b/n/14.4 Desertification[] \TU/TimesNewRoman(0)/m/it/1
-2 /dɪˌzɜːrtɪfɪˈkeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]\TU/LatinModernSans(0)/b/n/14.4 Inhabitant[] \TU/TimesNewRoman(0)/m/it/12 /ɪn
+ˈhæbɪtənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 93--93
-[]\TU/LatinModernSans(0)/b/n/14.4 Biofuel[] \TU/TimesNewRoman(0)/m/it/12 /ˈbaɪo
-ʊfjuːəl/ (n) \TU/LatinModernRoman(0)/m/n/12 — A fuel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
-[]\TU/LatinModernSans(0)/b/n/14.4 Geothermal[] \TU/TimesNewRoman(0)/m/it/12 /ˌd
-ʒiːoʊˈθɜːrml/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Geot
-hermal energy is a
+[]\TU/LatinModernSans(0)/b/n/14.4 Hectic[] \TU/TimesNewRoman(0)/m/it/12 /ˈhektɪ
+k/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Full of
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 105--105
-[]\TU/LatinModernSans(0)/b/n/14.4 Disposable[] \TU/TimesNewRoman(0)/m/it/12 /dɪ
-ˈspoʊzəbl/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Skyscraper[] \TU/TimesNewRoman(0)/m/it/12 /ˈs
+kaɪskreɪpər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--111
-[]\TU/LatinModernSans(0)/b/n/14.4 Precipitation[] \TU/TimesNewRoman(0)/m/it/12 
-/prɪˌsɪpɪˈteɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+Overfull \hbox (11.1184pt too wide) in paragraph at lines 117--117
+[]\TU/LatinModernSans(0)/b/n/14.4 Residential[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+rezɪˈdenʃl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Designed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--111
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 High
-er temperatures are
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[]\TU/LatinModernSans(0)/b/n/14.4 Catastrophic[] \TU/TimesNewRoman(0)/m/it/12 /
-ˌkætəˈstrɑːfɪk/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--135
-[]\TU/LatinModernSans(0)/b/n/14.4 Agroecology[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
-æɡroʊiˈkɑːlə dʒi/ (n)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--135
-\TU/LatinModernRoman(0)/m/n/12 — Ecological processes applied to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--135
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Farm
-ers are turning to
- []
-
-
-Underfull \hbox (badness 7433) in paragraph at lines 141--141
-[]\TU/LatinModernSans(0)/b/n/14.4 Aquifer[] \TU/TimesNewRoman(0)/m/it/12 /ˈækwɪ
-fər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A body of
- []
-
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
-[]\TU/LatinModernSans(0)/b/n/14.4 Atmosphere[] \TU/TimesNewRoman(0)/m/it/12 /ˈæ
-tməsfɪr/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Indu
-strial gases are
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--159
-[]\TU/LatinModernSans(0)/b/n/14.4 Biosphere[] \TU/TimesNewRoman(0)/m/it/12 /ˈba
-ɪoʊsfɪr/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--165
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Flyi
-ng long distances
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--165
-\TU/LatinModernRoman(0)/m/it/12 significantly increases your carbon
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--171
-[]\TU/LatinModernSans(0)/b/n/14.4 Carbon sequestration[] \TU/TimesNewRoman(0)/m
-/it/12 /ˌkɑːrbən
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--171
-\TU/TimesNewRoman(0)/m/it/12 ˌsiːkwəˈstreɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/1
-2 — The natural or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 195--195
-[]\TU/LatinModernSans(0)/b/n/14.4 Drought[] \TU/TimesNewRoman(0)/m/it/12 /draʊt
-/ (n) \TU/LatinModernRoman(0)/m/n/12 — A prolonged
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
-[]\TU/LatinModernSans(0)/b/n/14.4 Eco-friendly[] \TU/TimesNewRoman(0)/m/it/12 /
-ˌiːkoʊ ˈfrendli/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 7777) in paragraph at lines 201--201
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Eco-
-friendly vehicles help
- []
-
-
-Overfull \hbox (9.59482pt too wide) in paragraph at lines 213--213
-[]\TU/LatinModernSans(0)/b/n/14.4 Environmentalism[] \TU/TimesNewRoman(0)/m/it/
-12 /ɪnˌvaɪrənˈmentəlɪzəm/
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Grow
-ing awareness of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
-\TU/LatinModernRoman(0)/m/it/12 pollution has boosted international
- []
-
-
-Underfull \hbox (badness 7685) in paragraph at lines 219--219
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Many
- island species are
- []
-
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[3]
-Overfull \hbox (9.3719pt too wide) in paragraph at lines 225--225
-[]\TU/LatinModernSans(0)/b/n/14.4 Fertilizer[] \TU/TimesNewRoman(0)/m/it/12 /ˈf
-ɜːrtəlaɪzər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A substance
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Haza
-rdous waste requires
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
-[]\TU/LatinModernSans(0)/b/n/14.4 Hydroponics[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
-haɪdrəˈpɑːnɪks/ (n) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 261--261
-[]\TU/LatinModernSans(0)/b/n/14.4 Hydropower[] \TU/TimesNewRoman(0)/m/it/12 /ˈh
-aɪdroʊpaʊər/ (n) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 267--267
-[]\TU/LatinModernSans(0)/b/n/14.4 Incineration[] \TU/TimesNewRoman(0)/m/it/12 /
-ɪnˌsɪnəˈreɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 273--273
-[]\TU/LatinModernSans(0)/b/n/14.4 Landfill[] \TU/TimesNewRoman(0)/m/it/12 /ˈlæn
-dfɪl/ (n) \TU/LatinModernRoman(0)/m/n/12 — A place to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 291--291
-[]\TU/LatinModernSans(0)/b/n/14.4 Non-renewable[] \TU/TimesNewRoman(0)/m/it/12 
-/ˌnɑːn rɪˈnuːəbl/ (adj)
- []
-
-
-Overfull \hbox (1.16403pt too wide) in paragraph at lines 303--303
-[]\TU/LatinModernSans(0)/b/n/14.4 Pesticide[] \TU/TimesNewRoman(0)/m/it/12 /ˈpe
-stɪsaɪd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A substance
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--303
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Pest
-icide runoff can
- []
-
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 315--315
-[]\TU/LatinModernSans(0)/b/n/14.4 Pristine[] \TU/TimesNewRoman(0)/m/it/12 /ˈprɪ
-stiːn/ (adj) \TU/LatinModernRoman(0)/m/n/12 — In its
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 321--321
-[]\TU/LatinModernSans(0)/b/n/14.4 Recycle[] \TU/TimesNewRoman(0)/m/it/12 /ˌriːˈ
-saɪkl/ (v) \TU/LatinModernRoman(0)/m/n/12 — To convert
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--327
-[]\TU/LatinModernSans(0)/b/n/14.4 Reforestation[] \TU/TimesNewRoman(0)/m/it/12 
-/ˌriːˌfɔːrɪˈsteɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Overfull \hbox (8.45438pt too wide) in paragraph at lines 333--333
+Overfull \hbox (8.45438pt too wide) in paragraph at lines 123--123
 []\TU/LatinModernSans(0)/b/n/14.4 Sanitation[] \TU/TimesNewRoman(0)/m/it/12 /ˌs
 ænɪˈteɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — Conditions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--339
-[]\TU/LatinModernSans(0)/b/n/14.4 Sewage[] \TU/TimesNewRoman(0)/m/it/12 /ˈsuːɪd
-ʒ/ (n) \TU/LatinModernRoman(0)/m/n/12 — Waste water
+Overfull \hbox (18.67177pt too wide) in paragraph at lines 129--129
+[]\TU/LatinModernSans(0)/b/n/14.4 Commercial[] \TU/TimesNewRoman(0)/m/it/12 /kə
+ˈmɜːrʃl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Concerned
  []
 
 
-Underfull \hbox (badness 5817) in paragraph at lines 351--351
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Sola
-r energy is a clean
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+downtown area is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 357--357
-[]\TU/LatinModernSans(0)/b/n/14.4 Tidal power[] \TU/TimesNewRoman(0)/m/it/12 /ˈ
-taɪdl paʊər/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]\TU/LatinModernSans(0)/b/n/14.4 Overcrowding[] \TU/TimesNewRoman(0)/m/it/12 /
+ˌoʊvərˈkraʊdɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]\TU/LatinModernSans(0)/b/n/14.4 Redevelopment[] \TU/TimesNewRoman(0)/m/it/12 
+/ˌriːdɪˈveləpmənt/ (n)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--363
-[]\TU/LatinModernSans(0)/b/n/14.4 Toxic[] \TU/TimesNewRoman(0)/m/it/12 /ˈtɑːksɪ
-k/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Poisonous or
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]\TU/LatinModernSans(0)/b/n/14.4 Exodus[] \TU/TimesNewRoman(0)/m/it/12 /ˈeksəd
+əs/ (n) \TU/LatinModernRoman(0)/m/n/12 — A mass
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--369
-[]\TU/LatinModernSans(0)/b/n/14.4 Urbanization[] \TU/TimesNewRoman(0)/m/it/12 /
-ˌɜːrbənəˈzeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 7047) in paragraph at lines 153--153
+[]\TU/LatinModernSans(0)/b/n/14.4 Slumdog[] \TU/TimesNewRoman(0)/m/it/12 /ˈslʌm
+dɔːɡ/ (n) \TU/LatinModernRoman(0)/m/n/12 — A person
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--369
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Rapi
-d urbanization often
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
+[]\TU/LatinModernSans(0)/b/n/14.4 Underground[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+ʌndərˈɡraʊnd/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Overfull \hbox (15.79886pt too wide) in paragraph at lines 375--375
-[]\TU/LatinModernSans(0)/b/n/14.4 Waste management[] \TU/TimesNewRoman(0)/m/it/
-12 /ˈweɪst ˌmænɪdʒmənt/
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+[]\TU/LatinModernSans(0)/b/n/14.4 Bustling[] \TU/TimesNewRoman(0)/m/it/12 /ˈbʌs
+lɪŋ/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Full of
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 195--195
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+bustling markets of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+[]\TU/LatinModernSans(0)/b/n/14.4 Pedestrianization[] \TU/TimesNewRoman(0)/m/it
+/12 /pəˌdestriənaɪˈzeɪʃn/
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 207--207
+\TU/LatinModernRoman(0)/m/n/12 associated with social and economic
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+[]\TU/LatinModernSans(0)/b/n/14.4 Downtown[] \TU/TimesNewRoman(0)/m/it/12 /ˌdaʊ
+nˈtaʊn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+\TU/LatinModernRoman(0)/m/n/12 central part or main business and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Dece
+ntralization can help
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Prop
+er zoning laws are
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+[]\TU/LatinModernSans(0)/b/n/14.4 Congestion charge[] \TU/TimesNewRoman(0)/m/it
+/12 /kənˈdʒestʃən
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+[]\TU/LatinModernSans(0)/b/n/14.4 Mixed-use[] \TU/TimesNewRoman(0)/m/it/12 /ˌmɪ
+kst ˈjuːs/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Mixe
+d-use developments
+ []
+
+
+Overfull \hbox (4.62885pt too wide) in paragraph at lines 309--309
+[]\TU/LatinModernSans(0)/b/n/14.4 Nightlife[] \TU/TimesNewRoman(0)/m/it/12 /ˈna
+ɪtlaɪf/ (n) \TU/LatinModernRoman(0)/m/n/12 — Entertainment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--315
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Stre
+et vendors provide
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Main
+taining sanitary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--327
+[]\TU/LatinModernSans(0)/b/n/14.4 Pedestrian[] \TU/TimesNewRoman(0)/m/it/12 /pə
+ˈdestriən/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 411--411
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Cap-
-and-trade encourages
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
+[]\TU/LatinModernSans(0)/b/n/14.4 Sense of community[] \TU/TimesNewRoman(0)/m/i
+t/12 /sens əv
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--417
-[]\TU/LatinModernSans(0)/b/n/14.4 Combustion[] \TU/TimesNewRoman(0)/m/it/12 /kə
-mˈbʌstʃən/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+Underfull \hbox (badness 10000) in paragraph at lines 369--369
+[]\TU/LatinModernSans(0)/b/n/14.4 Standard of living[] \TU/TimesNewRoman(0)/m/i
+t/12 /ˌstændərd əv
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 417--417
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
-combustion of wood
+Overfull \hbox (5.85pt too wide) in paragraph at lines 381--381
+[]\TU/LatinModernSans(0)/b/n/14.4 Employment opportunity[] \TU/TimesNewRoman(0)
+/m/it/12 /ɪmˈplɔɪmənt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 441--441
-[]\TU/LatinModernSans(0)/b/n/14.4 Ecological[] \TU/TimesNewRoman(0)/m/it/12 /ˌi
-ːkəˈlɑːdʒɪkl/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 453--453
-[]\TU/LatinModernSans(0)/b/n/14.4 Geosphere[] \TU/TimesNewRoman(0)/m/it/12 /ˈdʒ
-iːəsfɪr/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
- []
-
-
-Overfull \hbox (2.50687pt too wide) in paragraph at lines 459--459
-[]\TU/LatinModernSans(0)/b/n/14.4 Heatwave[] \TU/TimesNewRoman(0)/m/it/12 /ˈhiː
-tweɪv/ (n) \TU/LatinModernRoman(0)/m/n/12 — A prolonged
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 465--465
-[]\TU/LatinModernSans(0)/b/n/14.4 Inorganic[] \TU/TimesNewRoman(0)/m/it/12 /ˌɪn
-ɔːrˈɡænɪk/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Not
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
-[]\TU/LatinModernSans(0)/b/n/14.4 Irreplaceable[] \TU/TimesNewRoman(0)/m/it/12 
-/ˌɪrɪˈpleɪsəbl/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Peop
+le move to cities
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Anci
-ent forests are
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+new flyover has
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
-[]\TU/LatinModernSans(0)/b/n/14.4 Low-carbon[] \TU/TimesNewRoman(0)/m/it/12 /ˌl
-oʊ ˈkɑːrbən/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 7451) in paragraph at lines 453--453
+\TU/LatinModernRoman(0)/m/it/12 significantly reduced the travel time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
-[]\TU/LatinModernSans(0)/b/n/14.4 Meteorology[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
-miːtiəˈrɑːlədʒi/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+[]\TU/LatinModernSans(0)/b/n/14.4 Landmark[] \TU/TimesNewRoman(0)/m/it/12 /ˈlæn
+dmɑːrk/ (n) \TU/LatinModernRoman(0)/m/n/12 — An
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--507
-[]\TU/LatinModernSans(0)/b/n/14.4 Noxious[] \TU/TimesNewRoman(0)/m/it/12 /ˈnɑːk
-ʃəs/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Harmful,
+Underfull \hbox (badness 7759) in paragraph at lines 471--471
+[]\TU/LatinModernSans(0)/b/n/14.4 District[] \TU/TimesNewRoman(0)/m/it/12 /ˈdɪs
+trɪkt/ (n) \TU/LatinModernRoman(0)/m/n/12 — An area of
  []
 
 
-Overfull \hbox (11.60344pt too wide) in paragraph at lines 513--513
-[]\TU/LatinModernSans(0)/b/n/14.4 Offsetting[] \TU/TimesNewRoman(0)/m/it/12 /ˈɔ
-ːfsetɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — Counteracting
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
+\TU/LatinModernRoman(0)/m/n/12 a country or city, especially one
  []
 
 
-Underfull \hbox (badness 6236) in paragraph at lines 513--513
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Carb
-on offsetting involves
+Underfull \hbox (badness 8113) in paragraph at lines 471--471
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+financial district is
  []
 
 
-Overfull \hbox (12.19046pt too wide) in paragraph at lines 519--519
-[]\TU/LatinModernSans(0)/b/n/14.4 Overfishing[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
-oʊvərˈfɪʃɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — Depleting
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[]\TU/LatinModernSans(0)/b/n/14.4 Alleyway[] \TU/TimesNewRoman(0)/m/it/12 /ˈæli
+weɪ/ (n) \TU/LatinModernRoman(0)/m/n/12 — A narrow
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 531--531
-[]\TU/LatinModernSans(0)/b/n/14.4 Permafrost[] \TU/TimesNewRoman(0)/m/it/12 /ˈp
-ɜːrməfrɔːst/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+old town is full
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 537--537
-[]\TU/LatinModernSans(0)/b/n/14.4 Plastics[] \TU/TimesNewRoman(0)/m/it/12 /ˈplæ
-stɪks/ (n) \TU/LatinModernRoman(0)/m/n/12 — Synthetic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 543--543
-[]\TU/LatinModernSans(0)/b/n/14.4 Poaching[] \TU/TimesNewRoman(0)/m/it/12 /ˈpoʊ
-tʃɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — Illegal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
-[]\TU/LatinModernSans(0)/b/n/14.4 Precautionary[] \TU/TimesNewRoman(0)/m/it/12 
-/prɪˈkɔːʃəneri/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
-[]\TU/LatinModernSans(0)/b/n/14.4 Purify[] \TU/TimesNewRoman(0)/m/it/12 /ˈpjʊrɪ
-faɪ/ (v) \TU/LatinModernRoman(0)/m/n/12 — To remove
+Underfull \hbox (badness 6445) in paragraph at lines 483--483
+\TU/LatinModernRoman(0)/m/it/12 of mysterious alleyways and hidden
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 567--567
-[]\TU/LatinModernSans(0)/b/n/14.4 Radiation[] \TU/TimesNewRoman(0)/m/it/12 /ˌre
-ɪdiˈeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+Underfull \hbox (badness 10000) in paragraph at lines 507--507
+[]\TU/LatinModernSans(0)/b/n/14.4 Segregation[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+seɡrɪˈɡeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 8056) in paragraph at lines 573--573
-[]\TU/LatinModernSans(0)/b/n/14.4 Raw material[] \TU/TimesNewRoman(0)/m/it/12 /
-ˌrɔː məˈtɪriəl/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]\TU/LatinModernSans(0)/b/n/14.4 Integration[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+ɪntɪˈɡreɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Overfull \hbox (2.85794pt too wide) in paragraph at lines 579--579
-[]\TU/LatinModernSans(0)/b/n/14.4 Refurbish[] \TU/TimesNewRoman(0)/m/it/12 /ˌri
-ːˈfɜːrbɪʃ/ (v) \TU/LatinModernRoman(0)/m/n/12 — To renovate
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+integration of new
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 591--591
-[]\TU/LatinModernSans(0)/b/n/14.4 Resilient[] \TU/TimesNewRoman(0)/m/it/12 /rɪˈ
-zɪliənt/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Able to
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+[]\TU/LatinModernSans(0)/b/n/14.4 Inclusivity[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+ɪnkluːˈsɪvəti/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 591--591
-\TU/LatinModernRoman(0)/m/n/12 withstand or recover quickly from
+Underfull \hbox (badness 10000) in paragraph at lines 525--525
+[]\TU/LatinModernSans(0)/b/n/14.4 Sustainability[] \TU/TimesNewRoman(0)/m/it/12
+ /səˌsteɪnəˈbɪləti/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 8170) in paragraph at lines 621--621
-[]\TU/LatinModernSans(0)/b/n/14.4 Species[] \TU/TimesNewRoman(0)/m/it/12 /ˈspiː
-ʃiːz/ (n) \TU/LatinModernRoman(0)/m/n/12 — A group of
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+[]\TU/LatinModernSans(0)/b/n/14.4 Walkability[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+wɔːkəˈbɪləti/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 5832) in paragraph at lines 627--627
-[]\TU/LatinModernSans(0)/b/n/14.4 Sustainable[] \TU/TimesNewRoman(0)/m/it/12 /s
-əˈsteɪnəbl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Able
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Mixe
+d-income housing
  []
 
 
-Overfull \hbox (0.72755pt too wide) in paragraph at lines 633--633
-[]\TU/LatinModernSans(0)/b/n/14.4 Terrestrial[] \TU/TimesNewRoman(0)/m/it/12 /t
-əˈrestriəl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Relating
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
+\TU/LatinModernRoman(0)/m/it/12 developments can help prevent the
+ []
+
+
+Overfull \hbox (0.45428pt too wide) in paragraph at lines 555--555
+[]\TU/LatinModernSans(0)/b/n/14.4 Proximity[] \TU/TimesNewRoman(0)/m/it/12 /prɑ
+ːkˈsɪməti/ (n) \TU/LatinModernRoman(0)/m/n/12 — Nearness
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 663--663
-[]\TU/LatinModernSans(0)/b/n/14.4 Zero-emission[] \TU/TimesNewRoman(0)/m/it/12 
-/ˌzɪroʊ iˈmɪʃn/ (adj)
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+[]\TU/LatinModernSans(0)/b/n/14.4 Car-sharing[] \TU/TimesNewRoman(0)/m/it/12 /ˈ
+kɑːr ˌʃerɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — An
  []
 
 
-Underfull \hbox (badness 7238) in paragraph at lines 663--663
-\TU/LatinModernRoman(0)/m/n/12 — Releasing no pollutants into the
+Overfull \hbox (1.58719pt too wide) in paragraph at lines 579--579
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Tele
+commuting can significantly
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 669--669
-[]\TU/LatinModernSans(0)/b/n/14.4 Accumulate[] \TU/TimesNewRoman(0)/m/it/12 /əˈ
-kjuːmjəleɪt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To
+Underfull \hbox (badness 10000) in paragraph at lines 585--585
+[]\TU/LatinModernSans(0)/b/n/14.4 Smart city[] \TU/TimesNewRoman(0)/m/it/12 /ˈs
+mɑːrt ˈsɪti/ (n) \TU/LatinModernRoman(0)/m/n/12 — An
  []
 
 
-Underfull \hbox (badness 7186) in paragraph at lines 675--675
-[]\TU/LatinModernSans(0)/b/n/14.4 Acidify[] \TU/TimesNewRoman(0)/m/it/12 /əˈsɪd
-ɪfaɪ/ (v) \TU/LatinModernRoman(0)/m/n/12 — To make or
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]\TU/LatinModernSans(0)/b/n/14.4 Intelligent transport[] \TU/TimesNewRoman(0)/
+m/it/12 /ɪnˈtelɪdʒənt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 681--681
-[]\TU/LatinModernSans(0)/b/n/14.4 Adaptation[] \TU/TimesNewRoman(0)/m/it/12 /ˌæ
-dæpˈteɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+Underfull \hbox (badness 10000) in paragraph at lines 597--597
+\TU/LatinModernRoman(0)/m/it/12 air quality and provide shade for
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 681--681
-\TU/LatinModernRoman(0)/m/n/12 process of changing to suit a new
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 687--687
-[]\TU/LatinModernSans(0)/b/n/14.4 Aerobic[] \TU/TimesNewRoman(0)/m/it/12 /erˈoʊ
-bɪk/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Requiring
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 693--693
-[]\TU/LatinModernSans(0)/b/n/14.4 Anaerobic[] \TU/TimesNewRoman(0)/m/it/12 /ˌæn
-erˈoʊbɪk/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 693--693
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Meth
-ane is produced by
- []
-
-
-Underfull \hbox (badness 5592) in paragraph at lines 699--699
-[]\TU/LatinModernSans(0)/b/n/14.4 Anthropogenic[] \TU/TimesNewRoman(0)/m/it/12 
-/ˌænθrəpəˈdʒenɪk/ (adj)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 717--717
-[]\TU/LatinModernSans(0)/b/n/14.4 Biomass[] \TU/TimesNewRoman(0)/m/it/12 /ˈbaɪo
-ʊmæs/ (n) \TU/LatinModernRoman(0)/m/n/12 — Organic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--729
-[]\TU/LatinModernSans(0)/b/n/14.4 Captivity[] \TU/TimesNewRoman(0)/m/it/12 /kæp
-ˈtɪvəti/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+Overfull \hbox (3.95532pt too wide) in paragraph at lines 609--609
+[]\TU/LatinModernSans(0)/b/n/14.4 Waterfront development[] \TU/TimesNewRoman(0)
+/m/it/12 /ˈwɔːtərfrʌnt
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 741--741
-[]\TU/LatinModernSans(0)/b/n/14.4 Clear-cutting[] \TU/TimesNewRoman(0)/m/it/12 
-/ˈklɪrkʌtɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+Underfull \hbox (badness 5741) in paragraph at lines 645--645
+\TU/LatinModernRoman(0)/m/n/12 — Objects and pieces of equipment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 759--759
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Wild
-life corridors allow
+Overfull \hbox (22.7699pt too wide) in paragraph at lines 651--651
+[]\TU/LatinModernSans(0)/b/n/14.4 Wayfinding[] \TU/TimesNewRoman(0)/m/it/12 /ˈw
+eɪfaɪndɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — Information
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 765--765
-[]\TU/LatinModernSans(0)/b/n/14.4 Critically endangered[] \TU/TimesNewRoman(0)/
-m/it/12 /ˌkrɪtɪkli
+Underfull \hbox (badness 7221) in paragraph at lines 657--657
+\TU/LatinModernRoman(0)/m/it/12 role in promoting public health by
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 771--771
-[]\TU/LatinModernSans(0)/b/n/14.4 Decompose[] \TU/TimesNewRoman(0)/m/it/12 /ˌdi
-ːkəmˈpoʊz/ (v) \TU/LatinModernRoman(0)/m/n/12 — To
+Underfull \hbox (badness 10000) in paragraph at lines 663--663
+\TU/LatinModernRoman(0)/m/it/12 primary economic engines of their
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 771--771
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Plas
-tic bottles can take
+Underfull \hbox (badness 10000) in paragraph at lines 669--669
+[]\TU/LatinModernSans(0)/b/n/14.4 Gentrify[] \TU/TimesNewRoman(0)/m/it/12 /ˈdʒe
+ntrɪfaɪ/ (v) \TU/LatinModernRoman(0)/m/n/12 — Renovate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 777--777
-[]\TU/LatinModernSans(0)/b/n/14.4 Desalination[] \TU/TimesNewRoman(0)/m/it/12 /
-ˌdiːˌsælɪˈneɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 10000) in paragraph at lines 675--675
+\TU/LatinModernRoman(0)/m/n/12 tenants in poorly maintained slum
  []
 
 
-Underfull \hbox (badness 7012) in paragraph at lines 777--777
-\TU/LatinModernRoman(0)/m/n/12 The process of removing salt from
+Underfull \hbox (badness 5696) in paragraph at lines 675--675
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+city is taking legal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 783--783
-[]\TU/LatinModernSans(0)/b/n/14.4 Ecotourism[] \TU/TimesNewRoman(0)/m/it/12 /ˈi
-ːkoʊtʊrɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 10000) in paragraph at lines 681--681
+[]\TU/LatinModernSans(0)/b/n/14.4 Homelessness[] \TU/TimesNewRoman(0)/m/it/12 /
+ˈhoʊmləsnəs/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 783--783
-\TU/LatinModernRoman(0)/m/n/12 Tourism directed toward natural
+Underfull \hbox (badness 10000) in paragraph at lines 687--687
+[]\TU/LatinModernSans(0)/b/n/14.4 Deprivation[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+deprɪˈveɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 783--783
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Ecot
-ourism supports local
+Underfull \hbox (badness 10000) in paragraph at lines 687--687
+\TU/LatinModernRoman(0)/m/n/12 damaging lack of material benefits
  []
 
 
-Overfull \hbox (4.93562pt too wide) in paragraph at lines 801--801
-[]\TU/LatinModernSans(0)/b/n/14.4 Environmental impact[] \TU/TimesNewRoman(0)/m
-/it/12 /ɪnˌvaɪrənˈmentl
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 807--807
-[]\TU/LatinModernSans(0)/b/n/14.4 Estuary[] \TU/TimesNewRoman(0)/m/it/12 /ˈestʃ
-ueri/ (n) \TU/LatinModernRoman(0)/m/n/12 — The tidal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 807--807
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Estu
-aries are important
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 813--813
-[]\TU/LatinModernSans(0)/b/n/14.4 Eutrophication[] \TU/TimesNewRoman(0)/m/it/12
- /juːˌtrɑːfɪˈkeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 819--819
-\TU/LatinModernRoman(0)/m/n/12 producing or capable of producing
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
+[]\TU/LatinModernSans(0)/b/n/14.4 Disadvantaged[] \TU/TimesNewRoman(0)/m/it/12 
+/ˌdɪsədˈvæntɪdʒd/ (adj)
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [10]
-Underfull \hbox (badness 6859) in paragraph at lines 831--831
-\TU/TimesNewRoman(0)/m/it/12 (n) \TU/LatinModernRoman(0)/m/n/12 — The total num
-ber of genetic
+Underfull \hbox (badness 10000) in paragraph at lines 705--705
+[]\TU/LatinModernSans(0)/b/n/14.4 Underprivileged[] \TU/TimesNewRoman(0)/m/it/1
+2 /ˌʌndərˈprɪvəlɪdʒd/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 843--843
-\TU/LatinModernRoman(0)/m/it/12 matter from the geosphere to the
+Underfull \hbox (badness 10000) in paragraph at lines 711--711
+[]\TU/LatinModernSans(0)/b/n/14.4 Segregated[] \TU/TimesNewRoman(0)/m/it/12 /ˈs
+eɡrɪɡeɪtɪd/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Set
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 855--855
-[]\TU/LatinModernSans(0)/b/n/14.4 Hydroelectric[] \TU/TimesNewRoman(0)/m/it/12 
-/ˌhaɪdroʊɪˈlektrɪk/ (adj)
+Underfull \hbox (badness 10000) in paragraph at lines 723--723
+[]\TU/LatinModernSans(0)/b/n/14.4 Affluent[] \TU/TimesNewRoman(0)/m/it/12 /ˈæfl
+uənt/ (adj) \TU/LatinModernRoman(0)/m/n/12 — (Especially
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 861--861
-[]\TU/LatinModernSans(0)/b/n/14.4 Imbalance[] \TU/TimesNewRoman(0)/m/it/12 /ɪmˈ
-bæləns/ (n) \TU/LatinModernRoman(0)/m/n/12 — Lack
+Underfull \hbox (badness 8038) in paragraph at lines 723--723
+\TU/LatinModernRoman(0)/m/it/12 neighborhood where the houses cost
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 861--861
-\TU/LatinModernRoman(0)/m/n/12 of proportion or relation between
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+invention of the
  []
 
 
-Underfull \hbox (badness 5939) in paragraph at lines 867--867
-[]\TU/LatinModernSans(0)/b/n/14.4 Industrialization[] \TU/TimesNewRoman(0)/m/it
-/12 /ɪnˌdʌstriələˈzeɪʃn/ (n)
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+[]\TU/LatinModernSans(0)/b/n/14.4 Car-centric[] \TU/TimesNewRoman(0)/m/it/12 /k
+ɑːr ˈsentrɪk/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 8189) in paragraph at lines 873--873
-\TU/TimesNewRoman(0)/m/it/12 (n) \TU/LatinModernRoman(0)/m/n/12 — Farming that 
-uses a lot of
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+[]\TU/LatinModernSans(0)/b/n/14.4 Carpooling[] \TU/TimesNewRoman(0)/m/it/12 /ˈk
+ɑːrpuːlɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 897--897
-[]\TU/LatinModernSans(0)/b/n/14.4 Lead-free[] \TU/TimesNewRoman(0)/m/it/12 /ˌle
-d ˈfriː/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Not
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Carp
+ooling can reduce
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 897--897
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Lead
--free gasoline has
+Underfull \hbox (badness 10000) in paragraph at lines 759--759
+[]\TU/LatinModernSans(0)/b/n/14.4 Expressway[] \TU/TimesNewRoman(0)/m/it/12 /ɪk
+ˈspresweɪ/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 765--765
+[]\TU/LatinModernSans(0)/b/n/14.4 Interchange[] \TU/TimesNewRoman(0)/m/it/12 /ˈ
+ɪntərtʃeɪndʒ/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 771--771
+[]\TU/LatinModernSans(0)/b/n/14.4 Transit-oriented[] \TU/TimesNewRoman(0)/m/it/
+12 /ˈtrænzɪt ˈɔːriəntɪd/
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 909--909
-[]\TU/LatinModernSans(0)/b/n/14.4 Magnification[] \TU/TimesNewRoman(0)/m/it/12 
-/ˌmæɡnɪfɪˈkeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 10000) in paragraph at lines 789--789
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Trai
+n tickets are more
  []
 
 
-Underfull \hbox (badness 7273) in paragraph at lines 909--909
-\TU/LatinModernRoman(0)/m/n/12 The increase in concentration of a
+Underfull \hbox (badness 10000) in paragraph at lines 795--795
+[]\TU/LatinModernSans(0)/b/n/14.4 Urbanites[] \TU/TimesNewRoman(0)/m/it/12 /ˈɜː
+rbənaɪts/ (n) \TU/LatinModernRoman(0)/m/n/12 — People
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 909--909
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Biom
-agnification makes
+Underfull \hbox (badness 10000) in paragraph at lines 807--807
+[]\TU/LatinModernSans(0)/b/n/14.4 Condominium[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+kɑːndəˈmɪniəm/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 5847) in paragraph at lines 939--939
-[]\TU/LatinModernSans(0)/b/n/14.4 Ocean currents[] \TU/TimesNewRoman(0)/m/it/12
- /ˈoʊʃn ˌkɜːrənts/ (n)
+Underfull \hbox (badness 5519) in paragraph at lines 807--807
+\TU/LatinModernRoman(0)/m/n/12 A building or complex of buildings
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 957--957
-[]\TU/LatinModernSans(0)/b/n/14.4 Organism[] \TU/TimesNewRoman(0)/m/it/12 /ˈɔːr
-ɡənɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 — An
+Underfull \hbox (badness 10000) in paragraph at lines 807--807
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 He b
+ought a luxury
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 963--963
-[]\TU/LatinModernSans(0)/b/n/14.4 Particulate matter[] \TU/TimesNewRoman(0)/m/i
-t/12 /pɑːrˈtɪkjələt
+Underfull \hbox (badness 6675) in paragraph at lines 819--819
+[]\TU/LatinModernSans(0)/b/n/14.4 Borough[] \TU/TimesNewRoman(0)/m/it/12 /ˈbɜːr
+oʊ/ (n) \TU/LatinModernRoman(0)/m/n/12 — A town or
  []
 
 
-Underfull \hbox (badness 5064) in paragraph at lines 969--969
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Perm
-eable pavement helps
+Underfull \hbox (badness 10000) in paragraph at lines 825--825
+[]\TU/LatinModernSans(0)/b/n/14.4 Precinct[] \TU/TimesNewRoman(0)/m/it/12 /ˈpri
+ːsɪŋkt/ (n) \TU/LatinModernRoman(0)/m/n/12 — An area
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 975--975
-[]\TU/LatinModernSans(0)/b/n/14.4 Photosynthesis[] \TU/TimesNewRoman(0)/m/it/12
- /ˌfoʊtoʊˈsɪnθəsɪs/ (n)
+Underfull \hbox (badness 10000) in paragraph at lines 831--831
+[]\TU/LatinModernSans(0)/b/n/14.4 Ward[] \TU/TimesNewRoman(0)/m/it/12 /wɔːrd/ (
+n) \TU/LatinModernRoman(0)/m/n/12 — A district into
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 831--831
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Each
+ ward has its own
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 987--987
-[]\TU/LatinModernSans(0)/b/n/14.4 Population density[] \TU/TimesNewRoman(0)/m/i
-t/12 /ˌpɑːpjuˈleɪʃn
+Underfull \hbox (badness 10000) in paragraph at lines 855--855
+[]\TU/LatinModernSans(0)/b/n/14.4 Bureaucracy[] \TU/TimesNewRoman(0)/m/it/12 /b
+jʊˈrɑːkrəsi/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 993--993
-[]\TU/LatinModernSans(0)/b/n/14.4 Potable[] \TU/TimesNewRoman(0)/m/it/12 /ˈpoʊt
-əbl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Safe to
+Underfull \hbox (badness 5274) in paragraph at lines 861--861
+[]\TU/LatinModernSans(0)/b/n/14.4 Metropolitan[] \TU/TimesNewRoman(0)/m/it/12 /
+ˌmetrəˈpɑːlɪtən/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
-[]\TU/LatinModernSans(0)/b/n/14.4 Restoration[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
-restəˈreɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+Underfull \hbox (badness 10000) in paragraph at lines 873--873
+[]\TU/LatinModernSans(0)/b/n/14.4 Exurban[] \TU/TimesNewRoman(0)/m/it/12 /eksˈɜ
+ːrbən/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Relating
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
-[]\TU/LatinModernSans(0)/b/n/14.4 Salination[] \TU/TimesNewRoman(0)/m/it/12 /ˌs
-ælɪˈneɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+Underfull \hbox (badness 10000) in paragraph at lines 879--879
+[]\TU/LatinModernSans(0)/b/n/14.4 Commercialized[] \TU/TimesNewRoman(0)/m/it/12
+ /kəˈmɜːrʃəlaɪzd/ (adj)
  []
 
 
-Underfull \hbox (badness 5908) in paragraph at lines 1029--1029
-\TU/LatinModernRoman(0)/m/n/12 process by which water-soluble salts
+Underfull \hbox (badness 5908) in paragraph at lines 879--879
+\TU/LatinModernRoman(0)/m/n/12 — Managed or exploited in a way
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1041--1041
-[]\TU/LatinModernSans(0)/b/n/14.4 Sediment[] \TU/TimesNewRoman(0)/m/it/12 /ˈsed
-ɪmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — Matter
+Underfull \hbox (badness 10000) in paragraph at lines 885--885
+[]\TU/LatinModernSans(0)/b/n/14.4 Industrialized[] \TU/TimesNewRoman(0)/m/it/12
+ /ɪnˈdʌstriəlaɪzd/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 891--891
+[]\TU/LatinModernSans(0)/b/n/14.4 Landscaped[] \TU/TimesNewRoman(0)/m/it/12 /ˈl
+ændskeɪpt/ (adj) \TU/LatinModernRoman(0)/m/n/12 — (Of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 891--891
+\TU/LatinModernRoman(0)/m/it/12 beautifully landscaped gardens and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 909--909
+[]\TU/LatinModernSans(0)/b/n/14.4 Brownfield[] \TU/TimesNewRoman(0)/m/it/12 /ˈb
+raʊnfiːld/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--915
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Deve
+lopers often prefer
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 1065--1065
-[]\TU/LatinModernSans(0)/b/n/14.4 Stratosphere[] \TU/TimesNewRoman(0)/m/it/12 /
-ˈstrætəsfɪr/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+Overfull \hbox (1.50302pt too wide) in paragraph at lines 927--927
+[]\TU/LatinModernSans(0)/b/n/14.4 Densely populated[] \TU/TimesNewRoman(0)/m/it
+/12 /ˌdensli ˈpɑːpjuletɪd/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1071--1071
-[]\TU/LatinModernSans(0)/b/n/14.4 Subsidy[] \TU/TimesNewRoman(0)/m/it/12 /ˈsʌbs
-ədi/ (n) \TU/LatinModernRoman(0)/m/n/12 — A sum of
+Overfull \hbox (11.34149pt too wide) in paragraph at lines 933--933
+[]\TU/LatinModernSans(0)/b/n/14.4 Sparsely populated[] \TU/TimesNewRoman(0)/m/i
+t/12 /ˌspɑːrsli ˈpɑːpjuletɪd/
  []
 
 
-Underfull \hbox (badness 5847) in paragraph at lines 1095--1095
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Some
- trace elements are
+Underfull \hbox (badness 10000) in paragraph at lines 945--945
+[]\TU/LatinModernSans(0)/b/n/14.4 Residential complex[] \TU/TimesNewRoman(0)/m/
+it/12 /ˌrezɪˈdenʃl
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1101--1101
-[]\TU/LatinModernSans(0)/b/n/14.4 Transpiration[] \TU/TimesNewRoman(0)/m/it/12 
-/ˌtrænspɪˈreɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 10000) in paragraph at lines 957--957
+[]\TU/LatinModernSans(0)/b/n/14.4 Entertainment hub[] \TU/TimesNewRoman(0)/m/it
+/12 /ˌentərˈteɪnmənt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1113--1113
-[]\TU/LatinModernSans(0)/b/n/14.4 Ultraviolet[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
-ʌltrəˈvaɪələt/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 7379) in paragraph at lines 969--969
+[]\TU/LatinModernSans(0)/b/n/14.4 Nightspot[] \TU/TimesNewRoman(0)/m/it/12 /ˈna
+ɪtspɑːt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A place
  []
 
 
-Overfull \hbox (19.56819pt too wide) in paragraph at lines 1119--1119
-[]\TU/LatinModernSans(0)/b/n/14.4 Vulnerable[] \TU/TimesNewRoman(0)/m/it/12 /ˈv
-ʌlnərəbl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Susceptible
+Underfull \hbox (badness 10000) in paragraph at lines 975--975
+[]\TU/LatinModernSans(0)/b/n/14.4 Vibrant[] \TU/TimesNewRoman(0)/m/it/12 /ˈvaɪb
+rənt/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Full of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
-[]\TU/LatinModernSans(0)/b/n/14.4 Wastewater[] \TU/TimesNewRoman(0)/m/it/12 /ˈw
-eɪstwaːtər/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 10000) in paragraph at lines 981--981
+[]\TU/LatinModernSans(0)/b/n/14.4 Atmospheric[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+ætməsˈferɪk/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--981
+\TU/LatinModernRoman(0)/m/n/12 Creating a distinctive mood or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--981
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+old town is very
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
+[]\TU/LatinModernSans(0)/b/n/14.4 Picturesque[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+pɪktʃəˈresk/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 993--993
+[]\TU/LatinModernSans(0)/b/n/14.4 Quaint[] \TU/TimesNewRoman(0)/m/it/12 /kweɪnt
+/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Attractively
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 1155--1155
-[]\TU/LatinModernSans(0)/b/n/14.4 Wetland[] \TU/TimesNewRoman(0)/m/it/12 /ˈwetl
-ænd/ (n) \TU/LatinModernRoman(0)/m/n/12 — Land
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1041
+[]\TU/LatinModernSans(0)/b/n/14.4 Graffiti[] \TU/TimesNewRoman(0)/m/it/12 /ɡrəˈ
+fiːti/ (n) \TU/LatinModernRoman(0)/m/n/12 — Writing or
+ []
+
+
+Overfull \hbox (7.16106pt too wide) in paragraph at lines 1053--1053
+[]\TU/LatinModernSans(0)/b/n/14.4 Antisocial[] \TU/TimesNewRoman(0)/m/it/12 /ˌæ
+ntiˈsoʊʃl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Contrary
+ []
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 1053--1053
+\TU/LatinModernRoman(0)/m/it/12 often considered forms of antisocial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1059
+[]\TU/LatinModernSans(0)/b/n/14.4 Law-abiding[] \TU/TimesNewRoman(0)/m/it/12 /ˈ
+lɔː əbaɪdɪŋ/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 1071--1071
+[]\TU/LatinModernSans(0)/b/n/14.4 Dangerous[] \TU/TimesNewRoman(0)/m/it/12 /ˈde
+ɪndʒərəs/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Able
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[15]
+Underfull \hbox (badness 6141) in paragraph at lines 1077--1077
+[]\TU/LatinModernSans(0)/b/n/14.4 CCTV[] \TU/TimesNewRoman(0)/m/it/12 /ˌsiː siː
+ tiː ˈviː/ (n) \TU/LatinModernRoman(0)/m/n/12 — Closed-
+ []
+
+
+Overfull \hbox (13.15697pt too wide) in paragraph at lines 1083--1083
+[]\TU/LatinModernSans(0)/b/n/14.4 Policing[] \TU/TimesNewRoman(0)/m/it/12 /pəˈl
+iːsɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The maintenance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1095
+[]\TU/LatinModernSans(0)/b/n/14.4 Insecurity[] \TU/TimesNewRoman(0)/m/it/12 /ˌɪ
+nsɪˈkjʊrəti/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1113--1113
+[]\TU/LatinModernSans(0)/b/n/14.4 Alienation[] \TU/TimesNewRoman(0)/m/it/12 /ˌe
+ɪliəˈneɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1119--1119
+[]\TU/LatinModernSans(0)/b/n/14.4 Anonymity[] \TU/TimesNewRoman(0)/m/it/12 /ˌæn
+əˈnɪməti/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
+[]\TU/LatinModernSans(0)/b/n/14.4 Multiculturalism[] \TU/TimesNewRoman(0)/m/it/
+12 /ˌmʌltiˈkʌltʃərəlɪzəm/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1137--1137
+[]\TU/LatinModernSans(0)/b/n/14.4 Integration[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+ɪntɪˈɡreɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[16]
+Overfull \hbox (12.9779pt too wide) in paragraph at lines 1149--1149
+[]\TU/LatinModernSans(0)/b/n/14.4 Prejudice[] \TU/TimesNewRoman(0)/m/it/12 /ˈpr
+edʒədɪs/ (n) \TU/LatinModernRoman(0)/m/n/12 — Preconceived
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1155--1155
-\TU/LatinModernRoman(0)/m/n/12 consisting of marshes or swamps;
+[]\TU/LatinModernSans(0)/b/n/14.4 Discrimination[] \TU/TimesNewRoman(0)/m/it/12
+ /dɪˌskrɪmɪˈneɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1161--1161
-[]\TU/LatinModernSans(0)/b/n/14.4 Wildlife conservation[] \TU/TimesNewRoman(0)/
-m/it/12 /ˈwaɪldlaɪf
+Overfull \hbox (7.98769pt too wide) in paragraph at lines 1167--1167
+[]\TU/LatinModernSans(0)/b/n/14.4 Inequality[] \TU/TimesNewRoman(0)/m/it/12 /ˌɪ
+nɪˈkwɑːləti/ (n) \TU/LatinModernRoman(0)/m/n/12 — Difference
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1161--1161
-\TU/TimesNewRoman(0)/m/it/12 ˌkɑːnsərˈveɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12
- — The practice of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1161--1161
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Wild
-life conservation is
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1161--1161
-\TU/LatinModernRoman(0)/m/it/12 essential for maintaining global
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1179--1179
-[]\TU/LatinModernSans(0)/b/n/14.4 Zero-waste[] \TU/TimesNewRoman(0)/m/it/12 /ˌz
-ɪroʊ ˈweɪst/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+Underfull \hbox (badness 10000) in paragraph at lines 1173--1173
+\TU/LatinModernRoman(0)/m/n/12 just treatment or behavior without
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1185--1185
-[]\TU/LatinModernSans(0)/b/n/14.4 Zoology[] \TU/TimesNewRoman(0)/m/it/12 /zuˈɑː
-lə dʒi/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
- []
-
-
-Underfull \hbox (badness 6110) in paragraph at lines 1191--1191
-[]\TU/LatinModernSans(0)/b/n/14.4 Algal bloom[] \TU/TimesNewRoman(0)/m/it/12 /ˈ
-ælɡl bluːm/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Welfare[] \TU/TimesNewRoman(0)/m/it/12 /ˈwelf
+er/ (n) \TU/LatinModernRoman(0)/m/n/12 — The health,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1197--1197
-[]\TU/LatinModernSans(0)/b/n/14.4 Ambient[] \TU/TimesNewRoman(0)/m/it/12 /ˈæmbi
-ənt/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Relating
+[]\TU/LatinModernSans(0)/b/n/14.4 Well-being[] \TU/TimesNewRoman(0)/m/it/12 /ˌw
+el ˈbiːɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1197--1197
-\TU/LatinModernRoman(0)/m/n/12 to the immediate surroundings of
+Underfull \hbox (badness 7777) in paragraph at lines 1203--1203
+\TU/LatinModernRoman(0)/m/n/12 of the factors that add up to a
  []
 
 )
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
-[15] (./environmentVocab.aux)
+[17] (./citylifeAndUrbanizationVocab.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 19004 strings out of 473832
- 442986 string characters out of 5729481
- 869984 words of memory out of 5000000
- 41755 multiletter control sequences out of 15000+600000
+ 19024 strings out of 473832
+ 443508 string characters out of 5729481
+ 873299 words of memory out of 5000000
+ 41775 multiletter control sequences out of 15000+600000
  559173 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 131i,16n,135p,466b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,16n,135p,478b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on environmentVocab.pdf (15 pages).
+Output written on citylifeAndUrbanizationVocab.pdf (17 pages).

@@ -147,8 +147,12 @@ def main() -> int:
     parser.add_argument("raw", type=Path, help="Path to raw.txt")
     parser.add_argument("--out-dir", type=Path, required=True, help="Output directory to create/update")
     parser.add_argument("--name", default="educationVocab", help="Base name for the main .tex file")
-    parser.add_argument("--author", default="THE FORUM CENTER", help="Header author info")
-    parser.add_argument("--title", default="EDUCATION VOCABULARY", help="Header document title")
+    parser.add_argument(
+        "--author",
+        default="THE FORUM CENTER - NGUYỄN HOÀNG HUY",
+        help="Header author info",
+    )
+    parser.add_argument("--title", default="VOCABULARY ĐỘC QUYỀN", help="Header document title")
     parser.add_argument("--topic", default="TỪ VỰNG CHỦ ĐỀ: EDUCATION", help="Topic title line")
     args = parser.parse_args()
 
@@ -170,7 +174,7 @@ def main() -> int:
             shutil.copy2(src, out_dir / fname)
 
     write_data_tex(entries, out_dir / "data.tex")
-    write_main_tex(args.author, args.title, args.topic, out_dir / f"{args.name}.tex")
+    write_main_tex(args.author, args.title, args.topic.upper(), out_dir / f"{args.name}.tex")
     return 0
 
 
