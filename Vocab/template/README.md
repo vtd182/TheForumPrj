@@ -1,173 +1,134 @@
-# IELTS Vocabulary LaTeX Template - Hướng Dẫn Sử Dụng
+# IELTS Vocabulary Template (XeLaTeX) — Hướng dẫn sử dụng
 
-## 📁 Cấu Trúc Files
+Template này tạo PDF vocabulary 2 cột, có header/footer theo đúng layout, kèm watermark logo ở nền.
 
-Template bao gồm 3 files chính:
+## Cấu trúc thư mục
 
-1. **`style.tex`** - Định nghĩa tất cả styling, màu sắc, format (KHÔNG cần chỉnh sửa)
-2. **`main.tex`** - File chính để compile (Chỉnh sửa thông tin header ở đây)
-3. **`data.tex`** - File chứa dữ liệu vocabulary (Thay đổi nội dung từ vựng ở đây)
+Trong `Vocab/template/`:
 
-## 🚀 Cách Sử Dụng Nhanh
+- `forumvocab.cls` — file class chứa toàn bộ style/layout (thường chỉ chỉnh ở đây khi muốn đổi design)
+- `main.tex` — file chính để compile (chỉnh title/author/topic)
+- `data.tex` — dữ liệu từ vựng (thêm/sửa nội dung)
+- `UTM-Impact.ttf` — font cho tiêu đề “IELTS VOCABULARY”
+- `scripts/check_watermark_consistency.py` — script kiểm tra watermark page 1 vs page 2 (tuỳ chọn)
 
-### Bước 1: Cập nhật thông tin trong `main.tex`
+Watermark logo nằm ở `Vocab/wm/logoTF.png` (được load từ `Vocab/template/forumvocab.cls` qua đường dẫn `../wm/logoTF.png`).
 
-Mở file `main.tex` và tìm phần **DOCUMENT CONFIGURATION**:
+Font chính của tài liệu được lấy từ thư mục `font/` ở root repo:
+
+- `font/latin-modern-roman/` (cho nội dung trong `data.tex`)
+- `font/Latin-Modern-Sans/` (cho các phần dùng `\sffamily`: header, nhãn, số trang,…)
+
+Nếu bạn muốn đóng gói font ngay trong template, bạn có thể tạo `@font/` và đặt cấu trúc tương tự; class sẽ tự dò (fallback theo thứ tự) `./@font`, `../../@font`, `../../font`, `./font`.
+
+## Cách dùng nhanh
+
+### 1) Cập nhật thông tin trong `main.tex`
+
+Mở `Vocab/template/main.tex` và chỉnh 3 biến:
 
 ```latex
-% Header information for first page
-\newcommand{\authorinfo}{THE FORUM CENTER - NGUYỄN HOÀNG HUY}
-\newcommand{\documenttitle}{VOCABULARY ĐỘC QUYỀN (PHẦN 1)}
-\newcommand{\topictitle}{TỪ VỰNG CHỦ ĐỀ: ACADEMIC VOCABULARY}
+\newcommand{\authorinfo}{...}
+\newcommand{\documenttitle}{...}
+\newcommand{\topictitle}{TỪ VỰNG CHỦ ĐỀ: ...}
 ```
 
-Thay đổi 3 dòng này theo nội dung của bạn:
-- `\authorinfo` - Tên tác giả (góc trái header trang đầu)
-- `\documenttitle` - Tiêu đề tài liệu (góc phải header trang đầu)
-- `\topictitle` - Chủ đề vocabulary (dòng lớn bên dưới header đỏ)
+- `\authorinfo`: góc trái header trang đầu
+- `\documenttitle`: góc phải header trang đầu
+- `\topictitle`: dòng chủ đề (đã được căn giữa)
 
-### Bước 2: Thêm vocabulary vào `data.tex`
+### 2) Nhập dữ liệu từ vựng trong `data.tex`
 
-Mở file `data.tex` và sử dụng command `\vocabentry` để thêm từ vựng:
+Template hỗ trợ 2 dạng:
 
-**Format đầy đủ (có ví dụ):**
+**Đầy đủ (có ví dụ):**
 ```latex
 \vocabentry{word}
-{/pronunciation/ (part of speech)}
-{Definition (Nghĩa tiếng Việt)}
+{/pronunciation/ (pos)}
+{Definition (nghĩa tiếng Việt)}
 {Example sentence in English.}
-{Bản dịch ví dụ tiếng Việt.}
+{Dịch ví dụ tiếng Việt.}
 ```
 
-**Format ngắn (không có ví dụ):**
+**Ngắn (không có ví dụ):**
 ```latex
 \vocabshort{word}
-{/pronunciation/ (part of speech)}
-{Definition (Nghĩa tiếng Việt)}
+{/pronunciation/ (pos)}
+{Definition (nghĩa tiếng Việt)}
 ```
 
-**Ví dụ thực tế:**
-```latex
-\vocabentry{conflate}
-{/ˈkɑːnfleɪt/ (v)}
-{To combine two or more things into one; to merge or blend (Kết hợp, hòa trộn)}
-{Historians often conflate myth and reality when recounting ancient events.}
-{Các nhà sử học thường kết hợp thần thoại và thực tế khi kể lại các sự kiện cổ đại.}
-```
+Format hiển thị: `từ + IPA + nghĩa` trên cùng 1 dòng (nếu dài sẽ tự xuống dòng tự nhiên).
 
-### Bước 3: Compile PDF
-
-**⚠️ QUAN TRỌNG:** Template này SỬ DỤNG `xelatex` thay vì `pdflatex` để hỗ trợ font tùy chỉnh.
-
-Chạy lệnh sau trong terminal (compile 2 lần để TikZ headers hiện đúng):
+### 3) Compile PDF (bắt buộc XeLaTeX)
 
 ```bash
-cd /Users/lap15116/Desktop/TheForumPrj/Vocab/template
+cd Vocab/template
 xelatex main.tex
+```
+
+Nếu bạn chỉnh TikZ/header và thấy chưa cập nhật đúng, chạy thêm lần 2:
+
+```bash
 xelatex main.tex
 ```
 
-Hoặc  sử dụng LaTeX editor có hỗ trợ XeLaTeX như Overleaf, TeXShop, hoặc VS Code với LaTeX Workshop extension (chọn XeLaTeX trong settings).
+## Tuỳ chỉnh nâng cao
 
-## 🎨 Tùy Chỉnh Nâng Cao
+### Đổi logo watermark
 
-### Thay đổi màu sắc
+- Thay ảnh `Vocab/wm/logoTF.png` (giữ đúng tên file), hoặc
+- Sửa đường dẫn/scale trong `Vocab/template/forumvocab.cls` (tìm `logoTF.png`).
 
-Mở `style.tex` và tìm phần **COLOR DEFINITIONS**:
+Opacity watermark nằm ở `node[opacity=0.15]`.
 
-```latex
-\definecolor{forumred}{HTML}{E52B20}      % Màu đỏ chính
-\definecolor{textblack}{HTML}{000000}      % Màu chữ
-\definecolor{watermarkgray}{HTML}{FFE5E5}  % Màu watermark
-```
+### Fix IPA bị “trắng”/không hiển thị
 
-### Thay đổi watermark
+Template dùng font fallback riêng cho IPA để tránh thiếu glyph. Ưu tiên:
 
-**Cách 1:** Trong `main.tex`, thêm dòng này sau phần DOCUMENT CONFIGURATION:
-```latex
-\renewcommand{\watermarktext}{YOUR NEW TEXT}
-```
+1. `Charis SIL`
+2. `Doulos SIL`
+3. `Gentium Plus`
+4. `Noto Serif` / `Noto Sans`
+5. `Times New Roman`
 
-**Cách 2:** Trong `style.tex`, tìm dòng:
-```latex
-\newcommand{\watermarktext}{THE FORUM}
-```
+Nếu máy bạn chưa có các font SIL/Noto, nên cài `Charis SIL` để IPA đẹp và đầy đủ nhất.
 
-### Thêm section headers (tùy chọn)
+### Đổi màu chủ đạo / size số trang
 
-Trong `data.tex`, bạn có thể thêm headers để phân chia các nhóm từ:
+Màu chính nằm trong `Vocab/template/forumvocab.cls`:
 
 ```latex
-\vocabsection{Academic Words - Group 1}
-
-\vocabentry{word1}{...}{...}{...}{...}
-\vocabentry{word2}{...}{...}{...}{...}
-
-\vocabsection{Academic Words - Group 2}
-
-\vocabentry{word3}{...}{...}{...}{...}
+\definecolor{forumred}{HTML}{E52B20}
 ```
 
-## 📝 Thiết Kế Template
+Số trang dùng macro:
 
-### Trang đầu tiên:
-- **Header đỏ lớn:** "IELTS VOCABULARY" (màu trắng, font lớn)
-- **Sub-header đỏ:** Tên tác giả (trái) | Tiêu đề tài liệu (phải)
-- **Topic title:** Chủ đề vocabulary (màu đen, bold)
-- **Watermark:** "THE FORUM" ở giữa trang (màu hồng nhạt)
-- **Footer:** Số trang màu đỏ
+```latex
+\newcommand{\forumvocab@pagenumfont}{...}
+```
 
-### Từ trang 2 trở đi:
-- **Header:** Đường kẻ đỏ + badge "Self-study IELTS Material"
-- **Watermark:** "THE FORUM"
-- **Footer:** Số trang màu đỏ
+Bạn có thể chỉnh `\fontsize{...}{...}` hoặc bỏ `\bfseries` tuỳ ý.
 
-### Format vocabulary:
-- **Từ vựng:** Màu đỏ, bold, font lớn
-- **Phiên âm:** In nghiêng, màu đen
-- **Định nghĩa:** Font thường, màu đen
-- **Ví dụ:** "Example:" (bold, nghiêng) + câu ví dụ (nghiêng)
-- **Dịch ví dụ:** In nghiêng, trong ngoặc đơn
+### Thêm tiêu đề nhóm (tuỳ chọn)
 
-## ⚙️ Yêu Cầu Hệ Thống
+Trong `data.tex`:
 
-Template cần các packages sau (đã được include trong `style.tex`):
-- `fancyhdr` - Headers và footers
-- `multicol` - Bố cục 2 cột
-- `xcolor` - Màu sắc
-- `tcolorbox` - Boxes cho header
-- `tikz` - Vẽ header badge
-- `eso-pic` - Watermark
+```latex
+\vocabsection{Academic Words — Group 1}
+```
 
-## 🔄 Tạo Tài Liệu Mới
+## Kiểm tra nhanh (tuỳ chọn)
 
-Khi muốn tạo một tài liệu vocabulary mới:
+Nếu có `gs` (Ghostscript) và Python 3:
 
-1. **Giữ nguyên:** `style.tex` (không cần thay đổi)
-2. **Copy:** `main.tex` và `data.tex` sang folder mới (hoặc đổi tên)
-3. **Chỉnh sửa:** 
-   - Trong `main.tex`: Cập nhật 3 biến header
-   - Trong `data.tex`: Xóa vocabulary cũ, thêm vocabulary mới
-4. **Compile:** `pdflatex main.tex`
+```bash
+python3 Vocab/template/scripts/check_watermark_consistency.py Vocab/template/main.pdf
+```
 
-## 💡 Tips
+Script sẽ báo tỷ lệ “độ đậm” watermark giữa trang 1 và 2 (để tránh lỗi page 1 bị đậm hơn).
 
-- Giữ mỗi entry ngắn gọn để tránh tràn cột
-- Sử dụng `\vocabshort` cho những từ không cần ví dụ
-- Có thể thêm nhiều entries tùy ý, template sẽ tự động phân trang
-- Font size và spacing đã được tối ưu để tối đa hóa nội dung
+## Troubleshooting
 
-## ❓ Troubleshooting
-
-**Lỗi compile:**
-- Đảm bảo tất cả 3 files (`main.tex`, `style.tex`, `data.tex`) ở cùng folder
-- Kiểm tra các ký tự đặc biệt trong tiếng Việt
-- Chạy `pdflatex` 2 lần nếu header không hiển thị đúng
-
-**Header trang 2+ không hiện:**
-- Compile 2 lần để cập nhật headers
-- Kiểm tra package `tikz` đã được cài đặt
-
-**Watermark quá đậm/nhạt:**
-- Chỉnh màu `watermarkgray` trong `style.tex`
-- Hoặc thay đổi `fontsize{80}{96}` thành số khác
+- **Compile lỗi font**: kiểm tra thư mục `font/latin-modern-roman` và `font/Latin-Modern-Sans` có tồn tại (hoặc dùng `@font/`), và bạn đang compile bằng `xelatex`.
+- **IPA bị thiếu ký tự**: cài `Charis SIL` (khuyến nghị), sau đó build lại.
+- **Watermark trang 1 đậm hơn**: chạy script kiểm tra ở trên; nếu bạn có chỉnh phần watermark/shipout, hãy báo mình vị trí chỉnh để mình kiểm lại.
