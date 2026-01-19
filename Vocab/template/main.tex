@@ -1,0 +1,54 @@
+\documentclass[12pt,a4paper]{article}
+
+% ============================================
+% LOAD STYLE DEFINITIONS
+% ============================================
+\input{style.tex}
+
+% ============================================
+% DOCUMENT CONFIGURATION
+% ============================================
+% Update these variables for each new vocabulary set:
+
+% Header information for first page
+\newcommand{\authorinfo}{THE FORUM CENTER - NGUYỄN HOÀNG HUY}
+\newcommand{\documenttitle}{VOCABULARY ĐỘC QUYỀN (PHẦN 1)}
+\newcommand{\topictitle}{TỪ VỰNG CHỦ ĐỀ: ACADEMIC VOCABULARY}
+
+% Watermark text (defined in style.tex, can override here if needed)
+% \renewcommand{\watermarktext}{YOUR TEXT HERE}
+
+% ============================================
+% BEGIN DOCUMENT
+% ============================================
+\begin{document}
+
+% Set first page style
+\thispagestyle{firstpage}
+
+% Create first page header
+\makefirstpageheader{\authorinfo}{\documenttitle}{\topictitle}
+
+% Apply 'otherpages' style for all subsequent pages
+\pagestyle{otherpages}
+
+% Start two-column layout
+\begin{multicols}{2}
+
+% ============================================
+% VOCABULARY CONTENT
+% ============================================
+% Load vocabulary data from external file
+% This makes it easy to reuse the template with different data
+\input{data.tex}
+
+\end{multicols}
+
+% ============================================
+% APPLY "otherpages" STYLE FROM PAGE 2 ONWARDS
+% ============================================
+% This is handled automatically by the style.tex fancyhdr setup
+% The first page uses 'firstpage' style (set above)
+% All subsequent pages automatically use 'otherpages' style
+
+\end{document}
