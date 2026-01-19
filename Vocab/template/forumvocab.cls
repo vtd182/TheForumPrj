@@ -271,12 +271,10 @@
 \end{tikzpicture}
 
 % ===== PUSH CONTENT DOWN =====
-\vspace{3.6cm}
+\vspace{1cm}
 
 \noindent
-\begin{center}
-{\fontsize{14}{17}\sffamily\bfseries #3}
-\end{center}
+{\centering\fontsize{14}{17}\sffamily\bfseries #3\par}
 
 \vspace{12pt}
 }
