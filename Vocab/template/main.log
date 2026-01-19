@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  19 JAN 2026 11:22
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  19 JAN 2026 13:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -453,7 +453,9 @@ Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpc_dim=\dimen273
  (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
 
 Package fontspec Info: 
 (fontspec)             Font family 'UTM-Impact.ttf(0)' created for font
@@ -632,12 +634,16 @@ File: ../wm/logoTF.png Graphic file (type bmp)
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 19080 strings out of 473832
- 439305 string characters out of 5729481
- 862908 words of memory out of 5000000
- 41845 multiletter control sequences out of 15000+600000
+ 19219 strings out of 473832
+ 442473 string characters out of 5729481
+ 864625 words of memory out of 5000000
+ 41981 multiletter control sequences out of 15000+600000
  564240 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  121i,15n,124p,514b,974s stack positions out of 10000i,1000n,20000p,200000b,200000s
