@@ -17,8 +17,7 @@
 % ============================================
 % 2. REQUIRED PACKAGES
 % ============================================
-\RequirePackage[utf8]{inputenc}
-\RequirePackage[T5]{fontenc}
+% Note: inputenc/fontenc not needed for XeTeX - it handles UTF-8 natively
 \RequirePackage[english,vietnamese]{babel}
 \RequirePackage[a4paper, left=2cm, right=2cm, top=0cm, bottom=0cm, includehead, includefoot, headheight=50pt, footskip=1.5cm]{geometry}
 \RequirePackage{fancyhdr}
@@ -28,20 +27,56 @@
 \RequirePackage{graphicx}
 \RequirePackage{tikz}
 \RequirePackage{eso-pic}
-\RequirePackage{palatino}   % Similar to the PDF's serif font
-\RequirePackage{helvet}     % Sans-serif font for headers
-\RequirePackage{newunicodechar}
 \RequirePackage{fontspec}
 \usetikzlibrary{calc}
 
 % ============================================
-% 3. CUSTOM FONT DEFINITIONS
+% 3. FONT DEFINITIONS
 % ============================================
+% Prefer project-bundled fonts (if present), otherwise fall back to system fonts.
+% Expected structure (as added in this repo):
+%   ../../font/latin-modern-roman/*.otf
+%   ../../font/Latin-Modern-Sans/*.otf
+\newcommand{\forumvocab@fontroot}{}%
+\IfFileExists{./@font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\forumvocab@fontroot}{./@font}}{%
+  \IfFileExists{../../@font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\forumvocab@fontroot}{../../@font}}{%
+    \IfFileExists{../../font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\forumvocab@fontroot}{../../font}}{%
+      \IfFileExists{./font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\forumvocab@fontroot}{./font}}{}%
+    }%
+  }%
+}%
+
+\ifx\forumvocab@fontroot\empty
+  \setmainfont{Latin Modern Roman}
+  \setsansfont{Latin Modern Sans}
+\else
+  \setmainfont[
+    Path=\forumvocab@fontroot/latin-modern-roman/,
+    Extension=.otf,
+    UprightFont=lmroman10-regular,
+    BoldFont=lmroman10-bold,
+    ItalicFont=lmroman10-italic,
+    BoldItalicFont=lmroman10-bolditalic
+  ]{Latin Modern Roman}
+  \setsansfont[
+    Path=\forumvocab@fontroot/Latin-Modern-Sans/,
+    Extension=.otf,
+    UprightFont=lmsans10-regular,
+    BoldFont=lmsans10-bold,
+    ItalicFont=lmsans10-oblique,
+    BoldItalicFont=lmsans10-boldoblique
+  ]{Latin Modern Sans}
+\fi
+
+% Custom Impact font for headers
 \newfontfamily\impactfont{UTM-Impact.ttf}[
   Path = ./,
   Extension = .ttf,
   UprightFont = UTM-Impact
 ]
+
+% IPA font - uses the main font which should support IPA
+% No character substitution - display IPA symbols as-is
 
 % ============================================
 % 4. COLOR DEFINITIONS
@@ -49,32 +84,6 @@
 \definecolor{forumred}{HTML}{E52B20}      % Main red color
 \definecolor{textblack}{HTML}{000000}      % Main text color
 \definecolor{watermarkgray}{HTML}{FFE5E5}  % Watermark color (lighter red)
-
-% ============================================
-% 5. IPA UNICODE CHARACTER SUPPORT
-% ============================================
-\newunicodechar{ɑ}{a}
-\newunicodechar{ː}{:}
-\newunicodechar{ˈ}{'}
-\newunicodechar{ˌ}{,}
-\newunicodechar{ə}{@}
-\newunicodechar{æ}{ae}
-\newunicodechar{ɪ}{I}
-\newunicodechar{ʊ}{U}
-\newunicodechar{ɔ}{O}
-\newunicodechar{ʌ}{A}
-\newunicodechar{ɛ}{E}
-\newunicodechar{ŋ}{ng}
-\newunicodechar{θ}{th}
-\newunicodechar{ð}{dh}
-\newunicodechar{ʃ}{sh}
-\newunicodechar{ʒ}{zh}
-\newunicodechar{ʧ}{ch}
-\newunicodechar{ʤ}{j}
-\newunicodechar{ɡ}{g}
-\newunicodechar{ɹ}{r}
-\newunicodechar{ɜ}{e}
-\newunicodechar{ɒ}{o}
 
 % ============================================
 % 6. PAGE LAYOUT
@@ -265,7 +274,9 @@
 \vspace{3.6cm}
 
 \noindent
+\begin{center}
 {\fontsize{14}{17}\sffamily\bfseries #3}
+\end{center}
 
 \vspace{12pt}
 }
