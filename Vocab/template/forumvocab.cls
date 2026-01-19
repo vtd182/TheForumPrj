@@ -125,6 +125,9 @@
 \setlength{\columnsep}{1.5cm}
 \setlength{\headheight}{40pt}
 
+% Page number styling (uses the new sans font)
+\newcommand{\forumvocab@pagenumfont}{\sffamily\bfseries\fontsize{14}{16}\selectfont}
+
 % ============================================
 % 7. WATERMARK (WITH GUARD)
 % ============================================
@@ -157,7 +160,7 @@
 
 % Footer - Red page number
 \fancyfoot[C]{%
-  \raisebox{0.15cm}{\textcolor{forumred}{\Large\bfseries\thepage}}%
+  \raisebox{0.15cm}{\textcolor{forumred}{{\forumvocab@pagenumfont\thepage}}}%
 }
 
 % ----- First Page Style -----
@@ -178,7 +181,7 @@
       \draw[forumred, line width=5pt] 
         (current page.south west) -- 
         (current page.south east);
-      \node[text=forumred, font=\Large\bfseries] 
+      \node[text=forumred, font=\forumvocab@pagenumfont] 
         at ([yshift=20pt]current page.south) 
         {\thepage};
     \end{tikzpicture}%
@@ -231,7 +234,7 @@
       \draw[forumred, line width=5pt] 
         (current page.south west) -- 
         (current page.south east);
-      \node[text=forumred, font=\Large\bfseries] 
+      \node[text=forumred, font=\forumvocab@pagenumfont] 
         at ([yshift=20pt]current page.south) 
         {\thepage};
     \end{tikzpicture}%

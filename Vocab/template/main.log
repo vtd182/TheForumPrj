@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  19 JAN 2026 15:29
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  19 JAN 2026 15:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -697,11 +697,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\TU/LatinModernSans(0)/b/n/14.4 extrapolate[] \TU/TimesNewRoman(0)/m/it/12 /Ik'straep@leIt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To
  []
 
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[1
 
-]
 Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []\TU/LatinModernSans(0)/b/n/14.4 ubiquitous[] \TU/TimesNewRoman(0)/m/it/12 /ju:'bIkwIt@s/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
@@ -711,7 +707,11 @@ Underfull \hbox (badness 6016) in paragraph at lines 89--89
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Smartphones have become
  []
 
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[1
 
+]
 Underfull \hbox (badness 10000) in paragraph at lines 95--95
 []\TU/LatinModernSans(0)/b/n/14.4 circumvent[] \TU/TimesNewRoman(0)/m/it/12 /'s3:k@mvent/ (v) \TU/LatinModernRoman(0)/m/n/12 — To
  []
@@ -772,12 +772,12 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 18930 strings out of 473832
- 441559 string characters out of 5729481
- 864456 words of memory out of 5000000
- 41678 multiletter control sequences out of 15000+600000
- 559189 words of font info for 80 fonts, out of 8000000 for 9000
+ 18927 strings out of 473832
+ 441320 string characters out of 5729481
+ 865468 words of memory out of 5000000
+ 41677 multiletter control sequences out of 15000+600000
+ 559173 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 131i,15n,135p,501b,968s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,15n,135p,501b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (2 pages).
