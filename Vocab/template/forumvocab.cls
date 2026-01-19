@@ -86,6 +86,15 @@
 % ============================================
 % 7. WATERMARK (WITH GUARD)
 % ============================================
+% Work around xdvipdfmx/shipout ordering where the first page can miss the
+% transparency resource and render the watermark fully opaque.
+\AtBeginDocument{%
+  \pgfsetfillopacity{0.15}%
+  \pgfsetstrokeopacity{0.15}%
+  \pgfsetfillopacity{1}%
+  \pgfsetstrokeopacity{1}%
+}
+
 % Guard to ensure watermark is only registered once
 \ifdefined\forumvocab@watermark@registered\else
   \newcommand{\forumvocab@watermark@registered}{}
