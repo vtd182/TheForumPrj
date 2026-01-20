@@ -26,13 +26,13 @@ But here’s the strange thing—about twenty minutes in, that anxiety just vani
 
 | Term | POS | IPA | Meaning (EN) | Meaning (VI) |
 |---|---|---|---|---|
-| Reality check |  |  | an occasion that makes you consider the facts exactly as they are | sự thức tỉnh trước thực tế |
-| Notorious |  |  | famous for something bad | khét tiếng |
-| Zero Tolerance |  |  | strict enforcement of regulations | không khoan nhượng |
-| Deafening |  |  | (metaphorically) very loud or noticeable | (nghĩa bóng) đinh tai nhức óc |
-| Phantom vibration |  |  | feeling a phone vibrate when it didn't | rung ảo |
-| Digital pacifier |  |  | something digital used to calm oneself | "núm vú giả" kỹ thuật số |
-| Deep flow |  |  | a mental state of complete focus | trạng thái tập trung sâu |
+| Reality check | n | /riˈæləti tʃek/ | an occasion that makes you consider the facts exactly as they are | sự thức tỉnh trước thực tế |
+| Notorious | adj | /nəʊˈtɔːriəs/ | famous for something bad | khét tiếng |
+| Zero Tolerance | n | /ˌzɪərəʊ ˈtɒlərəns/ | strict enforcement of regulations | không khoan nhượng |
+| Deafening | adj | /ˈdefənɪŋ/ | (metaphorically) very loud or noticeable | (nghĩa bóng) đinh tai nhức óc |
+| Phantom vibration | n phrase | /ˈfæntəm vaɪˈbreɪʃn/ | feeling a phone vibrate when it didn't | rung ảo |
+| Digital pacifier | n phrase | /ˈdɪdʒɪtl ˈpæsɪfaɪə(r)/ | something digital used to calm oneself | "núm vú giả" kỹ thuật số |
+| Deep flow | n phrase | /diːp fləʊ/ | a mental state of complete focus | trạng thái tập trung sâu |
 
 **How do young and old people use mobile phones differently?**
 
@@ -76,13 +76,13 @@ It broke the house down. I looked around, and it wasn't just polite chuckles; pe
 
 | Term | POS | IPA | Meaning (EN) | Meaning (VI) |
 |---|---|---|---|---|
-| Pinpoint |  |  | to identify something exactly | chỉ ra chính xác |
-| Stiff |  |  | formal and not relaxed | cứng nhắc |
-| Buzzing |  |  | full of excitement or activity | náo nhiệt |
-| Roasting |  |  | (slang) making fun of someone | châm chọc (hài hước) |
-| Spot-on |  |  | completely accurate | chính xác tuyệt đối |
-| Broke the house down |  |  | made the audience laugh extremely hard | làm khán phòng vỡ òa |
-| Collective exhale |  |  | everyone relaxing at the same time | sự thở phào nhẹ nhõm chung |
+| Pinpoint | v | /ˈpɪnpɔɪnt/ | to identify something exactly | chỉ ra chính xác |
+| Stiff | adj | /stɪf/ | formal and not relaxed | cứng nhắc |
+| Buzzing | adj | /ˈbʌzɪŋ/ | full of excitement or activity | náo nhiệt |
+| Roasting | n | /ˈrəʊstɪŋ/ | (slang) making fun of someone | châm chọc (hài hước) |
+| Spot-on | adj | /ˌspɒt ˈɒn/ | completely accurate | chính xác tuyệt đối |
+| Broke the house down | idiom | /brəʊk ðə haʊs daʊn/ | made the audience laugh extremely hard | làm khán phòng vỡ òa |
+| Collective exhale | n phrase | /kəˈlektɪv eksˈheɪl/ | everyone relaxing at the same time | sự thở phào nhẹ nhõm chung |
 
 **Do people smile more when they are younger or older?**
 
@@ -126,13 +126,13 @@ Watching her up there, controlling the room and commanding respect from judges w
 
 | Term | POS | IPA | Meaning (EN) | Meaning (VI) |
 |---|---|---|---|---|
-| Solidified |  |  | made something strong or certain | củng cố |
-| Painfully shy |  |  | extremely shy | ngại ngùng đến đau lòng |
-| Dead serious |  |  | completely serious | cực kỳ nghiêm túc |
-| War room |  |  | (metaphor) a room used for intense planning | phòng chiến lược |
-| On the fly |  |  | while something is happening; without preparation | ứng biến ngay lập tức |
-| Choked up |  |  | feeling like you might cry | nghẹn ngào |
-| Powerhouse |  |  | a person with great energy or ability | người tràn đầy năng lượng/tài năng |
+| Solidified | v | /səˈlɪdɪfaɪd/ | made something strong or certain | củng cố |
+| Painfully shy | adj phrase | /ˈpeɪnfəli ʃaɪ/ | extremely shy | ngại ngùng đến đau lòng |
+| Dead serious | adj phrase | /ded ˈsɪəriəs/ | completely serious | cực kỳ nghiêm túc |
+| War room | n | /ˈwɔː ruːm/ | (metaphor) a room used for intense planning | phòng chiến lược |
+| On the fly | idiom | /ɒn ðə flaɪ/ | while something is happening; without preparation | ứng biến ngay lập tức |
+| Choked up | adj | /tʃəʊkt ʌp/ | feeling like you might cry | nghẹn ngào |
+| Powerhouse | n | /ˈpaʊəhaʊs/ | a person with great energy or ability | người tràn đầy năng lượng/tài năng |
 
 **When would parents feel proud of their children?**
 
@@ -176,13 +176,13 @@ So, it’s not really about the object itself. It’s about the sense of control
 
 | Term | POS | IPA | Meaning (EN) | Meaning (VI) |
 |---|---|---|---|---|
-| Disintegrate |  |  | break into small parts/lose control | tan rã |
-| Archaic |  |  | very old or old-fashioned | cổ lỗ sĩ |
-| Psychological anchoring |  |  | making you feel mentally stable | neo giữ tâm lý |
-| Registers the urgency |  |  | notices that something is important/urgent | nhận thức được sự cấp bách |
-| Scrapbook |  |  | a book with stuck-in photos/cuttings | cuốn sổ lưu niệm |
-| Dopamine hit |  |  | a feeling of pleasure | cảm giác sung sướng (do hormone dopamine) |
-| Drifting |  |  | moving slowly without direction | trôi dạt vô định |
+| Disintegrate | v | /dɪsˈɪntɪɡreɪt/ | break into small parts/lose control | tan rã |
+| Archaic | adj | /ɑːˈkeɪɪk/ | very old or old-fashioned | cổ lỗ sĩ |
+| Psychological anchoring | n phrase | /ˌsaɪkəˈlɒdʒɪkl ˈæŋkərɪŋ/ | making you feel mentally stable | neo giữ tâm lý |
+| Registers the urgency | v phrase | /ˈredʒɪstəz ði ˈɜːdʒənsi/ | notices that something is important/urgent | nhận thức được sự cấp bách |
+| Scrapbook | n | /ˈskræpbʊk/ | a book with stuck-in photos/cuttings | cuốn sổ lưu niệm |
+| Dopamine hit | n phrase | /ˈdəʊpəmiːn hɪt/ | a feeling of pleasure | cảm giác sung sướng (do hormone dopamine) |
+| Drifting | adj | /ˈdrɪftɪŋ/ | moving slowly without direction | trôi dạt vô định |
 
 **Why do all children like toys?**
 
@@ -230,13 +230,13 @@ It’s the only place where I allow myself to be completely unproductive. Inside
 
 | Term | POS | IPA | Meaning (EN) | Meaning (VI) |
 |---|---|---|---|---|
-| Generous |  |  | kind; (here) describing something as better than it really is | hào phóng (ở đây nghĩa là nói quá lên) |
-| Escape pod |  |  | distinct safe place | khoang thoát hiểm (nghĩa bóng: nơi trốn tránh) |
-| Scavenged |  |  | collected from discarded items | lượm lặt, tìm kiếm |
-| Mini jungle |  |  | a small place with many plants | khu rừng nhỏ |
-| Panic spirals |  |  | getting more and more anxious | vòng xoáy hoảng loạn |
-| Neutral territory |  |  | a place belonging to no side | vùng trung lập |
-| Solitude |  |  | the state of being alone | sự cô đơn (tích cực) |
+| Generous | adj | /ˈdʒenərəs/ | kind; (here) describing something as better than it really is | hào phóng (ở đây nghĩa là nói quá lên) |
+| Escape pod | n | /ɪˈskeɪp pɒd/ | distinct safe place | khoang thoát hiểm (nghĩa bóng: nơi trốn tránh) |
+| Scavenged | v | /ˈskævɪndʒd/ | collected from discarded items | lượm lặt, tìm kiếm |
+| Mini jungle | n phrase | /ˈmɪni ˈdʒʌŋɡl/ | a small place with many plants | khu rừng nhỏ |
+| Panic spirals | n phrase | /ˈpænɪk ˈspaɪrəlz/ | getting more and more anxious | vòng xoáy hoảng loạn |
+| Neutral territory | n phrase | /ˈnjuːtrəl ˈterətri/ | a place belonging to no side | vùng trung lập |
+| Solitude | n | /ˈsɒlɪtjuːd/ | the state of being alone | sự cô đơn (tích cực) |
 
 **Why is it difficult for some people to relax?**
 
@@ -280,13 +280,13 @@ But the worst part was the complete lack of logic. Characters would make these b
 
 | Term | POS | IPA | Meaning (EN) | Meaning (VI) |
 |---|---|---|---|---|
-| Hook, line, and sinker |  |  | completely (believed a trick/lie) | tin sái cổ (cắn câu) |
-| The "it couple" |  |  | the most popular couple at the moment | cặp đôi đình đám |
-| Brain detox |  |  | doing something simple to rest the brain | "thải độc" cho não |
-| Second-hand embarrassment |  |  | feeling embarrassed for someone else | ngại dùm người khác |
-| Came off as |  |  | appeared to be | có vẻ như |
-| Baffling |  |  | impossible to understand | khó hiểu, kỳ quặc |
-| Style and zero substance |  |  | looks good but has no meaning | tốt nước sơn mà không tốt gỗ |
+| Hook, line, and sinker | idiom | /hʊk laɪn ənd ˈsɪŋkə(r)/ | completely (believed a trick/lie) | tin sái cổ (cắn câu) |
+| The "it couple" | n phrase | /ði ɪt ˈkʌpl/ | the most popular couple at the moment | cặp đôi đình đám |
+| Brain detox | n phrase | /breɪn ˈdiːtɒks/ | doing something simple to rest the brain | "thải độc" cho não |
+| Second-hand embarrassment | n phrase | /ˌsekənd hænd ɪmˈbærəsmənt/ | feeling embarrassed for someone else | ngại dùm người khác |
+| Came off as | phrasal verb | /keɪm ɒf əz/ | appeared to be | có vẻ như |
+| Baffling | adj | /ˈbæflɪŋ/ | impossible to understand | khó hiểu, kỳ quặc |
+| Style and zero substance | phrase | /staɪl ənd ˈzɪərəʊ ˈsʌbstəns/ | looks good but has no meaning | tốt nước sơn mà không tốt gỗ |
 
 **Do you believe movie reviews?**
 

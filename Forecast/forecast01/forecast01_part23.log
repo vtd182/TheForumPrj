@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  20 JAN 2026 13:53
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  20 JAN 2026 14:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -933,6 +933,11 @@ File: ./templates/logoTF.png Graphic file (type bmp)
 ]
 Overfull \hbox (14.9883pt too wide) in paragraph at lines 178--178
 \TU/LatinModernRoman(0)/b/n/10.95 embarrassment|  
+ []
+
+
+Overfull \hbox (2.51144pt too wide) in paragraph at lines 178--178
+\TU/TimesNewRoman(0)/m/it/10.95 ɪmˈbærəsmənt/|  
  []
 
 

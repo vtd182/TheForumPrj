@@ -705,7 +705,7 @@ def write_part23_interleaved_tex(
         if t.part3_qas:
             parts.append("\\clearpage\n")
             parts.append("\\begin{center}{\\color{topicblue}\\sffamily\\bfseries ")
-            parts.append("Topic " + str(idx) + ": " + latex_escape(t.title))
+            parts.append(latex_escape(t.title))
             parts.append("}\\end{center}\n")
             parts.append("\\vspace{10pt}\n")
             for qa in t.part3_qas:
