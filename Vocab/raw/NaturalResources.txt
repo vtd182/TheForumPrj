@@ -1,7 +1,6 @@
 Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **Natural Resources (Tài nguyên thiên nhiên)**. Các từ vựng được biên soạn kỹ lưỡng, tuân thủ chặt chẽ định dạng trải phẳng (flat) chi tiết: Từ vựng (Từ loại) /Phiên âm/: Nghĩa tiếng Anh (Giải thích chi tiết nghĩa tiếng Việt).
 
 ---
-
 1. **Abundance (n) /əˈbʌndəns/:** A very large quantity of something. (Đây là một danh từ dùng để chỉ sự phong phú hoặc sự dồi dào của một nguồn tài nguyên nào đó.).
 Ví dụ: The region is known for its abundance of natural gas and precious metals.
 
@@ -457,7 +456,7 @@ Ví dụ: The supply of natural gas was cut off due to a technical problem.
 
 ---
 
-1. **Surface (n) /ˈsɜːrfɪs/:** The outside part or upper layer of something. (Đây là một danh từ dùng để chỉ bề mặt Trái Đất nơi khai thác tài nguyên.).
+92. **Surface (n) /ˈsɜːrfɪs/:** The outside part or upper layer of something. (Đây là một danh từ dùng để chỉ bề mặt Trái Đất nơi khai thác tài nguyên.).
 Ví dụ: Open-pit mining involves removing the surface layer of the earth.
 
 ---

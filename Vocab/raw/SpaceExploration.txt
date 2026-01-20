@@ -1,0 +1,952 @@
+Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **Space Exploration (Khám phá Không gian)**. Các từ vựng được biên soạn kỹ lưỡng, tuân thủ chặt chẽ định dạng trải phẳng (flat) chi tiết: Từ vựng (Từ loại) /Phiên âm/: Nghĩa tiếng Anh (Giải thích chi tiết nghĩa tiếng Việt).
+
+---
+1. **Astronaut (n) /ˈæstrənɔːt/:** A person who is trained to travel in a spacecraft. (Đây là một danh từ dùng để chỉ phi hành gia, người được đào tạo để làm việc trong không gian.).
+Ví dụ: Becoming an astronaut requires years of intensive physical and mental training.
+
+---
+
+2. **Cosmos (n) /ˈkɑːzmoʊs/:** The universe seen as a well-ordered whole. (Đây là một danh từ dùng để chỉ vũ trụ, thường mang sắc thái bao la và có trật tự.).
+Ví dụ: Ancient philosophers spent their lives trying to understand the mysteries of the cosmos.
+
+---
+
+3. **Spacecraft (n) /ˈspeɪskræft/:** A vehicle or machine designed to fly in outer space. (Đây là một danh từ dùng để chỉ tàu vũ trụ hoặc các thiết bị bay trong không gian.).
+Ví dụ: The unmanned spacecraft successfully landed on the surface of Mars last night.
+
+---
+
+4. **Orbit (v) /ˈɔːrbɪt/:** (Lặp lại lần 3 để ghi nhớ hành động của vệ tinh).
+Ví dụ: Thousands of pieces of space junk are currently orbiting the Earth at high speeds.
+
+---
+
+5. **Celestial (adj) /səˈlestʃl/:** Positioned in or relating to the sky, or outer space as observed in astronomy. (Đây là một tính từ dùng để chỉ các thiên thể hoặc những gì thuộc về bầu trời/vũ trụ.).
+Ví dụ: Stars, planets, and comets are all examples of celestial bodies.
+
+---
+
+6. **Gravity (n) /ˈɡrævəti/:** The force that attracts a body toward the center of the earth, or toward any other physical body having mass. (Đây là một danh từ dùng để chỉ trọng lực.).
+Ví dụ: Astronauts experience weightlessness because of the lack of gravity in outer space.
+
+---
+
+7. **Satellite (n) /ˈsætəlaɪt/:** An artificial body placed in orbit around the earth or moon or another planet in order to collect information or for communication. (Đây là một danh từ dùng để chỉ vệ tinh nhân tạo hoặc vệ tinh tự nhiên.).
+Ví dụ: Weather satellites provide essential data for predicting hurricanes and storms.
+
+---
+
+8. **Interstellar (adj) /ˌɪntərˈstelər/:** Occurring or situated between stars. (Đây là một tính từ dùng để chỉ không gian hoặc hành trình giữa các vì sao.).
+Ví dụ: Interstellar travel remains a dream for scientists due to the vast distances involved.
+
+---
+
+9. **Galaxy (n) /ˈɡæləksi/:** A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction. (Đây là một danh từ dùng để chỉ thiên hà.).
+Ví dụ: The Milky Way is the galaxy that contains our entire solar system.
+
+---
+
+10. **Telescope (n) /ˈtelɪskoʊp/:** An optical instrument designed to make distant objects appear nearer. (Đây là một danh từ dùng để chỉ kính thiên văn.).
+Ví dụ: The James Webb Space Telescope has captured stunning images of early galaxies.
+
+---
+
+11. **Rocketry (n) /ˈrɑːkɪtri/:** The branch of science and technology concerned with rockets. (Đây là một danh từ dùng để chỉ ngành chế tạo và sử dụng tên lửa.).
+Ví dụ: Modern rocketry has allowed humans to send probes to the outer edges of the solar system.
+
+---
+
+12. **Launch (v/n) /lɔːntʃ/:** To send a rocket, missile, or satellite into the air or upper atmosphere. (Đây là một động từ/danh từ chỉ việc phóng (tên lửa/tàu vũ trụ) hoặc buổi phóng.).
+Ví dụ: Thousands of people gathered to watch the launch of the latest lunar mission.
+
+---
+
+13. **Colonization (n) /ˌkɑːlənəˈzeɪʃn/:** The action or process of settling among and establishing control over a place, often a planet in this context. (Đây là một danh từ dùng để chỉ sự định cư hoặc thuộc địa hóa (ví dụ: định cư trên sao Hỏa).).
+Ví dụ: Elon Musk has often spoken about the eventual colonization of Mars to ensure human survival.
+
+---
+
+14. **Atmosphere (n) /ˈætməsfɪr/:** The envelope of gases surrounding the earth or another planet. (Đây là một danh từ dùng để chỉ bầu khí quyển.).
+Ví dụ: Mars has a very thin atmosphere compared to Earth, making it difficult for humans to breathe.
+
+---
+
+15. **Extraterrestrial (adj) /ˌekstrətəˈrestriəl/:** Of or from outside the earth or its atmosphere. (Đây là một tính từ dùng để chỉ những gì ngoài Trái Đất hoặc thuộc về người ngoài hành tinh.).
+Ví dụ: Scientists are constantly searching for signs of extraterrestrial life on distant moons.
+
+---
+
+16. **Probe (n) /proʊb/:** An unmanned exploratory spacecraft that transmits information from its surroundings. (Đây là một danh từ dùng để chỉ tàu thăm dò không người lái.).
+Ví dụ: The Voyager probe has been traveling through space for over forty years.
+
+---
+
+17. **Solar System (n) /ˈsoʊlər ˌsɪstəm/:** The collection of eight planets and their moons in orbit around the sun. (Đây là một cụm danh từ dùng để chỉ Hệ Mặt Trời.).
+Ví dụ: There are eight confirmed planets in our solar system, with Earth being the third from the Sun.
+
+---
+
+18. **Black hole (n) /ˈblæk hoʊl/:** A region of space having a gravitational field so intense that no matter or radiation can escape. (Đây là một cụm danh từ dùng để chỉ hố đen.).
+Ví dụ: A black hole is formed when a massive star collapses at the end of its life cycle.
+
+---
+
+19. **Astrophysics (n) /ˌæstroʊˈfɪzɪks/:** The branch of astronomy concerned with the physical nature of stars and other celestial bodies. (Đây là một danh từ dùng để chỉ ngành vật lý thiên văn.).
+Ví dụ: Studying astrophysics helps us understand how the universe began and how it will end.
+
+---
+
+20. **Nebula (n) /ˈnebjələ/:** A cloud of gas and dust in outer space, visible in the night sky as an indistinct bright patch. (Đây là một danh từ dùng để chỉ tinh vân.).
+Ví dụ: Stars are born within vast clouds of gas known as a nebula.
+
+---
+
+21. **Eclipse (v) /ɪˈklɪps/:** (Of a celestial body) obscure the light from or to (another celestial body). (Đây là một động từ dùng để chỉ việc che khuất ánh sáng.).
+Ví dụ: The Moon will eclipse the Sun for several minutes during the afternoon.
+
+---
+
+22. **Meteor (n) /ˈmiːtiər/:** A small body of matter from outer space that enters the earth's atmosphere, becoming incandescent as a result of friction. (Đây là một danh từ dùng để chỉ sao băng.).
+Ví dụ: We saw a bright meteor streak across the sky during the meteor shower last night.
+
+---
+
+23. **Comet (n) /ˈkɑːmət/:** A celestial object consisting of a nucleus of ice and dust and, when near the sun, a ‘tail’ of gas and dust particles pointing away from the sun. (Đây là một danh từ dùng để chỉ sao chổi.).
+Ví dụ: Halley's Comet is visible from Earth only once every 75 to 76 years.
+
+---
+
+24. **Supernova (n) /ˌsuːpərˈnoʊvə/:** A star that suddenly increases greatly in brightness because of a catastrophic explosion that ejects most of its mass. (Đây là một danh từ dùng để chỉ siêu tân tinh.).
+Ví dụ: A supernova explosion can briefly outshine an entire galaxy.
+
+---
+
+25. **Vacuum (n) /ˈvækjuːm/:** A space entirely devoid of matter. (Đây là một danh từ dùng để chỉ môi trường chân không trong không gian.).
+Ví dụ: Sound cannot travel through the vacuum of space because there are no air molecules to carry it.
+
+---
+
+26. **Radiation (n) /ˌreɪdiˈeɪʃn/:** The emission of energy as electromagnetic waves or as moving subatomic particles. (Đây là một danh từ dùng để chỉ bức xạ vũ trụ, một mối nguy hiểm cho phi hành gia.).
+Ví dụ: Spacecraft must be heavily shielded to protect crews from harmful cosmic radiation.
+
+---
+
+27. **Trajectory (n) /trəˈdʒektəri/:** (Lặp lại lần 2 để ghi nhớ đường bay).
+Ví dụ: A small error in the spacecraft's trajectory could cause it to miss its target planet.
+
+---
+
+28. **Thruster (n) /ˈθrʌstər/:** A small rocket engine used for maneuvering or maintaining the attitude of a spacecraft. (Đây là một danh từ dùng để chỉ động cơ đẩy điều hướng.).
+Ví dụ: The pilot used the thrusters to dock the capsule with the space station.
+
+---
+
+29. **Payload (n) /ˈpeɪloʊd/:** (Lặp lại lần 3 để ghi nhớ khối lượng hữu ích).
+Ví dụ: The cost of a space mission is largely determined by the weight of the payload.
+
+---
+
+30. **Re-entry (n) /riː ˈentri/:** The action of an object re-entering the earth's atmosphere from outer space. (Đây là một danh từ dùng để chỉ quá trình tàu vũ trụ trở lại bầu khí quyển Trái Đất.).
+Ví dụ: During re-entry, the heat shield must withstand temperatures of thousands of degrees.
+
+---
+
+31. **Exoplanet (n) /ˈeksoʊˌplænɪt/:** A planet which orbits a star outside the solar system. (Đây là một danh từ dùng để chỉ hành tinh ngoài hệ mặt trời.).
+Ví dụ: Astronomers have found thousands of exoplanets that might have liquid water.
+
+---
+
+32. **Propulsion (n) /prəˈpʌlʃn/:** The action of driving or pushing forward. (Đây là một danh từ dùng để chỉ hệ thống đẩy hoặc lực đẩy của tên lửa.).
+Ví dụ: Ion propulsion is a highly efficient technology used for long-distance space missions.
+
+---
+
+33. **Capsule (n) /ˈkæpsuːl/:** A small spacecraft or part of a larger one that is designed to return to Earth with a crew or instruments. (Đây là một danh từ dùng để chỉ khoang tàu vũ trụ.).
+Ví dụ: The astronauts returned safely to Earth in a small metal capsule.
+
+---
+
+34. **Module (n) /ˈmɑːdʒuːl/:** Each of a set of parts or units that can be used to construct a more complex structure, such as a space station. (Đây là một danh từ dùng để chỉ các khoang hoặc mô-đun lắp ghép.).
+Ví dụ: The Russian service module provides power and life support to the space station.
+
+---
+
+35. **Lunar (adj) /ˈluːnər/:** Of, determined by, or resembling the moon. (Đây là một tính từ dùng để chỉ những gì thuộc về mặt trăng.).
+Ví dụ: The Apollo missions provided us with a wealth of information about the lunar surface.
+
+---
+
+36. **Altitude (n) /ˈæltɪtuːd/:** The height of an object or point in relation to sea level or ground level. (Đây là một danh từ dùng để chỉ độ cao so với mặt nước biển hoặc bề mặt hành tinh.).
+Ví dụ: The satellite is orbiting at an altitude of five hundred kilometers.
+
+---
+
+37. **Asteroid (n) /ˈæstərɔɪd/:** A small rocky body orbiting the sun. (Đây là một danh từ dùng để chỉ tiểu hành tinh.).
+Ví dụ: NASA is developing a plan to deflect any asteroid that might threaten the Earth.
+
+---
+
+38. **Observatory (n) /əbˈzɜːrvətɔːri/:** A room or building housing an astronomical telescope or other scientific equipment for the study of natural phenomena. (Đây là một danh từ dùng để chỉ đài quan sát thiên văn.).
+Ví dụ: The observatory is located on top of a mountain to avoid light pollution from the city.
+
+---
+
+39. **Cosmology (n) /kɑːzˈmɑːlədʒi/:** The science of the origin and development of the universe. (Đây là một danh từ dùng để chỉ vũ trụ học.).
+Ví dụ: Modern cosmology is based on the Big Bang theory.
+
+---
+
+40. **Docking (n) /ˈdɑːkɪŋ/:** The process of two spacecraft joining together in space. (Đây là một danh từ dùng để chỉ việc kết nối/ghép nối các tàu vũ trụ trong không gian.).
+Ví dụ: The docking procedure was successful, allowing the crew to move between the two ships.
+
+---
+
+41. **Cosmonaut (n) /ˈkɑːzmənɔːt/:** A Russian astronaut. (Đây là một danh từ dùng để chỉ phi hành gia người Nga.).
+Ví dụ: Yuri Gagarin was the first cosmonaut to orbit the Earth in 1961.
+
+---
+
+42. **Telemetry (n) /təˈlemətri/:** (Lặp lại để ghi nhớ việc truyền dữ liệu từ không gian).
+Ví dụ: The scientists used telemetry to monitor the health of the astronauts during their mission.
+
+---
+
+43. **Light-year (n) /ˈlaɪt jɪr/:** A unit of astronomical distance equivalent to the distance that light travels in one year. (Đây là một danh từ dùng để chỉ năm ánh sáng.).
+Ví dụ: The nearest star system, Alpha Centauri, is about 4.3 light-years away.
+
+---
+
+44. **Spectroscopy (n) /spekˈtrɑːskəpi/:** The branch of science concerned with the investigation and measurement of spectra produced when matter interacts with or emits electromagnetic radiation. (Đây là một danh từ dùng để chỉ quang phổ học, giúp xác định thành phần của các ngôi sao.).
+Ví dụ: Spectroscopy allows astronomers to determine the chemical composition of distant stars.
+
+---
+
+45. **Parallax (n) /ˈpærəlæks/:** The effect whereby the position or direction of an object appears to differ when viewed from different positions. (Đây là một danh từ dùng để chỉ thị sai, phương pháp đo khoảng cách các vì sao.).
+Ví dụ: Stellar parallax is used to measure the distance of nearby stars from our solar system.
+
+---
+
+46. **Manifest (n) /ˈmænɪfest/:** A document listing the cargo, passengers, and crew of a ship or aircraft. (Trong không gian, đây là danh sách hàng hóa/thiết bị mang theo.).
+Ví dụ: The mission manifest included several scientific experiments and two new satellites.
+
+---
+
+47. **Avionics (n) /ˌeɪviˈɑːnɪks/:** Electronic equipment used in aircraft and spacecraft. (Đây là một danh từ dùng để chỉ hệ thống điện tử hàng không vũ trụ.).
+Ví dụ: A failure in the ship's avionics made it difficult for the pilot to maintain control.
+
+---
+
+48. **Centrifuge (n) /ˈsentrɪfjuːdʒ/:** A machine with a rapidly rotating container that applies centrifugal force to its contents. (Dùng để huấn luyện phi hành gia chịu lực G.).
+Ví dụ: Astronauts train in a large centrifuge to prepare for the intense forces of launch and re-entry.
+
+---
+
+49. **Inertia (n) /ɪˈnɜːrʃə/:** (Lặp lại để nhấn mạnh tính chất vật lý của vật thể trong không gian).
+Ví dụ: Due to inertia, an astronaut floating in space will continue to drift unless they use a thruster.
+
+---
+
+50. **Combustion (n) /kəmˈbʌstʃən/:** The process of burning something. (Trong tên lửa, đây là sự đốt cháy nhiên liệu.).
+Ví dụ: Efficient combustion in the rocket engine is necessary to produce maximum thrust.
+
+---
+
+51. **Cryogenic (adj) /ˌkraɪoʊˈdʒenɪk/:** Relating to or involving the production of very low temperatures. (Đây là một tính từ dùng để chỉ nhiên liệu tên lửa siêu lạnh.).
+Ví dụ: Many modern rockets use cryogenic liquid oxygen and hydrogen as fuel.
+
+---
+
+52. **Hypervelocity (n) /ˌhaɪpərvəˈlɑːsəti/:** Extremely high velocity. (Đây là một danh từ dùng để chỉ vận tốc siêu cực lớn.).
+Ví dụ: Space debris traveling at hypervelocity can cause significant damage to satellites.
+
+---
+
+53. **Orbiter (n) /ˈɔːrbɪtər/:** A spacecraft designed to go into orbit around a celestial body without landing on it. (Đây là một danh từ dùng để chỉ tàu quay quanh quỹ đạo.).
+Ví dụ: The Mars Reconnaissance Orbiter has been studying the planet's surface for many years.
+
+---
+
+54. **Lander (n) /ˈlændər/:** A spacecraft designed to land on the surface of a planet or moon. (Đây là một danh từ dùng để chỉ tàu đổ bộ.).
+Ví dụ: The lunar lander carried the first humans to the surface of the Moon in 1969.
+
+---
+
+55. **Rover (n) /ˈroʊvər/:** A space exploration vehicle designed to move across the surface of a planet or other celestial body. (Đây là một danh từ dùng để chỉ xe tự hành thăm dò bề mặt hành tinh.).
+Ví dụ: The Curiosity rover has discovered evidence of ancient water on Mars.
+
+---
+
+56. **Aeronautics (n) /ˌerəˈnɔːtɪks/:** The science or practice of travel through the air. (Đây là một danh từ dùng để chỉ ngành hàng không.).
+Ví dụ: NASA stands for the National Aeronautics and Space Administration.
+
+---
+
+57. **Simulated (adj) /ˈsɪmjuleɪtɪd/:** Manufactured in imitation of some other object; mock. (Dùng để chỉ các môi trường giả lập huấn luyện.).
+Ví dụ: Astronauts spend hundreds of hours in simulated space environments before their mission.
+
+---
+
+58. **Microgravity (n) /ˌmaɪkroʊˈɡrævəti/:** Very weak gravity, as in an orbiting spacecraft. (Đây là một danh từ dùng để chỉ môi trường vi trọng lực.).
+Ví dụ: Experiments conducted in microgravity provide unique insights into physical processes.
+
+---
+
+59. **Life-support (n) /ˈlaɪf səˌpɔːrt/:** Equipment that allows a person to survive in a place where they would normally die. (Đây là một cụm danh từ dùng để chỉ hệ thống duy trì sự sống.).
+Ví dụ: A failure in the life-support system is one of the most dangerous situations in space.
+
+---
+
+60. **Space suit (n) /ˈspeɪs suːt/:** A garment designed to allow an astronaut to survive in space. (Đây là một cụm danh từ dùng để chỉ bộ đồ vũ trụ.).
+Ví dụ: A space suit provides oxygen, temperature control, and protection from radiation.
+
+---
+
+61. **Spacewalk (n) /ˈspeɪswɔːk/:** An act of physical activity done by an astronaut in space outside a spacecraft. (Đây là một danh từ dùng để chỉ việc đi bộ ngoài không gian.).
+Ví dụ: The astronauts performed a six-hour spacewalk to repair a broken antenna.
+
+---
+
+62. **Astrobiology (n) /ˌæstroʊbaɪˈɑːlə dʒi/:** (Lặp lại để nhấn mạnh nghĩa nghiên cứu sự sống ngoài trái đất).
+Ví dụ: Astrobiology is a multidisciplinary field that combines biology, chemistry, and physics.
+
+---
+
+63. **Radio telescope (n) /ˈreɪdioʊ ˈtelɪskoʊp/:** An instrument used to detect radio emissions from sky objects. (Đây là một cụm danh từ dùng để chỉ kính thiên văn vô tuyến.).
+Ví dụ: Radio telescopes can see objects that are invisible to optical telescopes.
+
+---
+
+64. **Interplanetary (adj) /ˌɪntərˈplænəteri/:** Situated or occurring between planets. (Đây là một tính từ dùng để chỉ các hành trình giữa các hành tinh.).
+Ví dụ: Interplanetary missions require complex calculations to account for planetary motion.
+
+---
+
+65. **Horizon (n) /həˈraɪzn/:** The line at which the earth's surface and the sky appear to meet; in space, the "event horizon" of a black hole. (Đây là một danh từ dùng để chỉ đường chân trời hoặc chân trời sự kiện.).
+Ví dụ: Nothing, not even light, can escape from beyond the event horizon of a black hole.
+
+---
+
+66. **Magnetosphere (n) /mæɡˈniːtəsfɪr/:** The region surrounding the earth or another astronomical body in which its magnetic field is the predominant effective magnetic field. (Đây là một danh từ dùng để chỉ từ quyển.).
+Ví dụ: The Earth's magnetosphere protects us from the solar wind and cosmic rays.
+
+---
+
+67. **Solar wind (n) /ˈsoʊlər wɪnd/:** A continuous stream of charged particles from the sun. (Đây là một cụm danh từ dùng để chỉ gió mặt trời.).
+Ví dụ: The solar wind can interfere with satellite communications and power grids on Earth.
+
+---
+
+68. **Quasar (n) /ˈkweɪzɑːr/:** A massive and extremely remote celestial object, emitting exceptionally large amounts of energy. (Đây là một danh từ dùng để chỉ chuẩn tinh.).
+Ví dụ: Quasars are among the brightest and most distant objects in the universe.
+
+---
+
+69. **Pulsar (n) /ˈpʌlsɑːr/:** A celestial object, thought to be a rapidly rotating neutron star, that emits regular pulses of radio waves. (Đây là một danh từ dùng để chỉ sao xung.).
+Ví dụ: The regular pulses of a pulsar can be used as extremely accurate cosmic clocks.
+
+---
+
+70. **Dark matter (n) /dɑːrk ˈmætər/:** Non-luminous material that is postulated to exist in space. (Đây là một cụm danh từ dùng để chỉ vật chất tối.).
+Ví dụ: Scientists believe that dark matter makes up about 85% of the matter in the universe.
+
+---
+
+71. **Dark energy (n) /dɑːrk ˈenərdʒi/:** A theoretical repulsive force that counteracts gravity and causes the universe to expand at an accelerating rate. (Đây là một cụm danh từ dùng để chỉ năng lượng tối.).
+Ví dụ: Dark energy is thought to be responsible for the accelerating expansion of the universe.
+
+---
+
+72. **Singularity (n) /ˌsɪŋɡjuˈlærəti/:** A point at which a function takes an infinite value, especially in space-time at the center of a black hole. (Đây là một danh từ dùng để chỉ điểm kỳ dị.).
+Ví dụ: All the mass of a black hole is concentrated in a single point called a singularity.
+
+---
+
+73. **Spacetime (n) /ˈspeɪstaɪm/:** The four-dimensional continuum of the three spatial coordinates plus time. (Đây là một danh từ dùng để chỉ không-thời gian.).
+Ví dụ: Einstein's theory of general relativity describes gravity as the curvature of spacetime.
+
+---
+
+74. **Equilibrium (n) /ˌiːkwɪˈlɪbriəm/:** A state in which opposing forces or influences are balanced. (Trong vũ trụ học là trạng thái cân bằng của các ngôi sao.).
+Ví dụ: A star remains stable as long as there is an equilibrium between gravity and nuclear fusion.
+
+---
+
+75. **Accretion (n) /əˈkriːʃn/:** The coming together and cohesion of matter under the influence of gravitation to form larger bodies. (Đây là một danh từ dùng để chỉ sự bồi tụ vật chất.).
+Ví dụ: Planets are formed through the accretion of dust and gas in a young solar system.
+
+---
+
+76. **Escape velocity (n) /ɪˈskeɪp vəˌlɑːsəti/:** The lowest velocity which a body must have in order to escape the gravitational attraction of a particular planet or other object. (Đây là một cụm danh từ dùng để chỉ vận tốc thoát.).
+Ví dụ: A rocket must reach escape velocity to break free from Earth's gravity and travel to other planets.
+
+---
+
+77. **Solar flare (n) /ˈsoʊlər fler/:** A brief eruption of intense high-energy radiation from the sun's surface. (Đây là một cụm danh từ dùng để chỉ bùng nổ mặt trời.).
+Ví dụ: A massive solar flare can disrupt electronics on Earth and pose a risk to astronauts.
+
+---
+
+78. **Sunspot (n) /ˈsʌnspɑːt/:** A spot or patch appearing from time to time on the sun's surface, appearing dark by contrast with its surroundings. (Đây là một danh từ dùng để chỉ vết đen mặt trời.).
+Ví dụ: Sunspots are regions of reduced surface temperature caused by intense magnetic activity.
+
+---
+
+79. **Astrochemistry (n) /ˌæstroʊˈkemɪstri/:** The branch of science concerned with the study of the chemical substances and species occurring in stars and interstellar space. (Đây là một danh từ dùng để chỉ ngành hóa học vũ trụ.).
+Ví dụ: Astrochemistry helps us understand how organic molecules can form in space.
+
+---
+
+80. **Geocentric (adj) /ˌdʒiːoʊˈsentrɪk/:** Having or representing the earth as the center. (Đây là một tính từ dùng để chỉ thuyết địa tâm (Trái Đất là trung tâm).).
+Ví dụ: The geocentric model of the universe was replaced by the heliocentric model centuries ago.
+
+---
+
+81. **Heliocentric (adj) /ˌhiːlioʊˈsentrɪk/:** Having or representing the sun as the center. (Đây là một tính từ dùng để chỉ thuyết nhật tâm (Mặt Trời là trung tâm).).
+Ví dụ: Copernicus was one of the first scientists to propose a heliocentric model of our solar system.
+
+---
+
+82. **Apogee (n) /ˈæpədʒiː/:** The point in the orbit of the moon or a satellite at which it is furthest from the earth. (Đây là một danh từ dùng để chỉ điểm viễn địa (điểm xa Trái Đất nhất trên quỹ đạo).).
+Ví dụ: The satellite reaches its apogee at a distance of thirty-six thousand kilometers.
+
+---
+
+83. **Perigee (n) /ˈperɪdʒiː/:** The point in the orbit of the moon or a satellite at which it is nearest to the earth. (Đây là một danh từ dùng để chỉ điểm cận địa (điểm gần Trái Đất nhất trên quỹ đạo).).
+Ví dụ: At perigee, the Moon appears slightly larger and brighter in the night sky.
+
+---
+
+84. **Perihelion (n) /ˌperɪˈhiːliən/:** The point in the orbit of a planet, comet, or other body at which it is closest to the sun. (Đây là một danh từ dùng để chỉ điểm cận nhật.).
+Ví dụ: The Earth reaches perihelion in early January each year.
+
+---
+
+85. **Aphelion (n) /æpˈhiːliən/:** The point in the orbit of a planet, comet, or other body at which it is furthest from the sun. (Đây là một danh từ dùng để chỉ điểm viễn nhật.).
+Ví dụ: Despite being at aphelion in July, the Northern Hemisphere is warmer due to the Earth's tilt.
+
+---
+
+86. **Nadir (n) /ˈneɪdɪr/:** The point on the celestial sphere directly below an observer. (Đây là một danh từ dùng để chỉ điểm thiên để, đối diện với thiên đỉnh.).
+Ví dụ: In astronomy, the nadir is the point directly opposite the zenith.
+
+---
+
+87. **Zenith (n) /ˈziːnɪθ/:** The point on the celestial sphere vertically above an observer. (Đây là một danh từ dùng để chỉ thiên đỉnh.).
+Ví dụ: The sun reaches its zenith at midday in the tropics.
+
+---
+
+88. **Declination (n) /ˌdeklɪˈneɪʃn/:** The angular distance of a point north or south of the celestial equator. (Đây là một danh từ dùng để chỉ xích vĩ (tọa độ trên bầu trời).).
+Ví dụ: Declination and right ascension are used to map the positions of stars.
+
+---
+
+89. **Ascension (n) /əˈsenʃn/:** The act of rising to an important position or a higher level. (Trong thiên văn là "Right Ascension" - xích kinh.).
+Ví dụ: Astronomers use right ascension to pinpoint the exact location of a celestial object.
+
+---
+
+90. **Magnitude (n) /ˈmæɡnɪtuːd/:** The great size or importance of something; in astronomy, the brightness of a star. (Đây là một danh từ dùng để chỉ cấp sao hoặc độ sáng của một thiên thể.).
+Ví dụ: Stars with a lower magnitude value are actually brighter than those with higher values.
+
+---
+
+91. **Parsec (n) /ˈpɑːrsek/:** A unit of distance used in astronomy, equal to about 3.26 light-years. (Đây là một danh từ dùng để chỉ đơn vị thị sai giây - parsec.).
+Ví dụ: Most distant galaxies are located millions or even billions of parsecs away.
+
+---
+
+92. **Light-pollution (n) /laɪt pəˈluːʃn/:** Brightening of the night sky caused by street lights and other man-made sources. (Đây là một cụm danh từ dùng để chỉ ô nhiễm ánh sáng.).
+Ví dụ: Light pollution makes it very difficult for city dwellers to see the stars at night.
+
+---
+
+93. **Constellation (n) /ˌkɑːnstəˈleɪʃn/:** A group of stars forming a recognizable pattern. (Đây là một danh từ dùng để chỉ chòm sao.).
+Ví dụ: Orion is one of the most easily recognized constellations in the winter sky.
+
+---
+
+94. **Zodiac (n) /ˈzoʊdiæk/:** A belt of the heavens within about 8° either side of the ecliptic. (Đây là một danh từ dùng để chỉ cung hoàng đạo.).
+Ví dụ: The twelve signs of the zodiac are based on the constellations the sun passes through.
+
+---
+
+95. **Equinox (n) /ˈekwɪnɑːks/:** The time or date (twice each year) at which the sun crosses the celestial equator. (Đây là một danh từ dùng để chỉ điểm phân (xuân phân hoặc thu phân).).
+Ví dụ: During the equinox, day and night are of approximately equal length all over the world.
+
+---
+
+96. **Solstice (n) /ˈsɑːlstɪs/:** Either of the two times in the year when the sun reaches its highest or lowest point in the sky at noon. (Đây là một danh từ dùng để chỉ điểm chí (hạ chí hoặc đông chí).).
+Ví dụ: The summer solstice is the longest day of the year in the Northern Hemisphere.
+
+---
+
+97. **Rotate (v) /ˈroʊteɪt/:** Move or cause to move in a circle around an axis or center. (Đây là một động từ dùng để chỉ sự tự quay quanh trục.).
+Ví dụ: The Earth rotates on its axis once every twenty-four hours.
+
+---
+
+98. **Revolution (n) /ˌrevəˈluːʃn/:** The movement of one object around a center or another object. (Đây là một danh từ dùng để chỉ sự chuyển động trên quỹ đạo.).
+Ví dụ: The Earth's revolution around the Sun causes the change of seasons.
+
+---
+
+99. **Tidal (adj) /ˈtaɪdl/:** Relating to or affected by tides. (Tính từ chỉ thuộc về thủy triều hoặc lực triều.).
+Ví dụ: Tidal forces from the Moon cause the oceans on Earth to rise and fall.
+
+---
+
+100. **Crater (n) /ˈkreɪtər/:** A large, bowl-shaped cavity in the ground or on the surface of a planet or the moon. (Đây là một danh từ dùng để chỉ hố va chạm hoặc miệng núi lửa.).
+Ví dụ: The surface of the Moon is covered in thousands of impact craters.
+
+---
+
+101. **Mantle (n) /ˈmæntl/:** The region of the interior of a terrestrial planet between the core and the crust. (Đây là một danh từ dùng để chỉ lớp manti của hành tinh.).
+Ví dụ: The Earth's mantle is made of solid rock that flows very slowly over time.
+
+---
+
+102. **Core (n) /kɔːr/:** The central or innermost portion of the earth or another planet. (Đây là một danh từ dùng để chỉ lõi hành tinh hoặc nhân sao.).
+Ví dụ: The Earth's outer core is made of liquid iron and nickel.
+
+---
+
+103. **Crust (n) /krʌst/:** The outermost layer of a terrestrial planet. (Đây là một danh từ dùng để chỉ lớp vỏ hành tinh.).
+Ví dụ: The Earth's crust is divided into several large tectonic plates.
+
+---
+
+104. **Basalt (n) /bəˈsɔːlt/:** A dark, fine-grained volcanic rock that sometimes makes up planetary surfaces. (Đây là một danh từ dùng để chỉ đá bazan.).
+Ví dụ: Large areas of the Moon are covered in basaltic plains known as "maria."
+
+---
+
+105. **Regolith (n) /ˈreɡəlɪθ/:** A layer of loose, heterogeneous superficial deposits covering solid rock. (Đây là một danh từ chuyên ngành chỉ lớp bụi đất trên bề mặt mặt trăng/hành tinh.).
+Ví dụ: Lunar regolith is a fine dust created by billions of years of meteorite impacts.
+
+---
+
+106. **Ecliptic (n) /ɪˈklɪptɪk/:** A great circle on the celestial sphere representing the sun's apparent path during the year. (Đây là một danh từ dùng để chỉ hoàng đạo.).
+Ví dụ: Most of the planets in our solar system orbit near the plane of the ecliptic.
+
+---
+
+107. **Inclination (n) /ˌɪnklɪˈneɪʃn/:** The angle between the orbital plane of a planet and the ecliptic. (Đây là một danh từ dùng để chỉ độ nghiêng quỹ đạo.).
+Ví dụ: Pluto has a much higher orbital inclination than the eight major planets.
+
+---
+
+108. **Retrograde (adj) /ˈretrəɡreɪd/:** (Of a planet) moving in the opposite direction to that of other bodies in its system. (Đây là một tính từ dùng để chỉ sự chuyển động nghịch hành.).
+Ví dụ: Venus is unusual because it has a retrograde rotation, spinning clockwise on its axis.
+
+---
+
+109. **Geosynchronous (adj) /ˌdʒiːoʊˈsɪŋkrənəs/:** (Of an earth satellite) having a period of rotation of 24 hours. (Đây là một tính từ dùng để chỉ quỹ đạo địa đồng bộ.).
+Ví dụ: Communications satellites are often placed in a geosynchronous orbit to remain above the same spot on Earth.
+
+---
+
+110. **Geostationary (adj) /ˌdʒiːoʊˈsteɪʃəneri/:** (Of an earth satellite) orbiting so that it remains over the same point on the earth's surface. (Đây là một tính từ dùng để chỉ quỹ đạo địa tĩnh.).
+Ví dụ: A geostationary satellite appears to stay in the same position in the sky at all times.
+
+---
+
+111. **Aerospace (n) /ˈeroʊspeɪs/:** The branch of technology and industry concerned with both aviation and space flight. (Đây là một danh từ dùng để chỉ ngành hàng không vũ trụ.).
+Ví dụ: He decided to pursue a career in aerospace engineering to design next-generation rockets.
+
+---
+
+112. **Astrography (n) /əˈstrɑːɡrəfi/:** The branch of astronomy that deals with the mapping of stars and celestial bodies. (Đây là một danh từ dùng để chỉ thiên văn đồ bản học.).
+Ví dụ: Astrography has become much more accurate thanks to digital imaging and space telescopes.
+
+---
+
+113. **Astrometry (n) /əˈstrɑːmətri/:** The branch of astronomy that involves precise measurements of the positions and movements of stars. (Đây là một danh từ dùng để chỉ thiên văn trắc địa.).
+Ví dụ: Astrometry is essential for detecting the subtle wobble of stars caused by orbiting planets.
+
+---
+
+114. **Astronomy (n) /əˈstrɑːnəmi/:** The branch of science that deals with celestial objects, space, and the physical universe as a whole. (Đây là một danh từ dùng để chỉ ngành thiên văn học.).
+Ví dụ: Astronomy is one of the oldest sciences, dating back to ancient civilizations.
+
+---
+
+115. **Bolometer (n) /boʊˈlɑːmɪtər/:** An instrument for measuring the power of incident electromagnetic radiation. (Đây là một danh từ chỉ nhiệt kế bức xạ dùng trong thiên văn.).
+Ví dụ: Bolometers are used to detect faint infrared radiation from distant stars and galaxies.
+
+---
+
+116. **Binary star (n) /ˈbaɪneri stɑːr/:** A system of two stars in which one revolves around the other or both revolve around a common center. (Đây là một cụm danh từ dùng để chỉ sao đôi.).
+Ví dụ: About half of all the stars in our galaxy are thought to be part of a binary star system.
+
+---
+
+117. **Neutron star (n) /ˈnuːtrɑːn stɑːr/:** A celestial object of very small radius and very high density composed predominantly of closely packed neutrons. (Đây là một cụm danh từ dùng để chỉ sao neutron.).
+Ví dụ: A neutron star is so dense that a single teaspoon of its material would weigh billions of tons.
+
+---
+
+118. **White dwarf (n) /waɪt dwɔːrf/:** A small very dense star that is typically the size of a planet. (Đây là một cụm danh từ dùng để chỉ sao lùn trắng.).
+Ví dụ: Our Sun will eventually become a white dwarf at the end of its life cycle.
+
+---
+
+119. **Red giant (n) /red ˈdʒaɪənt/:** A very large star of high luminosity and relatively low surface temperature. (Đây là một cụm danh từ dùng để chỉ sao khổng lồ đỏ.).
+Ví dụ: When the Sun runs out of hydrogen fuel, it will expand into a red giant and swallow the inner planets.
+
+---
+
+120. **Main sequence (n) /meɪn ˈsiːkwəns/:** A series of star types to which most stars belong. (Đây là một cụm danh từ dùng để chỉ dãy chính trong sơ đồ tiến hóa sao.).
+Ví dụ: The Sun is currently in the main sequence stage of its evolution.
+
+---
+
+121. **Interstellar medium (n) /ˌɪntərˈstelər ˈmiːdiəm/:** The matter that exists in the space between the star systems in a galaxy. (Đây là một cụm danh từ dùng để chỉ môi trường liên sao.).
+Ví dụ: The interstellar medium consists of gas, dust, and cosmic rays.
+
+---
+
+122. **Molecular cloud (n) /məˈlekjələr klaʊd/:** An interstellar cloud of gas and dust in which molecules can form. (Đây là một cụm danh từ dùng để chỉ đám mây phân tử, nơi sinh ra các ngôi sao.).
+Ví dụ: Stars are formed when regions within a molecular cloud collapse under their own gravity.
+
+---
+
+123. **Planetary nebula (n) /ˌplænəteri ˈnebjələ/:** A ring-shaped nebula formed by an expanding shell of gas around an aging star. (Đây là một cụm danh từ dùng để chỉ tinh vân hành tinh.).
+Ví dụ: Despite their name, planetary nebulae have nothing to do with planets.
+
+---
+
+124. **Impact (n/v) /ˈɪmpækt/:** The action of one object coming forcibly into contact with another. (Trong không gian, đây là sự va chạm thiên thể.).
+Ví dụ: A massive asteroid impact is thought to have caused the extinction of the dinosaurs.
+
+---
+
+125. **Meteoroid (n) /ˈmiːtiərɔɪd/:** A small body moving in the solar system that would become a meteor if it entered the earth's atmosphere. (Đây là một danh từ dùng để chỉ thiên thạch khi còn ở trong không gian.).
+Ví dụ: Most meteoroids are fragments of asteroids or comets.
+
+---
+
+126. **Meteorite (n) /ˈmiːtiəraɪt/:** A meteor that survives its passage through the earth's atmosphere such that part of it strikes the ground. (Đây là một danh từ dùng để chỉ mảnh thiên thạch đã rơi xuống mặt đất.).
+Ví dụ: Scientists study meteorites to learn about the early history of the solar system.
+
+---
+
+127. **Meteor shower (n) /ˈmiːtiər ˈʃaʊər/:** A number of meteors that appear to radiate from one point in the sky. (Đây là một cụm danh từ dùng để chỉ mưa sao băng.).
+Ví dụ: The Perseid meteor shower is one of the most popular astronomical events of the year.
+
+---
+
+128. **Propellant (n) /prəˈpelənt/:** A substance used to provide thrust in a rocket engine. (Đây là một danh từ dùng để chỉ nhiên liệu tên lửa/chất đẩy.).
+Ví dụ: A rocket must carry both fuel and an oxidizer as part of its propellant system.
+
+---
+
+129. **Radioactivity (n) /ˌreɪdioʊækˈtɪvəti/:** The emission of ionizing radiation or particles. (Trong không gian, đây là hiện tượng phóng xạ tự nhiên.).
+Ví dụ: Cosmic rays are a form of high-energy radioactivity that comes from outside our solar system.
+
+---
+
+130. **Shielding (n) /ˈʃiːldɪŋ/:** Material used to protect someone or something from a danger, especially radiation. (Đây là một danh từ dùng để chỉ lớp chắn bảo vệ.).
+Ví dụ: Lead and water are two materials that can be used for effective radiation shielding.
+
+---
+
+131. **Symmetry (n) /ˈsɪmətri/:** The quality of being made up of exactly similar parts facing each other. (Trong thiết kế tàu vũ trụ là sự cân đối.).
+Ví dụ: Aerodynamic symmetry is essential for rockets that must travel through the Earth's atmosphere.
+
+---
+
+132. **Thermodynamics (n) /ˌθɜːrmoʊdaɪˈnæmɪks/:** The branch of physical science that deals with the relations between heat and other forms of energy. (Trong tên lửa học là nhiệt động lực học.).
+Ví dụ: Understanding thermodynamics is essential for designing efficient rocket engines.
+
+---
+
+133. **Thrust (n/v) /θrʌst/:** The propulsive force of a jet or rocket engine. (Đây là một danh từ/động từ dùng để chỉ lực đẩy.).
+Ví dụ: The rocket engine produces millions of pounds of thrust to lift the vehicle off the launch pad.
+
+---
+
+134. **Titanium (n) /taɪˈteɪniəm/:** A strong, low-density, highly corrosion-resistant lustrous transition metal. (Vật liệu chính chế tạo tàu vũ trụ.).
+Ví dụ: Titanium is widely used in the aerospace industry because it is both strong and lightweight.
+
+---
+
+135. **Total (adj) /ˈtoʊtl/:** Complete; including everything. (Ví dụ: "total eclipse" - nhật thực toàn phần.).
+Ví dụ: Thousands of people traveled to the path of totality to witness the total solar eclipse.
+
+---
+
+136. **Transmission (n) /trænzˈmɪʃn/:** The action or process of transmitting something. (Sự truyền tín hiệu từ không gian về Trái Đất.).
+Ví dụ: It takes about twenty minutes for a radio transmission to travel from Mars to Earth.
+
+---
+
+137. **Transparency (n) /trænsˈpærənsi/:** The condition of being transparent. (Trong thiên văn là độ trong của bầu khí quyển.).
+Ví dụ: Good atmospheric transparency is essential for high-quality astronomical observations.
+
+---
+
+138. **Trend (n) /trend/:** A general direction in which something is developing or changing. (Trong khám phá không gian là xu hướng tư nhân hóa.).
+Ví dụ: The current trend in space exploration is the increasing involvement of private companies like SpaceX.
+
+---
+
+139. **Trial (n) /ˈtraɪəl/:** A formal examination of evidence; or a test of performance. (Các đợt thử nghiệm thiết bị vũ trụ.).
+Ví dụ: The new rocket engine underwent several static fire trials before its first flight.
+
+---
+
+140. **Trough (n) /trɔːf/:** A long, narrow open container; or a low point in a wave. (Trong sóng vô tuyến vũ trụ.).
+Ví dụ: Astronomers study the peaks and troughs of light waves to understand the properties of stars.
+
+---
+
+141. **Turbulent (adj) /ˈtɜːrbjələnt/:** Characterized by conflict, disorder, or confusion; not controlled or calm. (Tính chất của khí quyển hoặc gió mặt trời.).
+Ví dụ: The spacecraft experienced a turbulent ride as it passed through the upper atmosphere.
+
+---
+
+142. **Typical (adj) /ˈtɪpɪkl/:** Having the distinctive qualities of a particular type of person or thing. (Ví dụ: "typical galaxy" - thiên hà điển hình.).
+Ví dụ: A typical spiral galaxy contains hundreds of billions of stars and large amounts of gas and dust.
+
+---
+
+143. **Ubiquitous (adj) /juːˈbɪkwɪtəs/:** Present, appearing, or found everywhere. (Trong vũ trụ là hydrogen.).
+Ví dụ: Hydrogen is the most ubiquitous element in the entire universe.
+
+---
+
+144. **Ultimate (adj) /ˈʌltɪmət/:** Being or happening at the end of a process; final. (Mục tiêu cuối cùng của khám phá không gian.).
+Ví dụ: The ultimate goal of many space agencies is to send humans to another star system.
+
+---
+
+145. **Underground (adj) /ˌʌndərˈɡraʊnd/:** Beneath the surface of the ground. (Ví dụ: "underground water" trên các hành tinh khác.).
+Ví dụ: Scientists are looking for evidence of underground liquid water on Jupiter's moon, Europa.
+
+---
+
+146. **Underlying (adj) /ˌʌndərˈlaɪɪŋ/:** Significant as a cause or basis of something but not necessarily manifest or obvious. (Lý thuyết nền tảng.).
+Ví dụ: General relativity is the underlying theory that explains how gravity works on a cosmic scale.
+
+---
+
+147. **Undertake (v) /ˌʌndərˈteɪk/:** Commit oneself to and begin (an enterprise or responsibility). (Bắt đầu một nhiệm vụ vũ trụ.).
+Ví dụ: Several countries are planning to undertake a joint mission to explore the outer planets.
+
+---
+
+148. **Unfavorable (adj) /ʌnˈfeɪvərəbl/:** Expressing or showing a lack of approval or support. (Ví dụ: "unfavorable weather" cho buổi phóng tàu.).
+Ví dụ: The launch was postponed due to unfavorable weather conditions at the space center.
+
+---
+
+149. **Uniqueness (n) /juˈniːknəs/:** The quality of being particularly remarkable, special, or unusual. (Tính độc nhất của Trái Đất.).
+Ví dụ: Space exploration has highlighted the uniqueness and fragility of our home planet.
+
+---
+
+150. **Universal (adj) /ˌjuːnɪˈvɜːrsl/:** Of, affecting, or done by all people or things in the world or in a particular group. (Tính phổ quát của các định luật vật lý.).
+Ví dụ: The laws of physics are believed to be universal throughout the entire cosmos.
+
+---
+
+151. **Unlimited (adj) /ʌnˈlɪmɪtɪd/:** Not limited or restricted in terms of number, quantity, or extent. (Ví dụ: "unlimited potential" của không gian.).
+Ví dụ: Outer space offers virtually unlimited resources for future human generations.
+
+---
+
+152. **Unprecedented (adj) /ʌnˈpresɪdentɪd/:** Never done or known before. (Những thành tựu chưa từng có tiền lệ.).
+Ví dụ: The successful landing on a moving comet was an unprecedented scientific achievement.
+
+---
+
+153. **Unregulated (adj) /ʌnˈreɡjuleɪtɪd/:** Not controlled or supervised by regulations or laws. (Ví dụ: "unregulated space commercialization".).
+Ví dụ: There are concerns about the unregulated growth of the commercial space industry.
+
+---
+
+154. **Unstable (adj) /ʌnˈsteɪbl/:** Prone to change, fail, or give way; not stable. (Các ngôi sao không ổn định.).
+Ví dụ: Some massive stars become unstable at the end of their lives and explode as supernovae.
+
+---
+
+155. **Untapped (adj) /ˌʌnˈtæpt/:** (Of a resource) not yet exploited or used. (Các nguồn tài nguyên chưa được khai phá trên mặt trăng/tiểu hành tinh.).
+Ví dụ: The Moon may contain vast untapped reserves of helium-3 and water ice.
+
+---
+
+156. **Utility (n) /juːˈtɪləti/:** The state of being useful, profitable, or beneficial. (Lợi ích thực tế của vệ tinh.).
+Ví dụ: The utility of satellites for global communications and navigation is immense.
+
+---
+
+157. **Utilization (n) /ˌjuːtələˈzeɪʃn/:** The action of making practical and effective use of something. (Sự sử dụng tài nguyên tại chỗ - ISRU.).
+Ví dụ: The utilization of Martian soil to create building materials is a key goal for future missions.
+
+---
+
+158. **Valuable (adj) /ˈvæljuəbl/:** Worth a great deal of money. (Các khoáng sản quý trên tiểu hành tinh.).
+Ví dụ: Asteroid mining could provide a new source of valuable metals like platinum and gold.
+
+---
+
+159. **Value (n) /ˈvæljuː/:** The importance, worth, or usefulness of something. (Giá trị khoa học của nhiệm vụ.).
+Ví dụ: The scientific value of the samples returned from the Moon is immeasurable.
+
+---
+
+160. **Vanish (v) /ˈvænɪʃ/:** Disappear suddenly and completely. (Thiên thể biến mất vào hố đen.).
+Ví dụ: Any object that crosses the event horizon of a black hole will vanish forever.
+
+---
+
+161. **Variable (adj) /ˈveriəbl/:** Not consistent or having a fixed pattern; liable to change. (Ví dụ: "variable star" - sao biến quang.).
+Ví dụ: A variable star is one whose brightness changes over time, often in a regular cycle.
+
+---
+
+162. **Vast (adj) /væst/:** Of very great extent or quantity; immense. (Sự bao la của không gian.).
+Ví dụ: The distance between galaxies is so vast that it is difficult for the human mind to grasp.
+
+---
+
+163. **Vegetation (n) /ˌvedʒəˈteɪʃn/:** Plants considered collectively. (Trong sinh học vũ trụ, tìm kiếm dấu hiệu thực vật.).
+Ví dụ: Scientists are looking for chemical signatures that might indicate the presence of vegetation on exoplanets.
+
+---
+
+164. **Vehicle (n) /ˈviːəkl/:** A thing used for transporting people or goods. (Trong không gian là phương tiện vận chuyển - Launch Vehicle.).
+Ví dụ: The Space Shuttle was a reusable launch vehicle that served NASA for thirty years.
+
+---
+
+165. **Velocity (n) /vəˈlɑːsəti/:** The speed of something in a given direction. (Vận tốc.).
+Ví dụ: A spacecraft must maintain a specific orbital velocity to avoid falling back to Earth.
+
+---
+
+166. **Venture (n/v) /ˈventʃər/:** A risky or daring journey or undertaking. (Chuyến thám hiểm mạo hiểm vào không gian.).
+Ví dụ: Human spaceflight remains a dangerous and expensive venture for any nation.
+
+---
+
+167. **Versatile (adj) /ˈvɜːrsətl/:** Able to adapt or be adapted to many different functions or activities. (Thiết bị vũ trụ đa năng.).
+Ví dụ: The robotic arm on the space station is a versatile tool used for many different tasks.
+
+---
+
+168. **Vessel (n) /ˈvesl/:** A ship or large boat. (Trong không gian là tàu vũ trụ.).
+Ví dụ: The alien vessel appeared on the radar screens of the military base.
+
+---
+
+169. **Viability (n) /ˌvaɪəˈbɪləti/:** Ability to work successfully. (Tính khả thi của cuộc sống trên sao Hỏa.).
+Ví dụ: Scientists are studying the viability of growing crops in Martian soil.
+
+---
+
+170. **Vibrant (adj) /ˈvaɪbrənt/:** Full of energy and life. (Hình ảnh rực rỡ của các thiên hà.).
+Ví dụ: The Hubble Space Telescope has captured many vibrant images of colorful nebulae.
+
+---
+
+171. **Vibration (n) /vaɪˈbreɪʃn/:** An instance of vibrating. (Rung lắc khi phóng tên lửa.).
+Ví dụ: Spacecraft components must be tested to ensure they can withstand the intense vibrations of launch.
+
+---
+
+172. **Vigor (n) /ˈvɪɡər/:** Physical strength and good health. (Sức khỏe của phi hành gia.).
+Ví dụ: Astronauts must maintain their physical vigor through regular exercise in weightlessness.
+
+---
+
+173. **Virtual (adj) /ˈvɜːrtʃuəl/:** Almost or nearly as described, but not completely. (Thực tế ảo trong huấn luyện.).
+Ví dụ: Virtual reality is used to train astronauts for complex repairs on the space station.
+
+---
+
+174. **Visibility (n) /ˌvɪzəˈbɪləti/:** The state of being able to see or be seen. (Độ hiển thị của các vì sao.).
+Ví dụ: The visibility of the planet Mars increases significantly during its closest approach to Earth.
+
+---
+
+175. **Vital (adj) /ˈvaɪtl/:** Absolutely necessary or important; essential. (Cần thiết cho sự sống.).
+Ví dụ: Oxygen and water are vital for the survival of any human crew in space.
+
+---
+
+176. **Volatility (n) /ˌvɑːləˈtɪləti/:** Liability to change rapidly and unpredictably. (Tính dễ bay hơi của các chất trên hành tinh.).
+Ví dụ: The volatility of water ice on the Moon's surface depends on its temperature and location.
+
+---
+
+177. **Volume (n) /ˈvɑːljuːm/:** The amount of space that a substance or object occupies. (Thể tích của một ngôi sao/hành tinh.).
+Ví dụ: Jupiter is so large that its volume is more than one thousand times that of the Earth.
+
+---
+
+178. **Voluntary (adj) /ˈvɑːlənteri/:** Done, given, or acting of one's own free will. (Sự tham gia tự nguyện của cộng đồng vào thiên văn học.).
+Ví dụ: Citizen science projects rely on the voluntary contributions of amateur astronomers around the world.
+
+---
+
+179. **Vulnerability (n) /ˌvʌlnərəˈbɪləti/:** The quality or state of being exposed to the possibility of being attacked or harmed. (Sự dễ bị tổn thương của tàu vũ trụ trước vi thiên thạch.).
+Ví dụ: The vulnerability of spacecraft to micrometeoroids is a constant concern for mission planners.
+
+---
+
+180. **Ward (v) /wɔːrd/:** Guard and protect. (Trong không gian là việc bảo vệ khỏi bức xạ.).
+Ví dụ: Special magnetic fields could be used to ward off harmful cosmic rays from a space colony.
+
+---
+
+181. **Waste (n) /weɪst/:** Material which is eliminated or discarded as no longer useful. (Rác thải không gian - Space Junk.).
+Ví dụ: Space debris, also known as space waste, is becoming a serious problem for satellites in Earth's orbit.
+
+---
+
+182. **Wavelength (n) /ˈweɪvleŋθ/:** The distance between successive crests of a wave. (Bước sóng ánh sáng/vô tuyến.).
+Ví dụ: Different telescopes are designed to observe the universe at different wavelengths of light.
+
+---
+
+183. **Wealth (n) /welθ/:** An abundance of valuable possessions or money. (Ví dụ: "wealth of information" - lượng thông tin phong phú.).
+Ví dụ: Space missions have provided us with a wealth of information about the history of our solar system.
+
+---
+
+184. **Weather (n) /ˈweðər/:** The state of the atmosphere at a place and time. (Trong không gian là "space weather" - thời tiết không gian.).
+Ví dụ: Space weather is driven by activity on the Sun and can affect satellites and power grids.
+
+---
+
+185. **Weigh (v) /weɪ/:** Find out how heavy (someone or something) is. (Đo khối lượng trong môi trường không trọng lực.).
+Ví dụ: It is difficult to weigh objects in space, so scientists measure their mass instead.
+
+---
+
+186. **Weightless (adj) /ˈwaɪtləs/:** (Of a person or object) appearing to have no weight. (Tình trạng không trọng lượng.).
+Ví dụ: Astronauts have fun floating and doing flips in the weightless environment of the space station.
+
+---
+
+187. **Western (adj) /ˈwestərn/:** Living in or originating from the West. (Các cơ quan vũ trụ phương Tây.).
+Ví dụ: Western space agencies like NASA and ESA collaborate on many international projects.
+
+---
+
+188. **Widespread (adj) /ˌwaɪdˈspred/:** Found or distributed over a large area or number of people. (Sự quan tâm rộng rãi của công chúng.).
+Ví dụ: There is widespread public interest in the possibility of discovering life on other planets.
+
+---
+
+189. **Wild (adj) /waɪld/:** (Of an animal or plant) living or growing in the natural environment. (Ví dụ: "wild theories" - những giả thuyết táo bạo.).
+Ví dụ: There are many wild theories about what lies at the center of a black hole.
+
+---
+
+190. **Zone (n) /zoʊn/:** An area or stretch of land having a particular characteristic. (Ví dụ: "Habitable Zone" - vùng ở được quanh một ngôi sao.).
+Ví dụ: The habitable zone is the region around a star where liquid water can exist on a planet's surface.
+
+---

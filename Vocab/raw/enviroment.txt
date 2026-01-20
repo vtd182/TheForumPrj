@@ -1,7 +1,6 @@
 Environment
 
 ---
-
 1. **Sustainability (n) /səˌsteɪnəˈbɪləti/:** The ability to be maintained at a certain rate or level without depleting natural resources. (Đây là một danh từ dùng để chỉ sự bền vững, khả năng duy trì sự cân bằng sinh thái mà không làm cạn kiệt tài nguyên.).
 Ví dụ: The government is promoting sustainability in agriculture to ensure long-term food security.
 
@@ -372,8 +371,8 @@ Ví dụ: Car exhaust fumes are a major source of air pollution.
 
 ---
 
-75. **Geosphere (n) /ˈdʒiːəsfɪr/:** The spherical concentric regions of matter making up the earth. (Đây là một danh từ dùng để chỉ thạch quyển.).
-Ví dụ: The geosphere interacts with the atmosphere to create soil.
+75. **Geosphere (n) /ˈdʒiːəsfɪr/:** The solid part of the earth consisting of the crust and outer mantle. (Đây là một danh từ dùng để chỉ địa quyển.).
+Ví dụ: Volcanic eruptions transfer matter from the geosphere to the atmosphere.
 
 ---
 
@@ -492,8 +491,8 @@ Ví dụ: We need to build resilient cities to face climate change.
 
 ---
 
-99. **Run-off (n) /ˈrʌn ɔːf/:** The draining away of water from a surface. (Đây là một danh từ dùng để chỉ dòng chảy tràn.).
-Ví dụ: Agricultural run-off contains harmful chemicals from pesticides.
+99. **Run-off (n) /ˈrʌn ɔːf/:** The draining away of water from the surface of an area of land. (Đây là một danh từ dùng để chỉ dòng chảy tràn.).
+Ví dụ: Stormwater run-off in cities often carries pollutants into rivers.
 
 ---
 
@@ -697,305 +696,295 @@ Ví dụ: Understanding local geology is important for groundwater management.
 
 ---
 
-140. **Geosphere (n) /ˈdʒiːəsfɪr/:** The solid part of the earth consisting of the crust and outer mantle. (Đây là một danh từ dùng để chỉ địa quyển.).
-Ví dụ: Volcanic eruptions transfer matter from the geosphere to the atmosphere.
-
----
-
-141. **Harvest (v) /ˈhɑːrvɪst/:** To gather a crop as a harvest. (Đây là một động từ dùng để chỉ việc thu hoạch.).
+140. **Harvest (v) /ˈhɑːrvɪst/:** To gather a crop as a harvest. (Đây là một động từ dùng để chỉ việc thu hoạch.).
 Ví dụ: Farmers harvest wheat in late summer.
 
 ---
 
-142. **Hydroelectric (adj) /ˌhaɪdroʊɪˈlektrɪk/:** Relating to the generation of electricity using flowing water. (Đây là một tính từ dùng để chỉ thuộc về thủy điện.).
+141. **Hydroelectric (adj) /ˌhaɪdroʊɪˈlektrɪk/:** Relating to the generation of electricity using flowing water. (Đây là một tính từ dùng để chỉ thuộc về thủy điện.).
 Ví dụ: Hydroelectric dams provide a significant portion of the country's power.
 
 ---
 
-143. **Imbalance (n) /ɪmˈbæləns/:** Lack of proportion or relation between corresponding things. (Đây là một danh từ dùng để chỉ sự mất cân bằng.).
+142. **Imbalance (n) /ɪmˈbæləns/:** Lack of proportion or relation between corresponding things. (Đây là một danh từ dùng để chỉ sự mất cân bằng.).
 Ví dụ: Overhunting can cause a serious imbalance in the ecosystem.
 
 ---
 
-144. **Industrialization (n) /ɪnˌdʌstriələˈzeɪʃn/:** The development of industries in a country or region. (Đây là một danh từ dùng để chỉ sự công nghiệp hóa.).
+143. **Industrialization (n) /ɪnˌdʌstriələˈzeɪʃn/:** The development of industries in a country or region. (Đây là một danh từ dùng để chỉ sự công nghiệp hóa.).
 Ví dụ: Rapid industrialization has led to increased carbon emissions.
 
 ---
 
-145. **Intensive farming (n) /ɪnˈtensɪv ˈfɑːrmɪŋ/:** Farming that uses a lot of machinery and chemicals. (Đây là một cụm danh từ dùng để chỉ thâm canh/nông nghiệp cường độ cao.).
+144. **Intensive farming (n) /ɪnˈtensɪv ˈfɑːrmɪŋ/:** Farming that uses a lot of machinery and chemicals. (Đây là một cụm danh từ dùng để chỉ thâm canh/nông nghiệp cường độ cao.).
 Ví dụ: Intensive farming can lead to soil exhaustion over time.
 
 ---
 
-146. **Invasive species (n) /ɪnˈveɪsɪv ˈspiːʃiːz/:** A species that is not native to a specific location and has a tendency to spread. (Đây là một cụm danh từ dùng để chỉ loài xâm lấn.).
+145. **Invasive species (n) /ɪnˈveɪsɪv ˈspiːʃiːz/:** A species that is not native to a specific location and has a tendency to spread. (Đây là một cụm danh từ dùng để chỉ loài xâm lấn.).
 Ví dụ: Invasive species can outcompete native plants for resources.
 
 ---
 
-147. **Irrigation (n) /ˌɪrɪˈɡeɪʃn/:** The supply of water to land or crops to help growth. (Đây là một danh từ dùng để chỉ sự tưới tiêu.).
+146. **Irrigation (n) /ˌɪrɪˈɡeɪʃn/:** The supply of water to land or crops to help growth. (Đây là một danh từ dùng để chỉ sự tưới tiêu.).
 Ví dụ: Efficient irrigation systems can save a huge amount of water.
 
 ---
 
-148. **Land reclamation (n) /ˈlænd ˌrekləˈmeɪʃn/:** The process of creating new land from oceans or riverbeds. (Đây là một cụm danh từ dùng để chỉ sự lấn biển/cải tạo đất.).
+147. **Land reclamation (n) /ˈlænd ˌrekləˈmeɪʃn/:** The process of creating new land from oceans or riverbeds. (Đây là một cụm danh từ dùng để chỉ sự lấn biển/cải tạo đất.).
 Ví dụ: Land reclamation projects are common in crowded coastal cities.
 
 ---
 
-149. **Lead-free (adj) /ˌled ˈfriː/:** Not containing lead. (Đây là một tính từ dùng để chỉ sản phẩm không chứa chì.).
+148. **Lead-free (adj) /ˌled ˈfriː/:** Not containing lead. (Đây là một tính từ dùng để chỉ sản phẩm không chứa chì.).
 Ví dụ: Lead-free gasoline has significantly reduced toxic air emissions.
 
 ---
 
-150. **Leaching (n) /ˈliːtʃɪŋ/:** The process of a substance being washed out from the soil by rain. (Đây là một danh từ dùng để chỉ sự rửa trôi/rò rỉ chất độc.).
+149. **Leaching (n) /ˈliːtʃɪŋ/:** The process of a substance being washed out from the soil by rain. (Đây là một danh từ dùng để chỉ sự rửa trôi/rò rỉ chất độc.).
 Ví dụ: Leaching of chemicals from landfills can contaminate groundwater.
 
 ---
 
-151. **Magnification (n) /ˌmæɡnɪfɪˈkeɪʃn/:** The increase in concentration of a substance as it moves up the food chain. (Đây là một danh từ dùng để chỉ sự tích tụ sinh học.).
+150. **Magnification (n) /ˌmæɡnɪfɪˈkeɪʃn/:** The increase in concentration of a substance as it moves up the food chain. (Đây là một danh từ dùng để chỉ sự tích tụ sinh học.).
 Ví dụ: Biomagnification makes predators more vulnerable to toxins.
 
 ---
 
-152. **Microplastics (n) /ˈmaɪkroʊplæstɪks/:** Extremely small pieces of plastic debris in the environment. (Đây là một danh từ dùng để chỉ hạt vi nhựa.).
+151. **Microplastics (n) /ˈmaɪkroʊplæstɪks/:** Extremely small pieces of plastic debris in the environment. (Đây là một danh từ dùng để chỉ hạt vi nhựa.).
 Ví dụ: Microplastics are being ingested by marine life worldwide.
 
 ---
 
-153. **Natural habitat (n) /ˌnætʃrəl ˈhæbɪtæt/:** The environment in which an animal or plant normally lives. (Đây là một cụm danh từ dùng để chỉ môi trường sống tự nhiên.).
+152. **Natural habitat (n) /ˌnætʃrəl ˈhæbɪtæt/:** The environment in which an animal or plant normally lives. (Đây là một cụm danh từ dùng để chỉ môi trường sống tự nhiên.).
 Ví dụ: Many animals are losing their natural habitat to suburban sprawl.
 
 ---
 
-154. **Net-zero (n) /ˌnet ˈzɪroʊ/:** Achieving a balance between the greenhouse gases put into and taken out of the atmosphere. (Đây là một danh từ dùng để chỉ phát thải ròng bằng không.).
+153. **Net-zero (n) /ˌnet ˈzɪroʊ/:** Achieving a balance between the greenhouse gases put into and taken out of the atmosphere. (Đây là một danh từ dùng để chỉ phát thải ròng bằng không.).
 Ví dụ: To stop global warming, the world must reach net-zero by 2050.
 
 ---
 
-155. **Nitrogen cycle (n) /ˈnaɪtrədʒən ˌsaɪkl/:** The series of processes by which nitrogen circulates. (Đây là một cụm danh từ dùng để chỉ chu kỳ nitơ.).
+154. **Nitrogen cycle (n) /ˈnaɪtrədʒən ˌsaɪkl/:** The series of processes by which nitrogen circulates. (Đây là một cụm danh từ dùng để chỉ chu kỳ nitơ.).
 Ví dụ: The nitrogen cycle is essential for providing nutrients to plants.
 
 ---
 
-156. **Ocean currents (n) /ˈoʊʃn ˌkɜːrənts/:** Continuous, directed movements of seawater. (Đây là một cụm danh từ dùng để chỉ các dòng hải lưu.).
+155. **Ocean currents (n) /ˈoʊʃn ˌkɜːrənts/:** Continuous, directed movements of seawater. (Đây là một cụm danh từ dùng để chỉ các dòng hải lưu.).
 Ví dụ: Ocean currents play a major role in regulating global climate.
 
 ---
 
-157. **Off-grid (adj) /ˌɔːf ˈɡrɪd/:** Not using or depending on public utilities (electricity, water). (Đây là một tính từ dùng để chỉ sống độc lập với mạng lưới điện quốc gia.).
+156. **Off-grid (adj) /ˌɔːf ˈɡrɪd/:** Not using or depending on public utilities (electricity, water). (Đây là một tính từ dùng để chỉ sống độc lập với mạng lưới điện quốc gia.).
 Ví dụ: Living off-grid often involves using solar panels and wind turbines.
 
 ---
 
-158. **Organic farming (n) /ɔːrˈɡænɪk ˈfɑːrmɪŋ/:** Farming without the use of synthetic chemicals. (Đây là một cụm danh từ dùng để chỉ nông nghiệp hữu cơ.).
+157. **Organic farming (n) /ɔːrˈɡænɪk ˈfɑːrmɪŋ/:** Farming without the use of synthetic chemicals. (Đây là một cụm danh từ dùng để chỉ nông nghiệp hữu cơ.).
 Ví dụ: Organic farming is better for the long-term health of the soil.
 
 ---
 
-159. **Organism (n) /ˈɔːrɡənɪzəm/:** An individual animal, plant, or single-celled life form. (Đây là một danh từ dùng để chỉ một sinh vật sống.).
+158. **Organism (n) /ˈɔːrɡənɪzəm/:** An individual animal, plant, or single-celled life form. (Đây là một danh từ dùng để chỉ một sinh vật sống.).
 Ví dụ: Bacteria are simple organisms found almost everywhere on Earth.
 
 ---
 
-160. **Particulate matter (n) /pɑːrˈtɪkjələt ˈmætər/:** Small particles of solid or liquid matter suspended in air. (Đây là một cụm danh từ dùng để chỉ bụi mịn/vật chất dạng hạt.).
+159. **Particulate matter (n) /pɑːrˈtɪkjələt ˈmætər/:** Small particles of solid or liquid matter suspended in air. (Đây là một cụm danh từ dùng để chỉ bụi mịn/vật chất dạng hạt.).
 Ví dụ: Particulate matter from diesel engines is harmful to human lungs.
 
 ---
 
-161. **Permeable (adj) /ˈpɜːrmiebl/:** (Of a material or membrane) allowing liquids or gases to pass through it. (Đây là một tính từ dùng để chỉ tính thấm được.).
+160. **Permeable (adj) /ˈpɜːrmiebl/:** (Of a material or membrane) allowing liquids or gases to pass through it. (Đây là một tính từ dùng để chỉ tính thấm được.).
 Ví dụ: Permeable pavement helps reduce urban flooding by absorbing rain.
 
 ---
 
-162. **Photosynthesis (n) /ˌfoʊtoʊˈsɪnθəsɪs/:** The process by which plants use sunlight to synthesize foods. (Đây là một danh từ dùng để chỉ quá trình quang hợp.).
+161. **Photosynthesis (n) /ˌfoʊtoʊˈsɪnθəsɪs/:** The process by which plants use sunlight to synthesize foods. (Đây là một danh từ dùng để chỉ quá trình quang hợp.).
 Ví dụ: Photosynthesis produces the oxygen that most living things need to survive.
 
 ---
 
-163. **Plate tectonics (n) /ˌpleɪt tekˈtɑːnɪks/:** The theory that the earth's outer shell is divided into several plates. (Đây là một cụm danh từ dùng để chỉ kiến tạo mảng.).
+162. **Plate tectonics (n) /ˌpleɪt tekˈtɑːnɪks/:** The theory that the earth's outer shell is divided into several plates. (Đây là một cụm danh từ dùng để chỉ kiến tạo mảng.).
 Ví dụ: Plate tectonics explains how mountains are formed and earthquakes occur.
 
 ---
 
-164. **Population density (n) /ˌpɑːpjuˈleɪʃn ˈdensəti/:** The number of people living in each unit of area. (Đây là một cụm danh từ dùng để chỉ mật độ dân số.).
+163. **Population density (n) /ˌpɑːpjuˈleɪʃn ˈdensəti/:** The number of people living in each unit of area. (Đây là một cụm danh từ dùng để chỉ mật độ dân số.).
 Ví dụ: High population density in cities leads to more waste production.
 
 ---
 
-165. **Potable (adj) /ˈpoʊtəbl/:** Safe to drink; drinkable. (Đây là một tính từ dùng để chỉ nước có thể uống được.).
+164. **Potable (adj) /ˈpoʊtəbl/:** Safe to drink; drinkable. (Đây là một tính từ dùng để chỉ nước có thể uống được.).
 Ví dụ: In many parts of the world, potable water is becoming scarce.
 
 ---
 
-166. **Recharge (v) /ˌriːˈtʃɑːrdʒ/:** To refill or replenish (water in an aquifer). (Đây là một động từ dùng để chỉ sự bổ cập/làm đầy lại nguồn nước ngầm.).
+165. **Recharge (v) /ˌriːˈtʃɑːrdʒ/:** To refill or replenish (water in an aquifer). (Đây là một động từ dùng để chỉ sự bổ cập/làm đầy lại nguồn nước ngầm.).
 Ví dụ: Rainwater is necessary to recharge underground aquifers.
 
 ---
 
-167. **Red list (n) /ˈred lɪst/:** A list of species at risk of extinction. (Đây là một cụm danh từ dùng để chỉ Sách Đỏ.).
+166. **Red list (n) /ˈred lɪst/:** A list of species at risk of extinction. (Đây là một cụm danh từ dùng để chỉ Sách Đỏ.).
 Ví dụ: The IUCN Red List is a critical indicator of the health of biodiversity.
 
 ---
 
-168. **Residual (adj) /rɪˈzɪdʒuəl/:** Remaining after the greater part or quantity has gone. (Đây là một tính từ dùng để chỉ dư lượng, thường nói về hóa chất.).
+167. **Residual (adj) /rɪˈzɪdʒuəl/:** Remaining after the greater part or quantity has gone. (Đây là một tính từ dùng để chỉ dư lượng, thường nói về hóa chất.).
 Ví dụ: Residual pesticides can remain on vegetables even after washing.
 
 ---
 
-169. **Restoration (n) /ˌrestəˈreɪʃn/:** The action of returning something to its former condition. (Đây là một danh từ dùng để chỉ sự phục hồi môi trường.).
+168. **Restoration (n) /ˌrestəˈreɪʃn/:** The action of returning something to its former condition. (Đây là một danh từ dùng để chỉ sự phục hồi môi trường.).
 Ví dụ: The restoration of the local wetlands has attracted many birds.
 
 ---
 
-170. **Run-off (n) /ˈrʌn ɔːf/:** The draining away of water from the surface of an area of land. (Đây là một danh từ dùng để chỉ dòng chảy tràn.).
-Ví dụ: Stormwater run-off in cities often carries pollutants into rivers.
-
----
-
-171. **Salination (n) /ˌsælɪˈneɪʃn/:** The process by which water-soluble salts accumulate in the soil. (Đây là một danh từ dùng để chỉ sự nhiễm mặn.).
+169. **Salination (n) /ˌsælɪˈneɪʃn/:** The process by which water-soluble salts accumulate in the soil. (Đây là một danh từ dùng để chỉ sự nhiễm mặn.).
 Ví dụ: Over-irrigation in dry climates can lead to soil salination.
 
 ---
 
-172. **Sanctuary (n) /ˈsæŋktʃueri/:** A place where birds or animals are protected from being hunted. (Đây là một danh từ dùng để chỉ khu bảo tồn/nơi trú ẩn.).
+170. **Sanctuary (n) /ˈsæŋktʃueri/:** A place where birds or animals are protected from being hunted. (Đây là một danh từ dùng để chỉ khu bảo tồn/nơi trú ẩn.).
 Ví dụ: The island is a sanctuary for rare and endangered seabirds.
 
 ---
 
-173. **Sediment (n) /ˈsedɪmənt/:** Matter that settles to the bottom of a liquid. (Đây là một danh từ dùng để chỉ trầm tích.).
+171. **Sediment (n) /ˈsedɪmənt/:** Matter that settles to the bottom of a liquid. (Đây là một danh từ dùng để chỉ trầm tích.).
 Ví dụ: Sediment build-up can block river flow and affect fish.
 
 ---
 
-174. **Slash-and-burn (adj) /ˌslæʃ ənd ˈbɜːrn/:** A method of agriculture in which trees are cut down and burned to clear land. (Đây là một tính từ dùng để chỉ phương pháp du canh đốt rừng.).
+172. **Slash-and-burn (adj) /ˌslæʃ ənd ˈbɜːrn/:** A method of agriculture in which trees are cut down and burned to clear land. (Đây là một tính từ dùng để chỉ phương pháp du canh đốt rừng.).
 Ví dụ: Slash-and-burn agriculture is a major cause of deforestation.
 
 ---
 
-175. **Sludge (n) /slʌdʒ/:** Thick, soft, wet mud or a similar viscous mixture. (Đây là một danh từ dùng để chỉ bùn thải.).
+173. **Sludge (n) /slʌdʒ/:** Thick, soft, wet mud or a similar viscous mixture. (Đây là một danh từ dùng để chỉ bùn thải.).
 Ví dụ: Sewage sludge can be treated and used as a fertilizer.
 
 ---
 
-176. **Solar panel (n) /ˌsoʊlər ˈpænl/:** A panel designed to absorb the sun's rays as a source of energy. (Đây là một cụm danh từ dùng để chỉ tấm pin mặt trời.).
+174. **Solar panel (n) /ˌsoʊlər ˈpænl/:** A panel designed to absorb the sun's rays as a source of energy. (Đây là một cụm danh từ dùng để chỉ tấm pin mặt trời.).
 Ví dụ: Installing solar panels can significantly reduce your electricity bill.
 
 ---
 
-177. **Stratosphere (n) /ˈstrætəsfɪr/:** The layer of the earth's atmosphere above the troposphere. (Đây là một danh từ dùng để chỉ tầng bình lưu.).
+175. **Stratosphere (n) /ˈstrætəsfɪr/:** The layer of the earth's atmosphere above the troposphere. (Đây là một danh từ dùng để chỉ tầng bình lưu.).
 Ví dụ: The ozone layer is located within the Earth's stratosphere.
 
 ---
 
-178. **Subsidy (n) /ˈsʌbsədi/:** A sum of money granted by the government to assist an industry. (Đây là một danh từ dùng để chỉ sự trợ cấp, thường dùng cho năng lượng sạch.).
+176. **Subsidy (n) /ˈsʌbsədi/:** A sum of money granted by the government to assist an industry. (Đây là một danh từ dùng để chỉ sự trợ cấp, thường dùng cho năng lượng sạch.).
 Ví dụ: Government subsidies can help lower the cost of electric cars.
 
 ---
 
-179. **Sulphur dioxide (n) /ˌsʌlfər daɪˈɑːksaɪd/:** A colorless pungent toxic gas formed by burning sulfur in air. (Đây là một cụm danh từ dùng để chỉ khí SO2.).
+177. **Sulphur dioxide (n) /ˌsʌlfər daɪˈɑːksaɪd/:** A colorless pungent toxic gas formed by burning sulfur in air. (Đây là một cụm danh từ dùng để chỉ khí SO2.).
 Ví dụ: Sulphur dioxide is one of the main gases that cause acid rain.
 
 ---
 
-180. **Thermal (adj) /ˈθɜːrml/:** Relating to heat. (Đây là một tính từ dùng để chỉ thuộc về nhiệt.).
+178. **Thermal (adj) /ˈθɜːrml/:** Relating to heat. (Đây là một tính từ dùng để chỉ thuộc về nhiệt.).
 Ví dụ: Thermal pollution occurs when hot water is released into a river.
 
 ---
 
-181. **Topsoil (n) /ˈtɑːpsɔɪl/:** The top layer of soil. (Đây là một danh từ dùng để chỉ tầng đất mặt.).
+179. **Topsoil (n) /ˈtɑːpsɔɪl/:** The top layer of soil. (Đây là một danh từ dùng để chỉ tầng đất mặt.).
 Ví dụ: It takes hundreds of years to form just one inch of topsoil.
 
 ---
 
-182. **Trace element (n) /ˈtreɪs ˌelɪmənt/:** A chemical element present in very small amounts. (Đây là một cụm danh từ dùng để chỉ nguyên tố vi lượng.).
+180. **Trace element (n) /ˈtreɪs ˌelɪmənt/:** A chemical element present in very small amounts. (Đây là một cụm danh từ dùng để chỉ nguyên tố vi lượng.).
 Ví dụ: Some trace elements are necessary for the growth of plants.
 
 ---
 
-183. **Transpiration (n) /ˌtrænspɪˈreɪʃn/:** The process by which plants give off water vapor through leaves. (Đây là một danh từ dùng để chỉ sự thoát hơi nước ở cây.).
+181. **Transpiration (n) /ˌtrænspɪˈreɪʃn/:** The process by which plants give off water vapor through leaves. (Đây là một danh từ dùng để chỉ sự thoát hơi nước ở cây.).
 Ví dụ: Transpiration helps cool the surrounding air in a forest.
 
 ---
 
-184. **Turbine (n) /ˈtɜːrbaɪn/:** A machine for producing continuous power by rotating wheels. (Đây là một danh từ dùng để chỉ tua-bin.).
+182. **Turbine (n) /ˈtɜːrbaɪn/:** A machine for producing continuous power by rotating wheels. (Đây là một danh từ dùng để chỉ tua-bin.).
 Ví dụ: Wind turbines convert the wind's kinetic energy into electricity.
 
 ---
 
-185. **Ultraviolet (adj) /ˌʌltrəˈvaɪələt/:** Having a wavelength shorter than that of the violet end of the visible spectrum. (Đây là một tính từ dùng để chỉ tia cực tím.).
+183. **Ultraviolet (adj) /ˌʌltrəˈvaɪələt/:** Having a wavelength shorter than that of the violet end of the visible spectrum. (Đây là một tính từ dùng để chỉ tia cực tím.).
 Ví dụ: The ozone layer protects us from harmful ultraviolet rays.
 
 ---
 
-186. **Vulnerable (adj) /ˈvʌlnərəbl/:** Susceptible to physical or emotional attack or harm. (Đây là một tính từ dùng để chỉ sự dễ bị tổn thương.).
+184. **Vulnerable (adj) /ˈvʌlnərəbl/:** Susceptible to physical or emotional attack or harm. (Đây là một tính từ dùng để chỉ sự dễ bị tổn thương.).
 Ví dụ: Developing nations are the most vulnerable to climate change.
 
 ---
 
-187. **Waste disposal (n) /ˈweɪst dɪˌspoʊzl/:** The act of getting rid of waste material. (Đây là một cụm danh từ dùng để chỉ sự xử lý rác thải.).
+185. **Waste disposal (n) /ˈweɪst dɪˌspoʊzl/:** The act of getting rid of waste material. (Đây là một cụm danh từ dùng để chỉ sự xử lý rác thải.).
 Ví dụ: Improper waste disposal can lead to serious environmental pollution.
 
 ---
 
-188. **Wastewater (n) /ˈweɪstwaːtər/:** Water that has been used in the home, in a business, or as part of an industrial process. (Đây là một danh từ dùng để chỉ nước thải.).
+186. **Wastewater (n) /ˈweɪstwaːtər/:** Water that has been used in the home, in a business, or as part of an industrial process. (Đây là một danh từ dùng để chỉ nước thải.).
 Ví dụ: Wastewater treatment plants clean the water before it returns to rivers.
 
 ---
 
-189. **Water pollution (n) /ˈwɔːtər pəˌluːʃn/:** The contamination of water bodies. (Đây là một cụm danh từ dùng để chỉ ô nhiễm nguồn nước.).
+187. **Water pollution (n) /ˈwɔːtər pəˌluːʃn/:** The contamination of water bodies. (Đây là một cụm danh từ dùng để chỉ ô nhiễm nguồn nước.).
 Ví dụ: Water pollution can kill fish and make people sick.
 
 ---
 
-190. **Water table (n) /ˈwɔːtər ˌteɪbl/:** The level below which the ground is saturated with water. (Đây là một cụm danh từ dùng để chỉ mực nước ngầm.).
+188. **Water table (n) /ˈwɔːtər ˌteɪbl/:** The level below which the ground is saturated with water. (Đây là một cụm danh từ dùng để chỉ mực nước ngầm.).
 Ví dụ: During a drought, the water table can drop significantly.
 
 ---
 
-191. **Weathering (n) /ˈweðərɪŋ/:** The wear away or change of appearance of something by long exposure to air. (Đây là một danh từ dùng để chỉ sự phong hóa.).
+189. **Weathering (n) /ˈweðərɪŋ/:** The wear away or change of appearance of something by long exposure to air. (Đây là một danh từ dùng để chỉ sự phong hóa.).
 Ví dụ: Weathering of rocks is a natural part of soil formation.
 
 ---
 
-192. **Wetland (n) /ˈwetlænd/:** Land consisting of marshes or swamps; saturated land. (Đây là một danh từ dùng để chỉ đất ngập nước.).
+190. **Wetland (n) /ˈwetlænd/:** Land consisting of marshes or swamps; saturated land. (Đây là một danh từ dùng để chỉ đất ngập nước.).
 Ví dụ: Wetlands act as natural filters for the water system.
 
 ---
 
-193. **Wildlife conservation (n) /ˈwaɪldlaɪf ˌkɑːnsərˈveɪʃn/:** The practice of protecting wild species and their habitats. (Đây là một cụm danh từ dùng để chỉ sự bảo tồn động vật hoang dã.).
+191. **Wildlife conservation (n) /ˈwaɪldlaɪf ˌkɑːnsərˈveɪʃn/:** The practice of protecting wild species and their habitats. (Đây là một cụm danh từ dùng để chỉ sự bảo tồn động vật hoang dã.).
 Ví dụ: Wildlife conservation is essential for maintaining global biodiversity.
 
 ---
 
-194. **Wildlife trade (n) /ˈwaɪldlaɪf treɪd/:** The sale and exchange of wild animals and plants. (Đây là một cụm danh từ dùng để chỉ việc buôn bán động vật hoang dã.).
+192. **Wildlife trade (n) /ˈwaɪldlaɪf treɪd/:** The sale and exchange of wild animals and plants. (Đây là một cụm danh từ dùng để chỉ việc buôn bán động vật hoang dã.).
 Ví dụ: Illegal wildlife trade is a multibillion-dollar global industry.
 
 ---
 
-195. **Wind energy (n) /ˈwɪnd ˌenərdʒi/:** Power obtained by harnessing the energy of the wind. (Đây là một cụm danh từ dùng để chỉ năng lượng gió.).
+193. **Wind energy (n) /ˈwɪnd ˌenərdʒi/:** Power obtained by harnessing the energy of the wind. (Đây là một cụm danh từ dùng để chỉ năng lượng gió.).
 Ví dụ: Wind energy is one of the fastest-growing renewable sources.
 
 ---
 
-196. **Zero-waste (adj) /ˌzɪroʊ ˈweɪst/:** Producing little or no waste. (Đây là một tính từ dùng để chỉ lối sống không rác thải.).
+194. **Zero-waste (adj) /ˌzɪroʊ ˈweɪst/:** Producing little or no waste. (Đây là một tính từ dùng để chỉ lối sống không rác thải.).
 Ví dụ: Adopting a zero-waste lifestyle helps reduce environmental impact.
 
 ---
 
-197. **Zoology (n) /zuˈɑːlə dʒi/:** The scientific study of the behavior, structure, and classification of animals. (Đây là một danh từ dùng để chỉ động vật học.).
+195. **Zoology (n) /zuˈɑːlə dʒi/:** The scientific study of the behavior, structure, and classification of animals. (Đây là một danh từ dùng để chỉ động vật học.).
 Ví dụ: Zoology is a field that is critical for conservation biology.
 
 ---
 
-198. **Algal bloom (n) /ˈælɡl bluːm/:** A rapid increase or accumulation in the population of algae in freshwater or marine water systems. (Đây là một cụm danh từ dùng để chỉ hiện tượng tảo nở hoa.).
+196. **Algal bloom (n) /ˈælɡl bluːm/:** A rapid increase or accumulation in the population of algae in freshwater or marine water systems. (Đây là một cụm danh từ dùng để chỉ hiện tượng tảo nở hoa.).
 Ví dụ: Fertilizer runoff can cause massive algal blooms that kill fish.
 
 ---
 
-199. **Ambient (adj) /ˈæmbiənt/:** Relating to the immediate surroundings of something. (Đây là một tính từ dùng để chỉ môi trường xung quanh.).
+197. **Ambient (adj) /ˈæmbiənt/:** Relating to the immediate surroundings of something. (Đây là một tính từ dùng để chỉ môi trường xung quanh.).
 Ví dụ: The ambient air quality in the city has improved recently.
 
 ---
 
-200. **Net-zero emissions (n) /ˌnet ˈzɪroʊ iˈmɪʃnz/:** A state in which the greenhouse gases going into the atmosphere are balanced by removal from the atmosphere. (Đây là một cụm danh từ dùng để chỉ phát thải ròng bằng không.).
+198. **Net-zero emissions (n) /ˌnet ˈzɪroʊ iˈmɪʃnz/:** A state in which the greenhouse gases going into the atmosphere are balanced by removal from the atmosphere. (Đây là một cụm danh từ dùng để chỉ phát thải ròng bằng không.).
 Ví dụ: Many nations have pledged to reach net-zero emissions by mid-century.

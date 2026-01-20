@@ -1,0 +1,851 @@
+Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **Energy Innovation (Đổi mới năng lượng)**. Nội dung được biên soạn kỹ lưỡng, tuân thủ chặt chẽ định dạng trải phẳng (flat) chi tiết: Từ vựng (Từ loại) /Phiên âm/: Nghĩa tiếng Anh (Giải thích chi tiết nghĩa tiếng Việt).
+
+---
+1. **Innovation (n) /ˌɪnəˈveɪʃn/:** (Lặp lại cuối cùng để chốt chủ đề).
+Ví dụ: Continuous innovation in the energy sector is our best hope for a cleaner and more prosperous world.
+
+---
+2. **Renewable (adj) /rɪˈnuːəbl/:** (Of a natural resource or source of energy) not depleted when used. (Đây là một tính từ dùng để chỉ năng lượng tái tạo, có khả năng phục hồi tự nhiên.).
+Ví dụ: Countries are investing heavily in renewable energy sources like wind and solar to combat climate change.
+
+---
+
+3. **Photovoltaic (adj) /ˌfoʊtoʊvɔːlˈteɪɪk/:** Relating to the production of electric current at the junction of two substances exposed to light. (Đây là một tính từ dùng để chỉ công nghệ điện quang/quang điện, thường dùng cho các tấm pin mặt trời.).
+Ví dụ: Photovoltaic panels convert sunlight directly into electricity for residential use.
+
+---
+
+4. **Geothermal (adj) /ˌdʒiːoʊˈθɜːrml/:** Relating to or produced by the internal heat of the earth. (Đây là một tính từ dùng để chỉ địa nhiệt, năng lượng từ lòng đất.).
+Ví dụ: Iceland is a world leader in utilizing geothermal energy for heating and power.
+
+---
+
+5. **Hydrogen fuel cell (n) /ˈhaɪdrədʒən ˈfjuːəl sel/:** A device that converts chemical energy from a fuel into electricity through a chemical reaction of hydrogen with oxygen. (Đây là một danh từ dùng để chỉ pin nhiên liệu hydro.).
+Ví dụ: Hydrogen fuel cells are being developed as a clean alternative for powering heavy trucks and ships.
+
+---
+
+6. **Decarbonization (n) /ˌdiːˌkɑːrbənaɪˈzeɪʃn/:** The reduction or removal of carbon dioxide emissions from a process or economy. (Đây là một danh từ dùng để chỉ quá trình giảm phát thải carbon.).
+Ví dụ: The global shift towards decarbonization is essential for achieving net-zero targets.
+
+---
+
+7. **Efficiency (n) /ɪˈfɪʃnsi/:** (Lặp lại nghĩa về sự tối ưu hóa tài nguyên).
+Ví dụ: New power electronics are designed for maximum efficiency and minimum heat loss.
+
+---
+
+8. **Grid (n) /ɡrɪd/:** A network of lines that cross each other to form a series of squares or rectangles; in energy, the system of power lines and stations. (Đây là một danh từ dùng để chỉ mạng lưới điện quốc gia hoặc khu vực.).
+Ví dụ: Modernizing the aging power grid is necessary to integrate intermittent renewable energy.
+
+---
+
+9. **Turbine (n) /ˈtɜːrbaɪn/:** A machine for producing continuous power in which a wheel or rotor is made to revolve by a fast-moving flow of water, steam, gas, or air. (Đây là một danh từ dùng để chỉ tua-bin.).
+Ví dụ: Wind turbines are becoming more efficient at capturing energy even at low wind speeds.
+
+---
+
+10. **Hydropower (n) /ˈhaɪdroʊpaʊər/:** Electricity produced from the energy of moving water. (Đây là một danh từ dùng để chỉ thủy điện.).
+Ví dụ: Hydropower remains one of the largest sources of low-carbon electricity globally.
+
+---
+
+11. **Nuclear fusion (n) /ˈnuːkliər ˈfjuːʒn/:** A nuclear reaction in which atomic nuclei of low atomic number fuse to form a heavier nucleus with the release of energy. (Đây là một cụm danh từ dùng để chỉ phản ứng nhiệt hạch, hy vọng cho năng lượng sạch vô hạn.).
+Ví dụ: Scientists hope that nuclear fusion will eventually provide a limitless source of clean energy.
+
+---
+
+12. **Biofuel (n) /ˈbaɪoʊfjuːəl/:** A fuel derived immediately from living matter. (Đây là một danh từ dùng để chỉ nhiên liệu sinh học làm từ thực vật hoặc rác thải hữu cơ.).
+Ví dụ: Biofuel produced from algae is a promising alternative to traditional jet fuels.
+
+---
+
+13. **Storage (n) /ˈstɔːrɪdʒ/:** The action or method of storing something for future use. (Trong năng lượng, đây là việc lưu trữ năng lượng, ví dụ bằng pin.).
+Ví dụ: Energy storage systems are vital for stabilizing the supply of solar power during the night.
+
+---
+
+14. **Sustainable (adj) /səˈsteɪnəbl/:** Able to be maintained at a certain rate or level. (Đây là một tính từ dùng để chỉ sự bền vững về năng lượng và môi trường.).
+Ví dụ: We must transition to a sustainable energy system to protect the planet for future generations.
+
+---
+
+15. **Emission (n) /iˈmɪʃn/:** The production and discharge of something, especially gas or radiation. (Đây là một danh từ dùng để chỉ khí thải, thường là CO2.).
+Ví dụ: Reducing methane emissions is a top priority in energy innovation.
+
+---
+
+16. **Infrastructure (n) /ˈɪnfrəstrʌktʃər/:** (Lặp lại nghĩa về hệ thống hạ tầng kỹ thuật).
+Ví dụ: Massive investment in infrastructure is required to support the transition to green energy.
+
+---
+
+17. **Solar farm (n) /ˈsoʊlər fɑːrm/:** An area of land on which a large number of solar panels are deployed to generate electricity. (Đây là một cụm danh từ dùng để chỉ cánh đồng năng lượng mặt trời.).
+Ví dụ: Large solar farms in the desert can provide electricity for thousands of homes.
+
+---
+
+18. **Offshore wind (n) /ˌɔːfʃɔːr ˈwɪnd/:** Wind power generated from wind turbines built over bodies of water, usually the ocean. (Đây là một cụm danh từ dùng để chỉ điện gió ngoài khơi.).
+Ví dụ: Offshore wind has the advantage of stronger and more consistent winds compared to onshore sites.
+
+---
+
+19. **Smart meter (n) /ˌsmɑːrt ˈmiːtər/:** An electronic device that records consumption of electric energy and communicates that information for monitoring and billing. (Đây là một cụm danh từ dùng để chỉ công tơ điện thông minh.).
+Ví dụ: Smart meters allow consumers to track their energy usage in real-time and reduce waste.
+
+---
+
+20. **Carbon capture (n) /ˈkɑːrbən ˈkæptʃər/:** The process of trapping waste carbon dioxide at its source and depositing it where it will not enter the atmosphere. (Đây là một cụm danh từ dùng để chỉ công nghệ thu giữ carbon.).
+Ví dụ: Carbon capture technology is being tested at coal-fired power plants to mitigate climate impact.
+
+---
+
+21. **Intermittent (adj) /ˌɪntərˈmɪtənt/:** (Lặp lại để nhấn mạnh tính chất quan trọng của điện gió/mặt trời).
+Ví dụ: Intermittent energy sources need to be complemented by stable base-load power.
+
+---
+
+22. **Silicon (n) /ˈsɪlɪkən/:** A chemical element used in the manufacture of solar cells and computer chips. (Đây là một danh từ dùng để chỉ silic, vật liệu chủ đạo trong pin mặt trời.).
+Ví dụ: Advancements in silicon technology have dramatically reduced the cost of solar energy.
+
+---
+
+23. **Semi-conductor (n) /ˌsemikənˈdʌktər/:** A solid substance that has a conductivity between that of an insulator and that of most metals. (Đây là một danh từ dùng để chỉ chất bán dẫn, cốt lõi của thiết bị điện tử năng lượng.).
+Ví dụ: High-efficiency semi-conductors are essential for converting DC power from solar panels to AC power.
+
+---
+
+24. **Sustainability (n) /səˌsteɪnəˈbɪləti/:** (Lặp lại để nhấn mạnh tính bền vững).
+Ví dụ: The sustainability of renewable energy projects depends on responsible mineral sourcing.
+
+---
+
+25. **Tidal power (n) /ˈtaɪdl paʊər/:** A form of hydropower that converts the energy obtained from tides into useful forms of power. (Đây là một cụm danh từ dùng để chỉ năng lượng thủy triều.).
+Ví dụ: Tidal power is highly predictable, making it a reliable source of renewable electricity.
+
+---
+
+26. **Thermal (adj) /ˈθɜːrml/:** Relating to heat. (Đây là một tính từ dùng để chỉ các yếu tố thuộc về nhiệt năng.).
+Ví dụ: Thermal energy can be stored in molten salts to generate electricity after sunset.
+
+---
+
+27. **Electrification (n) /ɪˌlektrɪfɪˈkeɪʃn/:** The action of process of charging something with electricity. (Đây là một danh từ dùng để chỉ quá trình điện khí hóa (ví dụ: chuyển từ xe xăng sang xe điện).).
+Ví dụ: The electrification of public transport is a key step towards cleaner cities.
+
+---
+
+28. **Microgrid (n) /ˈmaɪkroʊɡrɪd/:** A small network of electricity users with a local source of supply that is usually attached to a centralized national grid. (Đây là một danh từ dùng để chỉ mạng lưới điện siêu nhỏ cục bộ.).
+Ví dụ: Microgrids can provide reliable power to remote communities or during natural disasters.
+
+---
+
+29. **Battery pack (n) /ˈbætəri pæk/:** A set of any number of identical batteries or individual battery cells. (Đây là một cụm danh từ dùng để chỉ bộ pin năng lượng.).
+Ví dụ: The battery pack in an electric car determines its driving range.
+
+---
+
+30. **Megawatt (n) /ˈmeɡəwɑːt/:** A unit of power equal to one million watts. (Đây là một danh từ dùng để chỉ đơn vị đo công suất điện quy mô lớn.).
+Ví dụ: The new wind farm has a total capacity of five hundred megawatts.
+
+---
+
+31. **Fossil fuel (n) /ˈfɑːsl fjuːəl/:** A natural fuel such as coal or gas, formed in the geological past from the remains of living organisms. (Đây là một cụm danh từ dùng để chỉ nhiên liệu hóa thạch.).
+Ví dụ: We must reduce our dependency on fossil fuels to meet global environmental goals.
+
+---
+
+32. **Transition (n) /trænˈzɪʃn/:** (Lặp lại nghĩa danh từ chỉ sự chuyển đổi giai đoạn).
+Ví dụ: The transition period between coal and gas will vary from country to country.
+
+---
+
+33. **Biomass (n) /ˈbaɪoʊmæs/:** Organic matter used as a fuel, especially in a power station. (Đây là một danh từ dùng để chỉ sinh khối, vật liệu hữu cơ dùng làm năng lượng.).
+Ví dụ: Biomass energy utilizes wood, agricultural waste, and even garbage to produce heat.
+
+---
+
+34. **Incentive (n) /ɪnˈsentɪv/:** A thing that motivates or encourages someone to do something. (Trong năng lượng là các chính sách khuyến khích từ chính phủ.).
+Ví dụ: Tax incentives for solar panel installation have encouraged many homeowners to go green.
+
+---
+
+35. **Optimization (n) /ˌɑːptɪməˈzeɪʃn/:** (Lặp lại nghĩa về việc tối ưu hóa).
+Ví dụ: Artificial intelligence is playing a huge role in the optimization of the modern energy grid.
+
+---
+
+36. **Interconnected (adj) /ˌɪntərkəˈnektɪd/:** (Lặp lại để nhấn mạnh tính hệ thống lưới điện).
+Ví dụ: An interconnected market allows for more stable electricity prices across regions.
+
+---
+
+37. **Photons (n) /ˈfoʊtɑːnz/:** Particles representing a quantum of light or other electromagnetic radiation. (Đây là một danh từ dùng để chỉ các hạt ánh sáng trong vật lý năng lượng mặt trời.).
+Ví dụ: Solar cells work by absorbing photons from sunlight to release electrons.
+
+---
+
+38. **Transmission (n) /trænzˈmɪʃn/:** The action or process of transmitting something. (Trong năng lượng là sự truyền tải điện năng đi xa.).
+Ví dụ: High-voltage transmission lines are needed to move electricity from wind farms to cities.
+
+---
+
+39. **Distribution (n) /ˌdɪstrɪˈbjuːʃn/:** The action of sharing something out among a number of recipients. (Trong năng lượng là sự phân phối điện đến từng hộ gia đình.).
+Ví dụ: Smart distribution networks can automatically detect and isolate power outages.
+
+---
+
+40. **Retrofit (v) /ˈretroʊfɪt/:** Add (a component or accessory) to something that did not have it when manufactured. (Đây là một động từ dùng để chỉ việc cải tạo thiết bị cũ bằng công nghệ năng lượng mới.).
+Ví dụ: The old factory was retrofitted with energy-efficient lighting and insulation.
+
+---
+
+41. **Insulation (n) /ˌɪnsəˈleɪʃn/:** Material used to prevent the loss of heat or the intrusion of sound. (Đây là một danh từ dùng để chỉ vật liệu cách nhiệt, giúp tiết kiệm năng lượng.).
+Ví dụ: Proper roof insulation can cut heating bills by up to thirty percent.
+
+---
+
+42. **Renewability (n) /rɪˈnuːəˈbɪlɪti/:** The quality of being capable of being renewed. (Đây là một danh từ dùng để chỉ khả năng tái tạo.).
+Ví dụ: The renewability of wood depends on responsible forestry practices.
+
+---
+
+43. **Conduction (n) /kənˈdʌkʃn/:** The process by which heat or electricity is directly transmitted through a substance. (Đây là một danh từ dùng để chỉ sự dẫn điện hoặc dẫn nhiệt.).
+Ví dụ: Copper is widely used in energy systems due to its excellent electrical conduction.
+
+---
+
+44. **Generator (n) /ˈdʒenəreɪtər/:** A machine that converts mechanical energy into electricity. (Đây là một danh từ dùng để chỉ máy phát điện.).
+Ví dụ: During the power cut, the hospital relied on its backup diesel generator.
+
+---
+
+45. **Reactor (n) /riˈæktər/:** A device or complex in which a nuclear reaction is maintained and controlled. (Đây là một danh từ dùng để chỉ lò phản ứng hạt nhân.).
+Ví dụ: Modern nuclear reactors are designed with multiple safety systems to prevent leaks.
+
+---
+
+46. **Prototype (n) /ˈproʊtətaɪp/:** A first, typical or preliminary model of something. (Đây là một danh từ dùng để chỉ mẫu thử nghiệm của một thiết bị năng lượng mới.).
+Ví dụ: The engineers are testing a prototype of a new high-capacity battery.
+
+---
+
+47. **Storage capacity (n) /ˈstɔːrɪdʒ kəˈpæsəti/:** The amount of energy that can be stored in a system. (Đây là một cụm danh từ dùng để chỉ dung lượng lưu trữ.).
+Ví dụ: Increasing the storage capacity of the grid is essential for a 100% renewable future.
+
+---
+
+48. **Breakthrough (n) /ˈbreɪkθruː/:** (Lặp lại nghĩa về sự đột phá quan trọng).
+Ví dụ: A breakthrough in solid-state batteries could make electric cars much lighter and safer.
+
+---
+
+49. **Carbon footprint (n) /ˌkɑːrbən ˈfʊtprɪnt/:** The amount of carbon dioxide and other carbon compounds emitted due to the consumption of fossil fuels by a person or group. (Đây là một cụm danh từ dùng để chỉ dấu chân carbon.).
+Ví dụ: Switching to renewable energy is the fastest way to reduce your carbon footprint.
+
+---
+
+50. **Net-zero (adj) /ˌnet ˈzɪroʊ/:** Achieving a balance between the greenhouse gases put into the atmosphere and those taken out. (Đây là một tính từ dùng để chỉ mục tiêu phát thải ròng bằng không.).
+Ví dụ: Many corporations have pledged to become net-zero by the year 2050.
+
+---
+
+51. **Adaptation (n) /ˌædæpˈteɪʃn/:** (Lặp lại nghĩa về sự thích nghi của con người và hệ thống).
+Ví dụ: Adaptation to rising sea levels is already a priority for many coastal power plants.
+
+---
+
+52. **Feasibility (n) /ˌfiːzəˈbɪləti/:** (Lặp lại nghĩa về sự thực thi thực tế).
+Ví dụ: The feasibility of using hydrogen for home heating is still being debated by experts.
+
+---
+
+53. **Regulation (n) /ˌreɡjuˈleɪʃn/:** (Lặp lại nghĩa về quy chuẩn/luật lệ).
+Ví dụ: Environmental regulations have forced many coal plants to shut down or upgrade.
+
+---
+
+54. **Subsidize (v) /ˈsʌbsɪdaɪz/:** Support (an organization or activity) financially. (Đây là một động từ dùng để chỉ việc trợ cấp từ chính phủ cho năng lượng sạch.).
+Ví dụ: Many governments subsidize the purchase of electric cars to reduce pollution.
+
+---
+
+55. **Thermodynamics (n) /ˌθɜːrmoʊdaɪˈnæmɪks/:** The branch of physical science that deals with the relations between heat and other forms of energy. (Đây là một danh từ dùng để chỉ nhiệt động lực học.).
+Ví dụ: Thermodynamics explains how heat can be converted into mechanical work in an engine.
+
+---
+
+56. **Kinetic (adj) /kɪˈnetɪk/:** Relating to or resulting from motion. (Đây là một tính từ dùng để chỉ động năng, ví dụ từ gió hoặc nước chảy.).
+Ví dụ: A wind turbine converts the kinetic energy of the wind into electrical energy.
+
+---
+
+57. **Conservation (n) /ˌkɑːnsərˈveɪʃn/:** (Lặp lại nghĩa về bảo tồn tài nguyên).
+Ví dụ: Water conservation is becoming increasingly important for hydropower production during droughts.
+
+---
+
+58. **Off-grid (adj) /ˌɔːf ˈɡrɪd/:** Not using or depending on public utilities, especially the supply of electricity. (Đây là một tính từ dùng để chỉ trạng thái tự cấp năng lượng, không phụ thuộc lưới điện.).
+Ví dụ: Solar panels allow many remote cabins to operate entirely off-grid.
+
+---
+
+59. **Lithium-ion (n) /ˌlɪθiəm ˈaɪən/:** A type of rechargeable battery in which lithium ions move from the negative electrode to the positive electrode during discharge. (Đây là một danh từ dùng để chỉ pin Lithium-ion phổ biến hiện nay.).
+Ví dụ: Lithium-ion batteries are currently the standard for smartphones and electric vehicles.
+
+---
+
+60. **Electrolysis (n) /ɪˌlekˈtrɑːləsɪs/:** Chemical decomposition produced by passing an electric current through a liquid or solution containing ions. (Đây là một danh từ dùng để chỉ quá trình điện phân nước để sản xuất hydro.).
+Ví dụ: Green hydrogen is produced through the electrolysis of water using renewable electricity.
+
+---
+
+61. **Fission (n) /ˈfɪʃn/:** The action of dividing or splitting something into two or more parts; specifically nuclear fission. (Đây là một danh từ dùng để chỉ phản ứng phân hạch hạt nhân.).
+Ví dụ: Nuclear fission provides a steady supply of carbon-free electricity in many countries.
+
+---
+
+62. **Geopolitical (adj) /ˌdʒiːoʊpəˈlɪtɪkl/:** Relating to politics, especially international relations, as influenced by geographical factors. (Đây là một tính từ dùng để chỉ các yếu tố địa chính trị ảnh hưởng đến nguồn cung năng lượng.).
+Ví dụ: The transition to renewables could shift the geopolitical balance away from oil-producing nations.
+
+---
+
+63. **Scalability (n) /ˌskeɪləˈbɪləti/:** (Lặp lại nghĩa về khả năng mở rộng nhanh chóng).
+Ví dụ: The scalability of offshore wind power could allow it to meet a huge part of global demand.
+
+---
+
+64. **Interoperability (n) /ˌɪntərˌɑːpərəˈbɪləti/:** The ability of computer systems or software to exchange and make use of information. (Trong năng lượng là khả năng tương thích giữa các thiết bị sạc và xe khác nhau.).
+Ví dụ: Interoperability between different electric vehicle charging networks is essential for users.
+
+---
+
+65. **Voltage (n) /ˈvoʊltɪdʒ/:** An electromotive force or potential difference expressed in volts. (Đây là một danh từ dùng để chỉ điện áp.).
+Ví dụ: Step-up transformers are used to increase the voltage for long-distance transmission.
+
+---
+
+66. **Current (n) /ˈkɜːrənt/:** A flow of electricity which results from the ordered directional movement of electrically charged particles. (Đây là một danh từ dùng để chỉ dòng điện.).
+Ví dụ: Direct current (DC) from solar panels must be converted to alternating current (AC) for home use.
+
+---
+
+67. **Transformer (n) /trænsˈfɔːrmər/:** An apparatus for reducing or increasing the voltage of an alternating current. (Đây là một danh từ dùng để chỉ máy biến áp.).
+Ví dụ: Transformers are a critical component of the electrical distribution system.
+
+---
+
+68. **Capacitor (n) /kəˈpæsɪtər/:** A device used to store an electric charge, consisting of one or more pairs of conductors separated by an insulator. (Đây là một danh từ dùng để chỉ tụ điện.).
+Ví dụ: Super-capacitors can charge and discharge energy much faster than traditional batteries.
+
+---
+
+69. **Resistance (n) /rɪˈzɪstəns/:** The degree to which a substance or device opposes the passage of an electric current. (Đây là một danh từ dùng để chỉ điện trở.).
+Ví dụ: Choosing materials with low electrical resistance helps to minimize energy loss in cables.
+
+---
+
+70. **Induction (n) /ɪnˈdʌkʃn/:** The production of an electromotive force across an electrical conductor in a changing magnetic field. (Đây là một danh từ dùng để chỉ hiện tượng cảm ứng điện từ.).
+Ví dụ: Wireless charging uses electromagnetic induction to transfer energy to smartphones.
+
+---
+
+71. **Photocell (n) /ˈfoʊtoʊsel/:** A device that generates an electric current or voltage when exposed to light. (Đây là một danh từ dùng để chỉ tế bào quang điện.).
+Ví dụ: Photocells are often used in automatic street lighting to detect dusk and dawn.
+
+---
+
+72. **Refining (n) /rɪˈfaɪnɪŋ/:** The process of removing impurities or unwanted elements from a substance. (Trong năng lượng là quá trình lọc dầu hoặc tinh chế quặng.).
+Ví dụ: Lithium refining is a critical step in the supply chain for battery manufacturing.
+
+---
+
+73. **Extraction (n) /ɪkˈstrækʃn/:** The action of taking out something, especially using effort or force. (Đây là một danh từ dùng để chỉ sự khai thác tài nguyên như dầu mỏ hoặc khoáng sản.).
+Ví dụ: The extraction of rare earth metals has significant environmental consequences.
+
+---
+
+74. **Combustion (n) /kəmˈbʌstʃən/:** The process of burning something. (Đây là một danh từ dùng để chỉ sự đốt cháy nhiên liệu.).
+Ví dụ: Internal combustion engines are being phased out in favor of electric motors.
+
+---
+
+75. **Pipeline (n) /ˈpaɪplaɪn/:** A long pipe, typically underground, for conveying oil, gas, etc. over long distances. (Đây là một danh từ dùng để chỉ đường ống dẫn năng lượng.).
+Ví dụ: A new pipeline was built to transport natural gas from the sea to the power plant.
+
+---
+
+76. **Resilience (n) /rɪˈzɪliəns/:** (Lặp lại để nhấn mạnh khả năng chống chịu).
+Ví dụ: Building a more resilient grid is a top priority for governments worldwide.
+
+---
+
+77. **Volatility (n) /ˌvɑːləˈtɪləti/:** Liability to change rapidly and unpredictably, especially for the worse. (Đây là một danh từ dùng để chỉ sự biến động giá năng lượng.).
+Ví dụ: The volatility of oil prices makes it difficult for companies to plan long-term budgets.
+
+---
+
+78. **Subsidy (n) /ˈsʌbsədi/:** A sum of money granted by the government or a public body to assist an industry. (Đây là một danh từ dùng để chỉ tiền trợ cấp.).
+Ví dụ: Reducing fossil fuel subsidies could accelerate the transition to green energy.
+
+---
+
+79. **Diversification (n) /daɪˌvɜːrsɪfɪˈkeɪʃn/:** The process of becoming more varied. (Đây là một danh từ dùng để chỉ sự đa dạng hóa nguồn năng lượng để đảm bảo an ninh.).
+Ví dụ: Energy diversification is essential to reduce reliance on imported natural gas.
+
+---
+
+80. **Affordability (n) /əˌfɔːrdəˈbɪləti/:** (Lặp lại nghĩa về giá cả dễ tiếp cận).
+Ví dụ: Improving the affordability of green energy is essential for a fair transition.
+
+---
+
+81. **Standardization (n) /ˌstændərdəˈzeɪʃn/:** (Lặp lại nghĩa về việc áp dụng tiêu chuẩn chung).
+Ví dụ: International standardization of battery recycling processes is needed to protect the environment.
+
+---
+
+82. **Implementation (n) /ˌɪmplɪmenˈteɪʃn/:** (Lặp lại nghĩa danh từ về sự thực hiện).
+Ví dụ: The slow implementation of carbon taxes has delayed the shift to green energy.
+
+---
+
+83. **Utilization (n) /ˌjuːtələˈzeɪʃn/:** (Lặp lại nghĩa về sự tận dụng tối đa nguồn lực).
+Ví dụ: The utilization of waste heat from power plants can provide district heating for entire cities.
+
+---
+
+84. **Compliance (n) /kəmˈplaɪəns/:** (Lặp lại nghĩa về sự tuân thủ quy định).
+Ví dụ: Companies must ensure compliance with all safety regulations when building nuclear plants.
+
+---
+
+85. **Feasible (adj) /ˈfiːzəbl/:** Possible to do easily or conveniently. (Đây là một tính từ dùng để chỉ tính khả thi.).
+Ví dụ: It is now technically feasible to power small islands entirely with renewable energy.
+
+---
+
+86. **Drastic (adj) /ˈdræstɪk/:** Likely to have a strong or far-reaching effect; radical and extreme. (Đây là một tính từ dùng để chỉ sự mạnh mẽ hoặc quyết liệt trong thay đổi chính sách năng lượng.).
+Ví dụ: Drastic measures are needed to reduce carbon emissions by fifty percent this decade.
+
+---
+
+87. **Fundamental (adj) /ˌfʌndəˈmentl/:** Forming a necessary base or core; of central importance. (Đây là một tính từ dùng để chỉ tính chất nền tảng.).
+Ví dụ: A fundamental shift in how we produce energy is necessary for a greener future.
+
+---
+
+88. **Significant (adj) /sɪɡˈnɪfɪkənt/:** Sufficiently great or important to be worthy of attention. (Đây là một tính từ dùng để chỉ sự đáng kể hoặc quan trọng.).
+Ví dụ: There has been a significant drop in the price of wind energy technology.
+
+---
+
+89. **Widespread (adj) /ˌwaɪdˈspred/:** Found or distributed over a large area or number of people. (Đây là một tính từ dùng để chỉ sự phổ biến rộng rãi.).
+Ví dụ: The widespread use of LED bulbs has greatly reduced energy consumption for lighting.
+
+---
+
+90. **Paradigm (n) /ˈpærədaɪm/:** A typical example or pattern of something; a model. (Đây là một danh từ dùng để chỉ một mô hình hoặc chuẩn mực (ví dụ: paradigm shift - chuyển đổi mô hình).).
+Ví dụ: We are seeing a paradigm shift from centralized to decentralized energy production.
+
+---
+
+91. **Technological (adj) /ˌteknəˈlɑːdʒɪkl/:** Relating to or using technology. (Đây là một tính từ dùng để chỉ các yếu tố thuộc về công nghệ.).
+Ví dụ: Technological barriers still exist for long-duration energy storage.
+
+---
+
+92. **Environmental (adj) /ɪnˌvaɪrənˈmentl/:** Relating to the natural world and the impact of human activity on its condition. (Đây là một tính từ dùng để chỉ các yếu tố thuộc về môi trường.).
+Ví dụ: Every energy project must undergo a thorough environmental impact assessment.
+
+---
+
+93. **Economic (adj) /ˌekəˈnɑːmɪk/:** Relating to economics or the economy. (Đây là một tính từ dùng để chỉ tính kinh tế.).
+Ví dụ: The economic viability of solar power has made it the cheapest source of electricity in many areas.
+
+---
+
+94. **Potential (n/adj) /pəˈtenʃl/:** Having or showing the capacity to become or develop into something in the future. (Đây là một danh từ/tính từ dùng để chỉ tiềm năng.).
+Ví dụ: The country has enormous potential for the development of wave energy.
+
+---
+
+95. **Mechanism (n) /ˈmekənɪzəm/:** A system of parts working together in a machine; a process by which something takes place. (Đây là một danh từ dùng để chỉ cơ chế hoạt động.).
+Ví dụ: The mechanism of a heat pump allows it to provide both heating and cooling efficiently.
+
+---
+
+96. **Component (n) /kəmˈpoʊnənt/:** A part or element of a larger whole. (Đây là một danh từ dùng để chỉ linh kiện hoặc bộ phận.).
+Ví dụ: Inverters are a key component of any solar power system.
+
+---
+
+97. **Stability (n) /stəˈbɪləti/:** The state of being stable. (Trong năng lượng là sự ổn định của lưới điện.).
+Ví dụ: Grid stability is maintained by balancing electricity supply and demand at all times.
+
+---
+
+98. **Interconnection (n) /ˌɪntərkəˈnekʃn/:** A mutual connection between two or more things. (Đây là một danh từ chỉ sự kết nối liên thông.).
+Ví dụ: The interconnection of regional grids helps to prevent blackouts.
+
+---
+
+99. **Connectivity (n) /ˌkɑːnekˈtɪvəti/:** (Lặp lại nghĩa danh từ về khả năng kết nối mạng lưới).
+Ví dụ: Smart appliances require internet connectivity to communicate with the smart meter.
+
+---
+
+100. **Accessibility (n) /əkˌsesəˈbɪləti/:** The quality of being able to be reached or entered. (Đây là một danh từ dùng để chỉ khả năng tiếp cận năng lượng của người dân.).
+Ví dụ: Improving the accessibility of clean energy in developing nations is a global goal.
+
+---
+
+101. **Availability (n) /əˌveɪləˈbɪləti/:** The state of being otherwise unoccupied or at liberty to be used. (Đây là một danh từ dùng để chỉ sự sẵn có của nguồn năng lượng.).
+Ví dụ: The availability of natural sunlight is the only limit to solar power production.
+
+---
+
+102. **Reliability (n) /rɪˌlaɪəˈbɪləti/:** (Lặp lại nghĩa về độ ổn định, không mất điện).
+Ví dụ: Ensuring the reliability of the grid during extreme weather events is a major challenge.
+
+---
+
+103. **Implement (v) /ˈɪmplɪment/:** Put (a decision, plan, agreement, etc.) into effect. (Đây là một động từ dùng để chỉ việc thực hiện/áp dụng một giải pháp.).
+Ví dụ: The city plans to implement a new policy to ban fossil fuel heating in new homes.
+
+---
+
+104. **Maintenance (n) /ˈmeɪntənəns/:** The process of maintaining or preserving someone or something. (Đây là một danh từ dùng để chỉ sự bảo trì thiết bị năng lượng.).
+Ví dụ: Regular maintenance is required to keep wind turbines operating at peak efficiency.
+
+---
+
+105. **Development (n) /dɪˈveləpmənt/:** The process of developing or being developed. (Đây là một danh từ dùng để chỉ sự phát triển/nghiên cứu mới.).
+Ví dụ: The development of tidal energy technology is still in its early stages in many countries.
+
+---
+
+106. **Research (n/v) /rɪˈsɜːrtʃ/:** The systematic investigation into and study of materials and sources. (Đây là một danh từ/động từ dùng để chỉ hoạt động nghiên cứu.).
+Ví dụ: Millions of dollars are spent on research into more efficient solar cells every year.
+
+---
+
+107. **Technology (n) /tekˈnɑːlədʒi/:** The application of scientific knowledge for practical purposes. (Đây là một danh từ dùng để chỉ công nghệ.).
+Ví dụ: New technology has made it possible to extract natural gas from deep underground.
+
+---
+
+108. **Integration (n) /ˌɪntɪˈɡreɪʃn/:** The action or process of integrating. (Đây là một danh từ chỉ sự tích hợp các nguồn năng lượng sạch vào lưới điện.).
+Ví dụ: The integration of electric vehicles into the grid can help to balance demand.
+
+---
+
+109. **Coordination (n) /koʊˌɔːrdɪˈneɪʃn/:** The organization of the different elements of a complex body or activity. (Đây là một danh từ chỉ sự phối hợp nhịp nhàng giữa các nhà máy điện.).
+Ví dụ: Regional coordination is necessary to ensure a stable supply of electricity.
+
+---
+
+110. **Transformation (n) /ˌtrænsfərˈmeɪʃn/:** A thorough or dramatic change in form or appearance. (Đây là một danh từ chỉ sự biến đổi hoàn toàn cơ cấu năng lượng.).
+Ví dụ: We are witnessing a historic transformation of the global energy sector.
+
+---
+
+111. **Revolution (n) /ˌrevəˈluːʃn/:** A forcible overthrow of a government; in technology, a sudden and dramatic change. (Đây là một danh từ chỉ cuộc cách mạng năng lượng.).
+Ví dụ: The solar revolution has made clean energy accessible to millions of people.
+
+---
+
+112. **Advancement (n) /ədˈvænsmənt/:** The process of promoting a cause or plan; a development or improvement. (Đây là một danh từ chỉ sự tiến bộ.).
+Ví dụ: Advancements in digital technology have enabled the creation of smart energy grids.
+
+---
+
+113. **Reduction (n) /rɪˈdʌkʃn/:** The action or fact of making a specified thing smaller or less in amount. (Đây là một danh từ chỉ sự giảm thiểu (ví dụ: giảm khí thải).).
+Ví dụ: A significant reduction in methane leaks from gas pipelines is essential.
+
+---
+
+114. **Elimination (n) /ɪˌlɪmɪˈneɪʃn/:** The complete removal or destruction of something. (Đây là một danh từ chỉ sự loại bỏ hoàn toàn (ví dụ: loại bỏ điện than).).
+Ví dụ: Many countries are aiming for the total elimination of coal power by 2040.
+
+---
+
+115. **Mitigation (n) /ˌmɪtɪˈɡeɪʃn/:** (Lặp lại nghĩa về sự giảm nhẹ tác hại môi trường).
+Ví dụ: Mitigation strategies in the energy sector are essential for a sustainable future.
+
+---
+
+116. **Preservation (n) /ˌprezərˈveɪʃn/:** The action of preserving something. (Đây là một danh từ dùng để chỉ sự giữ gìn nguyên trạng môi trường khi khai thác năng lượng.).
+Ví dụ: The preservation of local ecosystems is a major concern when building large dams.
+
+---
+
+117. **Protection (n) /prəˈtekʃn/:** The action of protecting someone or something. (Đây là một danh từ chỉ sự bảo vệ môi trường hoặc hạ tầng năng lượng.).
+Ví dụ: Stronger protection for the power grid against cyberattacks is necessary.
+
+---
+
+118. **Restoration (n) /ˌrestəˈreɪʃn/:** The action of returning something to a former owner, place, or condition. (Đây là một danh từ chỉ sự phục hồi môi trường sau khai thác mỏ.).
+Ví dụ: The restoration of old coal mining sites can create new green spaces.
+
+---
+
+119. **Adjustment (n) /əˈdʒʌstmənt/:** A small alteration or movement made to achieve a desired fit or appearance. (Đây là một danh từ chỉ sự điều chỉnh kỹ thuật.).
+Ví dụ: Frequent adjustments to electricity production are needed to match fluctuating demand.
+
+---
+
+120. **Modification (n) /ˌmɑːdɪfɪˈkeɪʃn/:** The action of modifying something. (Đây là một danh từ chỉ sự sửa đổi hoặc cải tiến thiết bị.).
+Ví dụ: Slight modifications to the blade design can make wind turbines much quieter.
+
+---
+
+121. **Alternating current (n) /ˌɔːltərneɪtɪŋ ˈkɜːrənt/:** An electric current that reverses its direction many times a second at regular intervals. (Đây là một danh từ dùng để chỉ dòng điện xoay chiều - AC.).
+Ví dụ: Alternating current is the standard form of electricity used in homes and offices.
+
+---
+
+122. **Direct current (n) /dəˌrekt ˈkɜːrənt/:** An electric current flowing in one direction only. (Đây là một danh từ dùng để chỉ dòng điện một chiều - DC.).
+Ví dụ: Batteries store energy as direct current, which must be converted for most appliances.
+
+---
+
+123. **Ampere (n) /ˈæmper/:** A unit of electric current equal to a flow of one coulomb per second. (Đây là một danh từ dùng để chỉ đơn vị đo cường độ dòng điện - Ampe.).
+Ví dụ: The fuse is designed to blow if the current exceeds fifteen amperes.
+
+---
+
+124. **Watt (n) /wɑːt/:** The SI unit of power, equivalent to one joule per second. (Đây là một danh từ dùng để chỉ đơn vị đo công suất - Oát.).
+Ví dụ: LED bulbs consume much fewer watts than old-fashioned light bulbs.
+
+---
+
+125. **Joule (n) /dʒuːl/:** The SI unit of work or energy. (Đây là một danh từ dùng để chỉ đơn vị đo năng lượng - Jun.).
+Ví dụ: A joule is defined as the work done when a force of one newton moves an object one meter.
+
+---
+
+126. **Kilowatt-hour (n) /ˌkɪləwɑːt ˈaʊər/:** A unit of energy equal to one kilowatt of power sustained for one hour. (Đây là một danh từ dùng để chỉ số điện tiêu thụ - kWh.).
+Ví dụ: Your electricity bill is based on the number of kilowatt-hours you use each month.
+
+---
+
+127. **Grid-connected (adj) /ˈɡrɪd kəˈnektɪd/:** (Of a renewable energy system) linked to the local electrical power grid. (Đây là một tính từ dùng để chỉ các hệ thống năng lượng được nối lưới điện.).
+Ví dụ: Most residential solar systems are grid-connected to allow for the sale of excess power.
+
+---
+
+128. **Base load (n) /ˈbeɪs loʊd/:** The minimum amount of electric power delivered or required over a given period at a constant rate. (Đây là một cụm danh từ dùng để chỉ phụ tải cơ bản/điện nền.).
+Ví dụ: Nuclear and coal power have traditionally provided the base load for the grid.
+
+---
+
+129. **Peak demand (n) /ˌpiːk dɪˈmænd/:** The highest amount of electricity being used at any one time during a day. (Đây là một cụm danh từ dùng để chỉ nhu cầu cao điểm.).
+Ví dụ: Peak demand usually occurs in the early evening when people return home and turn on appliances.
+
+---
+
+130. **Blackout (n) /ˈblækaut/:** A failure of electrical power supply. (Đây là một danh từ dùng để chỉ sự mất điện diện rộng.).
+Ví dụ: The severe storm caused a major blackout that affected over a million people.
+
+---
+
+131. **Brownout (n) /ˈbraʊnaʊt/:** A reduction in or restriction on the availability of electrical power in a particular area. (Đây là một danh từ dùng để chỉ sự sụt áp điện.).
+Ví dụ: During the heatwave, the utility company implemented brownouts to prevent a total grid failure.
+
+---
+
+132. **Cogeneration (n) /ˌkoʊˌdʒenəˈreɪʃn/:** The generation of electricity and useful heat jointly. (Đây là một danh từ dùng để chỉ quá trình đồng phát điện - nhiệt.).
+Ví dụ: Cogeneration plants are much more efficient than traditional power plants because they use waste heat.
+
+---
+
+133. **District heating (n) /ˌdɪstrɪkt ˈhiːtɪŋ/:** A system for distributing heat generated in a centralized location through a system of insulated pipes. (Đây là một cụm danh từ dùng để chỉ hệ thống sưởi ấm khu vực.).
+Ví dụ: District heating is a very efficient way to warm homes in cold northern cities.
+
+---
+
+134. **Heat pump (n) /ˈhiːt pʌmp/:** A device that transfers heat from a colder area to a hotter area using mechanical energy. (Đây là một cụm danh từ dùng để chỉ máy bơm nhiệt.).
+Ví dụ: Installing a heat pump can be a very effective way to reduce carbon emissions from home heating.
+
+---
+
+135. **Inverter (n) /ɪnˈvɜːrtər/:** An electronic device or circuitry that changes direct current (DC) to alternating current (AC). (Đây là một danh từ dùng để chỉ bộ biến tần điện.).
+Ví dụ: The inverter is a crucial part of a solar power system, allowing the energy to be used by home appliances.
+
+---
+
+136. **Solar cell (n) /ˈsoʊlər sel/:** A device converting solar radiation into electricity. (Đây là một cụm danh từ dùng để chỉ tế bào quang điện/pin mặt trời.).
+Ví dụ: Modern solar cells are becoming much more efficient at capturing sunlight on cloudy days.
+
+---
+
+137. **Concentrated solar (n) /ˌkɑːnsntreɪtɪd ˈsoʊlər/:** A system that uses mirrors or lenses to focus a large area of sunlight onto a receiver. (Đây là một cụm danh từ dùng để chỉ năng lượng mặt trời tập trung.).
+Ví dụ: Concentrated solar power plants can store heat to generate electricity even after the sun goes down.
+
+---
+
+138. **Passive solar (adj) /ˌpæsɪv ˈsoʊlər/:** (Of a building) designed to use the sun's energy for heating and cooling without active systems. (Đây là một tính từ dùng để chỉ thiết kế năng lượng mặt trời thụ động.).
+Ví dụ: Passive solar design includes large south-facing windows and materials that store heat.
+
+---
+
+139. **Wind vane (n) /ˈwɪnd veɪn/:** A device that measures wind direction. (Đây là một danh từ dùng để chỉ phong kế/cái chỉ hướng gió.).
+Ví dụ: The wind vane on top of the turbine allows it to turn and face the wind for maximum efficiency.
+
+---
+
+140. **Nacelle (n) /nəˈsel/:** The housing that contains the generating components in a wind turbine. (Đây là một danh từ chuyên ngành dùng để chỉ vỏ động cơ của tua-bin gió.).
+Ví dụ: The nacelle contains the gearbox, generator, and control systems of the wind turbine.
+
+---
+
+141. **Rotor (n) /ˈroʊtər/:** The rotating part of a turbine, electric motor, or other machine. (Đây là một danh từ dùng để chỉ bộ phận quay/rô-to.).
+Ví dụ: The massive rotor of the wind turbine can be over one hundred meters in diameter.
+
+---
+
+142. **Dam (n) /dæm/:** A barrier constructed to hold back water and raise its level. (Đây là một danh từ dùng để chỉ đập thủy điện.).
+Ví dụ: Building a new dam can provide clean energy but may also displace local communities.
+
+---
+
+143. **Reservoir (n) /ˈrezərvwɑːr/:** A large natural or artificial lake used as a source of water supply. (Đây là một danh từ dùng để chỉ hồ chứa nước cho thủy điện.).
+Ví dụ: The reservoir behind the dam is also used for recreation and irrigation.
+
+---
+
+144. **Penstock (n) /ˈpenstɑːk/:** A sluice or gate or intake structure that controls water flow to a turbine. (Đây là một danh từ chuyên ngành dùng để chỉ ống dẫn nước áp lực trong thủy điện.).
+Ví dụ: Water flows from the reservoir through the penstock to spin the turbines at high speed.
+
+---
+
+145. **Geothermal well (n) /ˌdʒiːoʊˈθɜːrml wel/:** A hole drilled into the earth to tap into geothermal energy. (Đây là một cụm danh từ dùng để chỉ giếng địa nhiệt.).
+Ví dụ: Geothermal wells can reach depths of several kilometers to find hot water or steam.
+
+---
+
+146. **Dry steam (n) /ˌdraɪ ˈstiːm/:** Steam that contains no water droplets. (Trong địa nhiệt, đây là hơi khô dùng để chạy tua-bin trực tiếp.).
+Ví dụ: Dry steam power plants are the simplest and oldest type of geothermal technology.
+
+---
+
+147. **Flash steam (n) /ˌflæʃ ˈstiːm/:** Steam produced when high-pressure hot water is released into a lower-pressure tank. (Đây là một loại công nghệ địa nhiệt phổ biến.).
+Ví dụ: Most modern geothermal plants use flash steam technology to generate electricity.
+
+---
+
+148. **Binary cycle (n) /ˌbaɪnəri ˈsaɪkl/:** A geothermal power plant that uses a second fluid with a lower boiling point than water. (Đây là công nghệ địa nhiệt dùng vòng tuần hoàn kép.).
+Ví dụ: Binary cycle plants can generate electricity from lower-temperature geothermal resources.
+
+---
+
+149. **Anaerobic (adj) /ˌænerˈoʊbɪk/:** Relating to or requiring an absence of free oxygen. (Trong năng lượng sinh khối, đây là quá trình phân hủy kỵ khí để tạo khí biogas.).
+Ví dụ: Anaerobic digestion of food waste produces methane that can be used for cooking or heating.
+
+---
+
+150. **Gasification (n) /ˌɡæsɪfɪˈkeɪʃn/:** A process that converts organic or fossil-based carbonaceous materials into carbon monoxide and hydrogen. (Đây là một danh từ dùng để chỉ quá trình khí hóa nhiên liệu.).
+Ví dụ: Biomass gasification is a very efficient way to produce clean-burning fuel from wood waste.
+
+---
+
+151. **Pyrolysis (n) /paɪˈrɑːləsɪs/:** Decomposition brought about by high temperatures in the absence of oxygen. (Đây là một danh từ dùng để chỉ quá trình nhiệt phân tạo ra dầu sinh học.).
+Ví dụ: Pyrolysis can convert agricultural waste into a liquid fuel similar to crude oil.
+
+---
+
+152. **Ethanol (n) /ˈeθənɔːl/:** A colorless volatile flammable liquid which is produced by the natural fermentation of sugars. (Đây là một danh từ dùng để chỉ cồn nhiên liệu.).
+Ví dụ: Most gasoline sold in the US contains ten percent ethanol made from corn.
+
+---
+
+153. **Biodiesel (n) /ˌbaɪoʊˈdiːzl/:** A biofuel intended as a substitute for diesel, produced from vegetable oil or animal fat. (Đây là một danh từ dùng để chỉ dầu đi-ê-zen sinh học.).
+Ví dụ: Biodiesel can be used in most modern diesel engines without any modifications.
+
+---
+
+154. **Radioactive (adj) /ˌreɪdioʊˈæktɪv/:** Emitting or relating to the emission of ionizing radiation or particles. (Đây là một tính từ dùng để chỉ tính phóng xạ của nhiên liệu hạt nhân.).
+Ví dụ: Radioactive waste from nuclear plants must be stored safely for thousands of years.
+
+---
+
+155. **Enrichment (n) /ɪnˈrɪtʃmənt/:** The action of improving or enhancing the quality or value of something. (Trong hạt nhân, đây là sự làm giàu uranium.).
+Ví dụ: Uranium enrichment is a complex process required to produce fuel for nuclear reactors.
+
+---
+
+156. **Meltdown (n) /ˈmeltdown/:** A severe nuclear reactor accident that results in core damage from overheating. (Đây là một danh từ dùng để chỉ sự nóng chảy lõi lò phản ứng hạt nhân.).
+Ví dụ: The Fukushima disaster was caused by a partial nuclear meltdown following a tsunami.
+
+---
+
+157. **Isotope (n) /ˈaɪsətoʊp/:** Each of two or more forms of the same element that contain equal numbers of protons but different numbers of neutrons. (Đây là một danh từ dùng để chỉ đồng vị hạt nhân.).
+Ví dụ: Uranium-235 is the isotope used as fuel in most nuclear power plants.
+
+---
+
+158. **Half-life (n) /ˈhæf laɪf/:** The time taken for the radioactivity of a specified isotope to fall to half its original value. (Đây là một danh từ dùng để chỉ chu kỳ bán rã của chất phóng xạ.).
+Ví dụ: Some radioactive waste has a half-life of only a few days, while others last for centuries.
+
+---
+
+159. **Small modular reactor (n):** A type of nuclear fission reactor which is smaller than conventional reactors. (Đây là cụm danh từ dùng để chỉ lò phản ứng mô-đun nhỏ - SMR.).
+Ví dụ: Small modular reactors can be built in a factory and shipped to their final location.
+
+---
+
+160. **Ocean thermal (n) /ˌoʊʃn ˈθɜːrml/:** Energy generated from the temperature difference between deep cold ocean water and warm surface waters. (Đây là năng lượng nhiệt đại dương - OTEC.).
+Ví dụ: Ocean thermal energy conversion is a promising source of renewable power for tropical island nations.
+
+---
+
+161. **Wave energy (n) /ˈweɪv ˌenərdʒi/:** The transport and capture of energy by ocean surface waves. (Đây là một cụm danh từ dùng để chỉ năng lượng sóng biển.).
+Ví dụ: Wave energy converters use the movement of the ocean surface to generate electricity.
+
+---
+
+162. **Osmotic power (n) /ɑːzˈmɑːtɪk ˈpaʊər/:** Energy available from the difference in the salt concentration between seawater and river water. (Đây là năng lượng thẩm thấu.).
+Ví dụ: The first osmotic power plant was built in Norway to test the feasibility of the technology.
+
+---
+
+163. **Piezoelectric (adj) /ˌpiːeɪzoʊɪˈlektrɪk/:** Relating to electric polarization in a substance resulting from the application of mechanical stress. (Đây là một tính từ dùng để chỉ hiệu ứng áp điện, tạo điện từ áp lực.).
+Ví dụ: Piezoelectric materials could be used in floors to generate electricity from people walking.
+
+---
+
+164. **Thermoelectric (adj) /ˌθɜːrmoʊɪˈlektrɪk/:** Relating to the direct conversion of temperature differences to electric voltage. (Đây là một tính từ dùng để chỉ hiệu ứng nhiệt điện.).
+Ví dụ: Thermoelectric generators can capture waste heat from car exhausts to power electronics.
+
+---
+
+165. **Superconductivity (n) /ˌsuːpərˌkɑːndʌkˈtɪvəti/:** The property of zero electrical resistance in some substances at very low temperatures. (Đây là một danh từ dùng để chỉ hiện tượng siêu dẫn.).
+Ví dụ: Superconductivity could allow for the transmission of electricity over long distances with zero loss.
+
+---
+
+166. **Carbon neutral (adj) /ˌkɑːrbən ˈnuːtrəl/:** Making no net release of carbon dioxide to the atmosphere. (Đây là một tính từ dùng để chỉ trạng thái trung hòa carbon.).
+Ví dụ: Many tech giants aim to become carbon neutral by investing in large wind and solar projects.
+
+---
+
+167. **Net-zero emissions (n):** A state where the greenhouse gases going into the atmosphere are balanced by removal out of the atmosphere. (Cụm danh từ đầy đủ cho mục tiêu phát thải ròng bằng không.).
+Ví dụ: Achieving net-zero emissions by mid-century is critical for stopping global warming.
+
+---
+
+168. **Carbon sink (n) /ˈkɑːrbən sɪŋk/:** A forest, ocean, or other natural environment viewed in terms of its ability to absorb carbon dioxide. (Đây là một cụm danh từ dùng để chỉ bể chứa carbon tự nhiên.).
+Ví dụ: Protecting existing forests is important because they act as vital carbon sinks.
+
+---
+
+169. **Sequestration (n) /ˌsiːkwəˈstreɪʃn/:** The action of taking legal possession of assets; in energy, the long-term storage of carbon. (Đây là danh từ chỉ sự cô lập hoặc lưu trữ carbon lâu dài.).
+Ví dụ: Biological carbon sequestration involves planting millions of trees to absorb CO2.
+
+---
+
+170. **Vulnerability (n) /ˌvʌlnərəˈbɪləti/:** The quality or state of being exposed to the possibility of being attacked or harmed. (Sự dễ bị tổn thương của hệ thống năng lượng.).
+Ví dụ: The vulnerability of centralized power grids to natural disasters is a major concern.
+
+---

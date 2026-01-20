@@ -1,0 +1,987 @@
+Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **Economics & Money (Kinh tế và Tiền tệ)**. Các từ vựng được biên soạn kỹ lưỡng, tuân thủ chặt chẽ định dạng trải phẳng (flat) chi tiết: Từ vựng (Từ loại) /Phiên âm/: Nghĩa tiếng Anh (Giải thích chi tiết nghĩa tiếng Việt).
+
+---
+1. **Macroeconomics (n) /ˌmækroʊˌekəˈnɑːmɪks/:** The part of economics concerned with large-scale or general economic factors. (Đây là một danh từ dùng để chỉ kinh tế học vĩ mô, nghiên cứu các yếu tố tổng thể như GDP hay lạm phát.).
+Ví dụ: Macroeconomics helps governments understand how to control inflation and unemployment rates.
+
+---
+
+2. **Microeconomics (n) /ˌmaɪkroʊˌekəˈnɑːmɪks/:** The part of economics concerned with single factors and the effects of individual decisions. (Đây là một danh từ dùng để chỉ kinh tế học vi mô, nghiên cứu hành vi của cá nhân và doanh nghiệp.).
+Ví dụ: A course in microeconomics explores how supply and demand determine prices in specific markets.
+
+---
+
+3. **Inflation (n) /ɪnˈfleɪʃn/:** A general increase in prices and fall in the purchasing value of money. (Đây là một danh từ dùng để chỉ sự lạm phát, hiện tượng mức giá chung tăng lên.).
+Ví dụ: High inflation can erode the savings of many citizens over time.
+
+---
+
+4. **Deflation (n) /ˌdiːˈfleɪʃn/:** Reduction of the general level of prices in an economy. (Đây là một danh từ dùng để chỉ sự giảm phát, mức giá chung của hàng hóa và dịch vụ giảm xuống.).
+Ví dụ: Persistent deflation can lead to a decrease in consumer spending as people wait for lower prices.
+
+---
+
+5. **Fiscal policy (n) /ˈfɪskl ˈpɑːləsi/:** Government policy that attempts to influence the direction of the economy through changes in government spending or taxes. (Đây là một cụm danh từ dùng để chỉ chính sách tài khóa.).
+Ví dụ: The government implemented a new fiscal policy to stimulate economic growth during the recession.
+
+---
+
+6. **Monetary policy (n) /ˈmɑːnɪteri ˈpɑːləsi/:** Policy that involves altering the quantity of money in circulation and the interest rate. (Đây là một cụm danh từ dùng để chỉ chính sách tiền tệ do ngân hàng trung ương điều hành.).
+Ví dụ: The Central Bank adjusted its monetary policy to curb rising inflation.
+
+---
+
+7. **Gross Domestic Product (n) /ɡroʊs dəˈmestɪk ˈprɑːdʌkt/:** The total value of goods produced and services provided in a country during one year. (Đây là một cụm danh từ dùng để chỉ tổng sản phẩm quốc nội - GDP.).
+Ví dụ: GDP is a primary indicator used to gauge the health of a country's economy.
+
+---
+
+8. **Recession (n) /rɪˈseʃn/:** A period of temporary economic decline during which trade and industrial activity are reduced. (Đây là một danh từ dùng để chỉ sự suy thoái kinh tế.).
+Ví dụ: The country fell into a deep recession following the global financial crisis.
+
+---
+
+9. **Subsidy (n) /ˈsʌbsədi/:** A sum of money granted by the government or a public body to assist an industry or business. (Đây là một danh từ dùng để chỉ tiền trợ cấp hoặc bao cấp của chính phủ.).
+Ví dụ: Agricultural subsidies help farmers stay competitive in the international market.
+
+---
+
+10. **Revenue (n) /ˈrevənuː/:** Income, especially when of a company or organization and of a substantial nature. (Đây là một danh từ dùng để chỉ doanh thu hoặc nguồn thu ngân sách.).
+Ví dụ: The company reported a significant increase in revenue thanks to its new product line.
+
+---
+
+11. **Expenditure (n) /ɪkˈspendɪtʃər/:** An amount of money spent, as by a government or person. (Đây là một danh từ dùng để chỉ sự chi tiêu hoặc khoản chi.).
+Ví dụ: The government's expenditure on healthcare has doubled over the last decade.
+
+---
+
+12. **Deficit (n) /ˈdefɪsɪt/:** The amount by which something, especially a sum of money, is too small. (Đây là một danh từ dùng để chỉ sự thâm hụt, thường dùng cho thâm hụt ngân sách.).
+Ví dụ: The budget deficit has forced the government to cut spending on social programs.
+
+---
+
+13. **Surplus (n) /ˈsɜːrpləs/:** An amount of something left over when requirements have been met. (Đây là một danh từ dùng để chỉ sự dư thừa hoặc thặng dư ngân sách.).
+Ví dụ: The trade surplus indicates that the country is exporting more than it is importing.
+
+---
+
+14. **Liabilities (n) /ˌlaɪəˈbɪlətiz/:** A thing for which someone is responsible, especially a debt or financial obligation. (Đây là một danh từ dùng để chỉ các khoản nợ phải trả hoặc trách nhiệm pháp lý.).
+Ví dụ: The company's liabilities exceed its assets, putting it at risk of bankruptcy.
+
+---
+
+15. **Assets (n) /ˈæsets/:** A useful or valuable thing, person, or quality. (Trong kinh tế, đây là danh từ dùng để chỉ tài sản thuộc sở hữu của một cá nhân hay doanh nghiệp.).
+Ví dụ: Real estate and stocks are considered fixed and liquid assets, respectively.
+
+---
+
+16. **Liquidity (n) /lɪˈkwɪdəti/:** The availability of liquid assets to a market or company. (Đây là một danh từ dùng để chỉ tính thanh khoản, khả năng chuyển đổi tài sản thành tiền mặt.).
+Ví dụ: High liquidity is important for businesses to meet their short-term financial obligations.
+
+---
+
+17. **Equity (n) /ˈekwəti/:** The value of the shares issued by a company. (Đây là một danh từ dùng để chỉ vốn chủ sở hữu hoặc giá trị cổ phần.).
+Ví dụ: He decided to invest in the company's equity to participate in its future profits.
+
+---
+
+18. **Dividend (n) /ˈdɪvɪdend/:** A sum of money paid regularly by a company to its shareholders out of its profits. (Đây là một danh từ dùng để chỉ cổ tức.).
+Ví dụ: Investors were pleased when the company announced an increase in annual dividends.
+
+---
+
+19. **Capital (n) /ˈkæpɪtl/:** Wealth in the form of money or other assets owned by a person or organization. (Đây là một danh từ dùng để chỉ vốn đầu tư.).
+Ví dụ: Small businesses often struggle to raise the initial capital needed to start operations.
+
+---
+
+20. **Market capitalization (n) /ˈmɑːrkɪt ˌkæpɪtələˈzeɪʃn/:** The total value of a company's shares on the stock market. (Đây là một cụm danh từ dùng để chỉ giá trị vốn hóa thị trường.).
+Ví dụ: Apple was the first company to reach a market capitalization of three trillion dollars.
+
+---
+
+21. **Commodity (n) /kəˈmɑːdəti/:** A raw material or primary agricultural product that can be bought and sold. (Đây là một danh từ dùng để chỉ hàng hóa cơ bản hoặc nguyên liệu thô.).
+Ví dụ: Gold and oil are two of the most heavily traded commodities in the world.
+
+---
+
+22. **Privatization (n) /ˌpraɪvətəˈzeɪʃn/:** (Lặp lại mục 22 - nhấn mạnh chuyển đổi công sang tư).
+Ví dụ: The privatization of the water supply remains a highly controversial issue.
+
+---
+
+23. **Monopoly (n) /əˈmɑːnəpəli/:** The exclusive possession or control of the supply of or trade in a commodity or service. (Đây là một danh từ dùng để chỉ sự độc quyền.).
+Ví dụ: The government is taking steps to prevent a single company from holding a monopoly on internet services.
+
+---
+
+24. **Oligopoly (n) /ˌɑːlɪˈɡɑːpəli/:** A state of limited competition, in which a market is shared by a small number of producers or sellers. (Đây là một danh từ dùng để chỉ thị trường độc quyền tập đoàn.).
+Ví dụ: The smartphone industry is largely an oligopoly dominated by a few major players.
+
+---
+
+25. **Diversification (n) /daɪˌvɜːrsɪfɪˈkeɪʃn/:** The process of a business enlarging or varying its range of products or field of operation. (Đây là một danh từ dùng để chỉ sự đa dạng hóa, đặc biệt là đa dạng hóa danh mục đầu tư.).
+Ví dụ: Portfolio diversification is a key strategy for managing financial risk.
+
+---
+
+26. **Interest rate (n) /ˈɪntrest reɪt/:** The proportion of a loan that is charged as interest to the borrower. (Đây là một cụm danh từ dùng để chỉ lãi suất.).
+Ví dụ: Rising interest rates make borrowing money more expensive for consumers and businesses.
+
+---
+
+27. **Mortgage (n/v) /ˈmɔːrɡɪdʒ/:** A legal agreement by which a bank lends money at interest in exchange for taking title of the debtor's property. (Đây là một danh từ/động từ dùng để chỉ sự thế chấp hoặc khoản vay thế chấp bất động sản.).
+Ví dụ: They took out a thirty-year mortgage to buy their first family home.
+
+---
+
+28. **Bankruptcy (n) /ˈbæŋkrʌptsi/:** The state of being bankrupt. (Đây là một danh từ dùng để chỉ sự phá sản.).
+Ví dụ: The economic downturn led to a wave of corporate bankruptcies across the country.
+
+---
+
+29. **Credit rating (n) /ˈkredɪt ˈreɪtɪŋ/:** An estimate of the ability of a person or organization to fulfill their financial commitments. (Đây là một cụm danh từ dùng để chỉ xếp hạng tín nhiệm.).
+Ví dụ: A poor credit rating can make it very difficult to get a loan or a credit card.
+
+---
+
+30. **Collateral (n) /kəˈlætərəl/:** Something pledged as security for repayment of a loan, to be forfeited in the event of a default. (Đây là một danh từ dùng để chỉ tài sản thế chấp.).
+Ví dụ: He used his house as collateral for the business loan.
+
+---
+
+31. **Equilibrium (n) /ˌiːkwɪˈlɪbriəm/:** A state in which opposing forces or influences are balanced. (Trong kinh tế, đây là trạng thái cân bằng giữa cung và cầu.).
+Ví dụ: Market equilibrium occurs when the quantity demanded equals the quantity supplied.
+
+---
+
+32. **Scarcity (n) /ˈskersəti/:** The state of being scarce or in short supply; shortage. (Đây là một danh từ dùng để chỉ sự khan hiếm tài nguyên.).
+Ví dụ: Scarcity of raw materials has led to a sharp increase in production costs.
+
+---
+
+33. **Opportunity cost (n) /ˌɑːpərˈtuːnəti kɔːst/:** The loss of potential gain from other alternatives when one alternative is chosen. (Đây là một cụm danh từ dùng để chỉ chi phí cơ hội.).
+Ví dụ: The opportunity cost of going to university is the wages you could have earned during those four years.
+
+---
+
+34. **Incentive (n) /ɪnˈsentɪv/:** (Lặp lại mục 34 - nhấn mạnh động lực kinh tế).
+Ví dụ: The government is offering tax incentives to companies that relocate to rural areas.
+
+---
+
+35. **Utility (n) /juːˈtɪləti/:** The state of being useful, profitable, or beneficial. (Trong kinh tế học, đây là danh từ dùng để chỉ độ thỏa dụng hoặc ích lợi của hàng hóa.).
+Ví dụ: Marginal utility is the additional satisfaction a consumer gains from consuming one more unit of a good.
+
+---
+
+36. **Elasticity (n) /ˌiːlæˈstɪsəti/:** The degree to which a demand or supply is sensitive to changes in price or income. (Đây là một danh từ dùng để chỉ độ co giãn của cung hoặc cầu.).
+Ví dụ: The price elasticity of demand for luxury goods is usually very high.
+
+---
+
+37. **Externalities (n) /ˌekstɜːrˈnælətiz/:** A side effect or consequence of an industrial or commercial activity that affects other parties. (Đây là một danh từ dùng để chỉ ngoại ứng, có thể là tích cực hoặc tiêu cực.).
+Ví dụ: Pollution is a negative externality that is often not included in the cost of production.
+
+---
+
+38. **Public goods (n) /ˌpʌblɪk ˈɡʊdz/:** A commodity or service that is provided without profit to all members of a society. (Đây là một cụm danh từ dùng để chỉ hàng hóa công cộng.).
+Ví dụ: Clean air and national defense are classic examples of public goods.
+
+---
+
+39. **Information asymmetry (n) /ˌɪnfərˈmeɪʃn eɪˈsɪmətri/:** A situation in which one party in a transaction has more or superior information compared to another. (Đây là một cụm danh từ dùng để chỉ sự bất đối xứng thông tin.).
+Ví dụ: Information asymmetry in the used car market can lead to buyers paying too much for poor-quality vehicles.
+
+---
+
+40. **Market failure (n) /ˈmɑːrkɪt ˈfeɪljər/:** A situation in which the allocation of goods and services by a free market is not efficient. (Đây là một cụm danh từ dùng để chỉ sự thất bại của thị trường.).
+Ví dụ: Governments often intervene in the economy to correct market failures like monopolies.
+
+---
+
+41. **Exchange rate (n) /ɪksˈtʃeɪndʒ reɪt/:** The value of one currency for the purpose of conversion to another. (Đây là một cụm danh từ dùng để chỉ tỷ giá hối đoái.).
+Ví dụ: A strong exchange rate can make a country's exports more expensive for foreign buyers.
+
+---
+
+42. **Balance of payments (n) /ˈbæləns əv ˈpeɪmənts/:** The difference in total value between payments into and out of a country over a period. (Đây là một cụm danh từ dùng để chỉ cán cân thanh toán.).
+Ví dụ: A persistent deficit in the balance of payments can put pressure on a country's currency.
+
+---
+
+43. **Tariff (n) /ˈtærɪf/:** A tax or duty to be paid on a particular class of imports or exports. (Đây là một danh từ dùng để chỉ thuế quan, một rào cản thương mại.).
+Ví dụ: The government imposed new tariffs on imported steel to protect domestic manufacturers.
+
+---
+
+44. **Quota (n) /ˈkwoʊtə/:** A fixed share of something that a person or group is entitled to receive or is bound to contribute. (Trong thương mại, đây là hạn ngạch nhập khẩu.).
+Ví dụ: The import quota on textiles has been relaxed to encourage free trade.
+
+---
+
+45. **Embargo (n) /ɪmˈbɑːrɡoʊ/:** An official ban on trade or other commercial activity with a particular country. (Đây là một danh từ dùng để chỉ lệnh cấm vận thương mại.).
+Ví dụ: The international community imposed an oil embargo on the country in response to its human rights violations.
+
+---
+
+46. **Sanction (n/v) /ˈsæŋkʃn/:** (Lặp lại mục 46 - nhấn mạnh trừng phạt kinh tế).
+Ví dụ: The lifting of international sanctions has allowed the country to start exporting oil again.
+
+---
+
+47. **Sovereign debt (n) /ˈsɑːvrən det/:** The amount of money that a country's government has borrowed, typically through issuing bonds. (Đây là một cụm danh từ dùng để chỉ nợ công hoặc nợ chủ quyền.).
+Ví dụ: High levels of sovereign debt can make it difficult for a country to attract investment.
+
+---
+
+48. **Cryptocurrency (n) /ˈkrɪptoʊkɜːrənsi/:** A digital currency in which transactions are verified and records maintained by a decentralized system. (Đây là một danh từ dùng để chỉ tiền mã hóa hoặc tiền điện tử.).
+Ví dụ: Bitcoin is the most well-known cryptocurrency in the global financial market.
+
+---
+
+49. **Blockchain (n) /ˈblɑːktʃeɪn/:** A system in which a record of transactions made in bitcoin or another cryptocurrency are maintained. (Đây là một danh từ dùng để chỉ công nghệ chuỗi khối.).
+Ví dụ: Blockchain technology has the potential to revolutionize how financial transactions are recorded and verified.
+
+---
+
+50. **Fintech (n) /ˈfɪntek/:** Computer programs and other technology used to support or enable banking and financial services. (Đây là một danh từ dùng để chỉ công nghệ tài chính.).
+Ví dụ: The rise of fintech has made it easier for people to manage their money and access loans.
+
+---
+
+51. **Hedge fund (n) /ˈhedʒ fʌnd/:** A limited partnership of investors that uses high-risk methods, such as investing with borrowed money, in hopes of realizing large capital gains. (Đây là một danh từ dùng để chỉ quỹ đầu tư mạo hiểm.).
+Ví dụ: He works as an analyst for a large hedge fund in London.
+
+---
+
+52. **Stock exchange (n) /ˈstɑːk ɪksˌtʃeɪndʒ/:** A market in which securities are bought and sold. (Đây là một danh từ dùng để chỉ sàn giao dịch chứng khoán.).
+Ví dụ: The New York Stock Exchange is the largest in the world by market capitalization.
+
+---
+
+53. **Blue-chip (adj) /ˌbluː ˈtʃɪp/:** Denoting companies or their shares considered to be a reliable investment. (Đây là một tính từ dùng để chỉ các cổ phiếu của công ty lớn, uy tín và ổn định.).
+Ví dụ: Investors often prefer blue-chip stocks during periods of economic uncertainty.
+
+---
+
+54. **Bull market (n) /ˈbʊl ˌmɑːrkɪt/:** A market in which share prices are rising, encouraging buying. (Đây là một cụm danh từ dùng để chỉ thị trường bò tót - thị trường tăng trưởng.).
+Ví dụ: The tech sector has been in a bull market for several years now.
+
+---
+
+55. **Bear market (n) /ˈber ˌmɑːrkɪt/:** A market in which prices are falling, encouraging selling. (Đây là một cụm danh từ dùng để chỉ thị trường gấu - thị trường suy thoái.).
+Ví dụ: The sudden bear market caused panic among many small investors.
+
+---
+
+56. **Portfolio (n) /pɔːrtˈfoʊlioʊ/:** A range of investments held by a person or organization. (Đây là một danh từ dùng để chỉ danh mục đầu tư.).
+Ví dụ: A well-balanced portfolio should include a mix of stocks, bonds, and cash.
+
+---
+
+57. **Arbitrage (n) /ˈɑːrbɪtrɑːʒ/:** The simultaneous buying and selling of securities, currency, or commodities in different markets. (Đây là một danh từ dùng để chỉ hoạt động kinh doanh chênh lệch giá.).
+Ví dụ: Large financial institutions often use automated systems to exploit arbitrage opportunities.
+
+---
+
+58. **Speculation (n) /ˌspekjuˈleɪʃn/:** Investment in stocks, property, or other ventures in the hope of gain but with the risk of loss. (Đây là một danh từ dùng để chỉ hoạt động đầu cơ.).
+Ví dụ: Excessive speculation in the housing market can lead to a dangerous bubble.
+
+---
+
+59. **Insider trading (n) /ɪnˌsaɪdər ˈtreɪdɪŋ/:** The illegal practice of trading on the stock exchange to one's own advantage through having access to confidential information. (Đây là một cụm danh từ dùng để chỉ hành vi giao dịch nội gián.).
+Ví dụ: The former CEO was arrested and charged with insider trading.
+
+---
+
+60. **Capital gain (n) /ˈkæpɪtl ɡeɪn/:** A profit from the sale of property or an investment. (Đây là một cụm danh từ dùng để chỉ lợi nhuận vốn hoặc lãi vốn.).
+Ví dụ: You have to pay tax on any capital gains you make from selling your shares.
+
+---
+
+61. **Wealth tax (n) /welθ tæk/:** A tax on the total value of assets owned by an individual. (Đây là một cụm danh từ dùng để chỉ thuế tài sản.).
+Ví dụ: Some economists argue that a wealth tax is necessary to reduce income inequality.
+
+---
+
+62. **Fiscal year (n) /ˈfɪskl jɪər/:** A period used by a government or business for accounting purposes and preparing financial statements. (Đây là một cụm danh từ dùng để chỉ năm tài chính.).
+Ví dụ: The company's fiscal year begins on April 1st and ends on March 31st.
+
+---
+
+63. **Direct tax (n) /dəˌrekt ˈtæks/:** A tax, such as income tax, which is levied on the income or profits of the person who pays it. (Đây là một cụm danh từ dùng để chỉ thuế trực thu.).
+Ví dụ: Income tax and corporate tax are two examples of direct taxes.
+
+---
+
+64. **Indirect tax (n) /ˌɪndəˈrekt ˈtæks/:** A tax levied on goods or services rather than on persons or organizations. (Đây là một cụm danh từ dùng để chỉ thuế gián thu, ví dụ như VAT.).
+Ví dụ: Value Added Tax (VAT) is a common form of indirect tax in many countries.
+
+---
+
+65. **Tax evasion (n) /ˈtæks ɪˌveɪʒn/:** The illegal non-payment or underpayment of tax. (Đây là một cụm danh từ dùng để chỉ hành vi trốn thuế.).
+Ví dụ: The government is launching a crackdown on tax evasion by wealthy individuals.
+
+---
+
+66. **Tax avoidance (n) /ˈtæks əˈvɔɪdns/:** The arrangement of one's financial affairs to minimize tax liability within the law. (Đây là một cụm danh từ dùng để chỉ việc tránh thuế (hợp pháp nhưng gây tranh cãi).).
+Ví dụ: Many multinational corporations use legal tax avoidance strategies to reduce their tax bills.
+
+---
+
+67. **Brackets (n) /ˈbrækɪts/:** Each of several groups of people with incomes within particular limits for the purpose of taxation. (Trong thuế, đây là danh từ dùng để chỉ các bậc thuế/khung thuế.).
+Ví dụ: He recently moved into a higher tax bracket after receiving a promotion.
+
+---
+
+68. **Auditing (n) /ˈɔːdɪtɪŋ/:** The process of examining a person's or organization's accounts. (Đây là một danh từ dùng để chỉ hoạt động kiểm toán.).
+Ví dụ: Regular auditing is essential for ensuring transparency and preventing fraud in large companies.
+
+---
+
+69. **Consolidation (n) /kənˌsɑːlɪˈdeɪʃn/:** The action or process of combining several things into a single more effective or coherent whole. (Trong kinh tế, đây là sự hợp nhất hoặc củng cố tài chính.).
+Ví dụ: Debt consolidation allows you to combine multiple loans into a single monthly payment.
+
+---
+
+70. **Liability (n) /ˌlaɪəˈbɪləti/:** (Lặp lại mục 14 - nhấn mạnh trách nhiệm nợ).
+Ví dụ: The company has several major liabilities that it needs to settle before the end of the year.
+
+---
+
+71. **Amortization (n) /əˌmɔːrtəˈzeɪʃn/:** The action or process of gradually writing off the initial cost of an asset. (Đây là một danh từ dùng để chỉ sự khấu hao tài sản vô hình hoặc trả dần nợ.).
+Ví dụ: The mortgage includes a detailed amortization schedule for the entire thirty-year period.
+
+---
+
+72. **Depreciation (n) /dɪˌpriːʃiˈeɪʃn/:** A reduction in the value of an asset over time, due in particular to wear and tear. (Đây là một danh từ dùng để chỉ sự khấu hao tài sản hữu hình hoặc giảm giá trị tiền tệ.).
+Ví dụ: The depreciation of the currency has made imports more expensive for local businesses.
+
+---
+
+73. **Revaluation (n) /ˌriːˌvæljuˈeɪʃn/:** An official change in the value of a country's currency relative to other currencies. (Đây là một danh từ dùng để chỉ sự định giá lại (thường là tăng giá) tiền tệ.).
+Ví dụ: The government announced a revaluation of the national currency to combat inflation.
+
+---
+
+74. **Appreciation (n) /əˌpriːʃiˈeɪʃn/:** An increase in the value of an asset over time. (Đây là một danh từ dùng để chỉ sự tăng giá trị tài sản.).
+Ví dụ: The appreciation of house prices in the city has made it difficult for first-time buyers.
+
+---
+
+75. **Solvency (n) /ˈsɑːlvənsi/:** The possession of assets in excess of liabilities; ability to pay one's debts. (Đây là một danh từ dùng để chỉ khả năng thanh toán nợ lâu dài.).
+Ví dụ: The central bank is monitoring the solvency of several smaller banks during the crisis.
+
+---
+
+76. **Insolvency (n) /ɪnˈsɑːlvənsi/:** The state of being unable to pay one's debts. (Đây là một danh từ dùng để chỉ tình trạng mất khả năng thanh toán nợ.).
+Ví dụ: The company was forced into insolvency after its main customer went bankrupt.
+
+---
+
+77. **Venture capital (n) /ˈventʃər ˈkæpɪtl/:** Capital invested in a project in which there is a substantial element of risk. (Đây là một cụm danh từ dùng để chỉ vốn đầu tư mạo hiểm cho các startup.).
+Ví dụ: Silicon Valley is famous for its high concentration of venture capital firms.
+
+---
+
+78. **Angel investor (n) /ˈeɪndʒl ɪnˌvestər/:** A wealthy individual who provides capital for a business start-up, usually in exchange for convertible debt or ownership equity. (Đây là một cụm danh từ dùng để chỉ nhà đầu tư thiên thần.).
+Ví dụ: The startup was able to secure funding from an angel investor to develop its prototype.
+
+---
+
+79. **Crowdfunding (n) /ˈkraʊdfʌndɪŋ/:** The practice of funding a project or venture by raising small amounts of money from a large number of people. (Đây là một danh từ dùng để chỉ việc gọi vốn cộng đồng.).
+Ví dụ: They used a crowdfunding platform to raise money for their new documentary film.
+
+---
+
+80. **Underwriting (n) /ˈʌndərraɪtɪŋ/:** The process by which an individual or institution takes on financial risk for a fee. (Đây là một danh từ dùng để chỉ hoạt động bảo lãnh phát hành chứng khoán hoặc bảo hiểm.).
+Ví dụ: Several large banks were involved in the underwriting of the company's initial public offering.
+
+---
+
+81. **IPO (n) /ˌaɪ piː ˈoʊ/:** Initial Public Offering; the first sale of stock by a private company to the public. (Đây là một danh từ viết tắt dùng để chỉ sự phát hành cổ phiếu lần đầu ra công chúng.).
+Ví dụ: The company's IPO was a huge success, raising over five hundred million dollars.
+
+---
+
+82. **Prospectus (n) /prəˈspektəs/:** A printed document that advertises or describes a school, commercial enterprise, etc., in order to attract or inform clients or members. (Trong kinh tế là bản cáo bạch.).
+Ví dụ: You should read the investment prospectus carefully before buying any shares.
+
+---
+
+83. **Bullish (adj) /ˈbʊlɪʃ/:** Characterized by rising share prices; or being optimistic about the future. (Đây là một tính từ dùng để chỉ xu hướng lạc quan, tin rằng giá sẽ tăng.).
+Ví dụ: Analysts are bullish about the company's prospects for the next quarter.
+
+---
+
+84. **Bearish (adj) /ˈberɪʃ/:** Characterized by falling share prices; or being pessimistic about the future. (Đây là một tính từ dùng để chỉ xu hướng bi quan, tin rằng giá sẽ giảm.).
+Ví dụ: The sudden drop in oil prices has made investors bearish about energy stocks.
+
+---
+
+85. **Volatility (n) /ˌvɑːləˈtɪləti/:** Liability to change rapidly and unpredictably, especially for the worse. (Đây là một danh từ dùng để chỉ sự biến động mạnh của thị trường.).
+Ví dụ: Market volatility can make it very difficult for investors to plan for the long term.
+
+---
+
+86. **Leverage (n/v) /ˈlevərɪdʒ/:** The use of borrowed money to increase the potential return of an investment. (Đây là một danh từ/động từ dùng để chỉ đòn bẩy tài chính.).
+Ví dụ: High levels of financial leverage can increase profits but also significantly increase risk.
+
+---
+
+87. **Derivative (n) /dɪˈrɪvətɪv/:** A financial instrument whose value is based on one or more underlying assets. (Đây là một danh từ dùng để chỉ công cụ tài chính phái sinh.).
+Ví dụ: Options and futures are common types of derivatives used for hedging risk.
+
+---
+
+88. **Hedging (n) /ˈhedʒɪŋ/:** Protecting oneself against loss on an investment by making a balancing or compensating investment. (Đây là một danh từ dùng để chỉ hoạt động phòng vệ rủi ro.).
+Ví dụ: Gold is often used as a tool for hedging against inflation and economic uncertainty.
+
+---
+
+89. **Option (n) /ˈɑːpʃn/:** A contract that gives the buyer the right, but not the obligation, to buy or sell an asset. (Đây là một danh từ dùng để chỉ quyền chọn trong đầu tư.).
+Ví dụ: He bought a call option on the stock, hoping that the price would rise.
+
+---
+
+90. **Future (n) /ˈfjuːtʃər/:** A contract to buy or sell an asset at a predetermined price at a specified time in the future. (Đây là một danh từ dùng để chỉ hợp đồng tương lai.).
+Ví dụ: Farmers use futures contracts to lock in a price for their crops before they are harvested.
+
+---
+
+91. **Arbitrageur (n) /ˌɑːrbɪtrɑːˈʒɜːr/:** A person who engages in arbitrage. (Đây là một danh từ dùng để chỉ người thực hiện kinh doanh chênh lệch giá.).
+Ví dụ: Arbitrageurs play an important role in ensuring that prices remain consistent across different markets.
+
+---
+
+92. **Mercantilism (n) /ˈmɜːrkəntɪlɪzəm/:** An economic theory that trade generates wealth and is stimulated by the accumulation of profitable balances. (Đây là một danh từ dùng để chỉ chủ nghĩa trọng thương.).
+Ví dụ: Mercantilism was the dominant economic theory in Europe during the 16th to 18th centuries.
+
+---
+
+93. **Protectionism (n) /prəˈtekʃənɪzəm/:** The theory or practice of shielding a country's domestic industries from foreign competition. (Đây là một danh từ dùng để chỉ chủ nghĩa bảo hộ mậu dịch.).
+Ví dụ: Critics argue that protectionism can lead to higher prices for consumers and slower economic growth.
+
+---
+
+94. **Laissez-faire (n) /ˌleseɪ ˈfer/:** A policy or attitude of letting things take their own course, without interfering. (Đây là một danh từ dùng để chỉ học thuyết kinh tế tự do không can thiệp.).
+Ví dụ: Laissez-faire economics advocates for minimal government intervention in the market.
+
+---
+
+95. **Keynesianism (n) /ˌkeɪnziəˈnɪzəm/:** The economic theories of John Maynard Keynes, especially those advocating government spending to stimulate demand. (Đây là một danh từ dùng để chỉ thuyết kinh tế Keynes.).
+Ví dụ: Keynesianism became popular after the Great Depression as a way to manage economic cycles.
+
+---
+
+96. **Monetarism (n) /ˈmʌnɪtərɪzəm/:** The theory that inflation is caused by an excess of money in the economy. (Đây là một danh từ dùng để chỉ thuyết trọng tiền.).
+Ví dụ: Monetarism emphasizes the importance of controlling the money supply to maintain price stability.
+
+---
+
+97. **Stagflation (n) /ˌstæɡˈfleɪʃn/:** Persistent high inflation combined with high unemployment and stagnant demand. (Đây là một danh từ dùng để chỉ tình trạng lạm phát đình trệ.).
+Ví dụ: The country experienced a period of stagflation in the 1970s due to rising oil prices.
+
+---
+
+98. **Hyperinflation (n) /ˌhaɪpərɪnˈfleɪʃn/:** Monetary inflation occurring at a very high rate. (Đây là một danh từ dùng để chỉ hiện tượng siêu lạm phát.).
+Ví dụ: Hyperinflation in Germany during the 1920s led to a complete collapse of the national currency.
+
+---
+
+99. **Globalism (n) /ˈɡloʊbəlɪzəm/:** The operation or planning of economic and foreign policy on a global basis. (Đây là một danh từ dùng để chỉ chủ nghĩa toàn cầu hóa kinh tế.).
+Ví dụ: Globalism has led to increased international trade but also concerns about the loss of national sovereignty.
+
+---
+
+100. **Outsourcing (n) /ˈaʊtsɔːrsɪŋ/:** Obtain goods or a service from an outside or foreign supplier. (Đây là một danh từ dùng để chỉ việc thuê ngoài nhân lực hoặc sản xuất.).
+Ví dụ: Outsourcing manufacturing to countries with lower labor costs can help companies reduce prices.
+
+---
+
+101. **Offshoring (n) /ˌɔːfˈʃɔːrɪŋ/:** The practice of basing some of a company's processes or services overseas. (Đây là một danh từ dùng để chỉ việc dời các hoạt động kinh doanh ra nước ngoài.).
+Ví dụ: Offshoring has been criticized for causing job losses in developed countries.
+
+---
+
+102. **Sustainability (n) /səˌsteɪnəˈbɪləti/:** The ability to be maintained at a certain rate or level. (Đây là một danh từ dùng để chỉ sự phát triển bền vững.).
+Ví dụ: Economic sustainability requires balancing growth with environmental protection and social equity.
+
+---
+
+103. **Infrastructure (n) /ˈɪnfrəstrʌktʃər/:** The basic physical and organizational structures needed for the operation of a society. (Đây là một danh từ dùng để chỉ cơ sở hạ tầng kinh tế.).
+Ví dụ: Investing in transport and communication infrastructure is essential for economic development.
+
+---
+
+104. **Human capital (n) /ˌhjuːmən ˈkæpɪtl/:** The skills, knowledge, and experience possessed by an individual or population. (Đây là một cụm danh từ dùng để chỉ vốn nhân lực.).
+Ví dụ: Education and training are the primary ways to increase a country's human capital.
+
+---
+
+105. **Brain drain (n) /ˈbreɪn dreɪn/:** The emigration of highly trained or intelligent people from a particular country. (Đây là một cụm danh từ dùng để chỉ hiện tượng chảy máu chất xám.).
+Ví dụ: Many developing countries suffer from a brain drain as their best doctors and engineers move abroad.
+
+---
+
+106. **Remittance (n) /rɪˈmɪtns/:** A sum of money sent, especially by mail, in payment for goods or services or as a gift. (Đây là một danh từ dùng để chỉ tiền kiều hối gửi về nước.).
+Ví dụ: Remittances from workers abroad are a vital source of income for many families in poor countries.
+
+---
+
+107. **Globalization (n) /ˌɡloʊbələˈzeɪʃn/:** The process by which businesses develop international influence or start operating on an international scale. (Đây là một danh từ dùng để chỉ quá trình toàn cầu hóa.).
+Ví dụ: Globalization has led to a significant increase in cultural exchange and international cooperation.
+
+---
+
+108. **Free trade (n) /ˌfriː ˈtreɪd/:** International trade left to its natural course without tariffs, quotas, or other restrictions. (Đây là một cụm danh từ dùng để chỉ thương mại tự do.).
+Ví dụ: Free trade agreements aim to lower costs for consumers and increase competition between firms.
+
+---
+
+109. **Economic growth (n) /ˌekəˈnɑːmɪk ɡroʊθ/:** An increase in the amount of goods and services produced per head of the population over a period of time. (Đây là một cụm danh từ dùng để chỉ tăng trưởng kinh tế.).
+Ví dụ: The government's primary goal is to achieve sustainable economic growth and reduce poverty.
+
+---
+
+110. **Inequality (n) /ˌɪnɪˈkwɑːləti/:** Difference in size, degree, circumstances, etc.; lack of equality. (Đây là một danh từ dùng để chỉ sự bất bình đẳng giàu nghèo.).
+Ví dụ: Rising income inequality is a major concern for many policymakers around the world.
+
+---
+
+111. **Poverty line (n) /ˈpɑːvərti laɪn/:** The estimated minimum level of income needed to secure the necessities of life. (Đây là một cụm danh từ dùng để chỉ ngưỡng nghèo.).
+Ví dụ: Millions of people in the country still live below the poverty line.
+
+---
+
+112. **Social welfare (n) /ˌsoʊʃl ˈwelfer/:** Statutory procedure or social effort designed to promote the basic well-being of people in need. (Đây là một cụm danh từ dùng để chỉ phúc lợi xã hội.).
+Ví dụ: The social welfare system provides a safety net for those who are unemployed or disabled.
+
+---
+
+113. **Progressive tax (n) /prəˌɡresɪv ˈtæks/:** A tax in which the tax rate increases as the taxable amount increases. (Đây là một cụm danh từ dùng để chỉ thuế lũy tiến.).
+Ví dụ: A progressive tax system is often used to redistribute wealth and reduce inequality.
+
+---
+
+114. **Universal basic income (n) /juːnɪˌvɜːrsl ˈbeɪsɪk ˈɪnkʌm/:** A periodic cash payment delivered to all citizens on an individual basis without means test or work requirement. (Đây là một cụm danh từ dùng để chỉ thu nhập cơ bản vô điều kiện.).
+Ví dụ: Several countries are conducting trials of universal basic income to see if it can reduce poverty.
+
+---
+
+115. **Austerity (n) /ɔːˈsterəti/:** Difficult economic conditions created by government measures to reduce a budget deficit. (Đây là một danh từ dùng để chỉ chính sách thắt lưng buộc bụng.).
+Ví dụ: The government's austerity measures have led to widespread protests and strikes.
+
+---
+
+116. **Stimulus (n) /ˈstɪmjələs/:** A thing that rouses activity or energy in someone or something. (Trong kinh tế, đây là gói kích cầu hoặc kích thích kinh tế.).
+Ví dụ: The economic stimulus package includes tax cuts and increased spending on infrastructure.
+
+---
+
+117. **Regulation (n) /ˌreɡjuˈleɪʃn/:** A rule or directive made and maintained by an authority. (Đây là một danh từ dùng để chỉ quy định hoặc sự điều tiết của chính phủ.).
+Ví dụ: Stronger financial regulations are needed to prevent another global economic crisis.
+
+---
+
+118. **Deregulation (n) /ˌdiːˌreɡjuˈleɪʃn/:** The removal of regulations or restrictions, especially in a particular industry. (Đây là một danh từ dùng để chỉ sự bãi bỏ quy định điều tiết.).
+Ví dụ: The deregulation of the airline industry led to lower fares and more choices for passengers.
+
+---
+
+119. **Standard of living (n) /ˌstændərd əv ˈlɪvɪŋ/:** The degree of wealth and material comfort available to a person or community. (Đây là một cụm danh từ dùng để chỉ mức sống.).
+Ví dụ: The standard of living in the country has improved significantly over the last twenty years.
+
+---
+
+120. **Purchasing power (n) /ˈpɜːrtʃəsɪŋ ˈpaʊər/:** The financial ability to buy goods and services. (Đây là một cụm danh từ dùng để chỉ sức mua của đồng tiền.).
+Ví dụ: Inflation can significantly reduce the purchasing power of people on fixed incomes.
+
+---
+
+121. **Cost of living (n) /ˌkɔːst əv ˈlɪvɪŋ/:** The amount of money needed to sustain a certain level of living. (Đây là một cụm danh từ dùng để chỉ chi phí sinh hoạt.).
+Ví dụ: The high cost of living in the city center is forcing many young families to move to the suburbs.
+
+---
+
+122. **Employment (n) /ɪmˈplɔɪmənt/:** The state of having paid work. (Đây là một danh từ dùng để chỉ việc làm.).
+Ví dụ: The government is working on a program to boost employment in rural areas.
+
+---
+
+123. **Unemployment (n) /ˌʌnɪmˈplɔɪmənt/:** The state of being unemployed. (Đây là một danh từ dùng để chỉ tình trạng thất nghiệp.).
+Ví dụ: High levels of youth unemployment can lead to social and political instability.
+
+---
+
+124. **Labor market (n) /ˈleɪbər ˈmɑːrkɪt/:** The supply of people in a particular country or area who are able and willing to work in relation to the number of jobs available. (Đây là một cụm danh từ dùng để chỉ thị trường lao động.).
+Ví dụ: The labor market is becoming increasingly competitive for recent graduates.
+
+---
+
+125. **Productivity (n) /ˌproʊdʌkˈtɪvəti/:** The effectiveness of productive effort, especially in industry. (Đây là một danh từ dùng để chỉ năng suất lao động.).
+Ví dụ: Investing in new technology can significantly boost the company's productivity.
+
+---
+
+126. **Output (n) /ˈaʊtpʊt/:** The amount of something produced by a person, machine, or industry. (Đây là một danh từ dùng để chỉ sản lượng đầu ra.).
+Ví dụ: The factory's daily output has increased by 20% since the new machines were installed.
+
+---
+
+127. **Input (n) /ˈɪnpʊt/:** What is put in, taken in, or operated on by any process or system. (Trong kinh tế là các yếu tố đầu vào.).
+Ví dụ: The cost of energy is a major input for the manufacturing sector.
+
+---
+
+128. **Efficiency (n) /ɪˈfɪʃnsi/:** The state or quality of being efficient. (Đây là một danh từ dùng để chỉ hiệu quả kinh tế hoặc năng suất.).
+Ví dụ: We need to improve the efficiency of our production process to reduce costs.
+
+---
+
+129. **Specialization (n) /ˌspeʃələˈzeɪʃn/:** The process of concentrating on and becoming expert in a particular subject or skill. (Đây là một danh từ dùng để chỉ sự chuyên môn hóa.).
+Ví dụ: International trade is based on the principle of regional specialization.
+
+---
+
+130. **Comparative advantage (n) /kəmˈpærətɪv ədˈvæntɪdʒ/:** The ability of an individual or group to carry out a particular economic activity more efficiently than another activity. (Đây là một cụm danh từ dùng để chỉ lợi thế so sánh.).
+Ví dụ: According to the theory of comparative advantage, countries should specialize in what they do best.
+
+---
+
+131. **Competitive advantage (n) /kəmˈpetətɪv ədˈvæntɪdʒ/:** A condition or circumstance that puts a company in a favorable or superior business position. (Đây là một cụm danh từ dùng để chỉ lợi thế cạnh tranh.).
+Ví dụ: A highly skilled workforce is a significant competitive advantage for any tech company.
+
+---
+
+132. **Innovation (n) /ˌɪnəˈveɪʃn/:** The action or process of innovating; a new method, idea, product, etc. (Đây là một danh từ dùng để chỉ sự đổi mới, sáng tạo.).
+Ví dụ: Continuous innovation is essential for staying ahead in the global market.
+
+---
+
+133. **Entrepreneurship (n) /ˌɑːntrəprəˈnɜːrʃɪp/:** The activity of setting up a business or businesses, taking on financial risks in the hope of profit. (Đây là một danh từ dùng để chỉ tinh thần khởi nghiệp.).
+Ví dụ: The university offers several programs to promote entrepreneurship among its students.
+
+---
+
+134. **Startup (n) /ˈstɑːrtʌp/:** A newly established business. (Đây là một danh từ dùng để chỉ công ty khởi nghiệp.).
+Ví dụ: Many successful startups were founded in small garages or university dorm rooms.
+
+---
+
+135. **Small and Medium Enterprises (SMEs) (n):** Non-subsidiary, independent firms which employ fewer than a given number of employees. (Đây là một cụm danh từ dùng để chỉ các doanh nghiệp vừa và nhỏ.).
+Ví dụ: SMEs play a vital role in creating jobs and driving economic growth.
+
+---
+
+136. **Multinational corporation (MNC) (n):** A large company that operates in several countries. (Đây là một cụm danh từ dùng để chỉ tập đoàn đa quốc gia.).
+Ví dụ: MNCs have a huge influence on the global economy and international relations.
+
+---
+
+137. **Foreign Direct Investment (FDI) (n):** An investment in the form of a controlling ownership in a business in one country by an entity based in another country. (Đây là một cụm danh từ dùng để chỉ vốn đầu tư trực tiếp nước ngoài.).
+Ví dụ: The country's stable political environment attracts a lot of FDI every year.
+
+---
+
+138. **Trade balance (n) /ˈtreɪd ˌbæləns/:** The difference in value between a country's imports and exports. (Đây là một cụm danh từ dùng để chỉ cán cân thương mại.).
+Ví dụ: The government is taking steps to improve the trade balance by boosting exports.
+
+---
+
+139. **Current account (n) /ˌkɜːrənt əˈkaʊnt/:** An account at a bank from which money may be withdrawn without notice. (Trong vĩ mô, đây là tài khoản vãng lai.).
+Ví dụ: The current account deficit has widened due to increased imports of energy.
+
+---
+
+140. **Capital account (n) /ˈkæpɪtl əˈkaʊnt/:** An account used to record a company's investment in itself. (Trong vĩ mô, đây là tài khoản vốn.).
+Ví dụ: The capital account tracks the flow of investment money into and out of a country.
+
+---
+
+141. **Economic union (n) /ˌekəˈnɑːmɪk ˈjuːniən/:** A type of trade bloc which is composed of a common market with a customs union. (Đây là một cụm danh từ dùng để chỉ liên minh kinh tế.).
+Ví dụ: The European Union is the world's most integrated economic union.
+
+---
+
+142. **Common market (n) /ˌkɑːmən ˈmɑːrkɪt/:** A group of countries imposing few or no duties on trade with one another and a common tariff on trade with other countries. (Đây là một cụm danh từ dùng để chỉ thị trường chung.).
+Ví dụ: The establishment of a common market allows for the free movement of goods, labor, and capital.
+
+---
+
+143. **Customs union (n) /ˌkʌstəmz ˈjuːniən/:** A group of countries that have agreed to charge the same import duties as each other and usually to allow free trade between themselves. (Đây là một cụm danh từ dùng để chỉ liên minh thuế quan.).
+Ví dụ: Member countries of the customs union have abolished all internal trade barriers.
+
+---
+
+144. **Free trade area (n) /ˌfriː ˈtreɪd ˈeriə/:** The region encompassing a trade bloc whose member countries have signed a free trade agreement. (Đây là một cụm danh từ dùng để chỉ khu vực mậu dịch tự do.).
+Ví dụ: NAFTA created a massive free trade area between Canada, the US, and Mexico.
+
+---
+
+145. **Protection (n) /prəˈtekʃn/:** Shielding a country's domestic industries from foreign competition. (Trong thương mại là sự bảo hộ.).
+Ví dụ: Some countries use high tariffs as a form of protection for their local industries.
+
+---
+
+146. **Sanitary (adj) /ˈsænɪteri/:** Relating to the conditions that affect hygiene and health. (Trong thương mại là các rào cản kiểm dịch động thực vật.).
+Ví dụ: International trade is often subject to strict sanitary and phytosanitary regulations.
+
+---
+
+147. **Logistics (n) /ləˈdʒɪstɪks/:** The detailed coordination of a complex operation involving many people, facilities, or supplies. (Đây là một danh từ dùng để chỉ ngành hậu cần/vận tải.).
+Ví dụ: Efficient logistics are essential for businesses involved in international trade.
+
+---
+
+148. **Supply chain (n) /ˈsʌplaɪ tʃeɪn/:** The sequence of processes involved in the production and distribution of a commodity. (Đây là một cụm danh từ dùng để chỉ chuỗi cung ứng.).
+Ví dụ: A disruption in the global supply chain can cause major shortages of goods.
+
+---
+
+149. **Distribution (n) /ˌdɪstrɪˈbjuːʃn/:** The action of sharing something out among a number of recipients. (Trong kinh tế là sự phân phối hàng hóa hoặc thu nhập.).
+Ví dụ: The distribution of wealth in the country is highly unequal.
+
+---
+
+150. **Wholesale (n/adj) /ˈhoʊlseɪl/:** The selling of goods in large quantities to be retailed by others. (Đây là một danh từ/tính từ dùng để chỉ việc bán sỉ/bán buôn.).
+Ví dụ: Wholesale prices have risen sharply due to increased transport costs.
+
+---
+
+151. **Retail (n/adj) /ˈriːteɪl/:** The sale of goods to the public in relatively small quantities for use or consumption. (Đây là một danh từ/tính từ dùng để chỉ việc bán lẻ.).
+Ví dụ: The retail sector has been hit hard by the rise of online shopping.
+
+---
+
+152. **Consumer (n) /kənˈsuːmər/:** A person who purchases goods and services for personal use. (Đây là một danh từ dùng để chỉ người tiêu dùng.).
+Ví dụ: Consumer confidence is a key indicator of future economic activity.
+
+---
+
+153. **Producer (n) /prəˈduːsər/:** A person, company, or country that makes, grows, or supplies goods or commodities for sale. (Đây là một danh từ dùng để chỉ nhà sản xuất.).
+Ví dụ: The country is one of the world's leading producers of coffee and cocoa.
+
+---
+
+154. **Merchant (n) /ˈmɜːrtʃənt/:** A person or company involved in wholesale trade. (Đây là một danh từ dùng để chỉ thương gia hoặc người buôn bán.).
+Ví dụ: Venetian merchants grew rich through trade with the East during the Middle Ages.
+
+---
+
+155. **Trader (n) /ˈtreɪdər/:** A person who buys and sells goods, currency, or shares. (Đây là một danh từ dùng để chỉ nhà giao dịch hoặc tiểu thương.).
+Ví dụ: He works as a currency trader for a large international bank.
+
+---
+
+156. **Broker (n) /ˈbroʊkər/:** A person who buys and sells goods or assets for others. (Đây là một danh từ dùng để chỉ người môi giới.).
+Ví dụ: You need a stock broker to help you buy and sell shares on the exchange.
+
+---
+
+157. **Agent (n) /ˈeɪdʒənt/:** A person who acts on behalf of another person or group. (Đây là một danh từ dùng để chỉ đại lý hoặc người đại diện.).
+Ví dụ: She works as a real estate agent, helping people buy and sell houses.
+
+---
+
+158. **Franchise (n) /ˈfræntʃaɪz/:** An authorization granted by a government or company to an individual or group enabling them to carry out specified commercial activities. (Đây là một danh từ dùng để chỉ hình thức nhượng quyền kinh doanh.).
+Ví dụ: He decided to open a fast-food franchise because of the proven business model.
+
+---
+
+159. **Brand (n) /brænd/:** A type of product manufactured by a particular company under a particular name. (Đây là một danh từ dùng để chỉ thương hiệu.).
+Ví dụ: The company has built a strong brand that is recognized all over the world.
+
+---
+
+160. **Marketing (n) /ˈmɑːrkɪtɪŋ/:** The action or business of promoting and selling products or services. (Đây là một danh từ dùng để chỉ hoạt động tiếp thị.).
+Ví dụ: Effective marketing is essential for the success of any new product.
+
+---
+
+161. **Advertising (n) /ˈædvərtaɪzɪŋ/:** The activity or profession of producing advertisements for commercial products or services. (Đây là một danh từ dùng để chỉ hoạt động quảng cáo.).
+Ví dụ: The company spends millions of dollars on television and online advertising every year.
+
+---
+
+162. **Promotion (n) /prəˈmoʊʃn/:** The publicization of a product, organization, or venture so as to increase sales or public awareness. (Đây là một danh từ dùng để chỉ hoạt động khuyến mãi hoặc quảng bá.).
+Ví dụ: The supermarket is running a special promotion on fresh fruit and vegetables.
+
+---
+
+163. **Public relations (PR) (n):** The professional maintenance of a favorable public image by a company or other organization. (Đây là một cụm danh từ dùng để chỉ quan hệ công chúng.).
+Ví dụ: A good PR strategy can help a company rebuild its reputation after a scandal.
+
+---
+
+164. **Customer loyalty (n) /ˈkʌstəmər ˌlɔɪəlti/:** The tendency of some consumers to continue buying the same brand of goods rather than competing brands. (Đây là một cụm danh từ dùng để chỉ sự trung thành của khách hàng.).
+Ví dụ: Reward programs are a common way to build and maintain customer loyalty.
+
+---
+
+165. **Market share (n) /ˈmɑːrkɪt ʃer/:** The portion of a market controlled by a particular company or product. (Đây là một cụm danh từ dùng để chỉ thị phần.).
+Ví dụ: The company is aggressively expanding its market share in Southeast Asia.
+
+---
+
+166. **Market segment (n) /ˈmɑːrkɪt ˈseɡmənt/:** A group of people who share one or more common characteristics. (Đây là một cụm danh từ dùng để chỉ phân khúc thị trường.).
+Ví dụ: The advertisement is aimed at a specific market segment: young professionals with high incomes.
+
+---
+
+167. **Market niche (n) /ˈmɑːrkɪt nɪtʃ/:** A small, specialized section of a market for a particular product or service. (Đây là một cụm danh từ dùng để chỉ thị trường ngách.).
+Ví dụ: The company found a profitable market niche by selling organic baby clothes.
+
+---
+
+168. **Benchmarking (n) /ˈbentʃmɑːrkɪŋ/:** Evaluate or check (something) by comparison with a standard. (Đây là một danh từ dùng để chỉ việc đối chuẩn hoặc so sánh với tiêu chuẩn.).
+Ví dụ: Benchmarking our performance against our competitors helps us identify areas for improvement.
+
+---
+
+169. **Best practice (n) /best ˈpræktɪs/:** Commercial or professional procedures that are accepted or prescribed as being correct or most effective. (Đây là một cụm danh từ dùng để chỉ quy trình tối ưu hoặc thông lệ tốt nhất.).
+Ví dụ: The company is adopting best practices in environmental management to reduce its carbon footprint.
+
+---
+
+170. **Value added (n) /ˌvæljuː ˈædɪd/:** The amount by which the value of an article is increased at each stage of its production. (Đây là một cụm danh từ dùng để chỉ giá trị gia tăng.).
+Ví dụ: High-tech manufacturing generates more value added than traditional assembly.
+
+---
+
+171. **Competitive (adj) /kəmˈpetətɪv/:** Relating to or characterized by competition. (Đây là một tính từ dùng để chỉ tính cạnh tranh.).
+Ví dụ: The company operates in a very competitive market with many large rivals.
+
+---
+
+172. **Aggressive (adj) /əˈɡresɪv/:** Ready or likely to attack or confront. (Trong kinh tế là chiến lược tấn công hoặc quyết liệt.).
+Ví dụ: The company launched an aggressive marketing campaign to win back customers.
+
+---
+
+173. **Dominant (adj) /ˈdɑːmɪnənt/:** Most important, powerful, or influential. (Trong kinh tế là vị thế thống trị thị trường.).
+Ví dụ: The company has a dominant position in the global search engine market.
+
+---
+
+174. **Vibrant (adj) /ˈvaɪbrənt/:** Full of energy and enthusiasm. (Trong kinh tế là thị trường sôi động.).
+Ví dụ: The city has a vibrant small business community and a booming tech sector.
+
+---
+
+175. **Stagnant (adj) /ˈstæɡnənt/:** Showing no activity; dull and sluggish. (Trong kinh tế là tình trạng trì trệ.).
+Ví dụ: Economic growth has remained stagnant for several years due to a lack of investment.
+
+---
+
+176. **Voluntary (adj) /ˈvɑːlənteri/:** Done, given, or acting of one's own free will. (Đây là một tính từ dùng để chỉ các thỏa thuận tự nguyện.).
+Ví dụ: The company made a voluntary commitment to reduce its greenhouse gas emissions.
+
+---
+
+177. **Mandatory (adj) /ˈmændətɔːri/:** Required by law or rules; compulsory. (Đây là một tính từ dùng để chỉ các quy định bắt buộc.).
+Ví dụ: The new environmental standards are mandatory for all manufacturing companies.
+
+---
+
+178. **Legitimate (adj) /ləˈdʒɪtɪmət/:** Conforming to the law or to rules. (Đây là một tính từ dùng để chỉ tính hợp pháp hoặc chính đáng.).
+Ví dụ: The government aims to encourage legitimate business activity and discourage the shadow economy.
+
+---
+
+179. **Illicit (adj) /ɪˈlɪsɪt/:** Forbidden by law, rules, or custom. (Đây là một tính từ dùng để chỉ các hoạt động phi pháp.).
+Ví dụ: Illicit trade in counterfeit goods is a major global problem.
+
+---
+
+180. **Transparency (n) /trænsˈpærənsi/:** The condition of being transparent. (Trong kinh tế là sự minh bạch tài chính.).
+Ví dụ: Transparency in government spending is essential for preventing corruption.
+
+---
+
+181. **Accountability (n) /əˌkaʊntəˈbɪləti/:** The fact or condition of being accountable; responsibility. (Đây là một danh từ dùng để chỉ trách nhiệm giải trình.).
+Ví dụ: There are calls for greater accountability for large financial institutions.
+
+---
+
+182. **Integrity (n) /ɪnˈteɡrəti/:** The quality of being honest and having strong moral principles. (Trong kinh tế là sự chính trực trong kinh doanh.).
+Ví dụ: The company is known for its high ethical standards and business integrity.
+
+---
+
+183. **Ethics (n) /ˈeθɪks/:** Moral principles that govern a person's behavior or the conducting of an activity. (Đây là một danh từ dùng để chỉ đạo đức kinh doanh.).
+Ví dụ: Business ethics are becoming increasingly important for environmentally conscious consumers.
+
+---
+
+184. **Compliance (n) /kəmˈplaɪəns/:** The action or fact of complying with a wish or command. (Đây là một danh từ dùng để chỉ sự tuân thủ các quy định pháp luật.).
+Ví dụ: The bank has a dedicated team to ensure compliance with all financial regulations.
+
+---
+
+185. **Bureaucracy (n) /bjʊˈrɑːkrəsi/:** A system of government in which most of the important decisions are made by state officials. (Trong kinh tế là bộ máy hành chính rườm rà.).
+Ví dụ: Excessive government bureaucracy can discourage investment and hinder economic growth.
+
+---
+
+186. **Red tape (n) /ˌred ˈteɪp/:** Excessive bureaucracy or adherence to rules and formalities, especially in public business. (Đây là một cụm danh từ chỉ các thủ tục hành chính quan liêu.).
+Ví dụ: Cutting red tape is essential for making the country more business-friendly.
+
+---
+
+187. **Bailout (n) /ˈbeɪlaʊt/:** An act of giving financial assistance to a failing business or economy to save it from collapse. (Đây là một danh từ dùng để chỉ gói cứu trợ tài chính.).
+Ví dụ: Several large banks received a government bailout during the financial crisis.
+
+---
+
+188. **Safety net (n) /ˈseɪfti net/:** A system of social welfare that protects people from the worst effects of poverty or unemployment. (Đây là một cụm danh từ dùng để chỉ mạng lưới an sinh xã hội.).
+Ví dụ: A strong social safety net is essential for maintaining social stability during economic downturns.
+
+---
+
+189. **Nationalization (n) /ˌnæʃnələˈzeɪʃn/:** The transfer of a major branch of industry or commerce from private to state ownership or control. (Đây là một danh từ dùng để chỉ sự quốc hữu hóa.).
+Ví dụ: The government announced the nationalization of the country's main oil company.
+
+---
+
+190. **Subsidize (v) /ˈsʌbsɪdaɪz/:** Support (an organization or activity) financially. (Động từ của subsidy, chỉ việc trợ cấp.).
+Ví dụ: The state subsidizes public transport to keep it affordable for everyone.
+
+---
+
+191. **Fiscal (adj) /ˈfɪskl/:** Relating to government revenue, especially taxes. (Đây là một tính từ dùng để chỉ thuộc về tài chính công hoặc ngân sách.).
+Ví dụ: The country's fiscal health has improved significantly thanks to higher tax revenues.
+
+---
+
+192. **Economic (adj) /ˌekəˈnɑːmɪk/:** Relating to economics or the economy. (Đây là một tính từ dùng để chỉ thuộc về kinh tế.).
+Ví dụ: The country is facing major economic challenges, including high inflation and unemployment.
+
+---
+
+193. **Economical (adj) /ˌekəˈnɑːmɪkl/:** Giving good value or service in relation to the amount of money, time, or effort spent. (Đây là một tính từ dùng để chỉ sự tiết kiệm.).
+Ví dụ: A small car is much more economical to run than a large SUV.
+
+---
+
+194. **Wealth (n) /welθ/:** An abundance of valuable possessions or money. (Đây là một danh từ dùng để chỉ sự giàu có.).
+Ví dụ: The discovery of natural gas has brought great wealth to the region.
+
+---
+
+195. **Prosperity (n) /prɑːˈsperəti/:** The state of being prosperous. (Đây là một danh từ dùng để chỉ sự thịnh vượng, thành công về kinh tế.).
+Ví dụ: The ultimate goal of all economic policy should be to increase national prosperity.
+
+---
+
+196. **Standard (n) /ˈstændərd/:** A level of quality or attainment. (Trong kinh tế thường dùng trong "standard of living" - mức sống.).
+Ví dụ: We should work to improve the standard of living for all members of society.
+
+---
+
+197. **Value (n/v) /ˈvæljuː/:** The regard that something is held to deserve; the importance, worth, or usefulness of something. (Đây là một danh từ/động từ dùng để chỉ giá trị hoặc việc định giá.).
+Ví dụ: The economic value of natural resources is often underestimated.
+
+---

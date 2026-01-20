@@ -1,7 +1,6 @@
 Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **Globalization (Toàn cầu hóa)**. Nội dung được biên soạn kỹ lưỡng và tuân thủ chặt chẽ định dạng trải phẳng (flat) chi tiết theo yêu cầu của bạn.
 
 ---
-
 1. **Globalization (n) /ˌɡloʊbələˈzeɪʃn/:** The process by which businesses or other organizations develop international influence or start operating on an international scale. (Đây là một danh từ dùng để chỉ quá trình toàn cầu hóa, sự kết nối đa quốc gia về kinh tế, văn hóa và chính trị.).
 Ví dụ: Globalization has led to a significant increase in international trade and cultural exchange.
 
@@ -392,8 +391,8 @@ Ví dụ: Protection of intellectual property is a major issue in international 
 
 ---
 
-79. **Patent (n) /ˈpætnt/:** A government authority or license conferring a right or title for a set period. (Đây là một danh từ dùng để chỉ bằng sáng chế.).
-Ví dụ: Global pharmaceutical companies hold patents that can make medicines very expensive.
+79. **Patent (v) /ˈpætnt/:** Obtain a patent for (an invention). (Đây là một động từ dùng để chỉ việc đăng ký bằng sáng chế.).
+Ví dụ: Companies rush to patent new technologies to gain a global advantage.
 
 ---
 
@@ -727,279 +726,272 @@ Ví dụ: The trade in counterfeit luxury goods is a multi-billion dollar global
 
 ---
 
-146. **Patent (v) /ˈpætnt/:** Obtain a patent for (an invention). (Đây là một động từ dùng để chỉ việc đăng ký bằng sáng chế.).
-Ví dụ: Companies rush to patent new technologies to gain a global advantage.
-
----
-
-147. **Research and Development (n) /rɪˈsɜːrtʃ ənd dɪˈveləpmənt/:** Work directed toward the innovation, introduction, and improvement of products and processes. (Đây là một cụm danh từ dùng để chỉ nghiên cứu và phát triển (R&D).).
+146. **Research and Development (n) /rɪˈsɜːrtʃ ənd dɪˈveləpmənt/:** Work directed toward the innovation, introduction, and improvement of products and processes. (Đây là một cụm danh từ dùng để chỉ nghiên cứu và phát triển (R&D).).
 Ví dụ: Global tech firms invest heavily in research and development to stay ahead.
 
 ---
 
-148. **Entrepreneur (n) /ˌɑːntrəprəˈnɜːr/:** A person who organizes and operates a business or businesses, taking on greater than normal financial risks. (Đây là một danh từ dùng để chỉ doanh nhân.).
+147. **Entrepreneur (n) /ˌɑːntrəprəˈnɜːr/:** A person who organizes and operates a business or businesses, taking on greater than normal financial risks. (Đây là một danh từ dùng để chỉ doanh nhân.).
 Ví dụ: The internet has empowered entrepreneurs to start global businesses with very little capital.
 
 ---
 
-149. **Startup (n) /ˈstɑːrtʌp/:** A newly established business. (Đây là một danh từ dùng để chỉ các công ty khởi nghiệp.).
+148. **Startup (n) /ˈstɑːrtʌp/:** A newly established business. (Đây là một danh từ dùng để chỉ các công ty khởi nghiệp.).
 Ví dụ: Many global startups are focused on solving environmental problems through technology.
 
 ---
 
-150. **Venture capital (n) /ˈventʃər ˈkæpɪtl/:** Capital invested in a project in which there is a substantial element of risk, typically a new or expanding business. (Đây là một cụm danh từ dùng để chỉ vốn đầu tư mạo hiểm.).
+149. **Venture capital (n) /ˈventʃər ˈkæpɪtl/:** Capital invested in a project in which there is a substantial element of risk, typically a new or expanding business. (Đây là một cụm danh từ dùng để chỉ vốn đầu tư mạo hiểm.).
 Ví dụ: Venture capital is essential for the growth of global technology hubs.
 
 ---
 
-151. **Monetary (adj) /ˈmɑːnɪteri/:** Relating to money or currency. (Đây là một tính từ dùng để chỉ các yếu tố tiền tệ.).
+150. **Monetary (adj) /ˈmɑːnɪteri/:** Relating to money or currency. (Đây là một tính từ dùng để chỉ các yếu tố tiền tệ.).
 Ví dụ: Global monetary policy is often influenced by the decisions of the US Federal Reserve.
 
 ---
 
-152. **Currency (n) /ˈkɜːrənsi/:** A system of money in general use in a particular country. (Đây là một danh từ dùng để chỉ đơn vị tiền tệ.).
+151. **Currency (n) /ˈkɜːrənsi/:** A system of money in general use in a particular country. (Đây là một danh từ dùng để chỉ đơn vị tiền tệ.).
 Ví dụ: Fluctuations in currency values can significantly impact international trade.
 
 ---
 
-153. **Exchange rate (n) /ɪksˈtʃeɪndʒ reɪt/:** The value of one currency for the purpose of conversion to another. (Đây là một cụm danh từ dùng để chỉ tỷ giá hối đoái.).
+152. **Exchange rate (n) /ɪksˈtʃeɪndʒ reɪt/:** The value of one currency for the purpose of conversion to another. (Đây là một cụm danh từ dùng để chỉ tỷ giá hối đoái.).
 Ví dụ: A stable exchange rate is important for businesses involved in global export.
 
 ---
 
-154. **Inflation (n) /ɪnˈfleɪʃn/:** A general increase in prices and fall in the purchasing value of money. (Đây là một danh từ dùng để chỉ sự lạm phát.).
+153. **Inflation (n) /ɪnˈfleɪʃn/:** A general increase in prices and fall in the purchasing value of money. (Đây là một danh từ dùng để chỉ sự lạm phát.).
 Ví dụ: High global energy prices have led to an increase in inflation in many countries.
 
 ---
 
-155. **Deflation (n) /ˌdiːˈfleɪʃn/:** Reduction of the general level of prices in an economy. (Đây là một danh từ dùng để chỉ sự xẹp phát/giảm phát.).
+154. **Deflation (n) /ˌdiːˈfleɪʃn/:** Reduction of the general level of prices in an economy. (Đây là một danh từ dùng để chỉ sự xẹp phát/giảm phát.).
 Ví dụ: Deflation can be just as damaging to the global economy as high inflation.
 
 ---
 
-156. **Recession (n) /rɪˈseʃn/:** A period of temporary economic decline during which trade and industrial activity are reduced. (Đây là một danh từ dùng để chỉ sự suy thoái kinh tế.).
+155. **Recession (n) /rɪˈseʃn/:** A period of temporary economic decline during which trade and industrial activity are reduced. (Đây là một danh từ dùng để chỉ sự suy thoái kinh tế.).
 Ví dụ: The global recession of 2008 led to a sharp decrease in international trade.
 
 ---
 
-157. **Depression (n) /dɪˈpreʃn/:** A long and severe recession in an economy or market. (Đây là một danh từ dùng để chỉ cuộc đại khủng hoảng kinh tế.).
+156. **Depression (n) /dɪˈpreʃn/:** A long and severe recession in an economy or market. (Đây là một danh từ dùng để chỉ cuộc đại khủng hoảng kinh tế.).
 Ví dụ: The Great Depression of the 1930s showed the dangers of an unstable global financial system.
 
 ---
 
-158. **Growth rate (n) /ɡroʊθ reɪt/:** The percentage increase in a country's real GDP. (Đây là một cụm danh từ dùng để chỉ tốc độ tăng trưởng.).
+157. **Growth rate (n) /ɡroʊθ reɪt/:** The percentage increase in a country's real GDP. (Đây là một cụm danh từ dùng để chỉ tốc độ tăng trưởng.).
 Ví dụ: Emerging economies often have much higher growth rates than developed ones.
 
 ---
 
-159. **GDP (n) /ˌdʒiː diː ˈpiː/:** Gross Domestic Product; the total value of goods produced and services provided in a country during one year. (Đây là một danh từ viết tắt dùng để chỉ tổng sản phẩm quốc nội.).
+158. **GDP (n) /ˌdʒiː diː ˈpiː/:** Gross Domestic Product; the total value of goods produced and services provided in a country during one year. (Đây là một danh từ viết tắt dùng để chỉ tổng sản phẩm quốc nội.).
 Ví dụ: The United States has the largest GDP in the world.
 
 ---
 
-160. **GNI (n) /ˌdʒiː en ˈaɪ/:** Gross National Income; the total domestic and foreign output claimed by residents of a country. (Đây là một danh từ viết tắt dùng để chỉ tổng thu nhập quốc gia.).
+159. **GNI (n) /ˌdʒiː en ˈaɪ/:** Gross National Income; the total domestic and foreign output claimed by residents of a country. (Đây là một danh từ viết tắt dùng để chỉ tổng thu nhập quốc gia.).
 Ví dụ: GNI per capita is a common measure of a country's standard of living.
 
 ---
 
-161. **Wealth gap (n) /welθ ɡæp/:** The unequal distribution of assets among residents of a country. (Đây là một cụm danh từ dùng để chỉ khoảng cách giàu nghèo.).
+160. **Wealth gap (n) /welθ ɡæp/:** The unequal distribution of assets among residents of a country. (Đây là một cụm danh từ dùng để chỉ khoảng cách giàu nghèo.).
 Ví dụ: The global wealth gap between the richest 1% and the rest of the world is widening.
 
 ---
 
-162. **Poverty line (n) /ˈpɑːvərti laɪn/:** The estimated minimum level of income needed to secure the necessities of life. (Đây là một cụm danh từ dùng để chỉ ngưỡng nghèo.).
+161. **Poverty line (n) /ˈpɑːvərti laɪn/:** The estimated minimum level of income needed to secure the necessities of life. (Đây là một cụm danh từ dùng để chỉ ngưỡng nghèo.).
 Ví dụ: Millions of people in developing countries still live below the poverty line.
 
 ---
 
-163. **Humanitarian (adj/n) /hjuːˌmænɪˈteriən/:** Concerned with or seeking to promote human welfare. (Đây là một tính từ/danh từ dùng để chỉ tính nhân đạo hoặc người làm nhân đạo.).
+162. **Humanitarian (adj/n) /hjuːˌmænɪˈteriən/:** Concerned with or seeking to promote human welfare. (Đây là một tính từ/danh từ dùng để chỉ tính nhân đạo hoặc người làm nhân đạo.).
 Ví dụ: Globalization has made it easier to coordinate global humanitarian aid during disasters.
 
 ---
 
-164. **Philanthropy (n) /fɪˈlænθrəpi/:** The desire to promote the welfare of others, expressed by the generous donation of money to good causes. (Đây là một danh từ dùng để chỉ hoạt động từ thiện/nhân đạo.).
+163. **Philanthropy (n) /fɪˈlænθrəpi/:** The desire to promote the welfare of others, expressed by the generous donation of money to good causes. (Đây là một danh từ dùng để chỉ hoạt động từ thiện/nhân đạo.).
 Ví dụ: Global philanthropy plays a key role in funding education and healthcare in poor nations.
 
 ---
 
-165. **Diversity (n) /daɪˈvɜːrsəti/:** The state of being diverse; variety. (Trong văn hóa, đây là sự đa dạng.).
+164. **Diversity (n) /daɪˈvɜːrsəti/:** The state of being diverse; variety. (Trong văn hóa, đây là sự đa dạng.).
 Ví dụ: Cultural diversity is a source of strength and creativity for our world.
 
 ---
 
-166. **Inclusion (n) /ɪnˈkluːʒn/:** The action or state of including or of being included within a group or structure. (Đây là một danh từ dùng để chỉ sự hòa nhập/bao trùm.).
+165. **Inclusion (n) /ɪnˈkluːʒn/:** The action or state of including or of being included within a group or structure. (Đây là một danh từ dùng để chỉ sự hòa nhập/bao trùm.).
 Ví dụ: Global companies are focusing on diversity and inclusion in their hiring practices.
 
 ---
 
-167. **Stereotype (n) /ˈsteriətaɪp/:** A widely held but fixed and oversimplified image or idea of a particular type of person or thing. (Đây là một danh từ dùng để chỉ định kiến hoặc khuôn mẫu.).
+166. **Stereotype (n) /ˈsteriətaɪp/:** A widely held but fixed and oversimplified image or idea of a particular type of person or thing. (Đây là một danh từ dùng để chỉ định kiến hoặc khuôn mẫu.).
 Ví dụ: Increased cultural exchange helps to break down global stereotypes.
 
 ---
 
-168. **Prejudice (n) /ˈpredʒədɪs/:** Preconceived opinion that is not based on reason or actual experience. (Đây là một danh từ dùng để chỉ thành kiến.).
+167. **Prejudice (n) /ˈpredʒədɪs/:** Preconceived opinion that is not based on reason or actual experience. (Đây là một danh từ dùng để chỉ thành kiến.).
 Ví dụ: Education is the most powerful tool for fighting prejudice and intolerance.
 
 ---
 
-169. **Tolerance (n) /ˈtɑːlərəns/:** The ability or willingness to tolerate something, in particular the existence of opinions or behavior that one does not necessarily agree with. (Đây là một danh từ dùng để chỉ sự bao dung.).
+168. **Tolerance (n) /ˈtɑːlərəns/:** The ability or willingness to tolerate something, in particular the existence of opinions or behavior that one does not necessarily agree with. (Đây là một danh từ dùng để chỉ sự bao dung.).
 Ví dụ: A globalized world requires a high level of religious and cultural tolerance.
 
 ---
 
-170. **Discrimination (n) /dɪˌskrɪmɪˈneɪʃn/:** The unjust or prejudicial treatment of different categories of people or things. (Đây là một danh từ dùng để chỉ sự phân biệt đối xử.).
+169. **Discrimination (n) /dɪˌskrɪmɪˈneɪʃn/:** The unjust or prejudicial treatment of different categories of people or things. (Đây là một danh từ dùng để chỉ sự phân biệt đối xử.).
 Ví dụ: International laws forbid discrimination based on race, gender, or nationality.
 
 ---
 
-171. **Legacy (n) /ˈleɡəsi/:** An amount of money or property left to someone in a will; also the long-lasting impact of events. (Đây là một danh từ dùng để chỉ di sản hoặc hệ quả để lại.).
+170. **Legacy (n) /ˈleɡəsi/:** An amount of money or property left to someone in a will; also the long-lasting impact of events. (Đây là một danh từ dùng để chỉ di sản hoặc hệ quả để lại.).
 Ví dụ: The legacy of colonialism continues to influence political stability in Africa.
 
 ---
 
-172. **Heritage site (n) /ˈherɪtɪdʒ saɪt/:** A place that has been officially recognized for its cultural, historical, or natural importance. (Đây là một cụm danh từ dùng để chỉ di tích di sản thế giới.).
+171. **Heritage site (n) /ˈherɪtɪdʒ saɪt/:** A place that has been officially recognized for its cultural, historical, or natural importance. (Đây là một cụm danh từ dùng để chỉ di tích di sản thế giới.).
 Ví dụ: UNESCO works to protect heritage sites all over the world.
 
 ---
 
-173. **Preservation (n) /ˌprezərˈveɪʃn/:** The action of preserving something. (Đây là một danh từ dùng để chỉ sự bảo tồn văn hóa hoặc thiên nhiên.).
+172. **Preservation (n) /ˌprezərˈveɪʃn/:** The action of preserving something. (Đây là một danh từ dùng để chỉ sự bảo tồn văn hóa hoặc thiên nhiên.).
 Ví dụ: The preservation of endangered languages is a major global concern.
 
 ---
 
-174. **Restoration (n) /ˌrestəˈreɪʃn/:** The action of returning something to a former owner, place, or condition. (Đây là một danh từ dùng để chỉ sự phục hồi.).
+173. **Restoration (n) /ˌrestəˈreɪʃn/:** The action of returning something to a former owner, place, or condition. (Đây là một danh từ dùng để chỉ sự phục hồi.).
 Ví dụ: International teams worked together on the restoration of ancient monuments in Iraq.
 
 ---
 
-175. **Conservation (n) /ˌkɑːnsərˈveɪʃn/:** The protection of plants and animals and natural areas. (Đây là một danh từ dùng để chỉ sự bảo tồn tài nguyên thiên nhiên.).
+174. **Conservation (n) /ˌkɑːnsərˈveɪʃn/:** The protection of plants and animals and natural areas. (Đây là một danh từ dùng để chỉ sự bảo tồn tài nguyên thiên nhiên.).
 Ví dụ: Global conservation efforts are needed to save the world's oceans from pollution.
 
 ---
 
-176. **Awareness (n) /əˈwernəs/:** Knowledge or perception of a situation or fact. (Đây là một danh từ dùng để chỉ sự nhận thức.).
+175. **Awareness (n) /əˈwernəs/:** Knowledge or perception of a situation or fact. (Đây là một danh từ dùng để chỉ sự nhận thức.).
 Ví dụ: Social media has raised global awareness of human rights abuses.
 
 ---
 
-177. **Campaign (n) /kæmˈpeɪn/:** An organized course of action to achieve a goal. (Đây là một danh từ dùng để chỉ chiến dịch toàn cầu.).
+176. **Campaign (n) /kæmˈpeɪn/:** An organized course of action to achieve a goal. (Đây là một danh từ dùng để chỉ chiến dịch toàn cầu.).
 Ví dụ: The WHO launched a global campaign to eliminate polio.
 
 ---
 
-178. **Impact (n/v) /ˈɪmpækt/:** The action of one object coming forcibly into contact with another; also a marked effect or influence. (Đây là một danh từ/động từ dùng để chỉ tác động hoặc ảnh hưởng.).
+177. **Impact (n/v) /ˈɪmpækt/:** The action of one object coming forcibly into contact with another; also a marked effect or influence. (Đây là một danh từ/động từ dùng để chỉ tác động hoặc ảnh hưởng.).
 Ví dụ: The impact of globalization on local cultures is a subject of much debate.
 
 ---
 
-179. **Outcome (n) /ˈaʊtkʌm/:** The way a thing turns out; a consequence. (Đây là một danh từ dùng để chỉ kết quả hoặc hệ quả.).
+178. **Outcome (n) /ˈaʊtkʌm/:** The way a thing turns out; a consequence. (Đây là một danh từ dùng để chỉ kết quả hoặc hệ quả.).
 Ví dụ: The outcome of the trade talks will affect prices for consumers worldwide.
 
 ---
 
-180. **Consequence (n) /ˈkɑːnsəkwens/:** A result or effect of an action or condition. (Đây là một danh từ dùng để chỉ hậu quả hoặc hệ quả.).
+179. **Consequence (n) /ˈkɑːnsəkwens/:** A result or effect of an action or condition. (Đây là một danh từ dùng để chỉ hậu quả hoặc hệ quả.).
 Ví dụ: Job losses in manufacturing are a common consequence of offshoring.
 
 ---
 
-181. **Trend (n) /trend/:** A general direction in which something is developing or changing. (Đây là một danh từ dùng để chỉ xu hướng toàn cầu.).
+180. **Trend (n) /trend/:** A general direction in which something is developing or changing. (Đây là một danh từ dùng để chỉ xu hướng toàn cầu.).
 Ví dụ: One of the major trends in globalization is the rise of the digital nomad.
 
 ---
 
-182. **Perspective (n) /pərˈspektɪv/:** A particular attitude toward or way of regarding something; a point of view. (Đây là một danh từ dùng để chỉ góc nhìn hoặc quan điểm cá nhân.).
+181. **Perspective (n) /pərˈspektɪv/:** A particular attitude toward or way of regarding something; a point of view. (Đây là một danh từ dùng để chỉ góc nhìn hoặc quan điểm cá nhân.).
 Ví dụ: Traveling to different countries can provide a new perspective on your own culture.
 
 ---
 
-183. **Viewpoint (n) /ˈvjuːpɔɪnt/:** A person's opinion or point of view. (Đây là một danh từ đồng nghĩa với quan điểm.).
+182. **Viewpoint (n) /ˈvjuːpɔɪnt/:** A person's opinion or point of view. (Đây là một danh từ đồng nghĩa với quan điểm.).
 Ví dụ: It is important to consider multiple viewpoints when analyzing global issues.
 
 ---
 
-184. **Scenario (n) /səˈnærioʊ/:** A postulated sequence or development of events. (Đây là một danh từ dùng để chỉ kịch bản có thể xảy ra trong tương lai.).
+183. **Scenario (n) /səˈnærioʊ/:** A postulated sequence or development of events. (Đây là một danh từ dùng để chỉ kịch bản có thể xảy ra trong tương lai.).
 Ví dụ: Scientists have developed several scenarios for the future of the global climate.
 
 ---
 
-185. **Forecast (n/v) /ˈfɔːrkæst/:** A prediction or estimate of future events. (Đây là một danh từ/động từ dùng để chỉ sự dự báo.).
+184. **Forecast (n/v) /ˈfɔːrkæst/:** A prediction or estimate of future events. (Đây là một danh từ/động từ dùng để chỉ sự dự báo.).
 Ví dụ: Economic forecasts suggest a slowdown in global trade for the coming year.
 
 ---
 
-186. **Prediction (n) /prɪˈdɪkʃn/:** A thing predicted; a forecast. (Đây là một danh từ dùng để chỉ sự dự đoán.).
+185. **Prediction (n) /prɪˈdɪkʃn/:** A thing predicted; a forecast. (Đây là một danh từ dùng để chỉ sự dự đoán.).
 Ví dụ: Many early predictions about the "death of the nation-state" have proven incorrect.
 
 ---
 
-187. **Analysis (n) /əˈnæləsɪs/:** Detailed examination of the elements or structure of something. (Đây là một danh từ dùng để chỉ sự phân tích.).
+186. **Analysis (n) /əˈnæləsɪs/:** Detailed examination of the elements or structure of something. (Đây là một danh từ dùng để chỉ sự phân tích.).
 Ví dụ: A thorough analysis of global markets is necessary before making an investment.
 
 ---
 
-188. **Statistics (n) /stəˈtɪstɪks/:** The practice or science of collecting and analyzing numerical data in large quantities. (Đây là một danh từ dùng để chỉ số liệu thống kê.).
+187. **Statistics (n) /stəˈtɪstɪks/:** The practice or science of collecting and analyzing numerical data in large quantities. (Đây là một danh từ dùng để chỉ số liệu thống kê.).
 Ví dụ: Recent statistics show that global internet usage has passed 60%.
 
 ---
 
-189. **Evidence (n) /ˈevɪdəns/:** The available body of facts or information indicating whether a belief or proposition is true or valid. (Đây là một danh từ dùng để chỉ bằng chứng học thuật.).
+188. **Evidence (n) /ˈevɪdəns/:** The available body of facts or information indicating whether a belief or proposition is true or valid. (Đây là một danh từ dùng để chỉ bằng chứng học thuật.).
 Ví dụ: There is clear evidence that globalization has reduced extreme poverty worldwide.
 
 ---
 
-190. **Correlation (n) /ˌkɔːrəˈleɪʃn/:** A mutual relationship or connection between two or more things. (Đây là một danh từ dùng để chỉ sự tương quan.).
+189. **Correlation (n) /ˌkɔːrəˈleɪʃn/:** A mutual relationship or connection between two or more things. (Đây là một danh từ dùng để chỉ sự tương quan.).
 Ví dụ: There is a strong correlation between economic openness and GDP growth.
 
 ---
 
-191. **Significant (adj) /sɪɡˈnɪfɪkənt/:** Sufficiently great or important to be worthy of attention; noteworthy. (Đây là một tính từ dùng để chỉ sự quan trọng hoặc đáng kể.).
+190. **Significant (adj) /sɪɡˈnɪfɪkənt/:** Sufficiently great or important to be worthy of attention; noteworthy. (Đây là một tính từ dùng để chỉ sự quan trọng hoặc đáng kể.).
 Ví dụ: Globalization has caused significant changes in the way we live and work.
 
 ---
 
-192. **Essential (adj) /ɪˈsenʃl/:** Absolutely necessary; extremely important. (Đây là một tính từ dùng để chỉ sự thiết yếu.).
+191. **Essential (adj) /ɪˈsenʃl/:** Absolutely necessary; extremely important. (Đây là một tính từ dùng để chỉ sự thiết yếu.).
 Ví dụ: International cooperation is essential for maintaining a stable global economy.
 
 ---
 
-193. **Fundamental (adj) /ˌfʌndəˈmentl/:** Forming a necessary base or core; of central importance. (Đây là một tính từ dùng để chỉ tính chất nền tảng hoặc cơ bản.).
+192. **Fundamental (adj) /ˌfʌndəˈmentl/:** Forming a necessary base or core; of central importance. (Đây là một tính từ dùng để chỉ tính chất nền tảng hoặc cơ bản.).
 Ví dụ: The internet has caused a fundamental shift in global communications.
 
 ---
 
-194. **Drastic (adj) /ˈdræstɪk/:** Likely to have a strong or far-reaching effect; radical and extreme. (Đây là một tính từ dùng để chỉ sự mạnh mẽ hoặc quyết liệt.).
+193. **Drastic (adj) /ˈdræstɪk/:** Likely to have a strong or far-reaching effect; radical and extreme. (Đây là một tính từ dùng để chỉ sự mạnh mẽ hoặc quyết liệt.).
 Ví dụ: Some countries have taken drastic measures to protect their domestic industries.
 
 ---
 
-195. **Gradual (adj) /ˈɡrædʒuəl/:** Taking place or progressing slowly or by degrees. (Đây là một tính từ dùng để chỉ sự dần dần, từ từ.).
+194. **Gradual (adj) /ˈɡrædʒuəl/:** Taking place or progressing slowly or by degrees. (Đây là một tính từ dùng để chỉ sự dần dần, từ từ.).
 Ví dụ: The integration of the global economy has been a gradual process over several decades.
 
 ---
 
-196. **Rapid (adj) /ˈræpɪd/:** Happening in a short time or at a great rate. (Đây là một tính từ dùng để chỉ sự nhanh chóng.).
+195. **Rapid (adj) /ˈræpɪd/:** Happening in a short time or at a great rate. (Đây là một tính từ dùng để chỉ sự nhanh chóng.).
 Ví dụ: The rapid growth of emerging markets is changing the global balance of power.
 
 ---
 
-197. **Unprecedented (adj) /ʌnˈpresɪdentɪd/:** Never done or known before. (Đây là một tính từ dùng để chỉ tính chất chưa từng có tiền lệ.).
+196. **Unprecedented (adj) /ʌnˈpresɪdentɪd/:** Never done or known before. (Đây là một tính từ dùng để chỉ tính chất chưa từng có tiền lệ.).
 Ví dụ: We are living in an era of unprecedented global connectivity.
 
 ---
 
-198. **Widespread (adj) /ˌwaɪdˈspred/:** Found or distributed over a large area or number of people. (Đây là một tính từ dùng để chỉ sự lan rộng hoặc phổ biến.).
+197. **Widespread (adj) /ˌwaɪdˈspred/:** Found or distributed over a large area or number of people. (Đây là một tính từ dùng để chỉ sự lan rộng hoặc phổ biến.).
 Ví dụ: There is widespread concern about the impact of globalization on local jobs.
 
 ---
 
-199. **Controversial (adj) /ˌkɑːntrəˈvɜːrʃl/:** Giving rise or likely to give rise to public disagreement. (Đây là một tính từ dùng để chỉ tính tranh cãi.).
+198. **Controversial (adj) /ˌkɑːntrəˈvɜːrʃl/:** Giving rise or likely to give rise to public disagreement. (Đây là một tính từ dùng để chỉ tính tranh cãi.).
 Ví dụ: The benefits of economic globalization remain a highly controversial topic.
 
 ---
 
-200. **Paradigm (n) /ˈpærədaɪm/:** A typical example or pattern of something; a model. (Đây là một danh từ dùng để chỉ một mô hình hoặc hình mẫu chuẩn mực.).
+199. **Paradigm (n) /ˈpærədaɪm/:** A typical example or pattern of something; a model. (Đây là một danh từ dùng để chỉ một mô hình hoặc hình mẫu chuẩn mực.).
 Ví dụ: Globalization has created a new paradigm for how international business is conducted.
 
 ---
-
-Hy vọng danh sách này sẽ giúp bạn mở rộng vốn từ học thuật cho kỳ thi IELTS. Bạn có cần tôi hỗ trợ viết đoạn văn mẫu hoặc câu hỏi thực hành dựa trên những từ này không?

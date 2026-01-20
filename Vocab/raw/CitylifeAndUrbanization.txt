@@ -1,7 +1,6 @@
 Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **City life & Urbanization (Cuộc sống thành thị và Đô thị hóa)**. Các từ vựng được biên soạn kỹ lưỡng, tuân thủ chặt chẽ định dạng trải phẳng (flat) chi tiết: Từ vựng (Từ loại) /Phiên âm/: Nghĩa tiếng Anh (Giải thích chi tiết nghĩa tiếng Việt).
 
 ---
-
 1. **Urbanization (n) /ˌɜːrbənəˈzeɪʃn/:** The process of making an area more urban. (Đây là một danh từ dùng để chỉ quá trình đô thị hóa, khi dân cư tập trung đông đúc vào các thành phố.).
 Ví dụ: Rapid urbanization in developing countries often leads to a shortage of affordable housing.
 
@@ -422,8 +421,8 @@ Ví dụ: Social segregation is still a significant issue in many large American
 
 ---
 
-85. **Integration (n) /ˌɪntɪˈɡreɪʃn/:** The action or process of integrating. (Đây là một danh từ dùng để chỉ sự hòa nhập cộng đồng.).
-Ví dụ: The integration of new immigrants into the urban community is a slow process.
+85. **Integration (n) /ˌɪntɪˈɡreɪʃn/:** The process of becoming part of a group of people. (Đây là một danh từ dùng để chỉ sự hòa nhập.).
+Ví dụ: The integration of immigrants into the local community is a key challenge for urban governments.
 
 ---
 
@@ -942,64 +941,57 @@ Ví dụ: Multiculturalism is a source of strength and creativity for global cit
 
 ---
 
-189. **Integration (n) /ˌɪntɪˈɡreɪʃn/:** The process of becoming part of a group of people. (Đây là một danh từ dùng để chỉ sự hòa nhập.).
-Ví dụ: The integration of immigrants into the local community is a key challenge for urban governments.
-
----
-
-190. **Tolerance (n) /ˈtɑːlərəns/:** The ability or willingness to tolerate something, in particular the existence of opinions or behavior that one does not necessarily agree with. (Đây là một danh từ dùng để chỉ sự bao dung, chấp nhận sự khác biệt ở thành phố.).
+189. **Tolerance (n) /ˈtɑːlərəns/:** The ability or willingness to tolerate something, in particular the existence of opinions or behavior that one does not necessarily agree with. (Đây là một danh từ dùng để chỉ sự bao dung, chấp nhận sự khác biệt ở thành phố.).
 Ví dụ: Large cities usually have a higher level of tolerance for different lifestyles.
 
 ---
 
-191. **Prejudice (n) /ˈpredʒədɪs/:** Preconceived opinion that is not based on reason or actual experience. (Đây là một danh từ dùng để chỉ định kiến.).
+190. **Prejudice (n) /ˈpredʒədɪs/:** Preconceived opinion that is not based on reason or actual experience. (Đây là một danh từ dùng để chỉ định kiến.).
 Ví dụ: We must work together to overcome prejudice and discrimination in our urban communities.
 
 ---
 
-192. **Discrimination (n) /dɪˌskrɪmɪˈneɪʃn/:** The unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex. (Đây là một danh từ dùng để chỉ sự phân biệt đối xử.).
+191. **Discrimination (n) /dɪˌskrɪmɪˈneɪʃn/:** The unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex. (Đây là một danh từ dùng để chỉ sự phân biệt đối xử.).
 Ví dụ: Discrimination in the housing market is illegal but still occurs in some areas.
 
 ---
 
-193. **Equality (n) /iˈkwɑːləti/:** The state of being equal, especially in status, rights, and opportunities. (Đây là một danh từ dùng để chỉ sự bình đẳng.).
+192. **Equality (n) /iˈkwɑːləti/:** The state of being equal, especially in status, rights, and opportunities. (Đây là một danh từ dùng để chỉ sự bình đẳng.).
 Ví dụ: Promoting gender equality is essential for the development of modern cities.
 
 ---
 
-194. **Inequality (n) /ˌɪnɪˈkwɑːləti/:** Difference in size, degree, circumstances, etc.; lack of equality. (Đây là một danh từ dùng để chỉ sự bất bình đẳng (thu nhập, cơ hội).).
+193. **Inequality (n) /ˌɪnɪˈkwɑːləti/:** Difference in size, degree, circumstances, etc.; lack of equality. (Đây là một danh từ dùng để chỉ sự bất bình đẳng (thu nhập, cơ hội).).
 Ví dụ: Economic inequality is a major driver of social problems in urban centers.
 
 ---
 
-195. **Fairness (n) /ˈfernəs/:** Impartial and just treatment or behavior without favoritism or discrimination. (Đây là một danh từ dùng để chỉ sự công bằng.).
+194. **Fairness (n) /ˈfernəs/:** Impartial and just treatment or behavior without favoritism or discrimination. (Đây là một danh từ dùng để chỉ sự công bằng.).
 Ví dụ: The tax system should be designed with fairness in mind to support low-income city residents.
 
 ---
 
-196. **Justice (n) /ˈdʒʌstɪs/:** Just behavior or treatment. (Đây là một danh từ dùng để chỉ công lý.).
+195. **Justice (n) /ˈdʒʌstɪs/:** Just behavior or treatment. (Đây là một danh từ dùng để chỉ công lý.).
 Ví dụ: Social justice is a key goal for many urban community organizations.
 
 ---
 
-197. **Welfare (n) /ˈwelfer/:** The health, happiness, and fortunes of a person or group. (Đây là một danh từ dùng để chỉ phúc lợi xã hội.).
+196. **Welfare (n) /ˈwelfer/:** The health, happiness, and fortunes of a person or group. (Đây là một danh từ dùng để chỉ phúc lợi xã hội.).
 Ví dụ: The city government provides various welfare services for its most vulnerable residents.
 
 ---
 
-198. **Quality of life (n) /ˌkwɑːləti əv ˈlaɪf/:** The standard of health, comfort, and happiness experienced by an individual or group. (Đây là một cụm danh từ dùng để chỉ chất lượng cuộc sống.).
+197. **Quality of life (n) /ˌkwɑːləti əv ˈlaɪf/:** The standard of health, comfort, and happiness experienced by an individual or group. (Đây là một cụm danh từ dùng để chỉ chất lượng cuộc sống.).
 Ví dụ: Improving the quality of life for all residents is the primary goal of urban planning.
 
 ---
 
-199. **Well-being (n) /ˌwel ˈbiːɪŋ/:** The state of being comfortable, healthy, or happy. (Đây là một danh từ dùng để chỉ trạng thái hạnh phúc và khỏe mạnh.).
+198. **Well-being (n) /ˌwel ˈbiːɪŋ/:** The state of being comfortable, healthy, or happy. (Đây là một danh từ dùng để chỉ trạng thái hạnh phúc và khỏe mạnh.).
 Ví dụ: Access to parks and green spaces is essential for the physical and mental well-being of city dwellers.
 
 ---
 
-200. **Liveability (n) /ˌlɪvəˈbɪləti/:** The sum of the factors that add up to a community's quality of life—including the built and natural environments, economic prosperity, social stability and equity, educational opportunity, and cultural, entertainment and recreation possibilities. (Đây là một danh từ dùng để chỉ mức độ đáng sống của một thành phố.).
+199. **Liveability (n) /ˌlɪvəˈbɪləti/:** The sum of the factors that add up to a community's quality of life—including the built and natural environments, economic prosperity, social stability and equity, educational opportunity, and cultural, entertainment and recreation possibilities. (Đây là một danh từ dùng để chỉ mức độ đáng sống của một thành phố.).
 Ví dụ: The new public transit system has greatly improved the liveability of the city.
 
 ---
-
-Bạn có muốn tôi giúp bạn phân loại 200 từ này thành các nhóm ngữ pháp hoặc viết các đoạn văn mẫu IELTS Writing Task 2 sử dụng những từ vựng tiêu biểu này không?

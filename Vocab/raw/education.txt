@@ -1,7 +1,6 @@
 Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **Education (Giáo dục)**. Các từ vựng được biên soạn kỹ lưỡng, tuân thủ chặt chẽ định dạng trải phẳng (flat) chi tiết: Từ vựng (Từ loại) /Phiên âm/: Nghĩa tiếng Anh (Giải thích chi tiết nghĩa tiếng Việt).
 
 ---
-
 1. **Curriculum (n) /kəˈrɪkjələm/:** The subjects comprising a course of study in a school or college. (Đây là một danh từ dùng để chỉ chương trình giảng dạy tổng thể của một cơ sở giáo dục.).
 Ví dụ: The ministry is updating the national curriculum to include more digital literacy skills.
 
@@ -487,7 +486,7 @@ Ví dụ: The Massachusetts Institute of Technology is a world leader in enginee
 
 ---
 
-1. **Intellectual (adj) /ˌɪntəˈlektʃuəl/:** Relating to the intellect. (Đây là một tính từ dùng để chỉ các yếu tố thuộc về trí tuệ hoặc trí óc.).
+98. **Intellectual (adj) /ˌɪntəˈlektʃuəl/:** Relating to the intellect. (Đây là một tính từ dùng để chỉ các yếu tố thuộc về trí tuệ hoặc trí óc.).
 Ví dụ: Reading books is an excellent way to stimulate intellectual growth.
 
 ---

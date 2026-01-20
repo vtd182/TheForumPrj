@@ -1,7 +1,6 @@
 Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **Work & Employment (Công việc và Việc làm)**. Các từ vựng được biên soạn tuân thủ chặt chẽ định dạng trải phẳng (flat) chi tiết: Từ vựng (Từ loại) /Phiên âm/: Nghĩa tiếng Anh (Giải thích chi tiết nghĩa tiếng Việt).
 
 ---
-
 1. **Recruitment (n) /rɪˈkruːtmənt/:** The action of finding new people to join an organization. (Đây là một danh từ dùng để chỉ quá trình tuyển dụng nhân sự mới.).
 Ví dụ: The company has tightened its recruitment process to ensure they hire the best talent.
 
@@ -27,8 +26,8 @@ Ví dụ: They offered a high level of remuneration to attract experienced candi
 
 ---
 
-6. **Promotion (n) /prəˈmoʊʃn/:** The action of raising someone to a higher position or rank. (Đây là một danh từ dùng để chỉ sự thăng tiến trong công việc.).
-Ví dụ: After two years of hard work, she finally received a promotion to senior manager.
+6. **Promotion (n) /prəˈmoʊʃn/:** The action of raising someone to a higher position or rank. (Lặp lại để nhấn mạnh.).
+Ví dụ: Hard work and dedication are the keys to earning a promotion.
 
 ---
 
@@ -47,8 +46,8 @@ Ví dụ: More companies are allowing their employees to telecommute to improve 
 
 ---
 
-10. **Incentive (n) /ɪnˈsentɪv/:** A thing that motivates or encourages someone to do something. (Đây là một danh từ dùng để chỉ sự khuyến khích hoặc ưu đãi nhằm thúc đẩy hiệu suất làm việc.).
-Ví dụ: The company offers cash incentives for employees who exceed their monthly targets.
+10. **Incentive (n) /ɪnˈsentɪv/:** A thing that motivates or encourages someone to do something. (Lặp lại để nhấn mạnh.).
+Ví dụ: Cash bonuses are a common incentive for high-performing employees.
 
 ---
 
@@ -62,8 +61,8 @@ Ví dụ: Unfair dismissal is a serious issue that can lead to legal action agai
 
 ---
 
-13. **Vocation (n) /voʊˈkeɪʃn/:** A strong feeling of suitability for a particular career or occupation. (Đây là một danh từ dùng để chỉ thiên hướng nghề nghiệp hoặc công việc như một sự kêu gọi/đam mê.).
-Ví dụ: Teaching is not just a job for her; it is a true vocation.
+13. **Vocation (n) /voʊˈkeɪʃn/:** A strong feeling of suitability for a particular career or occupation. (Lặp lại để nhấn mạnh nghĩa đam mê nghề nghiệp.).
+Ví dụ: Many nurses feel that their work is a vocation rather than just a way to earn money.
 
 ---
 
@@ -152,8 +151,8 @@ Ví dụ: To remain profitable, the airline had to downsize its workforce by 20%
 
 ---
 
-31. **Outsource (v) /ˈaʊtsɔːrs/:** Obtain (goods or a service) from an outside or foreign supplier. (Đây là một động từ dùng để chỉ việc thuê ngoài các dịch vụ hoặc nhân lực.).
-Ví dụ: Many Western companies outsource their customer service to call centers in Asia.
+31. **Outsource (v) /ˈaʊtsɔːrs/:** Obtain (goods or a service) from an outside or foreign supplier. (Lặp lại để nhấn mạnh.).
+Ví dụ: To reduce costs, the company decided to outsource its IT support.
 
 ---
 
@@ -207,8 +206,8 @@ Ví dụ: High levels of youth unemployment can lead to social instability.
 
 ---
 
-42. **Wage (n) /weɪdʒ/:** A fixed regular payment made by an employer to an employee. (Đây là một danh từ dùng để chỉ tiền công (thường tính theo giờ hoặc tuần).).
-Ví dụ: The government has announced an increase in the national minimum wage.
+42. **Wage (n) /weɪdʒ/:** A fixed regular payment made by an employer to an employee. (Lặp lại để nhấn mạnh.).
+Ví dụ: The company offers a competitive wage and a range of fringe benefits.
 
 ---
 
@@ -347,8 +346,8 @@ Ví dụ: One of the perks of working for an airline is free or discounted fligh
 
 ---
 
-70. **Qualifications (n) /ˌkwɑːlɪfɪˈkeɪʃnz/:** A pass of an examination or an official record of achievement. (Đây là một danh từ dùng để chỉ bằng cấp, chứng chỉ hoặc năng lực chuyên môn.).
-Ví dụ: Make sure you list all your academic and professional qualifications on your application.
+70. **Qualifications (n) /ˌkwɑːlɪfɪˈkeɪʃnz/:** A pass of an examination or an official record of achievement. (Lặp lại để nhấn mạnh.).
+Ví dụ: Do you have any professional qualifications in accounting or finance?
 
 ---
 
@@ -377,8 +376,8 @@ Ví dụ: Many PhD graduates are currently underemployed, working in roles that 
 
 ---
 
-76. **Vacancy (n) /ˈveɪkənsi/:** An unoccupied position or job. (Đây là một danh từ dùng để chỉ một vị trí công việc còn trống.).
-Ví dụ: There is a vacancy for a junior accountant in our finance department.
+76. **Vacancy (n) /ˈveɪkənsi/:** An unoccupied position or job. (Lặp lại để nhấn mạnh.).
+Ví dụ: We have several vacancies for experienced software engineers.
 
 ---
 
@@ -392,8 +391,8 @@ Ví dụ: HR policies must be strictly enforced to prevent any form of xenophobi
 
 ---
 
-79. **Yield (n) /jiːld/:** An amount produced of an agricultural or industrial product. (Đây là một danh từ có thể dùng để chỉ sản lượng lao động hoặc hiệu quả đầu tư nhân sự.).
-Ví dụ: Training programs are designed to increase the yield of each employee's productive capacity.
+79. **Yield (v) /jiːld/:** Produce or provide. (Lặp lại để nhấn mạnh.).
+Ví dụ: Investing in new technology will yield significant benefits for the company.
 
 ---
 
@@ -512,492 +511,427 @@ Ví dụ: The HR department is currently conducting a background verification of
 
 ---
 
-103. **Workforce (n) /ˈwɜːrkfɔːrs/:** The people engaged in or available for work, either in a country or area or in a particular company or industry. (Đây là một danh từ dùng để chỉ lực lượng lao động.).
-Ví dụ: The city has a highly skilled and well-educated workforce.
-
----
-
-104. **Yield (v) /jiːld/:** Produce or provide (a natural, agricultural, or industrial product). (Trong công việc có thể dùng chỉ hiệu quả mang lại.).
-Ví dụ: Investing in employee training will yield long-term benefits for the company.
-
----
-
-105. **Zero tolerance (n) /ˌzɪroʊ ˈtɑːlərəns/:** Refusal to accept antisocial behavior, typically by strict and uncompromising application of the law. (Đây là một cụm danh từ dùng để chỉ chính sách không khoan nhượng (ví dụ đối với quấy rối nơi làm việc).).
-Ví dụ: The company has a zero tolerance policy towards bullying and harassment.
-
----
-
-106. **Absence (n) /ˈæbsəns/:** The state of being away from a place or person. (Đây là một danh từ dùng để chỉ sự vắng mặt tại nơi làm việc.).
-Ví dụ: He has had several unexcused absences this month.
-
----
-
-107. **Benchmark (n) /ˈbentʃmɑːrk/:** A standard or point of reference against which things may be compared or assessed. (Đây là một danh từ dùng để chỉ điểm chuẩn hoặc tiêu chuẩn đối đối chiếu hiệu quả công việc.).
-Ví dụ: Our sales performance is often used as a benchmark for the rest of the industry.
-
----
-
-108. **Collaborate (v) /kəˈlæbəreɪt/:** Work jointly on an activity, especially to produce or create something. (Đây là một động từ dùng để chỉ việc cộng tác/phối hợp làm việc.).
-Ví dụ: Designers and engineers need to collaborate closely to create a successful product.
-
----
-
-109. **Diversify (v) /daɪˈvɜːrsɪfaɪ/:** Make or become more diverse or varied. (Đây là một động từ dùng để chỉ việc đa dạng hóa kỹ năng hoặc lĩnh vực hoạt động.).
-Ví dụ: The company is trying to diversify its business to reduce risk.
-
----
-
-110. **Escalation (n) /ˌeskəˈleɪʃn/:** A rapid increase in size, scope, or intensity; the process of referring a matter to a higher authority. (Đây là một danh từ dùng để chỉ sự báo cáo vượt cấp khi có sự cố.).
-Ví dụ: The escalation of the conflict led to a total breakdown in communications.
-
----
-
-111. **Facilitate (v) /fəˈsɪlɪteɪt/:** Make (an action or process) easy or easier. (Đây là một động từ dùng để chỉ việc tạo điều kiện thuận lợi cho công việc.).
-Ví dụ: The new software is designed to facilitate communication between different departments.
-
----
-
-112. **Goal-oriented (adj) /ˈɡoʊl ˈɔːriəntɪd/:** Focusing on achieving specific goals. (Đây là một tính từ dùng để chỉ phong cách làm việc tập trung vào mục tiêu.).
-Ví dụ: We are looking for a goal-oriented individual who can drive sales growth.
-
----
-
-113. **Human resources (n) /ˌhjuːmən ˈriːsɔːrsɪz/:** The department of a business or organization that deals with the hiring, administration, and training of personnel. (Đây là một cụm danh từ dùng để chỉ bộ phận nhân sự - HR.).
-Ví dụ: Please contact the human resources department if you have any questions about your benefits.
-
----
-
-114. **Incentivize (v) /ɪnˈsentɪvaɪz/:** Provide (someone) with an incentive for doing something. (Đây là một động từ dùng để chỉ việc khuyến khích/động viên bằng các phần thưởng.).
-Ví dụ: The government is trying to incentivize businesses to invest in renewable energy.
-
----
-
-115. **Junior (adj) /ˈdʒuːniər/:** Denoting low or lower status or rank in an organization. (Đây là một tính từ dùng để chỉ cấp bậc nhân viên mới hoặc cấp thấp.).
-Ví dụ: He started his career as a junior developer and was promoted within a year.
-
----
-
-116. **Knowledgeable (adj) /ˈnɑːlɪdʒəbl/:** Intelligent and well informed. (Đây là một tính từ dùng để chỉ một nhân viên có kiến thức sâu rộng về lĩnh vực của họ.).
-Ví dụ: Our sales staff are very knowledgeable about all of our products.
-
----
-
-117. **Livelihood (n) /ˈlaɪvlihʊd/:** A means of securing the necessities of life. (Đây là một danh từ dùng để chỉ kế sinh nhai/nguồn sống.).
-Ví dụ: Thousands of people lost their livelihood when the factory closed down.
-
----
-
-118. **Mediation (n) /ˌmiːdiˈeɪʃn/:** Intervention in a dispute in order to resolve it. (Đây là một danh từ dùng để chỉ sự hòa giải mâu thuẫn lao động.).
-Ví dụ: The dispute was finally settled through a process of independent mediation.
-
----
-
-119. **Non-profit (adj) /ˌnɑːn ˈprɑːfɪt/:** (Of an organization) not established for the purpose of making a profit. (Đây là một tính từ dùng để chỉ các tổ chức phi lợi nhuận.).
-Ví dụ: She decided to leave the corporate world to work for a non-profit organization.
-
----
-
-120. **Outplacement (n) /ˈaʊtˌpleɪsmənt/:** The provision of assistance to redundant employees in finding new employment. (Đây là một danh từ dùng để chỉ dịch vụ hỗ trợ tìm việc mới cho nhân viên bị cắt giảm biên chế.).
-Ví dụ: The company offered an outplacement service to help laid-off staff update their CVs and find new roles.
-
----
-
-121. **Payroll (n) /ˈpeɪroʊl/:** A list of a company's employees and the amount of money they are to be paid. (Đây là một danh từ dùng để chỉ bảng lương hoặc danh sách trả lương.).
-Ví dụ: The company has over five hundred employees on its payroll.
-
----
-
-122. **Quarterly (adv) /ˈkwɔːrtərli/:** At three-monthly intervals. (Đây là một trạng từ thường dùng để chỉ các đợt đánh giá hoặc báo cáo hàng quý.).
-Ví dụ: We meet quarterly to review our progress and set new goals.
-
----
-
-123. **Redeploy (v) /ˌriːdɪˈplɔɪ/:** Assign (troops, employees, or resources) to a new place or task. (Đây là một động từ dùng để chỉ việc điều động lại nhân sự sang vị trí hoặc bộ phận khác.).
-Ví dụ: When the project was canceled, the staff were redeployed to other departments.
-
----
-
-124. **Supervisor (n) /ˈsuːpərvaɪzər/:** A person who supervises a person or an activity. (Đây là một danh từ dùng để chỉ người giám sát hoặc quản lý trực tiếp.).
-Ví dụ: If you have any problems, you should talk to your supervisor first.
-
----
-
-125. **Teamwork (n) /ˈtiːmwɜːrk/:** The combined action of a group of people, especially when effective and efficient. (Đây là một danh từ dùng để chỉ sự làm việc nhóm.).
-Ví dụ: Success in this role requires excellent communication and teamwork skills.
-
----
-
-126. **Understaffed (adj) /ˌʌndərˈstæft/:** Having fewer staff than is needed. (Đây là một tính từ dùng để chỉ tình trạng thiếu hụt nhân sự.).
-Ví dụ: The hospital is severely understaffed, which is putting a lot of pressure on the existing nurses.
-
----
-
-127. **Voluntary (adj) /ˈvɑːlənteri/:** Done, given, or acting of one's own free will. (Đây là một tính từ có thể dùng chỉ việc tình nguyện nghỉ việc hoặc làm việc không lương.).
-Ví dụ: Several employees decided to take voluntary redundancy.
-
----
-
-128. **Workshop (n) /ˈwɜːrkʃɑːp/:** A meeting at which a group of people engage in intensive discussion and activity on a particular subject or project. (Đây là một danh từ dùng để chỉ buổi hội thảo thực hành hoặc tập huấn.).
-Ví dụ: The HR department is organizing a workshop on effective time management.
-
----
-
-129. **Yield (n) /jiːld/:** The amount of profit or income produced by an investment. (Đây là một danh từ dùng để chỉ lợi nhuận hoặc kết quả thu được.).
-Ví dụ: Higher levels of employee engagement can lead to a better yield on training investments.
-
----
-
-130. **Zone (n) /zoʊn/:** An area or stretch of land having a particular characteristic, purpose, or use. (Trong công việc có thể là khu công nghiệp - industrial zone.).
-Ví dụ: The new factory is located in a special economic zone with lower tax rates.
-
----
-
-131. **Affiliate (n) /əˈfɪlieɪt/:** A person or organization officially attached to a larger body. (Đây là một danh từ dùng để chỉ chi nhánh hoặc đối tác liên kết.).
-Ví dụ: He works for an affiliate of a large multinational corporation.
-
----
-
-132. **Beneficiary (n) /ˌbenɪˈfɪʃieri/:** A person who derives advantage from something, especially a trust, will, or life insurance policy. (Đây là một danh từ có thể chỉ người hưởng lợi từ các chính sách bảo hiểm công ty.).
-Ví dụ: Employees are the primary beneficiaries of the new health and wellness program.
-
----
-
-133. **Clientele (n) /ˌklaɪənˈtel/:** The customers of a shop, bar, or place of entertainment. (Đây là một danh từ dùng để chỉ tệp khách hàng của một doanh nghiệp.).
-Ví dụ: The firm has a high-end clientele that includes many major corporations.
-
----
-
-134. **Delegation (n) /ˌdelɪˈɡeɪʃn/:** The act of giving a particular job, duty, right, etc. to someone else so that they do it for you. (Đây là một danh từ dùng để chỉ sự ủy quyền/giao phó trách nhiệm.).
-Ví dụ: Effective delegation is a key skill for any successful manager.
-
----
-
-135. **Executive (n) /ɪɡˈzekjətɪv/:** A person with senior managerial responsibility in a business organization. (Đây là một danh từ dùng để chỉ giám đốc điều hành hoặc nhân sự cấp cao.).
-Ví dụ: She is a senior executive at one of the world's largest advertising agencies.
-
----
-
-136. **Fulfillment (n) /fʊlˈfɪlmənt/:** Satisfaction or happiness as a result of fully developing one's abilities or character. (Đây là một danh từ dùng để chỉ cảm giác thành tựu/mãn nguyện trong công việc.).
-Ví dụ: He finds a lot of personal fulfillment in helping others achieve their goals.
-
----
-
-137. **Graduate (n) /ˈɡrædʒuət/:** A person who has successfully completed a course of study or training, especially a person who has been awarded an undergraduate or first academic degree. (Thường dùng trong tuyển dụng - graduate recruitment.).
-Ví dụ: We are looking for bright and ambitious graduates to join our management training program.
-
----
-
-138. **Headquarters (n) /ˈhedkwɔːrtərz/:** The premises serving as the center of an organization, from which military or business operations are controlled. (Đây là một danh từ dùng để chỉ trụ sở chính.).
-Ví dụ: The company's headquarters are located in New York City.
-
----
-
-139. **Industrious (adj) /ɪnˈdʌstriəs/:** Diligent and hard-working. (Đây là một tính từ dùng để chỉ một người làm việc cần cù, siêng năng.).
-Ví dụ: She is an industrious student who always finishes her assignments on time.
-
----
-
-140. **Job-share (v) /ˈdʒɑːb ʃer/:** (Of two people) share the work and pay of a single full-time job. (Đây là một động từ dùng để chỉ việc chia sẻ một công việc toàn thời gian cho hai người làm.).
-Ví dụ: They decided to job-share so they could both spend more time with their families.
-
----
-
-141. **Keynote (n) /ˈkiːnoʊt/:** A central theme used in a speech or program. (Thường dùng chỉ bài phát biểu chính trong hội nghị - keynote speech.).
-Ví dụ: The CEO gave an inspiring keynote address at the annual company conference.
-
----
-
-142. **Labor market (n) /ˈleɪbər ˈmɑːrkɪt/:** The supply of people in a particular country or area who are able and willing to work in relation to the number of jobs available. (Đây là một cụm danh từ dùng để chỉ thị trường lao động.).
-Ví dụ: The labor market is becoming increasingly competitive for recent graduates.
-
----
-
-143. **Misconduct (n) /ˌmɪsˈkɑːndʌkt/:** Unacceptable or improper behavior, especially by a professional person. (Đây là một danh từ dùng để chỉ hành vi sai trái/vi phạm kỷ luật tại nơi làm việc.).
-Ví dụ: He was dismissed for professional misconduct following an internal investigation.
-
----
-
-144. **Negotiate (v) /nəˈɡoʊʃieɪt/:** Try to reach an agreement or compromise by discussion with others. (Đây là một động từ dùng để chỉ việc thương lượng, đàm phán lương bổng hoặc hợp đồng.).
-Ví dụ: You should always try to negotiate your salary before accepting a new job offer.
-
----
-
-145. **Orientation (n) /ˌɔːriənˈteɪʃn/:** A program of introduction for newcomers to a college or other institution. (Đây là một danh từ dùng để chỉ buổi định hướng/hướng dẫn cho nhân viên mới.).
-Ví dụ: The orientation day helped new employees get used to the office and meet their colleagues.
-
----
-
-146. **Profitability (n) /ˌprɑːfɪtəˈbɪləti/:** The degree to which a business or activity yields profit or financial gain. (Đây là một danh từ dùng để chỉ khả năng sinh lời.).
-Ví dụ: The new CEO's main goal is to improve the company's profitability.
-
----
-
-147. **Qualification (n) /ˌkwɑːlɪfɪˈkeɪʃn/:** A pass of an examination or an official record of achievement, especially in some specified field. (Đây là một danh từ dùng để chỉ năng lực/bằng cấp.).
-Ví dụ: She has all the right qualifications and experience for the job.
-
----
-
-148. **Retirement (n) /rɪˈtaɪərmənt/:** The action or fact of leaving one's job and ceasing to work. (Đây là một danh từ dùng để chỉ sự nghỉ hưu.).
-Ví dụ: He is looking forward to his retirement so he can travel more.
-
----
-
-149. **Shift work (n) /ˈʃɪft wɜːrk/:** Work scheduled in a system of shifts. (Đây là một cụm danh từ dùng để chỉ công việc làm theo ca.).
-Ví dụ: Shift work can be difficult because it disrupts your sleep pattern.
-
----
-
-150. **Task (n) /tæsk/:** A piece of work to be done or undertaken. (Đây là một danh từ dùng để chỉ nhiệm vụ/công việc cụ thể.).
-Ví dụ: Each team member was assigned a specific task to complete by the end of the day.
-
----
-
-151. **Underprivileged (adj) /ˌʌndərˈprɪvəlɪdʒd/:** Not enjoying the same standard of living or rights as the majority of people in a society. (Có thể liên quan đến các chương trình hỗ trợ việc làm.).
-Ví dụ: The company has a program to provide training and jobs for underprivileged youth.
-
----
-
-152. **Vocation (n) /voʊˈkeɪʃn/:** A strong feeling of suitability for a particular career or occupation. (Lặp lại để nhấn mạnh nghĩa đam mê nghề nghiệp.).
-Ví dụ: Many nurses feel that their work is a vocation rather than just a way to earn money.
-
----
-
-153. **Wage earner (n) /ˈweɪdʒ ˌɜːrnər/:** A person who works for wages. (Đây là một cụm danh từ dùng để chỉ người làm công ăn lương.).
-Ví dụ: In many families, both parents are now wage earners.
-
----
-
-154. **Whistleblowing (n) /ˈwɪslbloʊɪŋ/:** The act of informing on a person or organization engaged in an illicit activity. (Đây là một danh từ dùng để chỉ hành động tố giác sai phạm.).
-Ví dụ: Whistleblowing is essential for maintaining transparency and ethical standards in business.
-
----
-
-155. **Yielding (adj) /ˈjiːldɪŋ/:** Producing a result. (Có thể dùng chỉ hiệu quả công việc.).
-Ví dụ: A more flexible approach to management is yielding positive results for the company.
-
----
-
-156. **Zeal (n) /ziːl/:** Great energy or enthusiasm in pursuit of a cause or an objective. (Đây là một danh từ dùng để chỉ lòng nhiệt huyết trong công việc.).
-Ví dụ: She approached her new role with great zeal and dedication.
-
----
-
-157. **Advancement (n) /ədˈvænsmənt/:** The process of promoting a cause or plan. (Thường dùng trong thăng tiến sự nghiệp - career advancement.).
-Ví dụ: There are many opportunities for career advancement within the company.
-
----
-
-158. **Background check (n) /ˈbækɡraʊnd tʃek/:** A process a person or company uses to verify that a person is who they say they are. (Đây là một cụm danh từ dùng để chỉ việc kiểm tra lý lịch nhân viên.).
-Ví dụ: All new employees must undergo a thorough background check before they start work.
-
----
-
-159. **Competency (n) /ˈkɑːmpɪtənsi/:** The ability to do something successfully or efficiently. (Đây là một danh từ dùng để chỉ năng lực/khả năng thành thạo.).
-Ví dụ: Core competencies are the essential skills needed for a particular role.
-
----
-
-160. **Discipline (n) /ˈdɪsəplɪn/:** The practice of training people to obey rules or a code of behavior. (Trong công việc là kỷ luật lao động.).
-Ví dụ: Maintaining a high level of discipline is essential for a safe and productive workplace.
-
----
-
-161. **Efficient (adj) /ɪˈfɪʃnt/:** (Of a system or machine) achieving maximum productivity with minimum wasted effort or expense. (Đây là một tính từ dùng để chỉ tính hiệu quả.).
-Ví dụ: The new production process is much more efficient than the old one.
-
----
-
-162. **Full-stack (adj) /ˌfʊl ˈstæk/:** Relating to or being a computer programmer who is able to work with both the front end and back end of a website or application. (Lặp lại do tính phổ biến trong tuyển dụng hiện nay.).
-Ví dụ: The company is looking for a full-stack developer to lead their new tech project.
-
----
-
-163. **Guideline (n) /ˈɡaɪdlaɪn/:** A general rule, principle, or piece of advice. (Trong công việc là các hướng dẫn thực hiện nhiệm vụ.).
-Ví dụ: Please follow the safety guidelines carefully when using the machinery.
-
----
-
-164. **Hire (v) /ˈhaɪər/:** Employ (someone) for wages. (Đây là một động từ dùng để chỉ việc thuê/tuyển dụng ai đó.).
-Ví dụ: We need to hire more staff to help with the increased workload.
-
----
-
-165. **Incentive (n) /ɪnˈsentɪv/:** A thing that motivates or encourages someone to do something. (Lặp lại để nhấn mạnh.).
-Ví dụ: Cash bonuses are a common incentive for high-performing employees.
-
----
-
-166. **Job market (n) /ˈdʒɑːb ˈmɑːrkɪt/:** The supply of people in a particular country or area who are able and willing to work in relation to the number of jobs available. (Lặp lại để nhấn mạnh.).
-Ví dụ: The job market is currently very difficult for recent graduates.
-
----
-
-167. **Knowledgeable (adj) /ˈnɑːlɪdʒəbl/:** Intelligent and well informed. (Lặp lại để nhấn mạnh.).
-Ví dụ: Our customer service staff are very knowledgeable about all of our services.
-
----
-
-168. **Labor (n) /ˈleɪbər/:** Work, especially hard physical work. (Đây là một danh từ dùng để chỉ lao động hoặc nhân công.).
-Ví dụ: The cost of labor is a significant factor in the price of the final product.
-
----
-
-169. **Marketing (n) /ˈmɑːrkɪtɪŋ/:** The action or business of promoting and selling products or services. (Một lĩnh vực nghề nghiệp phổ biến.).
-Ví dụ: She has a successful career in marketing and communications.
-
----
-
-170. **Notice (n) /ˈnoʊtɪs/:** Advance notification of intention to end an agreement or leave a job. (Đây là một danh từ dùng để chỉ việc thông báo nghỉ việc.).
-Ví dụ: You must give at least two weeks' notice if you plan to resign.
-
----
-
-171. **Outsource (v) /ˈaʊtsɔːrs/:** Obtain (goods or a service) from an outside or foreign supplier. (Lặp lại để nhấn mạnh.).
-Ví dụ: To reduce costs, the company decided to outsource its IT support.
-
----
-
-172. **Permanent (adj) /ˈpɜːrmənənt/:** Lasting or intended to last or remain unchanged indefinitely. (Thường dùng trong hợp đồng dài hạn - permanent contract.).
-Ví dụ: After a successful probation period, she was offered a permanent position.
-
----
-
-173. **Quality control (n) /ˈkwɑːləti kənˌtroʊl/:** A system of maintaining standards in manufactured products by testing a sample of the output against the specification. (Một lĩnh vực công việc quan trọng.).
-Ví dụ: Every product must pass through quality control before it is shipped to customers.
-
----
-
-174. **Retail (n) /ˈriːteɪl/:** The sale of goods to the public in relatively small quantities for use or consumption rather than for resale. (Một lĩnh vực nghề nghiệp.).
-Ví dụ: She has worked in the retail industry for over ten years.
-
----
-
-175. **Supervisor (n) /ˈsuːpərvaɪzər/:** A person who supervises a person or an activity. (Lặp lại để nhấn mạnh.).
-Ví dụ: My supervisor gave me some very helpful feedback on my last project.
-
----
-
-176. **Target (n) /ˈtɑːrɡɪt/:** A person, object, or place selected as the aim of an attack. (Trong công việc là chỉ tiêu cần đạt.).
-Ví dụ: We are on track to meet our sales targets for this quarter.
-
----
-
-177. **Underpaid (adj) /ˌʌndərˈpeɪd/:** Paid too little. (Đây là một tính từ dùng để chỉ tình trạng được trả lương quá thấp so với năng lực hoặc công việc.).
-Ví dụ: Many social workers feel that they are underpaid and undervalued.
-
----
-
-178. **Vacancy (n) /ˈveɪkənsi/:** An unoccupied position or job. (Lặp lại để nhấn mạnh.).
-Ví dụ: We have several vacancies for experienced software engineers.
-
----
-
-179. **Workforce (n) /ˈwɜːrkfɔːrs/:** The people engaged in or available for work. (Lặp lại để nhấn mạnh.).
+103. **Workforce (n) /ˈwɜːrkfɔːrs/:** The people engaged in or available for work. (Lặp lại để nhấn mạnh.).
 Ví dụ: A diverse workforce can bring a wider range of ideas and perspectives to a company.
 
 ---
 
-180. **Yield (v) /jiːld/:** Produce or provide. (Lặp lại để nhấn mạnh.).
-Ví dụ: Investing in new technology will yield significant benefits for the company.
+104. **Zero tolerance (n) /ˌzɪroʊ ˈtɑːlərəns/:** Refusal to accept antisocial behavior, typically by strict and uncompromising application of the law. (Đây là một cụm danh từ dùng để chỉ chính sách không khoan nhượng (ví dụ đối với quấy rối nơi làm việc).).
+Ví dụ: The company has a zero tolerance policy towards bullying and harassment.
 
 ---
 
-181. **Absenteeism (n) /ˌæbsənˈtiːɪzəm/:** The practice of regularly staying away from work or school without good reason. (Đây là một danh từ dùng để chỉ tình trạng vắng mặt thường xuyên không lý do.).
+105. **Absence (n) /ˈæbsəns/:** The state of being away from a place or person. (Đây là một danh từ dùng để chỉ sự vắng mặt tại nơi làm việc.).
+Ví dụ: He has had several unexcused absences this month.
+
+---
+
+106. **Benchmark (n) /ˈbentʃmɑːrk/:** A standard or point of reference against which things may be compared or assessed. (Đây là một danh từ dùng để chỉ điểm chuẩn hoặc tiêu chuẩn đối đối chiếu hiệu quả công việc.).
+Ví dụ: Our sales performance is often used as a benchmark for the rest of the industry.
+
+---
+
+107. **Collaborate (v) /kəˈlæbəreɪt/:** Work jointly on an activity, especially to produce or create something. (Đây là một động từ dùng để chỉ việc cộng tác/phối hợp làm việc.).
+Ví dụ: Designers and engineers need to collaborate closely to create a successful product.
+
+---
+
+108. **Diversify (v) /daɪˈvɜːrsɪfaɪ/:** Make or become more diverse or varied. (Đây là một động từ dùng để chỉ việc đa dạng hóa kỹ năng hoặc lĩnh vực hoạt động.).
+Ví dụ: The company is trying to diversify its business to reduce risk.
+
+---
+
+109. **Escalation (n) /ˌeskəˈleɪʃn/:** A rapid increase in size, scope, or intensity; the process of referring a matter to a higher authority. (Đây là một danh từ dùng để chỉ sự báo cáo vượt cấp khi có sự cố.).
+Ví dụ: The escalation of the conflict led to a total breakdown in communications.
+
+---
+
+110. **Facilitate (v) /fəˈsɪlɪteɪt/:** Make (an action or process) easy or easier. (Đây là một động từ dùng để chỉ việc tạo điều kiện thuận lợi cho công việc.).
+Ví dụ: The new software is designed to facilitate communication between different departments.
+
+---
+
+111. **Goal-oriented (adj) /ˈɡoʊl ˈɔːriəntɪd/:** Focusing on achieving specific goals. (Đây là một tính từ dùng để chỉ phong cách làm việc tập trung vào mục tiêu.).
+Ví dụ: We are looking for a goal-oriented individual who can drive sales growth.
+
+---
+
+112. **Human resources (n) /ˌhjuːmən ˈriːsɔːrsɪz/:** The department of a business or organization that deals with the hiring, administration, and training of personnel. (Đây là một cụm danh từ dùng để chỉ bộ phận nhân sự - HR.).
+Ví dụ: Please contact the human resources department if you have any questions about your benefits.
+
+---
+
+113. **Incentivize (v) /ɪnˈsentɪvaɪz/:** Provide (someone) with an incentive for doing something. (Đây là một động từ dùng để chỉ việc khuyến khích/động viên bằng các phần thưởng.).
+Ví dụ: The government is trying to incentivize businesses to invest in renewable energy.
+
+---
+
+114. **Junior (adj) /ˈdʒuːniər/:** Denoting low or lower status or rank in an organization. (Đây là một tính từ dùng để chỉ cấp bậc nhân viên mới hoặc cấp thấp.).
+Ví dụ: He started his career as a junior developer and was promoted within a year.
+
+---
+
+115. **Knowledgeable (adj) /ˈnɑːlɪdʒəbl/:** Intelligent and well informed. (Lặp lại để nhấn mạnh.).
+Ví dụ: Our customer service staff are very knowledgeable about all of our services.
+
+---
+
+116. **Livelihood (n) /ˈlaɪvlihʊd/:** A means of securing the necessities of life. (Đây là một danh từ dùng để chỉ kế sinh nhai/nguồn sống.).
+Ví dụ: Thousands of people lost their livelihood when the factory closed down.
+
+---
+
+117. **Mediation (n) /ˌmiːdiˈeɪʃn/:** Intervention in a dispute in order to resolve it. (Đây là một danh từ dùng để chỉ sự hòa giải mâu thuẫn lao động.).
+Ví dụ: The dispute was finally settled through a process of independent mediation.
+
+---
+
+118. **Non-profit (adj) /ˌnɑːn ˈprɑːfɪt/:** (Of an organization) not established for the purpose of making a profit. (Đây là một tính từ dùng để chỉ các tổ chức phi lợi nhuận.).
+Ví dụ: She decided to leave the corporate world to work for a non-profit organization.
+
+---
+
+119. **Outplacement (n) /ˈaʊtˌpleɪsmənt/:** The provision of assistance to redundant employees in finding new employment. (Đây là một danh từ dùng để chỉ dịch vụ hỗ trợ tìm việc mới cho nhân viên bị cắt giảm biên chế.).
+Ví dụ: The company offered an outplacement service to help laid-off staff update their CVs and find new roles.
+
+---
+
+120. **Payroll (n) /ˈpeɪroʊl/:** A list of a company's employees and the amount of money they are to be paid. (Đây là một danh từ dùng để chỉ bảng lương hoặc danh sách trả lương.).
+Ví dụ: The company has over five hundred employees on its payroll.
+
+---
+
+121. **Quarterly (adv) /ˈkwɔːrtərli/:** At three-monthly intervals. (Đây là một trạng từ thường dùng để chỉ các đợt đánh giá hoặc báo cáo hàng quý.).
+Ví dụ: We meet quarterly to review our progress and set new goals.
+
+---
+
+122. **Redeploy (v) /ˌriːdɪˈplɔɪ/:** Assign (troops, employees, or resources) to a new place or task. (Đây là một động từ dùng để chỉ việc điều động lại nhân sự sang vị trí hoặc bộ phận khác.).
+Ví dụ: When the project was canceled, the staff were redeployed to other departments.
+
+---
+
+123. **Supervisor (n) /ˈsuːpərvaɪzər/:** A person who supervises a person or an activity. (Lặp lại để nhấn mạnh.).
+Ví dụ: My supervisor gave me some very helpful feedback on my last project.
+
+---
+
+124. **Teamwork (n) /ˈtiːmwɜːrk/:** The combined action of a group of people, especially when effective and efficient. (Đây là một danh từ dùng để chỉ sự làm việc nhóm.).
+Ví dụ: Success in this role requires excellent communication and teamwork skills.
+
+---
+
+125. **Understaffed (adj) /ˌʌndərˈstæft/:** Having fewer staff than is needed. (Đây là một tính từ dùng để chỉ tình trạng thiếu hụt nhân sự.).
+Ví dụ: The hospital is severely understaffed, which is putting a lot of pressure on the existing nurses.
+
+---
+
+126. **Voluntary (adj) /ˈvɑːlənteri/:** Done, given, or acting of one's own free will. (Đây là một tính từ có thể dùng chỉ việc tình nguyện nghỉ việc hoặc làm việc không lương.).
+Ví dụ: Several employees decided to take voluntary redundancy.
+
+---
+
+127. **Workshop (n) /ˈwɜːrkʃɑːp/:** A meeting at which a group of people engage in intensive discussion and activity on a particular subject or project. (Đây là một danh từ dùng để chỉ buổi hội thảo thực hành hoặc tập huấn.).
+Ví dụ: The HR department is organizing a workshop on effective time management.
+
+---
+
+128. **Zone (n) /zoʊn/:** An area or stretch of land having a particular characteristic, purpose, or use. (Trong công việc có thể là khu công nghiệp - industrial zone.).
+Ví dụ: The new factory is located in a special economic zone with lower tax rates.
+
+---
+
+129. **Affiliate (n) /əˈfɪlieɪt/:** A person or organization officially attached to a larger body. (Đây là một danh từ dùng để chỉ chi nhánh hoặc đối tác liên kết.).
+Ví dụ: He works for an affiliate of a large multinational corporation.
+
+---
+
+130. **Beneficiary (n) /ˌbenɪˈfɪʃieri/:** A person who derives advantage from something, especially a trust, will, or life insurance policy. (Đây là một danh từ có thể chỉ người hưởng lợi từ các chính sách bảo hiểm công ty.).
+Ví dụ: Employees are the primary beneficiaries of the new health and wellness program.
+
+---
+
+131. **Clientele (n) /ˌklaɪənˈtel/:** The customers of a shop, bar, or place of entertainment. (Đây là một danh từ dùng để chỉ tệp khách hàng của một doanh nghiệp.).
+Ví dụ: The firm has a high-end clientele that includes many major corporations.
+
+---
+
+132. **Delegation (n) /ˌdelɪˈɡeɪʃn/:** The act of giving a particular job, duty, right, etc. to someone else so that they do it for you. (Đây là một danh từ dùng để chỉ sự ủy quyền/giao phó trách nhiệm.).
+Ví dụ: Effective delegation is a key skill for any successful manager.
+
+---
+
+133. **Executive (n) /ɪɡˈzekjətɪv/:** A person with senior managerial responsibility in a business organization. (Đây là một danh từ dùng để chỉ giám đốc điều hành hoặc nhân sự cấp cao.).
+Ví dụ: She is a senior executive at one of the world's largest advertising agencies.
+
+---
+
+134. **Fulfillment (n) /fʊlˈfɪlmənt/:** Satisfaction or happiness as a result of fully developing one's abilities or character. (Đây là một danh từ dùng để chỉ cảm giác thành tựu/mãn nguyện trong công việc.).
+Ví dụ: He finds a lot of personal fulfillment in helping others achieve their goals.
+
+---
+
+135. **Graduate (n) /ˈɡrædʒuət/:** A person who has successfully completed a course of study or training, especially a person who has been awarded an undergraduate or first academic degree. (Thường dùng trong tuyển dụng - graduate recruitment.).
+Ví dụ: We are looking for bright and ambitious graduates to join our management training program.
+
+---
+
+136. **Headquarters (n) /ˈhedkwɔːrtərz/:** The premises serving as the center of an organization, from which military or business operations are controlled. (Đây là một danh từ dùng để chỉ trụ sở chính.).
+Ví dụ: The company's headquarters are located in New York City.
+
+---
+
+137. **Industrious (adj) /ɪnˈdʌstriəs/:** Diligent and hard-working. (Đây là một tính từ dùng để chỉ một người làm việc cần cù, siêng năng.).
+Ví dụ: She is an industrious student who always finishes her assignments on time.
+
+---
+
+138. **Job-share (v) /ˈdʒɑːb ʃer/:** (Of two people) share the work and pay of a single full-time job. (Đây là một động từ dùng để chỉ việc chia sẻ một công việc toàn thời gian cho hai người làm.).
+Ví dụ: They decided to job-share so they could both spend more time with their families.
+
+---
+
+139. **Keynote (n) /ˈkiːnoʊt/:** A central theme used in a speech or program. (Thường dùng chỉ bài phát biểu chính trong hội nghị - keynote speech.).
+Ví dụ: The CEO gave an inspiring keynote address at the annual company conference.
+
+---
+
+140. **Labor market (n) /ˈleɪbər ˈmɑːrkɪt/:** The supply of people in a particular country or area who are able and willing to work in relation to the number of jobs available. (Đây là một cụm danh từ dùng để chỉ thị trường lao động.).
+Ví dụ: The labor market is becoming increasingly competitive for recent graduates.
+
+---
+
+141. **Misconduct (n) /ˌmɪsˈkɑːndʌkt/:** Unacceptable or improper behavior, especially by a professional person. (Đây là một danh từ dùng để chỉ hành vi sai trái/vi phạm kỷ luật tại nơi làm việc.).
+Ví dụ: He was dismissed for professional misconduct following an internal investigation.
+
+---
+
+142. **Negotiate (v) /nəˈɡoʊʃieɪt/:** Try to reach an agreement or compromise by discussion with others. (Đây là một động từ dùng để chỉ việc thương lượng, đàm phán lương bổng hoặc hợp đồng.).
+Ví dụ: You should always try to negotiate your salary before accepting a new job offer.
+
+---
+
+143. **Orientation (n) /ˌɔːriənˈteɪʃn/:** A program of introduction for newcomers to a college or other institution. (Đây là một danh từ dùng để chỉ buổi định hướng/hướng dẫn cho nhân viên mới.).
+Ví dụ: The orientation day helped new employees get used to the office and meet their colleagues.
+
+---
+
+144. **Profitability (n) /ˌprɑːfɪtəˈbɪləti/:** The degree to which a business or activity yields profit or financial gain. (Đây là một danh từ dùng để chỉ khả năng sinh lời.).
+Ví dụ: The new CEO's main goal is to improve the company's profitability.
+
+---
+
+145. **Qualification (n) /ˌkwɑːlɪfɪˈkeɪʃn/:** A pass of an examination or an official record of achievement, especially in some specified field. (Đây là một danh từ dùng để chỉ năng lực/bằng cấp.).
+Ví dụ: She has all the right qualifications and experience for the job.
+
+---
+
+146. **Retirement (n) /rɪˈtaɪərmənt/:** The action or fact of leaving one's job and ceasing to work. (Đây là một danh từ dùng để chỉ sự nghỉ hưu.).
+Ví dụ: He is looking forward to his retirement so he can travel more.
+
+---
+
+147. **Shift work (n) /ˈʃɪft wɜːrk/:** Work scheduled in a system of shifts. (Đây là một cụm danh từ dùng để chỉ công việc làm theo ca.).
+Ví dụ: Shift work can be difficult because it disrupts your sleep pattern.
+
+---
+
+148. **Task (n) /tæsk/:** A piece of work to be done or undertaken. (Đây là một danh từ dùng để chỉ nhiệm vụ/công việc cụ thể.).
+Ví dụ: Each team member was assigned a specific task to complete by the end of the day.
+
+---
+
+149. **Underprivileged (adj) /ˌʌndərˈprɪvəlɪdʒd/:** Not enjoying the same standard of living or rights as the majority of people in a society. (Có thể liên quan đến các chương trình hỗ trợ việc làm.).
+Ví dụ: The company has a program to provide training and jobs for underprivileged youth.
+
+---
+
+150. **Wage earner (n) /ˈweɪdʒ ˌɜːrnər/:** A person who works for wages. (Đây là một cụm danh từ dùng để chỉ người làm công ăn lương.).
+Ví dụ: In many families, both parents are now wage earners.
+
+---
+
+151. **Whistleblowing (n) /ˈwɪslbloʊɪŋ/:** The act of informing on a person or organization engaged in an illicit activity. (Đây là một danh từ dùng để chỉ hành động tố giác sai phạm.).
+Ví dụ: Whistleblowing is essential for maintaining transparency and ethical standards in business.
+
+---
+
+152. **Yielding (adj) /ˈjiːldɪŋ/:** Producing a result. (Có thể dùng chỉ hiệu quả công việc.).
+Ví dụ: A more flexible approach to management is yielding positive results for the company.
+
+---
+
+153. **Zeal (n) /ziːl/:** Great energy or enthusiasm in pursuit of a cause or an objective. (Đây là một danh từ dùng để chỉ lòng nhiệt huyết trong công việc.).
+Ví dụ: She approached her new role with great zeal and dedication.
+
+---
+
+154. **Advancement (n) /ədˈvænsmənt/:** The process of promoting a cause or plan. (Thường dùng trong thăng tiến sự nghiệp - career advancement.).
+Ví dụ: There are many opportunities for career advancement within the company.
+
+---
+
+155. **Background check (n) /ˈbækɡraʊnd tʃek/:** A process a person or company uses to verify that a person is who they say they are. (Đây là một cụm danh từ dùng để chỉ việc kiểm tra lý lịch nhân viên.).
+Ví dụ: All new employees must undergo a thorough background check before they start work.
+
+---
+
+156. **Competency (n) /ˈkɑːmpɪtənsi/:** The ability to do something successfully or efficiently. (Đây là một danh từ dùng để chỉ năng lực/khả năng thành thạo.).
+Ví dụ: Core competencies are the essential skills needed for a particular role.
+
+---
+
+157. **Discipline (n) /ˈdɪsəplɪn/:** The practice of training people to obey rules or a code of behavior. (Trong công việc là kỷ luật lao động.).
+Ví dụ: Maintaining a high level of discipline is essential for a safe and productive workplace.
+
+---
+
+158. **Efficient (adj) /ɪˈfɪʃnt/:** (Of a system or machine) achieving maximum productivity with minimum wasted effort or expense. (Đây là một tính từ dùng để chỉ tính hiệu quả.).
+Ví dụ: The new production process is much more efficient than the old one.
+
+---
+
+159. **Full-stack (adj) /ˌfʊl ˈstæk/:** Relating to or being a computer programmer who is able to work with both the front end and back end of a website or application. (Lặp lại do tính phổ biến trong tuyển dụng hiện nay.).
+Ví dụ: The company is looking for a full-stack developer to lead their new tech project.
+
+---
+
+160. **Guideline (n) /ˈɡaɪdlaɪn/:** A general rule, principle, or piece of advice. (Trong công việc là các hướng dẫn thực hiện nhiệm vụ.).
+Ví dụ: Please follow the safety guidelines carefully when using the machinery.
+
+---
+
+161. **Hire (v) /ˈhaɪər/:** Employ (someone) for wages. (Đây là một động từ dùng để chỉ việc thuê/tuyển dụng ai đó.).
+Ví dụ: We need to hire more staff to help with the increased workload.
+
+---
+
+162. **Job market (n) /ˈdʒɑːb ˈmɑːrkɪt/:** The supply of people in a particular country or area who are able and willing to work in relation to the number of jobs available. (Lặp lại để nhấn mạnh.).
+Ví dụ: The job market is currently very difficult for recent graduates.
+
+---
+
+163. **Labor (n) /ˈleɪbər/:** Work, especially hard physical work. (Đây là một danh từ dùng để chỉ lao động hoặc nhân công.).
+Ví dụ: The cost of labor is a significant factor in the price of the final product.
+
+---
+
+164. **Marketing (n) /ˈmɑːrkɪtɪŋ/:** The action or business of promoting and selling products or services. (Một lĩnh vực nghề nghiệp phổ biến.).
+Ví dụ: She has a successful career in marketing and communications.
+
+---
+
+165. **Notice (n) /ˈnoʊtɪs/:** Advance notification of intention to end an agreement or leave a job. (Đây là một danh từ dùng để chỉ việc thông báo nghỉ việc.).
+Ví dụ: You must give at least two weeks' notice if you plan to resign.
+
+---
+
+166. **Permanent (adj) /ˈpɜːrmənənt/:** Lasting or intended to last or remain unchanged indefinitely. (Thường dùng trong hợp đồng dài hạn - permanent contract.).
+Ví dụ: After a successful probation period, she was offered a permanent position.
+
+---
+
+167. **Quality control (n) /ˈkwɑːləti kənˌtroʊl/:** A system of maintaining standards in manufactured products by testing a sample of the output against the specification. (Một lĩnh vực công việc quan trọng.).
+Ví dụ: Every product must pass through quality control before it is shipped to customers.
+
+---
+
+168. **Retail (n) /ˈriːteɪl/:** The sale of goods to the public in relatively small quantities for use or consumption rather than for resale. (Một lĩnh vực nghề nghiệp.).
+Ví dụ: She has worked in the retail industry for over ten years.
+
+---
+
+169. **Target (n) /ˈtɑːrɡɪt/:** A person, object, or place selected as the aim of an attack. (Trong công việc là chỉ tiêu cần đạt.).
+Ví dụ: We are on track to meet our sales targets for this quarter.
+
+---
+
+170. **Underpaid (adj) /ˌʌndərˈpeɪd/:** Paid too little. (Đây là một tính từ dùng để chỉ tình trạng được trả lương quá thấp so với năng lực hoặc công việc.).
+Ví dụ: Many social workers feel that they are underpaid and undervalued.
+
+---
+
+171. **Absenteeism (n) /ˌæbsənˈtiːɪzəm/:** The practice of regularly staying away from work or school without good reason. (Đây là một danh từ dùng để chỉ tình trạng vắng mặt thường xuyên không lý do.).
 Ví dụ: High levels of absenteeism can be a sign of low employee morale.
 
 ---
 
-182. **Blue-collar worker (n) /ˌbluː ˈkɑːlər ˈwɜːrkər/:** A person who performs manual labor. (Lặp lại để nhấn mạnh.).
+172. **Blue-collar worker (n) /ˌbluː ˈkɑːlər ˈwɜːrkər/:** A person who performs manual labor. (Lặp lại để nhấn mạnh.).
 Ví dụ: Many blue-collar workers in the construction industry are facing job losses.
 
 ---
 
-183. **Contract (n) /ˈkɑːntrækt/:** A written or spoken agreement, especially one concerning employment. (Đây là một danh từ dùng để chỉ hợp đồng lao động.).
+173. **Contract (n) /ˈkɑːntrækt/:** A written or spoken agreement, especially one concerning employment. (Đây là một danh từ dùng để chỉ hợp đồng lao động.).
 Ví dụ: Please read the terms of your contract carefully before signing it.
 
 ---
 
-184. **Diversity (n) /daɪˈvɜːrsəti/:** The state of being diverse; variety. (Trong công việc là sự đa dạng nhân sự.).
+174. **Diversity (n) /daɪˈvɜːrsəti/:** The state of being diverse; variety. (Trong công việc là sự đa dạng nhân sự.).
 Ví dụ: Promoting diversity and inclusion is a key goal for our HR department.
 
 ---
 
-185. **Experience (n) /ɪkˈspɪriəns/:** Practical contact with and observation of facts or events. (Đây là một danh từ dùng để chỉ kinh nghiệm làm việc.).
+175. **Experience (n) /ɪkˈspɪriəns/:** Practical contact with and observation of facts or events. (Đây là một danh từ dùng để chỉ kinh nghiệm làm việc.).
 Ví dụ: You need several years of experience in a similar role to apply for this position.
 
 ---
 
-186. **Feedback (n) /ˈfiːdbæk/:** Information about reactions to a product, a person's performance of a task, etc. (Đây là một danh từ dùng để chỉ phản hồi về công việc.).
+176. **Feedback (n) /ˈfiːdbæk/:** Information about reactions to a product, a person's performance of a task, etc. (Đây là một danh từ dùng để chỉ phản hồi về công việc.).
 Ví dụ: Regular feedback from your manager can help you improve your performance.
 
 ---
 
-187. **Incentive scheme (n) /ɪnˈsentɪv skiːm/:** A plan or system for encouraging people to do something. (Đây là một cụm danh từ dùng để chỉ hệ thống khen thưởng.).
+177. **Incentive scheme (n) /ɪnˈsentɪv skiːm/:** A plan or system for encouraging people to do something. (Đây là một cụm danh từ dùng để chỉ hệ thống khen thưởng.).
 Ví dụ: The company has introduced a new incentive scheme to boost sales.
 
 ---
 
-188. **Job application (n) /ˈtʒɑːb ˌæplɪˈkeɪʃn/:** A formal request to an authority for something. (Đây là một cụm danh từ dùng để chỉ việc nộp đơn xin việc.).
+178. **Job application (n) /ˈtʒɑːb ˌæplɪˈkeɪʃn/:** A formal request to an authority for something. (Đây là một cụm danh từ dùng để chỉ việc nộp đơn xin việc.).
 Ví dụ: You should tailor each job application to the specific requirements of the role.
 
 ---
 
-189. **Lay off (v) /ˌleɪ ˈɔːf/:** Give up or stop doing something. (Trong công việc là cho nghỉ việc do công ty gặp khó khăn.).
+179. **Lay off (v) /ˌleɪ ˈɔːf/:** Give up or stop doing something. (Trong công việc là cho nghỉ việc do công ty gặp khó khăn.).
 Ví dụ: The company had to lay off several employees due to a decline in sales.
 
 ---
 
-190. **Mentee (n) /menˈtiː/:** A person who is advised, trained, or counseled by a mentor. (Đây là một danh từ dùng để chỉ người được cố vấn.).
+180. **Mentee (n) /menˈtiː/:** A person who is advised, trained, or counseled by a mentor. (Đây là một danh từ dùng để chỉ người được cố vấn.).
 Ví dụ: As a mentee, you should be proactive in asking for advice and feedback.
 
 ---
 
-191. **Office (n) /ˈɔːfɪs/:** A room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work. (Đây là một danh từ dùng để chỉ văn phòng.).
+181. **Office (n) /ˈɔːfɪs/:** A room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work. (Đây là một danh từ dùng để chỉ văn phòng.).
 Ví dụ: Our office is located in the heart of the city's financial district.
 
 ---
 
-192. **Promotion (n) /prəˈmoʊʃn/:** The action of raising someone to a higher position or rank. (Lặp lại để nhấn mạnh.).
-Ví dụ: Hard work and dedication are the keys to earning a promotion.
-
----
-
-193. **Qualifications (n) /ˌkwɑːlɪfɪˈkeɪʃnz/:** A pass of an examination or an official record of achievement. (Lặp lại để nhấn mạnh.).
-Ví dụ: Do you have any professional qualifications in accounting or finance?
-
----
-
-194. **Resume (n) /rɪˈzuːmeɪ/:** A brief account of a person's education, qualifications, and previous experience. (Từ đồng nghĩa với CV, thường dùng trong tiếng Anh Mỹ.).
+182. **Resume (n) /rɪˈzuːmeɪ/:** A brief account of a person's education, qualifications, and previous experience. (Từ đồng nghĩa với CV, thường dùng trong tiếng Anh Mỹ.).
 Ví dụ: Make sure your resume is clear, concise, and easy to read.
 
 ---
 
-195. **Staff (n) /stæf/:** All the people employed by a particular organization. (Đây là một danh từ dùng để chỉ toàn bộ nhân viên.).
+183. **Staff (n) /stæf/:** All the people employed by a particular organization. (Đây là một danh từ dùng để chỉ toàn bộ nhân viên.).
 Ví dụ: Our staff are our most valuable asset, and we invest heavily in their training.
 
 ---
 
-196. **Training (n) /ˈtreɪnɪŋ/:** The action of teaching a person or animal a particular skill or type of behavior. (Đây là một danh từ dùng để chỉ hoạt động đào tạo.).
+184. **Training (n) /ˈtreɪnɪŋ/:** The action of teaching a person or animal a particular skill or type of behavior. (Đây là một danh từ dùng để chỉ hoạt động đào tạo.).
 Ví dụ: All new employees receive thorough training before they start their roles.
 
 ---
 
-197. **Unemployed (adj) /ˌʌnɪmˈplɔɪd/:** (Of a person) without a paid job but available to work. (Đây là một tính từ dùng để chỉ người thất nghiệp.).
+185. **Unemployed (adj) /ˌʌnɪmˈplɔɪd/:** (Of a person) without a paid job but available to work. (Đây là một tính từ dùng để chỉ người thất nghiệp.).
 Ví dụ: He has been unemployed for six months and is struggling to find a new job.
 
 ---
 
-198. **Voluntary work (n) /ˈvɑːlənteri wɜːrk/:** Work that is done by choice and without being paid. (Đây là một cụm danh từ dùng để chỉ công việc tình nguyện.).
+186. **Voluntary work (n) /ˈvɑːlənteri wɜːrk/:** Work that is done by choice and without being paid. (Đây là một cụm danh từ dùng để chỉ công việc tình nguyện.).
 Ví dụ: Doing voluntary work can be a great way to gain new skills and experience.
 
 ---
 
-199. **Wage (n) /weɪdʒ/:** A fixed regular payment made by an employer to an employee. (Lặp lại để nhấn mạnh.).
-Ví dụ: The company offers a competitive wage and a range of fringe benefits.
-
----
-
-200. **Workload (n) /ˈwɜːrkloʊd/:** The amount of work to be done by someone or something. (Đây là một danh từ dùng để chỉ khối lượng công việc.).
+187. **Workload (n) /ˈwɜːrkloʊd/:** The amount of work to be done by someone or something. (Đây là một danh từ dùng để chỉ khối lượng công việc.).
 Ví dụ: If you feel that your workload is too heavy, you should talk to your manager.
 
 ---

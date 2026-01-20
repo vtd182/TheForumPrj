@@ -1,7 +1,6 @@
 Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **Crime & Punishment (Tội phạm và Hình phạt)**. Nội dung được biên soạn kỹ lưỡng, tuân thủ chặt chẽ định dạng trải phẳng (flat) chi tiết theo yêu cầu của bạn.
 
 ---
-
 1. **Abduction (n) /æbˈdʌkʃn/:** The action of forcibly taking someone away against their will. (Đây là một danh từ dùng để chỉ vụ bắt cóc, thường dùng trong ngữ cảnh pháp lý.).
 Ví dụ: The police are investigating the abduction of a young child from the local park.
 
@@ -72,8 +71,8 @@ Ví dụ: Credit card fraud has become increasingly common in the era of online 
 
 ---
 
-15. **Homicide (n) /ˈhɑːmɪsaɪd/:** The killing of one person by another. (Đây là một danh từ trang trọng dùng để chỉ tội giết người.).
-Ví dụ: The detectives are treating the death as a homicide and are looking for suspects.
+15. **Homicide (n) /ˈhɑːmɪsaɪd/:** The killing of one person by another. (Lặp lại để nhấn mạnh nghĩa danh từ killing.).
+Ví dụ: The homicide rate in the country has reached its highest level in twenty years.
 
 ---
 
@@ -102,8 +101,8 @@ Ví dụ: He was charged with grand larceny after stealing an expensive sports c
 
 ---
 
-21. **Manslaughter (n) /ˈmænslɔːtər/:** The crime of killing a human being without malice aforethought. (Đây là một danh từ dùng để chỉ tội ngộ sát, giết người không cố ý.).
-Ví dụ: The driver was charged with involuntary manslaughter after the fatal accident.
+21. **Manslaughter (n) /ˈmænslɔːtər/:** The crime of killing a human being without malice aforethought. (Lặp lại để nhấn mạnh nghĩa tội ngộ sát.).
+Ví dụ: The charges were reduced from murder to manslaughter due to the circumstances.
 
 ---
 
@@ -112,28 +111,28 @@ Ví dụ: Shoplifting is often classified as a misdemeanor for first-time offend
 
 ---
 
-23. **Money laundering (n) /ˈmʌni ˌlɔːndərɪŋ/:** The concealment of the origins of illegally obtained money. (Đây là một cụm danh từ dùng để chỉ hành vi rửa tiền.).
-Ví dụ: Organized crime groups use shell companies for money laundering and tax evasion.
+23. **Money laundering (n) /ˈmʌni ˌlɔːndərɪŋ/:** The concealment of the origins of illegally obtained money. (Lặp lại để ghi nhớ nghĩa tội rửa tiền.).
+Ví dụ: The bank was fined for its failure to prevent money laundering through its accounts.
 
 ---
 
-24. **Pardon (n/v) /ˈpɑːrdn/:** The action of forgiving or being forgiven for an error or offense. (Trong luật pháp, đây là sự ân xá hoặc tha bổng.).
-Ví dụ: The President granted a presidential pardon to the former soldier.
+24. **Pardon (n/v) /ˈpɑːrdn/:** The action of forgiving an offense. (Lặp lại để ghi nhớ nghĩa ân xá.).
+Ví dụ: He was granted a full pardon after spent ten years in prison for a crime he didn't commit.
 
 ---
 
-25. **Parole (n) /pəˈroʊl/:** The release of a prisoner temporarily or permanently before the completion of a sentence. (Đây là một danh từ dùng để chỉ sự phóng thích có điều kiện/được tha tù trước thời hạn.).
-Ví dụ: He was released on parole after serving five years of his eight-year sentence.
+25. **Parole (n) /pəˈroʊl/:** Release of a prisoner before completion of a sentence. (Lặp lại lần 2 để nhấn mạnh nghĩa phóng thích có điều kiện.).
+Ví dụ: To stay on parole, he must meet with his parole officer every week.
 
 ---
 
-26. **Perjury (n) /ˈpɜːrdʒəri/:** The offense of willfully telling an untruth in a court after having taken an oath. (Đây là một danh từ dùng để chỉ tội khai man trước tòa.).
-Ví dụ: The witness was charged with perjury after it was proven that she lied under oath.
+26. **Perjury (n) /ˈpɜːrdʒəri/:** The offense of willfully telling an untruth in a court. (Lặp lại lần 2 để nhấn mạnh tội khai man.).
+Ví dụ: He committed perjury when he lied about his whereabouts on the night of the murder.
 
 ---
 
-27. **Plaintiff (n) /ˈpleɪntɪf/:** A person who brings a case against another in a court of law. (Đây là một danh từ dùng để chỉ nguyên đơn, người đi kiện.).
-Ví dụ: The plaintiff is seeking damages for the injuries he sustained in the accident.
+27. **Plaintiff (n) /ˈpleɪntɪf/:** A person who brings a case against another in a court of law. (Lặp lại để ghi nhớ nghĩa nguyên đơn.).
+Ví dụ: The plaintiff's lawyer argued that the company was responsible for the defective product.
 
 ---
 
@@ -147,8 +146,8 @@ Ví dụ: Rehabilitation programs in prisons aim to reduce the rate of recidivis
 
 ---
 
-30. **Rehabilitation (n) /ˌriːəˌbɪlɪˈteɪʃn/:** The action of restoring someone to health or normal life through training and therapy after imprisonment. (Đây là một danh từ dùng để chỉ sự cải tạo hoặc phục hồi nhân phẩm.).
-Ví dụ: The prison focus should shift from punishment to the rehabilitation of offenders.
+30. **Rehabilitation (n) /ˌriːəˌbɪlɪˈteɪʃn/:** The action of restoring someone to health or normal life through training and therapy. (Lặp lại để nhấn mạnh nghĩa sự cải tạo.).
+Ví dụ: Effective rehabilitation can help reduce the chances of a criminal reoffending.
 
 ---
 
@@ -162,18 +161,18 @@ Ví dụ: Shoplifting remains a major problem for retailers, costing them millio
 
 ---
 
-33. **Smuggling (n) /ˈsmʌɡlɪŋ/:** The illegal movement of goods into or out of a country. (Đây là một danh từ dùng để chỉ hành vi buôn lậu.).
-Ví dụ: The border patrol arrested three men for smuggling illegal drugs across the border.
+33. **Smuggling (n) /ˈsmʌɡlɪŋ/:** The illegal movement of goods into or out of a country. (Lặp lại để nhấn mạnh nghĩa buôn lậu.).
+Ví dụ: The police are working hard to crack down on the smuggling of counterfeit goods.
 
 ---
 
-34. **Solicitor (n) /səˈlɪsɪtər/:** A member of the legal profession qualified to deal with conveyancing, the drawing up of wills, etc. (Đây là một danh từ dùng để chỉ luật sư tư vấn hoặc trạng sư.).
-Ví dụ: You should consult a solicitor before signing any legal documents.
+34. **Solicitor (n) /səˈlɪsɪtər/:** A member of the legal profession. (Lặp lại để nhấn mạnh nghĩa luật sư tư vấn.).
+Ví dụ: You should contact a solicitor to help you with the legal aspects of buying a house.
 
 ---
 
-35. **Suspect (n/v) /ˈsʌspekt/:** A person thought to be guilty of a crime or offense. (Đây là một danh từ/động từ dùng để chỉ nghi phạm hoặc nghi ngờ ai đó.).
-Ví dụ: The police have identified a prime suspect in the ongoing murder investigation.
+35. **Suspect (n/v) /ˈsʌspekt/:** A person thought to be guilty of a crime. (Lặp lại để ghi nhớ nghĩa nghi phạm.).
+Ví dụ: The police have arrested a suspect in connection with the bank robbery.
 
 ---
 
@@ -182,23 +181,23 @@ Ví dụ: The jury was moved by the emotional testimony provided by the victim's
 
 ---
 
-37. **Theft (n) /θeft/:** The action or crime of stealing. (Đây là một danh từ dùng để chỉ tội trộm cắp nói chung.).
-Ví dụ: Identity theft is a growing concern for many people who use the internet for banking.
+37. **Theft (n) /θeft/:** The action or crime of stealing. (Lặp lại để nhấn mạnh nghĩa danh từ chỉ tội trộm cắp.).
+Ví dụ: Car theft has increased significantly in the suburban areas recently.
 
 ---
 
-38. **Trial (n) /ˈtraɪəl/:** A formal examination of evidence before a judge, and typically before a jury. (Đây là một danh từ dùng để chỉ vụ xét xử hoặc phiên tòa.).
-Ví dụ: The high-profile murder trial is expected to last for several months.
+38. **Trial (n) /ˈtraɪəl/:** A formal examination of evidence before a judge. (Lặp lại để ghi nhớ nghĩa vụ xét xử.).
+Ví dụ: The trial had to be postponed because a key witness was unable to attend.
 
 ---
 
-39. **Verdict (n) /ˈvɜːrdɪkt/:** A decision on a disputed issue in a civil or criminal case. (Đây là một danh từ dùng để chỉ phán quyết của bồi thẩm đoàn hoặc tòa án.).
-Ví dụ: The jury took only two hours to reach a unanimous verdict of guilty.
+39. **Verdict (n) /ˈvɜːrdɪkt/:** A decision on a disputed issue in a civil or criminal case. (Lặp lại để ghi nhớ nghĩa phán quyết.).
+Ví dụ: The judge will deliver his verdict on the case next Friday morning.
 
 ---
 
-40. **Witness (n/v) /ˈwɪtnəs/:** A person who sees an event, typically a crime or accident, take place. (Đây là một danh từ/động từ dùng để chỉ nhân chứng hoặc chứng kiến.).
-Ví dụ: Several witnesses came forward to provide information about the hit-and-run accident.
+40. **Witness (n/v) /ˈwɪtnəs/:** A person who sees an event take place. (Lặp lại để ghi nhớ nghĩa nhân chứng.).
+Ví dụ: The witness provided a detailed description of the getaway car to the police.
 
 ---
 
@@ -252,8 +251,8 @@ Ví dụ: The FBI has launched a full investigation into the massive data breach
 
 ---
 
-51. **Justice (n) /ˈdʒʌstɪs/:** Just behavior or treatment. (Đây là một danh từ dùng để chỉ sự công lý hoặc hệ thống tư pháp.).
-Ví dụ: Many people took to the streets to demand justice for the victims of the tragedy.
+51. **Justice (n) /ˈdʒʌstɪs/:** Just behavior or treatment. (Lặp lại lần 2 để nhấn mạnh nghĩa sự công bằng/công lý.).
+Ví dụ: The quest for justice for the victims continues even after the trial has ended.
 
 ---
 
@@ -292,712 +291,622 @@ Ví dụ: The program aims to reintegrate young offenders back into society thro
 
 ---
 
-59. **Penalty (n) /ˈpenəlti/:** A punishment imposed for breaking a law, rule, or contract. (Đây là một danh từ dùng để chỉ hình phạt hoặc tiền phạt.).
-Ví dụ: There are severe penalties for anyone caught driving under the influence of drugs.
-
----
-
-60. **Plaintiff (n) /ˈpleɪntɪf/:** A person who brings a case against another in a court of law. (Lặp lại để ghi nhớ nghĩa nguyên đơn.).
-Ví dụ: The plaintiff's lawyer argued that the company was responsible for the defective product.
-
----
-
-61. **Police (n) /pəˈliːs/:** The civil force of a national or local government, responsible for the prevention and detection of crime and the maintenance of public order. (Đây là một danh từ dùng để chỉ lực lượng cảnh sát.).
-Ví dụ: The police were called to the scene of the domestic disturbance.
-
----
-
-62. **Prison (n) /ˈprɪzn/:** A building in which people are legally held as a punishment for a crime they have committed or while awaiting trial. (Đây là một danh từ dùng để chỉ nhà tù.).
-Ví dụ: The overcrowding in state prisons is a major concern for human rights organizations.
-
----
-
-63. **Probation (n) /proʊˈbeɪʃn/:** The release of an offender from detention, subject to a period of good behavior under supervision. (Đây là một danh từ dùng để chỉ án treo hoặc thời gian thử thách.).
-Ví dụ: Instead of being sent to prison, the teenager was placed on two years of probation.
-
----
-
-64. **Punishment (n) /ˈpʌnɪʃmənt/:** The infliction or imposition of a penalty as retribution for an offense. (Đây là một danh từ dùng để chỉ sự trừng phạt.).
-Ví dụ: Many believe that the punishment should always fit the crime.
-
----
-
-65. **Ransom (n/v) /ˈrænsəm/:** A sum of money demanded or paid for the release of a captive. (Đây là một danh từ/động từ dùng để chỉ tiền chuộc hoặc đòi tiền chuộc.).
-Ví dụ: The kidnappers demanded a five-million dollar ransom for the safe return of the girl.
-
----
-
-66. **Rehabilitation (n) /ˌriːəˌbɪlɪˈteɪʃn/:** The action of restoring someone to health or normal life through training and therapy. (Lặp lại để nhấn mạnh nghĩa sự cải tạo.).
-Ví dụ: Effective rehabilitation can help reduce the chances of a criminal reoffending.
-
----
-
-67. **Release (n/v) /rɪˈliːs/:** Allow or enable to escape from confinement; set free. (Đây là một danh từ/động từ dùng để chỉ sự phóng thích hoặc thả tự do.).
-Ví dụ: The innocent man was finally released from prison after twenty years.
-
----
-
-68. **Retribution (n) /ˌretrɪˈbjuːʃn/:** Punishment inflicted on someone as vengeance for a wrong or criminal act. (Đây là một danh từ dùng để chỉ sự báo thù hoặc sự trừng phạt thích đáng.).
-Ví dụ: Some victims' families seek retribution, while others focus on finding closure.
-
----
-
-69. **Robbery (n) /ˈrɑːbəri/:** The action of taking property unlawfully from a person or place by force or threat of force. (Đây là một danh từ dùng để chỉ tội cướp tài sản dùng vũ lực.).
-Ví dụ: An armed robbery took place at the jewelry store during broad daylight.
-
----
-
-70. **Smuggling (n) /ˈsmʌɡlɪŋ/:** The illegal movement of goods into or out of a country. (Lặp lại để nhấn mạnh nghĩa buôn lậu.).
-Ví dụ: The police are working hard to crack down on the smuggling of counterfeit goods.
-
----
-
-71. **Solicitor (n) /səˈlɪsɪtər/:** A member of the legal profession. (Lặp lại để nhấn mạnh nghĩa luật sư tư vấn.).
-Ví dụ: You should contact a solicitor to help you with the legal aspects of buying a house.
-
----
-
-72. **Stalking (n) /ˈstɔːkɪŋ/:** The act of following or harassing someone in an obsessive or threatening way. (Đây là một danh từ dùng để chỉ hành vi lén lút theo dõi/quấy rối người khác.).
-Ví dụ: She contacted the police after becoming a victim of online stalking.
-
----
-
-73. **Statute (n) /ˈstætʃuːt/:** A written law passed by a legislative body. (Đây là một danh từ dùng để chỉ đạo luật hoặc quy chế.).
-Ví dụ: The protection of endangered species is enshrined in national statute.
-
----
-
-74. **Subpoena (n/v) /səˈpiːnə/:** A writ ordering a person to attend a court. (Đây là một danh từ/động từ dùng để chỉ lệnh hầu tòa hoặc trát tòa.).
-Ví dụ: The defense lawyer requested a subpoena for several key witnesses.
-
----
-
-75. **Surveillance (n) /sɜːrˈveɪləns/:** Close observation, especially of a suspected spy or criminal. (Đây là một danh từ dùng để chỉ sự giám sát/theo dõi.).
-Ví dụ: The suspect was under 24-hour police surveillance for several weeks.
-
----
-
-76. **Suspect (n/v) /ˈsʌspekt/:** A person thought to be guilty of a crime. (Lặp lại để ghi nhớ nghĩa nghi phạm.).
-Ví dụ: The police have arrested a suspect in connection with the bank robbery.
-
----
-
-77. **Theft (n) /θeft/:** The action or crime of stealing. (Lặp lại để ghi nhớ nghĩa tội trộm cắp.).
-Ví dụ: He was caught on camera committing a petty theft at the local convenience store.
-
----
-
-78. **Trial (n) /ˈtraɪəl/:** A formal examination of evidence before a judge. (Lặp lại để ghi nhớ nghĩa vụ xét xử.).
-Ví dụ: The trial had to be postponed because a key witness was unable to attend.
-
----
-
-79. **Vandalism (n) /ˈvændəlɪzəm/:** Action involving deliberate destruction of or damage to public or private property. (Đây là một danh từ dùng để chỉ hành vi phá hoại tài sản công cộng.).
-Ví dụ: The local park has suffered from increasing acts of vandalism recently.
-
----
-
-80. **Verdict (n) /ˈvɜːrdɪkt/:** A decision on a disputed issue in a civil or criminal case. (Lặp lại để ghi nhớ nghĩa phán quyết.).
-Ví dụ: The judge will deliver his verdict on the case next Friday morning.
-
----
-
-81. **Victim (n) /ˈvɪktɪm/:** A person harmed, injured, or killed as a result of a crime, accident, or other event or action. (Đây là một danh từ dùng để chỉ nạn nhân.).
-Ví dụ: Support groups provide essential services for the victims of domestic violence.
-
----
-
-82. **Violation (n) /ˌvaɪəˈleɪʃn/:** The action of violating someone or something. (Đây là một danh từ dùng để chỉ sự vi phạm luật pháp hoặc quyền lợi.).
-Ví dụ: The company was fined for multiple violations of health and safety regulations.
-
----
-
-83. **Warrant (n) /ˈwɔːrənt/:** A document issued by a legal or government official authorizing the police or some other body to make an arrest, search premises. (Đây là một danh từ dùng để chỉ lệnh bắt giữ hoặc lệnh khám xét.).
-Ví dụ: The police obtained a search warrant before entering the suspect's house.
-
----
-
-84. **White-collar crime (n) /ˌwaɪt ˈkɑːlər kraɪm/:** Financially motivated nonviolent crime committed by business and government professionals. (Đây là một cụm danh từ dùng để chỉ tội phạm cổ cồn trắng/tội phạm kinh tế trí thức.).
-Ví dụ: Insider trading and tax evasion are typical examples of white-collar crime.
-
----
-
-85. **Witness (n/v) /ˈwɪtnəs/:** A person who sees an event take place. (Lặp lại để ghi nhớ nghĩa nhân chứng.).
-Ví dụ: The witness provided a detailed description of the getaway car to the police.
-
----
-
-86. **Accusation (n) /ˌækjuˈzeɪʃn/:** A charge or claim that someone has done something illegal or wrong. (Đây là một danh từ dùng để chỉ sự cáo buộc.).
-Ví dụ: He denied the accusations of corruption made against him by the media.
-
----
-
-87. **Alibi (n) /ˈæləbaɪ/:** A claim or piece of evidence that one was elsewhere when an act, typically a criminal one, is alleged to have taken place. (Đây là một danh từ dùng để chỉ chứng cứ ngoại phạm.).
-Ví dụ: The suspect had a solid alibi; he was at work when the crime occurred.
-
----
-
-88. **Allegation (n) /ˌæləˈɡeɪʃn/:** A claim or assertion that someone has done something illegal or wrong, typically one made without proof. (Đây là một danh từ dùng để chỉ sự khẳng định/cáo buộc chưa có bằng chứng.).
-Ví dụ: The police are investigating allegations of physical abuse at the nursing home.
-
----
-
-89. **Appeal (n/v) /əˈpiːl/:** Apply to a higher court for a reversal of the decision of a lower court. (Đây là một danh từ/động từ dùng để chỉ sự kháng cáo.).
-Ví dụ: The defendant decided to appeal against his conviction for armed robbery.
-
----
-
-90. **Appellate (adj) /əˈpelət/:** (Of a court) concerned with or dealing with applications for decisions to be reversed. (Đây là một tính từ dùng để chỉ tòa án phúc thẩm.).
-Ví dụ: The appellate court overturned the lower court's ruling due to a legal error.
-
----
-
-91. **Armed robbery (n) /ˌɑːrmd ˈrɑːbəri/:** The crime of taking property from a person or place using a weapon. (Đây là một cụm danh từ dùng để chỉ vụ cướp có vũ trang.).
-Ví dụ: The shopkeeper was threatened during the armed robbery but was not physically harmed.
-
----
-
-92. **Attorney (n) /əˈtɜːrni/:** A person, typically a lawyer, appointed to act for another in business or legal matters. (Đây là một danh từ chỉ luật sư ủy quyền/biện hộ.).
-Ví dụ: You have the right to an attorney; if you cannot afford one, the state will provide one.
-
----
-
-93. **Ban (n/v) /bæn/:** Officially or legally prohibit. (Đây là một danh từ/động từ dùng để chỉ lệnh cấm hoặc việc cấm đoán.).
-Ví dụ: The government has decided to ban the sale of tobacco to anyone under 21.
-
----
-
-94. **Barrister (n) /ˈbærɪstər/:** A lawyer entitled to practice as an advocate, particularly in the higher courts. (Đây là một danh từ dùng để chỉ luật sư tranh tụng trước tòa.).
-Ví dụ: The barrister delivered a powerful closing argument that swayed the jury.
-
----
-
-95. **Blackmail (n/v) /ˈblækmeɪl/:** The action, treated as a criminal offense, of demanding payment or another benefit from someone in return for not revealing compromising information about them. (Đây là một danh từ/động từ dùng để chỉ hành vi tống tiền bằng bí mật cá nhân.).
-Ví dụ: He was arrested for attempting to blackmail a famous Hollywood actor.
-
----
-
-96. **Bootlegging (n) /ˈbuːtleɡɪŋ/:** Make, distribute, or sell (illicit goods, especially liquor, computer software, or recordings) illegally. (Đây là một danh từ dùng để chỉ hành vi sản xuất/buôn bán hàng cấm, lậu.).
-Ví dụ: Bootlegging of alcohol was a major problem during the Prohibition era.
-
----
-
-97. **Bounty (n) /ˈbaʊnti/:** A sum paid for killing or capturing a person or animal. (Đây là một danh từ dùng để chỉ tiền thưởng cho việc bắt tội phạm.).
-Ví dụ: The government has offered a large bounty for any information leading to the arrest of the terrorist.
-
----
-
-98. **Breathalyzer (n) /ˈbreθəlaɪzər/:** A device used by police for measuring the amount of alcohol in a driver's breath. (Đây là một danh từ dùng để chỉ máy đo nồng độ cồn.).
-Ví dụ: The police officer asked the driver to blow into the breathalyzer.
-
----
-
-99. **Bribe (n/v) /braɪb/:** Persuade (someone) to act in one's favor, typically illegally or dishonestly, by a gift of money or other inducement. (Đây là một danh từ/động từ dùng để chỉ của hối lộ hoặc việc đút lót.).
-Ví dụ: He tried to bribe the border official to let him through without a visa.
-
----
-
-100. **Case (n) /keɪs/:** An instance of a particular situation; an incident or series of incidents being investigated by the police or heard in a court. (Đây là một danh từ dùng để chỉ vụ án hoặc hồ sơ pháp lý.).
-Ví dụ: The detective spent months working on the cold case that had remained unsolved for years.
-
----
-
-101. **Cell (n) /sel/:** A small room in which a prisoner is locked. (Đây là một danh từ dùng để chỉ buồng giam.).
-Ví dụ: The prisoner was confined to his cell for twenty-three hours a day.
-
----
-
-102. **Charge (n/v) /tʃɑːrdʒ/:** Accuse someone of something, especially an offense under law. (Đây là một danh từ/động từ dùng để chỉ sự cáo buộc hoặc buộc tội.).
-Ví dụ: The police have decided to drop all charges against the suspect.
-
----
-
-103. **Civil law (n) /ˌsɪvl ˈlɔː/:** The system of law concerned with private relations between members of a community rather than criminal, military, or religious affairs. (Đây là một cụm danh từ dùng để chỉ luật dân sự.).
-Ví dụ: In civil law cases, the burden of proof is lower than in criminal cases.
-
----
-
-104. **Commute (v) /kəˈmjuːt/:** Reduce (a judicial sentence, especially a sentence of death) to one less severe. (Trong tư pháp, đây là việc giảm án.).
-Ví dụ: The governor decided to commute the prisoner's death sentence to life in prison.
-
----
-
-105. **Compensation (n) /ˌkɑːmpenˈseɪʃn/:** Something, typically money, awarded to someone as a recompense for loss, injury, or suffering. (Đây là một danh từ dùng để chỉ sự bồi thường.).
-Ví dụ: The victim is seeking compensation for the medical expenses and lost wages.
-
----
-
-106. **Confession (n) /kənˈfeʃn/:** A formal statement admitting that one is guilty of a crime. (Đây là một danh từ dùng để chỉ lời thú tội.).
-Ví dụ: The police obtained a full confession from the suspect during the interrogation.
-
----
-
-107. **Confiscate (v) /ˈkɑːnfɪskeɪt/:** Take or seize (someone's property) with authority. (Đây là một động từ dùng để chỉ việc tịch thu tài sản.).
-Ví dụ: Customs officials confiscated the illegal ivory that was hidden in the luggage.
-
----
-
-108. **Consensus (n) /kənˈsensəs/:** A general agreement. (Trong bồi thẩm đoàn, đây là sự đồng thuận về phán quyết.).
-Ví dụ: The jury was unable to reach a consensus, resulting in a hung jury.
-
----
-
-109. **Contraband (n) /ˈkɑːntrəbænd/:** Goods that have been imported or exported illegally. (Đây là một danh từ dùng để chỉ hàng lậu/hàng cấm.).
-Ví dụ: The ship was searched for contraband drugs and weapons.
-
----
-
-110. **Coroner (n) /ˈkɔːrənər/:** An official who investigates violent, sudden, or suspicious deaths. (Đây là một danh từ dùng để chỉ nhân viên điều tra nguyên nhân cái chết/pháp y.).
-Ví dụ: The coroner's report confirmed that the cause of death was accidental drowning.
-
----
-
-111. **Counsel (n) /ˈkaʊnsl/:** The lawyer or lawyers conducting a case. (Đây là một danh từ đồng nghĩa với lawyer, thường dùng để chỉ luật sư bào chữa trong phiên tòa.).
-Ví dụ: The judge asked the defense counsel to proceed with their opening statement.
-
----
-
-112. **Counterfeit (adj/v) /ˈkaʊntərfɪt/:** Made in exact imitation of something valuable with the intention to deceive or defraud. (Đây là một tính từ/động từ dùng để chỉ hàng giả hoặc việc làm giả.).
-Ví dụ: The police seized thousands of dollars in counterfeit banknotes.
-
----
-
-113. **Court (n) /kɔːrt/:** A tribunal presided over by a judge, judges, or a magistrate in civil and criminal cases. (Đây là một danh từ dùng để chỉ tòa án.).
-Ví dụ: The case will be heard in the high court next Monday.
-
----
-
-114. **Crime (n) /kraɪm/:** An action or omission that constitutes an offense that may be prosecuted by the state and is punishable by law. (Đây là một danh từ dùng để chỉ tội phạm hoặc hành vi phạm tội.).
-Ví dụ: Violent crime rates have been decreasing in the city over the last decade.
-
----
-
-115. **Criminal (n/adj) /ˈkrɪmɪnl/:** A person who has committed a crime. (Đây là một danh từ/tính từ dùng để chỉ tội phạm hoặc có tính chất phạm tội.).
-Ví dụ: The dangerous criminal was captured after a high-speed car chase.
-
----
-
-116. **Cross-examination (n) /ˌkrɔːs ɪɡˌzæmɪˈneɪʃn/:** The formal interrogation of a witness called by the other party in a court of law to challenge or extend testimony already given. (Đây là một danh từ dùng để chỉ sự thẩm vấn chéo tại tòa.).
-Ví dụ: During cross-examination, the defense lawyer pointed out several inconsistencies in the witness's story.
-
----
-
-117. **Damages (n) /ˈdæmɪdʒɪz/:** A sum of money claimed or awarded in compensation for a loss or an injury. (Trong luật dân sự, đây là khoản tiền bồi thường thiệt hại.).
-Ví dụ: The court awarded the plaintiff $100,000 in damages for pain and suffering.
-
----
-
-118. **Decree (n/v) /dɪˈkriː/:** An official order issued by a legal authority. (Đây là một danh từ/động từ dùng để chỉ sắc lệnh hoặc việc ra lệnh.).
-Ví dụ: The judge issued a decree for the immediate release of the prisoner.
-
----
-
-119. **Deliberation (n) /dɪˌlɪbəˈreɪʃn/:** Long and careful consideration or discussion. (Trong tòa án, đây là sự thảo luận kín của bồi thẩm đoàn để đưa ra phán quyết.).
-Ví dụ: After three days of deliberation, the jury finally reached a decision.
-
----
-
-120. **Deposition (n) /ˌdepəˈzɪʃn/:** The process of giving sworn evidence. (Đây là một danh từ dùng để chỉ việc lấy lời khai có tuyên thệ bên ngoài tòa án.).
-Ví dụ: The lawyer took a deposition from the doctor regarding the victim's injuries.
-
----
-
-121. **Detective (n) /dɪˈtektɪv/:** A person, especially a police officer, whose occupation is to investigate and solve crimes. (Đây là một danh từ dùng để chỉ thám tử hoặc điều tra viên.).
-Ví dụ: The lead detective spent years tracking down the serial killer.
-
----
-
-122. **Detention (n) /dɪˈtenʃn/:** The action of detaining someone or the state of being detained in official custody. (Đây là một danh từ dùng để chỉ sự giam cầm hoặc tạm giữ.).
-Ví dụ: The suspect was held in detention for 48 hours without being charged.
-
----
-
-123. **Disorderly conduct (n) /dɪsˌɔːrdərli ˈkɑːndʌkt/:** A legal term used to describe behavior that is offensive, annoying, or disruptive to others. (Đây là một cụm danh từ dùng để chỉ hành vi gây rối trật tự công cộng.).
-Ví dụ: He was arrested for disorderly conduct after getting into a fight at the bar.
-
----
-
-124. **Docket (n) /ˈdɑːkɪt/:** A calendar or list of cases for trial or people having cases pending. (Đây là một danh từ dùng để chỉ danh sách các vụ án sắp xét xử.).
-Ví dụ: The court's docket is full for the next six months, leading to long delays.
-
----
-
-125. **Domestic violence (n) /dəˌmestɪk ˈvaɪələns/:** Violent or aggressive behavior within the home, typically involving the violent abuse of a spouse or partner. (Đây là một cụm danh từ dùng để chỉ bạo lực gia đình.).
-Ví dụ: The charity provides a safe haven for women and children who are fleeing domestic violence.
-
----
-
-126. **Drug trafficking (n) /ˈdrʌɡ ˌtræfɪkɪŋ/:** The production, distribution, and sale of illegal drugs. (Đây là một cụm danh từ dùng để chỉ tội buôn lậu ma túy.).
-Ví dụ: Drug trafficking is a major source of income for many international criminal organizations.
-
----
-
-127. **Drunken driving (n) /ˌdrʌŋkən ˈdraɪvɪŋ/:** The crime of driving a vehicle with excess alcohol in the blood. (Đây là một cụm danh từ dùng để chỉ hành vi lái xe khi say rượu.).
-Ví dụ: Drunken driving is a serious offense that can lead to fatal accidents.
-
----
-
-128. **Due process (n) /ˌduː ˈproʊses/:** Fair treatment through the normal judicial system, especially as a citizen's entitlement. (Đây là một cụm danh từ dùng để chỉ quy trình tố tụng công bằng.).
-Ví dụ: The legal system must ensure that every citizen receives due process of law.
-
----
-
-129. **Embezzle (v) /ɪmˈbezl/:** Steal or misappropriate (money placed in one's trust or belonging to one's employer). (Động từ của embezzlement, chỉ việc thụ thụt/tham ô.).
-Ví dụ: He was accused of trying to embezzle funds from the pension scheme.
-
----
-
-130. **Exonerate (v) /ɪɡˈzɑːnəreɪt/:** Absolve (someone) from blame for a fault or wrongdoing, especially after due consideration of the case. (Đây là một động từ dùng để chỉ việc giải oan hoặc minh oan.).
-Ví dụ: New DNA testing has helped to exonerate many people who were wrongly convicted.
-
----
-
-131. **Extradition (n) /ˌekstrəˈdɪʃn/:** The action of extraditing a person accused or convicted of a crime. (Đây là một danh từ dùng để chỉ việc dẫn độ tội phạm.).
-Ví dụ: The government is seeking the extradition of the suspect from the neighboring country.
-
----
-
-132. **Eye-witness (n) /ˈaɪ ˌwɪtnəs/:** A person who has personally seen something happen and so can give a first-hand description of it. (Đây là một danh từ dùng để chỉ nhân chứng trực tiếp kiến chứng sự việc.).
-Ví dụ: The prosecution called an eye-witness who saw the defendant leaving the crime scene.
-
----
-
-133. **Felon (n) /ˈfelən/:** A person who has been convicted of a felony. (Đây là một danh từ dùng để chỉ tội phạm phạm trọng tội.).
-Ví dụ: As a convicted felon, he is no longer allowed to own a firearm.
-
----
-
-134. **Fine (n/v) /faɪn/:** A sum of money exacted as a penalty by a court of law or other authority. (Đây là một danh từ/động từ dùng để chỉ tiền phạt hoặc việc xử phạt bằng tiền.).
-Ví dụ: He had to pay a heavy fine for speeding in a residential area.
-
----
-
-135. **Forensic (adj) /fəˈrenzɪk/:** Relating to or denoting the application of scientific methods and techniques to the investigation of crime. (Đây là một tính từ dùng để chỉ thuộc về pháp y/kỹ thuật hình sự.).
-Ví dụ: Forensic evidence like fingerprints and DNA helped to identify the killer.
-
----
-
-136. **Gallows (n) /ˈɡæloʊz/:** A structure, typically of two uprights and a crosspiece, for the hanging of criminals. (Đây là một danh từ dùng để chỉ giá treo cổ.).
-Ví dụ: In the past, many criminals met their end on the gallows in the town square.
-
----
-
-137. **Gang (n) /ɡæŋ/:** An organized group of criminals. (Đây là một danh từ dùng để chỉ băng đảng tội phạm.).
-Ví dụ: The city has seen a rise in gang-related violence over the last year.
-
----
-
-138. **Grand jury (n) /ˌɡrænd ˈdʒʊri/:** A jury, normally of twenty-three jurors, selected to examine the validity of an accusation before trial. (Đây là một cụm danh từ dùng để chỉ đại bồi thẩm đoàn.).
-Ví dụ: The grand jury decided there was enough evidence to proceed with the trial.
-
----
-
-139. **Guilty (adj) /ˈɡɪlti/:** Culpable of or responsible for a specified wrongdoing. (Đây là một tính từ dùng để chỉ việc có tội.).
-Ví dụ: The defendant pleaded guilty to the charges of theft and assault.
-
----
-
-140. **Hate crime (n) /ˈheɪt kraɪm/:** A crime, typically one involving violence, that is motivated by prejudice on the basis of race, religion, sexual orientation, or other grounds. (Đây là một cụm danh từ dùng để chỉ tội phạm do thù ghét/kỳ thị.).
-Ví dụ: The assault is being investigated as a hate crime because of the racial slurs used.
-
----
-
-141. **Hearing (n) /ˈhɪrɪŋ/:** An opportunity to state one's case. (Đây là một danh từ dùng để chỉ phiên điều trần hoặc phiên tòa sơ thẩm.).
-Ví dụ: The preliminary hearing will determine if there is enough evidence for a trial.
-
----
-
-142. **Homicide (n) /ˈhɑːmɪsaɪd/:** The killing of one person by another. (Lặp lại để nhấn mạnh nghĩa danh từ killing.).
-Ví dụ: The homicide rate in the country has reached its highest level in twenty years.
-
----
-
-143. **Hostage (n) /ˈhɑːstɪdʒ/:** A person seized or held as security for the fulfillment of a condition. (Đây là một danh từ dùng để chỉ con tin.).
-Ví dụ: The bank robbers took several employees as hostages during the standoff with police.
-
----
-
-144. **Hung jury (n) /ˌhʌŋ ˈdʒʊri/:** A jury that is unable to reach a verdict of guilty or not guilty. (Đây là một cụm danh từ dùng để chỉ bồi thẩm đoàn không thống nhất được phán quyết.).
-Ví dụ: The judge declared a mistrial after the case resulted in a hung jury.
-
----
-
-145. **Illegal (adj) /ɪˈliːɡl/:** Contrary to or forbidden by law, especially criminal law. (Đây là một tính từ dùng để chỉ những gì bất hợp pháp.).
-Ví dụ: It is illegal to drive a car without a valid driver's license.
-
----
-
-146. **Immunity (n) /ɪˈmjuːnəti/:** Exemption from a service, duty, or liability. (Trong luật pháp, đây là quyền miễn trừ.).
-Ví dụ: The witness was granted immunity from prosecution in exchange for his testimony.
-
----
-
-147. **Imprison (v) /ɪmˈprɪzn/:** Put or keep in prison. (Động từ của prison, chỉ việc bỏ tù.).
-Ví dụ: He was imprisoned for five years for his involvement in the political protests.
-
----
-
-148. **Incarcerate (v) /ɪnˈkɑːrsəreɪt/:** Imprison or confine. (Động từ trang trọng của imprison.).
-Ví dụ: The government plans to incarcerate more drug dealers in high-security prisons.
-
----
-
-149. **Innocent (adj) /ˈɪnəsnt/:** Not guilty of a crime or offense. (Đây là một tính từ dùng để chỉ sự vô tội.).
-Ví dụ: The man spent years in prison before it was proven that he was completely innocent.
-
----
-
-150. **Inmate (n) /ˈɪnmeɪt/:** A person confined to an institution such as a prison or hospital. (Đây là một danh từ dùng để chỉ bạn tù hoặc người bị giam giữ.).
-Ví dụ: The prison inmates are allowed to have visitors once a week.
-
----
-
-151. **Interrogation (n) /ɪnˌterəˈɡeɪʃn/:** The action of interrogating someone. (Đây là một danh từ dùng để chỉ sự thẩm vấn hoặc tra hỏi.).
-Ví dụ: The suspect was subjected to several hours of intense interrogation by the detectives.
-
----
-
-152. **Judge (n/v) /dʒʌdʒ/:** A public official appointed to decide cases in a court of law. (Đây là một danh từ/động từ dùng để chỉ thẩm phán hoặc việc xét xử.).
-Ví dụ: The judge listened carefully to both sides of the argument before making a decision.
-
----
-
-153. **Jury (n) /ˈdʒʊri/:** A body of people (typically twelve in number) sworn to give a verdict in a legal case. (Đây là một danh từ dùng để chỉ bồi thẩm đoàn.).
-Ví dụ: Members of the jury must be impartial and base their decision only on the evidence.
-
----
-
-154. **Justice (n) /ˈdʒʌstɪs/:** Just behavior or treatment. (Lặp lại lần 2 để nhấn mạnh nghĩa sự công bằng/công lý.).
-Ví dụ: The quest for justice for the victims continues even after the trial has ended.
-
----
-
-155. **Law (n) /lɔː/:** The system of rules which a particular country or community recognizes as regulating the actions of its members. (Đây là một danh từ dùng để chỉ luật pháp.).
-Ví dụ: No one is above the law, regardless of their status or wealth.
-
----
-
-156. **Lawsuit (n) /ˈlɔːsuːt/:** A claim or dispute brought to a law court for adjudication. (Đây là một danh từ dùng để chỉ vụ kiện dân sự.).
-Ví dụ: The environmental group has filed a lawsuit against the factory for polluting the river.
-
----
-
-157. **Legal aid (n) /ˌliːɡl ˈeɪd/:** Payment from public funds allowed to people who cannot afford to pay for a lawyer. (Đây là một cụm danh từ dùng để chỉ sự trợ giúp pháp lý miễn phí.).
-Ví dụ: People on low incomes can apply for legal aid to help with their court costs.
-
----
-
-158. **Life sentence (n) /ˌlaɪf ˈsentəns/:** A sentence of imprisonment for the rest of a person's life. (Đây là một cụm danh từ dùng để chỉ bản án chung thân.).
-Ví dụ: He was given a life sentence for the double murder he committed.
-
----
-
-159. **Litigation (n) /ˌlɪtɪˈɡeɪʃn/:** The process of taking legal action. (Đây là một danh từ dùng để chỉ quá trình tranh tụng tại tòa.).
-Ví dụ: The company is currently involved in a complex piece of litigation over patent rights.
-
----
-
-160. **Magistrate (n) /ˈmædʒɪstreɪt/:** A civil officer or lay judge who administers the law. (Đây là một danh từ dùng để chỉ thẩm phán sơ thẩm hoặc viên chức tư pháp.).
-Ví dụ: The case was heard by a local magistrate who decided to impose a fine.
-
----
-
-161. **Mandatory (adj) /ˈmændətɔːri/:** Required by law or rules; compulsory. (Đây là một tính từ dùng để chỉ những gì bắt buộc, ví dụ: "mandatory sentencing" - tuyên án bắt buộc.).
-Ví dụ: There is a mandatory minimum sentence for certain drug-related offenses.
-
----
-
-162. **Manslaughter (n) /ˈmænslɔːtər/:** The crime of killing a human being without malice aforethought. (Lặp lại để nhấn mạnh nghĩa tội ngộ sát.).
-Ví dụ: The charges were reduced from murder to manslaughter due to the circumstances.
-
----
-
-163. **Money laundering (n) /ˈmʌni ˌlɔːndərɪŋ/:** The concealment of the origins of illegally obtained money. (Lặp lại để ghi nhớ nghĩa tội rửa tiền.).
-Ví dụ: The bank was fined for its failure to prevent money laundering through its accounts.
-
----
-
-164. **Mugging (n) /ˈmʌɡɪŋ/:** An act of attacking and robbing someone in a public place. (Đây là một danh từ dùng để chỉ vụ trấn lột/cướp giật trên đường phố.).
-Ví dụ: The tourist was traumatized after a mugging in a dark alleyway.
-
----
-
-165. **Negligence (n) /ˈneɡlɪdʒəns/:** Failure to take proper care in doing something. (Đây là một danh từ dùng để chỉ sự sơ suất hoặc cẩu thả gây hậu quả pháp lý.).
-Ví dụ: The hospital was sued for medical negligence after the patient's condition worsened.
-
----
-
-166. **Not guilty (adj) /ˌnɑːt ˈɡɪlti/:** Innocent of a crime. (Đây là một cụm tính từ dùng để chỉ sự vô tội.).
-Ví dụ: The defendant pleaded not guilty and asked for a trial by jury.
-
----
-
-167. **Oath (n) /oʊθ/:** A solemn promise, often invoking a divine witness, regarding one's future action or behavior. (Đây là một danh từ dùng để chỉ lời thề hoặc lời tuyên thệ tại tòa.).
-Ví dụ: All witnesses must take an oath to tell the truth before they give evidence.
-
----
-
-168. **Offense (n) /əˈfens/:** A breach of a law or rule; an illegal act. (Đây là một danh từ dùng để chỉ hành vi phạm tội/lỗi vi phạm.).
-Ví dụ: This is his first offense, so the judge might be lenient with the sentence.
-
----
-
-169. **Order (n/v) /ˈɔːrdər/:** An authoritative command, direction, or instruction. (Đây là một danh từ/động từ dùng để chỉ trật tự hoặc lệnh của tòa án.).
-Ví dụ: The judge issued an order for the suspect to stay away from the victim.
-
----
-
-170. **Overrule (v) /ˌoʊvərˈruːl/:** Reject or disallow by exercising one's superior authority. (Đây là một động từ dùng để chỉ việc bác bỏ (lời phản đối của luật sư) bởi thẩm phán.).
-Ví dụ: The judge overruled the prosecutor's objection and allowed the witness to continue.
-
----
-
-171. **Pardon (n/v) /ˈpɑːrdn/:** The action of forgiving an offense. (Lặp lại để ghi nhớ nghĩa ân xá.).
-Ví dụ: He was granted a full pardon after spent ten years in prison for a crime he didn't commit.
-
----
-
-172. **Parole (n) /pəˈroʊl/:** Release of a prisoner before completion of a sentence. (Lặp lại lần 2 để nhấn mạnh nghĩa phóng thích có điều kiện.).
-Ví dụ: To stay on parole, he must meet with his parole officer every week.
-
----
-
-173. **Penal code (n) /ˌpiːnl ˈkoʊd/:** A code of laws concerning crimes and offenses and their punishment. (Đây là một cụm danh từ dùng để chỉ bộ luật hình sự.).
-Ví dụ: The country is currently revising its penal code to include new types of cybercrime.
-
----
-
-174. **Penalty (n) /ˈpenəlti/:** A punishment imposed for breaking a law. (Lặp lại để ghi nhớ nghĩa hình phạt.).
+59. **Penalty (n) /ˈpenəlti/:** A punishment imposed for breaking a law. (Lặp lại để ghi nhớ nghĩa hình phạt.).
 Ví dụ: The maximum penalty for this crime is life imprisonment.
 
 ---
 
-175. **Perjury (n) /ˈpɜːrdʒəri/:** The offense of willfully telling an untruth in a court. (Lặp lại lần 2 để nhấn mạnh tội khai man.).
-Ví dụ: He committed perjury when he lied about his whereabouts on the night of the murder.
+60. **Police (n) /pəˈliːs/:** The civil force of a national or local government, responsible for the prevention and detection of crime and the maintenance of public order. (Đây là một danh từ dùng để chỉ lực lượng cảnh sát.).
+Ví dụ: The police were called to the scene of the domestic disturbance.
 
 ---
 
-176. **Plea (n) /pliː/:** A formal statement by or on behalf of a defendant or prisoner, stating guilt or innocence. (Đây là một danh từ dùng để chỉ lời bào chữa hoặc sự tự nhận tội/vô tội.).
+61. **Prison (n) /ˈprɪzn/:** A building in which people are legally held as a punishment for a crime they have committed or while awaiting trial. (Đây là một danh từ dùng để chỉ nhà tù.).
+Ví dụ: The overcrowding in state prisons is a major concern for human rights organizations.
+
+---
+
+62. **Probation (n) /proʊˈbeɪʃn/:** The release of an offender from detention, subject to a period of good behavior under supervision. (Đây là một danh từ dùng để chỉ án treo hoặc thời gian thử thách.).
+Ví dụ: Instead of being sent to prison, the teenager was placed on two years of probation.
+
+---
+
+63. **Punishment (n) /ˈpʌnɪʃmənt/:** The infliction or imposition of a penalty as retribution for an offense. (Đây là một danh từ dùng để chỉ sự trừng phạt.).
+Ví dụ: Many believe that the punishment should always fit the crime.
+
+---
+
+64. **Ransom (n/v) /ˈrænsəm/:** A sum of money demanded or paid for the release of a captive. (Đây là một danh từ/động từ dùng để chỉ tiền chuộc hoặc đòi tiền chuộc.).
+Ví dụ: The kidnappers demanded a five-million dollar ransom for the safe return of the girl.
+
+---
+
+65. **Release (n/v) /rɪˈliːs/:** Allow or enable to escape from confinement; set free. (Đây là một danh từ/động từ dùng để chỉ sự phóng thích hoặc thả tự do.).
+Ví dụ: The innocent man was finally released from prison after twenty years.
+
+---
+
+66. **Retribution (n) /ˌretrɪˈbjuːʃn/:** Punishment inflicted on someone as vengeance for a wrong or criminal act. (Đây là một danh từ dùng để chỉ sự báo thù hoặc sự trừng phạt thích đáng.).
+Ví dụ: Some victims' families seek retribution, while others focus on finding closure.
+
+---
+
+67. **Robbery (n) /ˈrɑːbəri/:** The action of taking property unlawfully from a person or place by force or threat of force. (Đây là một danh từ dùng để chỉ tội cướp tài sản dùng vũ lực.).
+Ví dụ: An armed robbery took place at the jewelry store during broad daylight.
+
+---
+
+68. **Stalking (n) /ˈstɔːkɪŋ/:** The act of following or harassing someone in an obsessive or threatening way. (Đây là một danh từ dùng để chỉ hành vi lén lút theo dõi/quấy rối người khác.).
+Ví dụ: She contacted the police after becoming a victim of online stalking.
+
+---
+
+69. **Statute (n) /ˈstætʃuːt/:** A written law passed by a legislative body. (Đây là một danh từ dùng để chỉ đạo luật hoặc quy chế.).
+Ví dụ: The protection of endangered species is enshrined in national statute.
+
+---
+
+70. **Subpoena (n/v) /səˈpiːnə/:** A writ ordering a person to attend a court. (Đây là một danh từ/động từ dùng để chỉ lệnh hầu tòa hoặc trát tòa.).
+Ví dụ: The defense lawyer requested a subpoena for several key witnesses.
+
+---
+
+71. **Surveillance (n) /sɜːrˈveɪləns/:** Close observation, especially of a suspected spy or criminal. (Đây là một danh từ dùng để chỉ sự giám sát/theo dõi.).
+Ví dụ: The suspect was under 24-hour police surveillance for several weeks.
+
+---
+
+72. **Vandalism (n) /ˈvændəlɪzəm/:** Action involving deliberate destruction of or damage to public or private property. (Đây là một danh từ dùng để chỉ hành vi phá hoại tài sản công cộng.).
+Ví dụ: The local park has suffered from increasing acts of vandalism recently.
+
+---
+
+73. **Victim (n) /ˈvɪktɪm/:** A person harmed, injured, or killed as a result of a crime, accident, or other event or action. (Đây là một danh từ dùng để chỉ nạn nhân.).
+Ví dụ: Support groups provide essential services for the victims of domestic violence.
+
+---
+
+74. **Violation (n) /ˌvaɪəˈleɪʃn/:** The action of violating someone or something. (Đây là một danh từ dùng để chỉ sự vi phạm luật pháp hoặc quyền lợi.).
+Ví dụ: The company was fined for multiple violations of health and safety regulations.
+
+---
+
+75. **Warrant (n) /ˈwɔːrənt/:** A document issued by a legal or government official authorizing the police or some other body to make an arrest, search premises. (Đây là một danh từ dùng để chỉ lệnh bắt giữ hoặc lệnh khám xét.).
+Ví dụ: The police obtained a search warrant before entering the suspect's house.
+
+---
+
+76. **White-collar crime (n) /ˌwaɪt ˈkɑːlər kraɪm/:** Financially motivated nonviolent crime committed by business and government professionals. (Đây là một cụm danh từ dùng để chỉ tội phạm cổ cồn trắng/tội phạm kinh tế trí thức.).
+Ví dụ: Insider trading and tax evasion are typical examples of white-collar crime.
+
+---
+
+77. **Accusation (n) /ˌækjuˈzeɪʃn/:** A charge or claim that someone has done something illegal or wrong. (Đây là một danh từ dùng để chỉ sự cáo buộc.).
+Ví dụ: He denied the accusations of corruption made against him by the media.
+
+---
+
+78. **Alibi (n) /ˈæləbaɪ/:** A claim or piece of evidence that one was elsewhere when an act, typically a criminal one, is alleged to have taken place. (Đây là một danh từ dùng để chỉ chứng cứ ngoại phạm.).
+Ví dụ: The suspect had a solid alibi; he was at work when the crime occurred.
+
+---
+
+79. **Allegation (n) /ˌæləˈɡeɪʃn/:** A claim or assertion that someone has done something illegal or wrong, typically one made without proof. (Đây là một danh từ dùng để chỉ sự khẳng định/cáo buộc chưa có bằng chứng.).
+Ví dụ: The police are investigating allegations of physical abuse at the nursing home.
+
+---
+
+80. **Appeal (n/v) /əˈpiːl/:** Apply to a higher court for a reversal of the decision of a lower court. (Đây là một danh từ/động từ dùng để chỉ sự kháng cáo.).
+Ví dụ: The defendant decided to appeal against his conviction for armed robbery.
+
+---
+
+81. **Appellate (adj) /əˈpelət/:** (Of a court) concerned with or dealing with applications for decisions to be reversed. (Đây là một tính từ dùng để chỉ tòa án phúc thẩm.).
+Ví dụ: The appellate court overturned the lower court's ruling due to a legal error.
+
+---
+
+82. **Armed robbery (n) /ˌɑːrmd ˈrɑːbəri/:** The crime of taking property from a person or place using a weapon. (Đây là một cụm danh từ dùng để chỉ vụ cướp có vũ trang.).
+Ví dụ: The shopkeeper was threatened during the armed robbery but was not physically harmed.
+
+---
+
+83. **Attorney (n) /əˈtɜːrni/:** A person, typically a lawyer, appointed to act for another in business or legal matters. (Đây là một danh từ chỉ luật sư ủy quyền/biện hộ.).
+Ví dụ: You have the right to an attorney; if you cannot afford one, the state will provide one.
+
+---
+
+84. **Ban (n/v) /bæn/:** Officially or legally prohibit. (Đây là một danh từ/động từ dùng để chỉ lệnh cấm hoặc việc cấm đoán.).
+Ví dụ: The government has decided to ban the sale of tobacco to anyone under 21.
+
+---
+
+85. **Barrister (n) /ˈbærɪstər/:** A lawyer entitled to practice as an advocate, particularly in the higher courts. (Đây là một danh từ dùng để chỉ luật sư tranh tụng trước tòa.).
+Ví dụ: The barrister delivered a powerful closing argument that swayed the jury.
+
+---
+
+86. **Blackmail (n/v) /ˈblækmeɪl/:** The action, treated as a criminal offense, of demanding payment or another benefit from someone in return for not revealing compromising information about them. (Đây là một danh từ/động từ dùng để chỉ hành vi tống tiền bằng bí mật cá nhân.).
+Ví dụ: He was arrested for attempting to blackmail a famous Hollywood actor.
+
+---
+
+87. **Bootlegging (n) /ˈbuːtleɡɪŋ/:** Make, distribute, or sell (illicit goods, especially liquor, computer software, or recordings) illegally. (Đây là một danh từ dùng để chỉ hành vi sản xuất/buôn bán hàng cấm, lậu.).
+Ví dụ: Bootlegging of alcohol was a major problem during the Prohibition era.
+
+---
+
+88. **Bounty (n) /ˈbaʊnti/:** A sum paid for killing or capturing a person or animal. (Đây là một danh từ dùng để chỉ tiền thưởng cho việc bắt tội phạm.).
+Ví dụ: The government has offered a large bounty for any information leading to the arrest of the terrorist.
+
+---
+
+89. **Breathalyzer (n) /ˈbreθəlaɪzər/:** A device used by police for measuring the amount of alcohol in a driver's breath. (Đây là một danh từ dùng để chỉ máy đo nồng độ cồn.).
+Ví dụ: The police officer asked the driver to blow into the breathalyzer.
+
+---
+
+90. **Bribe (n/v) /braɪb/:** Persuade (someone) to act in one's favor, typically illegally or dishonestly, by a gift of money or other inducement. (Đây là một danh từ/động từ dùng để chỉ của hối lộ hoặc việc đút lót.).
+Ví dụ: He tried to bribe the border official to let him through without a visa.
+
+---
+
+91. **Case (n) /keɪs/:** An instance of a particular situation; an incident or series of incidents being investigated by the police or heard in a court. (Đây là một danh từ dùng để chỉ vụ án hoặc hồ sơ pháp lý.).
+Ví dụ: The detective spent months working on the cold case that had remained unsolved for years.
+
+---
+
+92. **Cell (n) /sel/:** A small room in which a prisoner is locked. (Đây là một danh từ dùng để chỉ buồng giam.).
+Ví dụ: The prisoner was confined to his cell for twenty-three hours a day.
+
+---
+
+93. **Charge (n/v) /tʃɑːrdʒ/:** Accuse someone of something, especially an offense under law. (Đây là một danh từ/động từ dùng để chỉ sự cáo buộc hoặc buộc tội.).
+Ví dụ: The police have decided to drop all charges against the suspect.
+
+---
+
+94. **Civil law (n) /ˌsɪvl ˈlɔː/:** The system of law concerned with private relations between members of a community rather than criminal, military, or religious affairs. (Đây là một cụm danh từ dùng để chỉ luật dân sự.).
+Ví dụ: In civil law cases, the burden of proof is lower than in criminal cases.
+
+---
+
+95. **Commute (v) /kəˈmjuːt/:** Reduce (a judicial sentence, especially a sentence of death) to one less severe. (Trong tư pháp, đây là việc giảm án.).
+Ví dụ: The governor decided to commute the prisoner's death sentence to life in prison.
+
+---
+
+96. **Compensation (n) /ˌkɑːmpenˈseɪʃn/:** Something, typically money, awarded to someone as a recompense for loss, injury, or suffering. (Đây là một danh từ dùng để chỉ sự bồi thường.).
+Ví dụ: The victim is seeking compensation for the medical expenses and lost wages.
+
+---
+
+97. **Confession (n) /kənˈfeʃn/:** A formal statement admitting that one is guilty of a crime. (Đây là một danh từ dùng để chỉ lời thú tội.).
+Ví dụ: The police obtained a full confession from the suspect during the interrogation.
+
+---
+
+98. **Confiscate (v) /ˈkɑːnfɪskeɪt/:** Take or seize (someone's property) with authority. (Đây là một động từ dùng để chỉ việc tịch thu tài sản.).
+Ví dụ: Customs officials confiscated the illegal ivory that was hidden in the luggage.
+
+---
+
+99. **Consensus (n) /kənˈsensəs/:** A general agreement. (Trong bồi thẩm đoàn, đây là sự đồng thuận về phán quyết.).
+Ví dụ: The jury was unable to reach a consensus, resulting in a hung jury.
+
+---
+
+100. **Contraband (n) /ˈkɑːntrəbænd/:** Goods that have been imported or exported illegally. (Đây là một danh từ dùng để chỉ hàng lậu/hàng cấm.).
+Ví dụ: The ship was searched for contraband drugs and weapons.
+
+---
+
+101. **Coroner (n) /ˈkɔːrənər/:** An official who investigates violent, sudden, or suspicious deaths. (Đây là một danh từ dùng để chỉ nhân viên điều tra nguyên nhân cái chết/pháp y.).
+Ví dụ: The coroner's report confirmed that the cause of death was accidental drowning.
+
+---
+
+102. **Counsel (n) /ˈkaʊnsl/:** The lawyer or lawyers conducting a case. (Đây là một danh từ đồng nghĩa với lawyer, thường dùng để chỉ luật sư bào chữa trong phiên tòa.).
+Ví dụ: The judge asked the defense counsel to proceed with their opening statement.
+
+---
+
+103. **Counterfeit (adj/v) /ˈkaʊntərfɪt/:** Made in exact imitation of something valuable with the intention to deceive or defraud. (Đây là một tính từ/động từ dùng để chỉ hàng giả hoặc việc làm giả.).
+Ví dụ: The police seized thousands of dollars in counterfeit banknotes.
+
+---
+
+104. **Court (n) /kɔːrt/:** A tribunal presided over by a judge, judges, or a magistrate in civil and criminal cases. (Đây là một danh từ dùng để chỉ tòa án.).
+Ví dụ: The case will be heard in the high court next Monday.
+
+---
+
+105. **Crime (n) /kraɪm/:** An action or omission that constitutes an offense that may be prosecuted by the state and is punishable by law. (Đây là một danh từ dùng để chỉ tội phạm hoặc hành vi phạm tội.).
+Ví dụ: Violent crime rates have been decreasing in the city over the last decade.
+
+---
+
+106. **Criminal (n/adj) /ˈkrɪmɪnl/:** A person who has committed a crime. (Đây là một danh từ/tính từ dùng để chỉ tội phạm hoặc có tính chất phạm tội.).
+Ví dụ: The dangerous criminal was captured after a high-speed car chase.
+
+---
+
+107. **Cross-examination (n) /ˌkrɔːs ɪɡˌzæmɪˈneɪʃn/:** The formal interrogation of a witness called by the other party in a court of law to challenge or extend testimony already given. (Đây là một danh từ dùng để chỉ sự thẩm vấn chéo tại tòa.).
+Ví dụ: During cross-examination, the defense lawyer pointed out several inconsistencies in the witness's story.
+
+---
+
+108. **Damages (n) /ˈdæmɪdʒɪz/:** A sum of money claimed or awarded in compensation for a loss or an injury. (Trong luật dân sự, đây là khoản tiền bồi thường thiệt hại.).
+Ví dụ: The court awarded the plaintiff $100,000 in damages for pain and suffering.
+
+---
+
+109. **Decree (n/v) /dɪˈkriː/:** An official order issued by a legal authority. (Đây là một danh từ/động từ dùng để chỉ sắc lệnh hoặc việc ra lệnh.).
+Ví dụ: The judge issued a decree for the immediate release of the prisoner.
+
+---
+
+110. **Deliberation (n) /dɪˌlɪbəˈreɪʃn/:** Long and careful consideration or discussion. (Trong tòa án, đây là sự thảo luận kín của bồi thẩm đoàn để đưa ra phán quyết.).
+Ví dụ: After three days of deliberation, the jury finally reached a decision.
+
+---
+
+111. **Deposition (n) /ˌdepəˈzɪʃn/:** The process of giving sworn evidence. (Đây là một danh từ dùng để chỉ việc lấy lời khai có tuyên thệ bên ngoài tòa án.).
+Ví dụ: The lawyer took a deposition from the doctor regarding the victim's injuries.
+
+---
+
+112. **Detective (n) /dɪˈtektɪv/:** A person, especially a police officer, whose occupation is to investigate and solve crimes. (Đây là một danh từ dùng để chỉ thám tử hoặc điều tra viên.).
+Ví dụ: The lead detective spent years tracking down the serial killer.
+
+---
+
+113. **Detention (n) /dɪˈtenʃn/:** The action of detaining someone or the state of being detained in official custody. (Đây là một danh từ dùng để chỉ sự giam cầm hoặc tạm giữ.).
+Ví dụ: The suspect was held in detention for 48 hours without being charged.
+
+---
+
+114. **Disorderly conduct (n) /dɪsˌɔːrdərli ˈkɑːndʌkt/:** A legal term used to describe behavior that is offensive, annoying, or disruptive to others. (Đây là một cụm danh từ dùng để chỉ hành vi gây rối trật tự công cộng.).
+Ví dụ: He was arrested for disorderly conduct after getting into a fight at the bar.
+
+---
+
+115. **Docket (n) /ˈdɑːkɪt/:** A calendar or list of cases for trial or people having cases pending. (Đây là một danh từ dùng để chỉ danh sách các vụ án sắp xét xử.).
+Ví dụ: The court's docket is full for the next six months, leading to long delays.
+
+---
+
+116. **Domestic violence (n) /dəˌmestɪk ˈvaɪələns/:** Violent or aggressive behavior within the home, typically involving the violent abuse of a spouse or partner. (Đây là một cụm danh từ dùng để chỉ bạo lực gia đình.).
+Ví dụ: The charity provides a safe haven for women and children who are fleeing domestic violence.
+
+---
+
+117. **Drug trafficking (n) /ˈdrʌɡ ˌtræfɪkɪŋ/:** The production, distribution, and sale of illegal drugs. (Đây là một cụm danh từ dùng để chỉ tội buôn lậu ma túy.).
+Ví dụ: Drug trafficking is a major source of income for many international criminal organizations.
+
+---
+
+118. **Drunken driving (n) /ˌdrʌŋkən ˈdraɪvɪŋ/:** The crime of driving a vehicle with excess alcohol in the blood. (Đây là một cụm danh từ dùng để chỉ hành vi lái xe khi say rượu.).
+Ví dụ: Drunken driving is a serious offense that can lead to fatal accidents.
+
+---
+
+119. **Due process (n) /ˌduː ˈproʊses/:** Fair treatment through the normal judicial system, especially as a citizen's entitlement. (Đây là một cụm danh từ dùng để chỉ quy trình tố tụng công bằng.).
+Ví dụ: The legal system must ensure that every citizen receives due process of law.
+
+---
+
+120. **Embezzle (v) /ɪmˈbezl/:** Steal or misappropriate (money placed in one's trust or belonging to one's employer). (Động từ của embezzlement, chỉ việc thụ thụt/tham ô.).
+Ví dụ: He was accused of trying to embezzle funds from the pension scheme.
+
+---
+
+121. **Exonerate (v) /ɪɡˈzɑːnəreɪt/:** Absolve (someone) from blame for a fault or wrongdoing, especially after due consideration of the case. (Đây là một động từ dùng để chỉ việc giải oan hoặc minh oan.).
+Ví dụ: New DNA testing has helped to exonerate many people who were wrongly convicted.
+
+---
+
+122. **Extradition (n) /ˌekstrəˈdɪʃn/:** The action of extraditing a person accused or convicted of a crime. (Đây là một danh từ dùng để chỉ việc dẫn độ tội phạm.).
+Ví dụ: The government is seeking the extradition of the suspect from the neighboring country.
+
+---
+
+123. **Eye-witness (n) /ˈaɪ ˌwɪtnəs/:** A person who has personally seen something happen and so can give a first-hand description of it. (Đây là một danh từ dùng để chỉ nhân chứng trực tiếp kiến chứng sự việc.).
+Ví dụ: The prosecution called an eye-witness who saw the defendant leaving the crime scene.
+
+---
+
+124. **Felon (n) /ˈfelən/:** A person who has been convicted of a felony. (Đây là một danh từ dùng để chỉ tội phạm phạm trọng tội.).
+Ví dụ: As a convicted felon, he is no longer allowed to own a firearm.
+
+---
+
+125. **Fine (n/v) /faɪn/:** A sum of money exacted as a penalty by a court of law or other authority. (Đây là một danh từ/động từ dùng để chỉ tiền phạt hoặc việc xử phạt bằng tiền.).
+Ví dụ: He had to pay a heavy fine for speeding in a residential area.
+
+---
+
+126. **Forensic (adj) /fəˈrenzɪk/:** Relating to or denoting the application of scientific methods and techniques to the investigation of crime. (Đây là một tính từ dùng để chỉ thuộc về pháp y/kỹ thuật hình sự.).
+Ví dụ: Forensic evidence like fingerprints and DNA helped to identify the killer.
+
+---
+
+127. **Gallows (n) /ˈɡæloʊz/:** A structure, typically of two uprights and a crosspiece, for the hanging of criminals. (Đây là một danh từ dùng để chỉ giá treo cổ.).
+Ví dụ: In the past, many criminals met their end on the gallows in the town square.
+
+---
+
+128. **Gang (n) /ɡæŋ/:** An organized group of criminals. (Đây là một danh từ dùng để chỉ băng đảng tội phạm.).
+Ví dụ: The city has seen a rise in gang-related violence over the last year.
+
+---
+
+129. **Grand jury (n) /ˌɡrænd ˈdʒʊri/:** A jury, normally of twenty-three jurors, selected to examine the validity of an accusation before trial. (Đây là một cụm danh từ dùng để chỉ đại bồi thẩm đoàn.).
+Ví dụ: The grand jury decided there was enough evidence to proceed with the trial.
+
+---
+
+130. **Guilty (adj) /ˈɡɪlti/:** Culpable of or responsible for a specified wrongdoing. (Đây là một tính từ dùng để chỉ việc có tội.).
+Ví dụ: The defendant pleaded guilty to the charges of theft and assault.
+
+---
+
+131. **Hate crime (n) /ˈheɪt kraɪm/:** A crime, typically one involving violence, that is motivated by prejudice on the basis of race, religion, sexual orientation, or other grounds. (Đây là một cụm danh từ dùng để chỉ tội phạm do thù ghét/kỳ thị.).
+Ví dụ: The assault is being investigated as a hate crime because of the racial slurs used.
+
+---
+
+132. **Hearing (n) /ˈhɪrɪŋ/:** An opportunity to state one's case. (Đây là một danh từ dùng để chỉ phiên điều trần hoặc phiên tòa sơ thẩm.).
+Ví dụ: The preliminary hearing will determine if there is enough evidence for a trial.
+
+---
+
+133. **Hostage (n) /ˈhɑːstɪdʒ/:** A person seized or held as security for the fulfillment of a condition. (Đây là một danh từ dùng để chỉ con tin.).
+Ví dụ: The bank robbers took several employees as hostages during the standoff with police.
+
+---
+
+134. **Hung jury (n) /ˌhʌŋ ˈdʒʊri/:** A jury that is unable to reach a verdict of guilty or not guilty. (Đây là một cụm danh từ dùng để chỉ bồi thẩm đoàn không thống nhất được phán quyết.).
+Ví dụ: The judge declared a mistrial after the case resulted in a hung jury.
+
+---
+
+135. **Illegal (adj) /ɪˈliːɡl/:** Contrary to or forbidden by law, especially criminal law. (Đây là một tính từ dùng để chỉ những gì bất hợp pháp.).
+Ví dụ: It is illegal to drive a car without a valid driver's license.
+
+---
+
+136. **Immunity (n) /ɪˈmjuːnəti/:** Exemption from a service, duty, or liability. (Trong luật pháp, đây là quyền miễn trừ.).
+Ví dụ: The witness was granted immunity from prosecution in exchange for his testimony.
+
+---
+
+137. **Imprison (v) /ɪmˈprɪzn/:** Put or keep in prison. (Động từ của prison, chỉ việc bỏ tù.).
+Ví dụ: He was imprisoned for five years for his involvement in the political protests.
+
+---
+
+138. **Incarcerate (v) /ɪnˈkɑːrsəreɪt/:** Imprison or confine. (Động từ trang trọng của imprison.).
+Ví dụ: The government plans to incarcerate more drug dealers in high-security prisons.
+
+---
+
+139. **Innocent (adj) /ˈɪnəsnt/:** Not guilty of a crime or offense. (Đây là một tính từ dùng để chỉ sự vô tội.).
+Ví dụ: The man spent years in prison before it was proven that he was completely innocent.
+
+---
+
+140. **Inmate (n) /ˈɪnmeɪt/:** A person confined to an institution such as a prison or hospital. (Đây là một danh từ dùng để chỉ bạn tù hoặc người bị giam giữ.).
+Ví dụ: The prison inmates are allowed to have visitors once a week.
+
+---
+
+141. **Interrogation (n) /ɪnˌterəˈɡeɪʃn/:** The action of interrogating someone. (Đây là một danh từ dùng để chỉ sự thẩm vấn hoặc tra hỏi.).
+Ví dụ: The suspect was subjected to several hours of intense interrogation by the detectives.
+
+---
+
+142. **Judge (n/v) /dʒʌdʒ/:** A public official appointed to decide cases in a court of law. (Đây là một danh từ/động từ dùng để chỉ thẩm phán hoặc việc xét xử.).
+Ví dụ: The judge listened carefully to both sides of the argument before making a decision.
+
+---
+
+143. **Jury (n) /ˈdʒʊri/:** A body of people (typically twelve in number) sworn to give a verdict in a legal case. (Đây là một danh từ dùng để chỉ bồi thẩm đoàn.).
+Ví dụ: Members of the jury must be impartial and base their decision only on the evidence.
+
+---
+
+144. **Law (n) /lɔː/:** The system of rules which a particular country or community recognizes as regulating the actions of its members. (Đây là một danh từ dùng để chỉ luật pháp.).
+Ví dụ: No one is above the law, regardless of their status or wealth.
+
+---
+
+145. **Lawsuit (n) /ˈlɔːsuːt/:** A claim or dispute brought to a law court for adjudication. (Đây là một danh từ dùng để chỉ vụ kiện dân sự.).
+Ví dụ: The environmental group has filed a lawsuit against the factory for polluting the river.
+
+---
+
+146. **Legal aid (n) /ˌliːɡl ˈeɪd/:** Payment from public funds allowed to people who cannot afford to pay for a lawyer. (Đây là một cụm danh từ dùng để chỉ sự trợ giúp pháp lý miễn phí.).
+Ví dụ: People on low incomes can apply for legal aid to help with their court costs.
+
+---
+
+147. **Life sentence (n) /ˌlaɪf ˈsentəns/:** A sentence of imprisonment for the rest of a person's life. (Đây là một cụm danh từ dùng để chỉ bản án chung thân.).
+Ví dụ: He was given a life sentence for the double murder he committed.
+
+---
+
+148. **Litigation (n) /ˌlɪtɪˈɡeɪʃn/:** The process of taking legal action. (Đây là một danh từ dùng để chỉ quá trình tranh tụng tại tòa.).
+Ví dụ: The company is currently involved in a complex piece of litigation over patent rights.
+
+---
+
+149. **Magistrate (n) /ˈmædʒɪstreɪt/:** A civil officer or lay judge who administers the law. (Đây là một danh từ dùng để chỉ thẩm phán sơ thẩm hoặc viên chức tư pháp.).
+Ví dụ: The case was heard by a local magistrate who decided to impose a fine.
+
+---
+
+150. **Mandatory (adj) /ˈmændətɔːri/:** Required by law or rules; compulsory. (Đây là một tính từ dùng để chỉ những gì bắt buộc, ví dụ: "mandatory sentencing" - tuyên án bắt buộc.).
+Ví dụ: There is a mandatory minimum sentence for certain drug-related offenses.
+
+---
+
+151. **Mugging (n) /ˈmʌɡɪŋ/:** An act of attacking and robbing someone in a public place. (Đây là một danh từ dùng để chỉ vụ trấn lột/cướp giật trên đường phố.).
+Ví dụ: The tourist was traumatized after a mugging in a dark alleyway.
+
+---
+
+152. **Negligence (n) /ˈneɡlɪdʒəns/:** Failure to take proper care in doing something. (Đây là một danh từ dùng để chỉ sự sơ suất hoặc cẩu thả gây hậu quả pháp lý.).
+Ví dụ: The hospital was sued for medical negligence after the patient's condition worsened.
+
+---
+
+153. **Not guilty (adj) /ˌnɑːt ˈɡɪlti/:** Innocent of a crime. (Đây là một cụm tính từ dùng để chỉ sự vô tội.).
+Ví dụ: The defendant pleaded not guilty and asked for a trial by jury.
+
+---
+
+154. **Oath (n) /oʊθ/:** A solemn promise, often invoking a divine witness, regarding one's future action or behavior. (Đây là một danh từ dùng để chỉ lời thề hoặc lời tuyên thệ tại tòa.).
+Ví dụ: All witnesses must take an oath to tell the truth before they give evidence.
+
+---
+
+155. **Offense (n) /əˈfens/:** A breach of a law or rule; an illegal act. (Đây là một danh từ dùng để chỉ hành vi phạm tội/lỗi vi phạm.).
+Ví dụ: This is his first offense, so the judge might be lenient with the sentence.
+
+---
+
+156. **Order (n/v) /ˈɔːrdər/:** An authoritative command, direction, or instruction. (Đây là một danh từ/động từ dùng để chỉ trật tự hoặc lệnh của tòa án.).
+Ví dụ: The judge issued an order for the suspect to stay away from the victim.
+
+---
+
+157. **Overrule (v) /ˌoʊvərˈruːl/:** Reject or disallow by exercising one's superior authority. (Đây là một động từ dùng để chỉ việc bác bỏ (lời phản đối của luật sư) bởi thẩm phán.).
+Ví dụ: The judge overruled the prosecutor's objection and allowed the witness to continue.
+
+---
+
+158. **Penal code (n) /ˌpiːnl ˈkoʊd/:** A code of laws concerning crimes and offenses and their punishment. (Đây là một cụm danh từ dùng để chỉ bộ luật hình sự.).
+Ví dụ: The country is currently revising its penal code to include new types of cybercrime.
+
+---
+
+159. **Plea (n) /pliː/:** A formal statement by or on behalf of a defendant or prisoner, stating guilt or innocence. (Đây là một danh từ dùng để chỉ lời bào chữa hoặc sự tự nhận tội/vô tội.).
 Ví dụ: The defendant entered a plea of not guilty to all of the charges.
 
 ---
 
-177. **Police station (n) /pəˈliːs ˌsteɪʃn/:** The office or headquarters of a local police force. (Đây là một danh từ dùng để chỉ đồn cảnh sát.).
+160. **Police station (n) /pəˈliːs ˌsteɪʃn/:** The office or headquarters of a local police force. (Đây là một danh từ dùng để chỉ đồn cảnh sát.).
 Ví dụ: The suspect was taken to the local police station for questioning.
 
 ---
 
-178. **Precedent (n) /ˈpresɪdənt/:** An earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances. (Đây là một danh từ dùng để chỉ tiền lệ pháp.).
+161. **Precedent (n) /ˈpresɪdənt/:** An earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances. (Đây là một danh từ dùng để chỉ tiền lệ pháp.).
 Ví dụ: The judge's decision set a new precedent for how such cases are handled.
 
 ---
 
-179. **Prisoner (n) /ˈprɪznər/:** A person legally committed to prison as a punishment or while awaiting trial. (Đây là một danh từ dùng để chỉ tù nhân.).
+162. **Prisoner (n) /ˈprɪznər/:** A person legally committed to prison as a punishment or while awaiting trial. (Đây là một danh từ dùng để chỉ tù nhân.).
 Ví dụ: The prisoner escaped from the high-security facility through a ventilation shaft.
 
 ---
 
-180. **Prosecute (v) /ˈprɑːsɪkjuːt/:** Institute legal proceedings against (a person or organization). (Động từ chỉ việc truy tố.).
+163. **Prosecute (v) /ˈprɑːsɪkjuːt/:** Institute legal proceedings against (a person or organization). (Động từ chỉ việc truy tố.).
 Ví dụ: The government has decided to prosecute the company for environmental pollution.
 
 ---
 
-181. **Punish (v) /ˈpʌnɪʃ/:** Inflict a penalty or sanction on (someone) as retribution for an offense. (Đây là một động từ dùng để chỉ việc trừng phạt.).
+164. **Punish (v) /ˈpʌnɪʃ/:** Inflict a penalty or sanction on (someone) as retribution for an offense. (Đây là một động từ dùng để chỉ việc trừng phạt.).
 Ví dụ: Parents should not use physical violence to punish their children.
 
 ---
 
-182. **Racketeering (n) /ˌrækɪˈtɪrɪŋ/:** Dishonest and fraudulent business dealings. (Đây là một danh từ dùng để chỉ hành vi tống tiền hoặc làm ăn phi pháp có tổ chức.).
+165. **Racketeering (n) /ˌrækɪˈtɪrɪŋ/:** Dishonest and fraudulent business dealings. (Đây là một danh từ dùng để chỉ hành vi tống tiền hoặc làm ăn phi pháp có tổ chức.).
 Ví dụ: The mob boss was finally convicted of racketeering and tax evasion.
 
 ---
 
-183. **Rape (n/v) /reɪp/:** Unlawful sexual activity and usually sexual intercourse carried out forcibly. (Đây là một danh từ/động từ dùng để chỉ tội hiếp dâm.).
+166. **Rape (n/v) /reɪp/:** Unlawful sexual activity and usually sexual intercourse carried out forcibly. (Đây là một danh từ/động từ dùng để chỉ tội hiếp dâm.).
 Ví dụ: The survivor of the rape showed incredible courage during the trial.
 
 ---
 
-184. **Rehabilitate (v) /ˌriːəˈbɪlɪteɪt/:** Restore someone to health or normal life through training and therapy. (Động từ chỉ việc cải tạo/phục hồi nhân phẩm.).
+167. **Rehabilitate (v) /ˌriːəˈbɪlɪteɪt/:** Restore someone to health or normal life through training and therapy. (Động từ chỉ việc cải tạo/phục hồi nhân phẩm.).
 Ví dụ: The program is designed to rehabilitate young offenders and help them find jobs.
 
 ---
 
-185. **Reprieve (n/v) /rɪˈpriːv/:** Cancel or postpone the punishment of (someone, especially someone condemned to death). (Đây là một danh từ/động từ dùng để chỉ sự hoãn thi hành án.).
+168. **Reprieve (n/v) /rɪˈpriːv/:** Cancel or postpone the punishment of (someone, especially someone condemned to death). (Đây là một danh từ/động từ dùng để chỉ sự hoãn thi hành án.).
 Ví dụ: The prisoner was granted a last-minute reprieve just hours before his execution.
 
 ---
 
-186. **Rob (v) /rɑːb/:** Take property unlawfully from a person or place by force or threat of force. (Đây là một động từ dùng để chỉ việc cướp.).
+169. **Rob (v) /rɑːb/:** Take property unlawfully from a person or place by force or threat of force. (Đây là một động từ dùng để chỉ việc cướp.).
 Ví dụ: They were planning to rob a bank but were caught by the police beforehand.
 
 ---
 
-187. **Sanction (n/v) /ˈsæŋkʃn/:** A threatened penalty for disobeying a law or rule. (Đây là một danh từ/động từ dùng để chỉ lệnh trừng phạt hoặc việc xử phạt.).
+170. **Sanction (n/v) /ˈsæŋkʃn/:** A threatened penalty for disobeying a law or rule. (Đây là một danh từ/động từ dùng để chỉ lệnh trừng phạt hoặc việc xử phạt.).
 Ví dụ: The international community imposed sanctions on the country to stop the human rights abuses.
 
 ---
 
-188. **Serial killer (n) /ˌsɪriəl ˈkɪlər/:** A person who commits a series of murders, often with no apparent motive and typically following a characteristic, predictable behavior pattern. (Đây là một cụm danh từ dùng để chỉ kẻ sát nhân hàng loạt.).
+171. **Serial killer (n) /ˌsɪriəl ˈkɪlər/:** A person who commits a series of murders, often with no apparent motive and typically following a characteristic, predictable behavior pattern. (Đây là một cụm danh từ dùng để chỉ kẻ sát nhân hàng loạt.).
 Ví dụ: The police spent decades trying to capture the elusive serial killer.
 
 ---
 
-189. **Shoplifter (n) /ˈʃɑːplɪftər/:** A person who steals goods from a shop while pretending to be a customer. (Danh từ chỉ kẻ trộm đồ trong cửa hàng.).
+172. **Shoplifter (n) /ˈʃɑːplɪftər/:** A person who steals goods from a shop while pretending to be a customer. (Danh từ chỉ kẻ trộm đồ trong cửa hàng.).
 Ví dụ: Security guards caught a shoplifter trying to leave with a hidden bottle of perfume.
 
 ---
 
-190. **Slander (n/v) /ˈslændər/:** The action or crime of making a false spoken statement damaging to a person's reputation. (Đây là một danh từ/động từ dùng để chỉ sự vu khống/phỉ báng bằng lời nói.).
+173. **Slander (n/v) /ˈslændər/:** The action or crime of making a false spoken statement damaging to a person's reputation. (Đây là một danh từ/động từ dùng để chỉ sự vu khống/phỉ báng bằng lời nói.).
 Ví dụ: He sued his former employer for slander after they made false accusations about him.
 
 ---
 
-191. **Smuggle (v) /ˈsmʌɡl/:** Move (goods) illegally into or out of a country. (Động từ của smuggling, chỉ việc buôn lậu.).
+174. **Smuggle (v) /ˈsmʌɡl/:** Move (goods) illegally into or out of a country. (Động từ của smuggling, chỉ việc buôn lậu.).
 Ví dụ: They were caught trying to smuggle rare birds out of the country in their luggage.
 
 ---
 
-192. **Solitary confinement (n) /ˌsɑːləteri kənˈfaɪnmənt/:** The isolation of a prisoner in a separate cell as a punishment. (Đây là một cụm danh từ dùng để chỉ hình phạt biệt giam.).
+175. **Solitary confinement (n) /ˌsɑːləteri kənˈfaɪnmənt/:** The isolation of a prisoner in a separate cell as a punishment. (Đây là một cụm danh từ dùng để chỉ hình phạt biệt giam.).
 Ví dụ: Many psychologists argue that long periods of solitary confinement can cause permanent mental damage.
 
 ---
 
-193. **Suit (n) /suːt/:** A lawsuit. (Đây là một danh từ viết tắt dùng để chỉ vụ kiện.).
+176. **Suit (n) /suːt/:** A lawsuit. (Đây là một danh từ viết tắt dùng để chỉ vụ kiện.).
 Ví dụ: She filed a civil suit against the driver who caused the accident.
 
 ---
 
-194. **Supreme Court (n) /suːˌpriːm ˈkɔːrt/:** The highest judicial court in a country or state. (Đây là một cụm danh từ dùng để chỉ tòa án tối cao.).
+177. **Supreme Court (n) /suːˌpriːm ˈkɔːrt/:** The highest judicial court in a country or state. (Đây là một cụm danh từ dùng để chỉ tòa án tối cao.).
 Ví dụ: The Supreme Court's decision will have a major impact on civil rights in the country.
 
 ---
 
-195. **Theft (n) /θeft/:** The action or crime of stealing. (Lặp lại để nhấn mạnh nghĩa danh từ chỉ tội trộm cắp.).
-Ví dụ: Car theft has increased significantly in the suburban areas recently.
-
----
-
-196. **Tort (n) /tɔːrt/:** A wrongful act or an infringement of a right (other than under contract) leading to civil legal liability. (Đây là một danh từ dùng để chỉ trách nhiệm ngoài hợp đồng/lỗi dân sự.).
+178. **Tort (n) /tɔːrt/:** A wrongful act or an infringement of a right (other than under contract) leading to civil legal liability. (Đây là một danh từ dùng để chỉ trách nhiệm ngoài hợp đồng/lỗi dân sự.).
 Ví dụ: Personal injury claims are a common type of tort in the legal system.
 
 ---
 
-197. **Traffic (v) /ˈtræfɪk/:** Deal or trade in something illegal. (Đây là một động từ dùng để chỉ hành vi buôn bán bất hợp pháp (người, ma túy...).).
+179. **Traffic (v) /ˈtræfɪk/:** Deal or trade in something illegal. (Đây là một động từ dùng để chỉ hành vi buôn bán bất hợp pháp (người, ma túy...).).
 Ví dụ: The gang was involved in a global network that trafficked human organs.
 
 ---
 
-198. **Unlawful (adj) /ʌnˈlɔːfl/:** Not conforming to, permitted by, or recognized by law or rules. (Đây là một tính từ đồng nghĩa với illegal, chỉ sự trái luật.).
+180. **Unlawful (adj) /ʌnˈlɔːfl/:** Not conforming to, permitted by, or recognized by law or rules. (Đây là một tính từ đồng nghĩa với illegal, chỉ sự trái luật.).
 Ví dụ: The court ruled that the detention of the activists was unlawful and ordered their release.
 
 ---
 
-199. **Vice (n) /vaɪs/:** Immoral or wicked behavior. (Trong luật pháp thường dùng để chỉ các tệ nạn như mại dâm, cờ bạc.).
+181. **Vice (n) /vaɪs/:** Immoral or wicked behavior. (Trong luật pháp thường dùng để chỉ các tệ nạn như mại dâm, cờ bạc.).
 Ví dụ: The police have launched a crackdown on vice in the city's red-light district.
 
 ---
 
-200. **Wrongful (adj) /ˈrɔːŋfl/:** (Of an act) characterized by unfairness or injustice; contrary to law. (Đây là một tính từ dùng để chỉ tính sai trái hoặc bất công về mặt pháp lý.).
+182. **Wrongful (adj) /ˈrɔːŋfl/:** (Of an act) characterized by unfairness or injustice; contrary to law. (Đây là một tính từ dùng để chỉ tính sai trái hoặc bất công về mặt pháp lý.).
 Ví dụ: He received a large settlement for his wrongful dismissal from the company.
 
 ---

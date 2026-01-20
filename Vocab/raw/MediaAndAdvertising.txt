@@ -1,7 +1,6 @@
 Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **Media & Advertising (Truyền thông và Quảng cáo)**. Nội dung được biên soạn dựa trên các tài liệu từ điển học thuật bạn cung cấp, tuân thủ chặt chẽ định dạng trải phẳng (flat): Từ vựng (Từ loại) /Phiên âm/: Nghĩa tiếng Anh (Giải thích chi tiết nghĩa tiếng Việt).
 
 ---
-
 1. **Broadcasting (n) /ˈbrɔːdkæstɪŋ/:** The distribution of audio or video content to a dispersed audience via any electronic mass communications medium. (Đây là một danh từ dùng để chỉ ngành phát thanh hoặc truyền hình.).
 Ví dụ: The BBC is one of the oldest and most respected organizations in world broadcasting.
 
@@ -132,8 +131,8 @@ Ví dụ: I have a monthly subscription to an online streaming service.
 
 ---
 
-27. **Viral (adj) /ˈvaɪrəl/:** (Of an image, video, piece of information, etc.) circulated rapidly and widely from one internet user to another. (Đây là một tính từ dùng để chỉ việc lan truyền nhanh chóng trên mạng.).
-Ví dụ: The video of the dancing cat went viral and gained millions of views in just two days.
+27. **Viral (adj) /ˈvaɪrəl/:** Circulated rapidly and widely. (Lặp lại lần 2.).
+Ví dụ: A viral marketing campaign can be much more effective than traditional advertising.
 
 ---
 
@@ -207,8 +206,8 @@ Ví dụ: The scriptwriters worked for months to perfect the dialogue for the ne
 
 ---
 
-42. **Source (n) /sɔːrs/:** A person, publication, or other record or document that provides timely information. (Đây là một danh từ dùng để chỉ nguồn tin.).
-Ví dụ: Journalists must verify their sources to ensure the accuracy of their reports.
+42. **Source (v) /sɔːrs/:** Obtain from a particular source. (Trong báo chí, đây là việc tìm kiếm nguồn tin.).
+Ví dụ: The reporter struggled to source reliable information about the secret government project.
 
 ---
 
@@ -232,8 +231,8 @@ Ví dụ: Politicians often underestimate the power of social media to influence
 
 ---
 
-47. **Viewer (n) /ˈvjuːər/:** A person who watches television or a movie. (Đây là một danh từ dùng để chỉ người xem truyền hình/video.).
-Ví dụ: The news program attracts millions of viewers every night.
+47. **Viewer (n) /ˈvjuːər/:** A person who watches television or a movie. (Lặp lại lần 2.).
+Ví dụ: The show was a hit with viewers and critics alike.
 
 ---
 
@@ -247,8 +246,8 @@ Ví dụ: The whistleblower leaked confidential documents to the press to expose
 
 ---
 
-50. **Wireless (adj) /ˈwaɪərləs/:** Using radio, microwaves, etc. (as opposed to wires or cables) to transmit signals. (Đây là một tính từ dùng để chỉ công nghệ không dây.).
-Ví dụ: Wireless technology has made it possible to access news from anywhere at any time.
+50. **Wireless (adj) /ˈwaɪərləs/:** Using radio waves. (Lặp lại lần 3.).
+Ví dụ: Wireless headphones are very convenient for listening to podcasts on the go.
 
 ---
 
@@ -717,287 +716,267 @@ Ví dụ: Social networks have transformed the way we communicate and share info
 
 ---
 
-144. **Source (v) /sɔːrs/:** Obtain from a particular source. (Trong báo chí, đây là việc tìm kiếm nguồn tin.).
-Ví dụ: The reporter struggled to source reliable information about the secret government project.
-
----
-
-145. **Space (n) /speɪs/:** An area or portion that is available for use. (Trong quảng cáo, đây là vị trí quảng cáo trên báo/web.).
+144. **Space (n) /speɪs/:** An area or portion that is available for use. (Trong quảng cáo, đây là vị trí quảng cáo trên báo/web.).
 Ví dụ: Companies pay a lot of money for advertising space on the busiest websites.
 
 ---
 
-146. **Spearhead (v) /ˈspɪrhed/:** Lead (an attack or movement). (Đây là một động từ dùng để chỉ việc dẫn đầu một chiến dịch truyền thông.).
+145. **Spearhead (v) /ˈspɪrhed/:** Lead (an attack or movement). (Đây là một động từ dùng để chỉ việc dẫn đầu một chiến dịch truyền thông.).
 Ví dụ: The marketing director will spearhead the launch of the new global campaign.
 
 ---
 
-147. **Sponsor (n) /ˈspɑːnsər/:** A person or organization that provides funds for a project or activity carried out by another. (Đây là một danh từ dùng để chỉ nhà tài trợ.).
+146. **Sponsor (n) /ˈspɑːnsər/:** A person or organization that provides funds for a project or activity carried out by another. (Đây là một danh từ dùng để chỉ nhà tài trợ.).
 Ví dụ: The local art gallery is looking for sponsors for its next major exhibition.
 
 ---
 
-148. **Sportscast (n) /ˈspɔːrtskæst/:** A television or radio broadcast of sporting events. (Đây là một danh từ dùng để chỉ chương trình tin tức thể thao.).
+147. **Sportscast (n) /ˈspɔːrtskæst/:** A television or radio broadcast of sporting events. (Đây là một danh từ dùng để chỉ chương trình tin tức thể thao.).
 Ví dụ: I listen to the sportscast every morning to hear the latest scores and news.
 
 ---
 
-149. **Spot (n) /spɑːt/:** A short advertisement in a television or radio program. (Đây là một danh từ dùng để chỉ thời lượng quảng cáo ngắn.).
+148. **Spot (n) /spɑːt/:** A short advertisement in a television or radio program. (Đây là một danh từ dùng để chỉ thời lượng quảng cáo ngắn.).
 Ví dụ: The company bought a prime-time advertising spot during the movie.
 
 ---
 
-150. **Spread (v) /spred/:** Extend over a large or increasing area. (Đây là một động từ dùng để chỉ việc lan truyền tin tức.).
+149. **Spread (v) /spred/:** Extend over a large or increasing area. (Đây là một động từ dùng để chỉ việc lan truyền tin tức.).
 Ví dụ: Social media allows news to spread around the world in a matter of seconds.
 
 ---
 
-151. **Stance (n) /stæns/:** The attitude of a person or organization toward something. (Lập trường truyền thông của một tờ báo.).
+150. **Stance (n) /stæns/:** The attitude of a person or organization toward something. (Lập trường truyền thông của một tờ báo.).
 Ví dụ: The newspaper is known for its liberal stance on social and environmental issues.
 
 ---
 
-152. **Station (n) /ˈsteɪʃn/:** A company that broadcasts radio or television programs. (Đây là một danh từ dùng để chỉ đài truyền hình/phát thanh.).
+151. **Station (n) /ˈsteɪʃn/:** A company that broadcasts radio or television programs. (Đây là một danh từ dùng để chỉ đài truyền hình/phát thanh.).
 Ví dụ: My favorite radio station plays a mix of classic rock and new music.
 
 ---
 
-153. **Stereotype (n) /ˈsteriətaɪp/:** A widely held but fixed and oversimplified image or idea of a particular type of person or thing. (Trong truyền thông, đây là khuôn mẫu định kiến.).
+152. **Stereotype (n) /ˈsteriətaɪp/:** A widely held but fixed and oversimplified image or idea of a particular type of person or thing. (Trong truyền thông, đây là khuôn mẫu định kiến.).
 Ví dụ: Critics argue that advertising often reinforces negative stereotypes about women.
 
 ---
 
-154. **Subliminal (adj) /ˌsʌbˈlɪmɪnl/:** (Of a stimulus or mental process) below the threshold of sensation or consciousness. (Trong quảng cáo, đây là thông điệp tiềm thức.).
+153. **Subliminal (adj) /ˌsʌbˈlɪmɪnl/:** (Of a stimulus or mental process) below the threshold of sensation or consciousness. (Trong quảng cáo, đây là thông điệp tiềm thức.).
 Ví dụ: Subliminal advertising is banned in many countries because it can influence people without them knowing.
 
 ---
 
-155. **Supplement (n) /ˈsʌplɪmənt/:** A separate section of a newspaper or magazine. (Đây là một danh từ dùng để chỉ tờ phụ trương.).
+154. **Supplement (n) /ˈsʌplɪmənt/:** A separate section of a newspaper or magazine. (Đây là một danh từ dùng để chỉ tờ phụ trương.).
 Ví dụ: The weekend edition of the paper includes a large travel supplement.
 
 ---
 
-156. **Surveil (v) /sərˈveɪl/:** Keep (a person or place) under surveillance. (Sự giám sát dữ liệu trong kỷ nguyên số.).
+155. **Surveil (v) /sərˈveɪl/:** Keep (a person or place) under surveillance. (Sự giám sát dữ liệu trong kỷ nguyên số.).
 Ví dụ: Many people are concerned about how tech companies surveil their online activity.
 
 ---
 
-157. **Survey (n) /ˈsɜːrveɪ/:** A general view, examination, or description of someone or something. (Đây là một danh từ dùng để chỉ cuộc khảo sát ý kiến độc giả/khách hàng.).
+156. **Survey (n) /ˈsɜːrveɪ/:** A general view, examination, or description of someone or something. (Đây là một danh từ dùng để chỉ cuộc khảo sát ý kiến độc giả/khách hàng.).
 Ví dụ: The survey results show that most people get their news from social media.
 
 ---
 
-158. **Symmetric (adj) /sɪˈmetrɪk/:** Made up of exactly similar parts facing each other or around an axis. (Trong thiết kế quảng cáo, đây là sự đối xứng.).
+157. **Symmetric (adj) /sɪˈmetrɪk/:** Made up of exactly similar parts facing each other or around an axis. (Trong thiết kế quảng cáo, đây là sự đối xứng.).
 Ví dụ: A symmetric layout can create a sense of balance and professionalism in an advertisement.
 
 ---
 
-159. **Syndicate (v) /ˈsɪndɪkeɪt/:** Publish or broadcast (material) simultaneously in a number of newspapers or television stations. (Đây là một động từ dùng để chỉ việc bán nội dung cho nhiều đài/báo cùng lúc.).
+158. **Syndicate (v) /ˈsɪndɪkeɪt/:** Publish or broadcast (material) simultaneously in a number of newspapers or television stations. (Đây là một động từ dùng để chỉ việc bán nội dung cho nhiều đài/báo cùng lúc.).
 Ví dụ: Her column is syndicated in over fifty different newspapers across the country.
 
 ---
 
-160. **Talk show (n) /ˈtɔːk ʃoʊ/:** A television or radio program in which celebrities and other guests are interviewed. (Đây là một danh từ dùng để chỉ chương trình trò chuyện.).
+159. **Talk show (n) /ˈtɔːk ʃoʊ/:** A television or radio program in which celebrities and other guests are interviewed. (Đây là một danh từ dùng để chỉ chương trình trò chuyện.).
 Ví dụ: Late-night talk shows often feature interviews with actors, musicians, and politicians.
 
 ---
 
-161. **Teaser (n) /ˈtiːzər/:** A short introductory advertisement for a product, especially one that does not mention the name of the product. (Đây là một danh từ dùng để chỉ đoạn quảng cáo ngắn khơi gợi sự tò mò.).
+160. **Teaser (n) /ˈtiːzər/:** A short introductory advertisement for a product, especially one that does not mention the name of the product. (Đây là một danh từ dùng để chỉ đoạn quảng cáo ngắn khơi gợi sự tò mò.).
 Ví dụ: The movie studio released a thirty-second teaser to build hype for the new blockbuster.
 
 ---
 
-162. **Telecommunications (n) /ˌtelikəˌmjuːnɪˈkeɪʃnz/:** Communication over a distance by cable, telegraph, telephone, or broadcasting. (Lặp lại lần 2.).
+161. **Telecommunications (n) /ˌtelikəˌmjuːnɪˈkeɪʃnz/:** Communication over a distance by cable, telegraph, telephone, or broadcasting. (Lặp lại lần 2.).
 Ví dụ: The telecommunications industry has revolutionized the way we share information.
 
 ---
 
-163. **Theme (n) /θiːm/:** An idea that recurs in or pervades a work of art or literature. (Trong truyền thông, đây là chủ đề cốt lõi.).
+162. **Theme (n) /θiːm/:** An idea that recurs in or pervades a work of art or literature. (Trong truyền thông, đây là chủ đề cốt lõi.).
 Ví dụ: The common theme of the series is the struggle for survival in a post-apocalyptic world.
 
 ---
 
-164. **Thought-provoking (adj) /ˈθɔːt prəˌvoʊkɪŋ/:** Stimulating careful consideration or attention. (Đây là một tính từ dùng để chỉ sự gợi suy nghĩ, trăn trở.).
+163. **Thought-provoking (adj) /ˈθɔːt prəˌvoʊkɪŋ/:** Stimulating careful consideration or attention. (Đây là một tính từ dùng để chỉ sự gợi suy nghĩ, trăn trở.).
 Ví dụ: The documentary was very thought-provoking and sparked a lot of debate online.
 
 ---
 
-165. **Time slot (n) /ˈtaɪm slɑːt/:** A specific time assigned for a broadcast or advertisement. (Đây là một cụm danh từ dùng để chỉ khung giờ phát sóng.).
+164. **Time slot (n) /ˈtaɪm slɑːt/:** A specific time assigned for a broadcast or advertisement. (Đây là một cụm danh từ dùng để chỉ khung giờ phát sóng.).
 Ví dụ: The new comedy show has been given a prime-time time slot on Friday nights.
 
 ---
 
-166. **Topic (n) /ˈtɑːpɪk/:** A matter dealt with in a text, discourse, or conversation; a subject. (Đây là một danh từ dùng để chỉ chủ đề bài viết/tin tức.).
+165. **Topic (n) /ˈtɑːpɪk/:** A matter dealt with in a text, discourse, or conversation; a subject. (Đây là một danh từ dùng để chỉ chủ đề bài viết/tin tức.).
 Ví dụ: The journalist chose a controversial topic to attract more readers to his column.
 
 ---
 
-167. **Trace (v) /treɪs/:** Find or discover by investigation. (Trong báo chí, đây là việc truy vết nguồn gốc thông tin.).
+166. **Trace (v) /treɪs/:** Find or discover by investigation. (Trong báo chí, đây là việc truy vết nguồn gốc thông tin.).
 Ví dụ: The reporter managed to trace the anonymous tip back to a former employee of the company.
 
 ---
 
-168. **Transparency (n) /trænsˈpærənsi/:** The condition of being transparent. (Sự minh bạch trong báo chí và quảng cáo.).
+167. **Transparency (n) /trænsˈpærənsi/:** The condition of being transparent. (Sự minh bạch trong báo chí và quảng cáo.).
 Ví dụ: Media organizations should have more transparency about their funding and ownership.
 
 ---
 
-169. **Trend (n) /trend/:** A general direction in which something is developing or changing. (Đây là một danh từ dùng để chỉ xu hướng truyền thông/mạng xã hội.).
+168. **Trend (n) /trend/:** A general direction in which something is developing or changing. (Đây là một danh từ dùng để chỉ xu hướng truyền thông/mạng xã hội.).
 Ví dụ: One of the latest trends in marketing is the use of short-form video content.
 
 ---
 
-170. **Tune in (v) /ˌtuːn ˈɪn/:** Adjust a radio or television to receive a signal from a particular station. (Đây là một cụm động từ dùng để chỉ việc đón nghe/xem một chương trình.).
+169. **Tune in (v) /ˌtuːn ˈɪn/:** Adjust a radio or television to receive a signal from a particular station. (Đây là một cụm động từ dùng để chỉ việc đón nghe/xem một chương trình.).
 Ví dụ: Millions of people tuned in to watch the final of the world cup.
 
 ---
 
-171. **Turn on (v) /ˌtɜːrn ˈɑːn/:** Cause (an electrical device) to function by operating a switch. (Hành động cơ bản để tiếp cận truyền thông truyền thống.).
+170. **Turn on (v) /ˌtɜːrn ˈɑːn/:** Cause (an electrical device) to function by operating a switch. (Hành động cơ bản để tiếp cận truyền thông truyền thống.).
 Ví dụ: I usually turn on the radio as soon as I get into the car.
 
 ---
 
-172. **Ultimate (adj) /ˈʌltɪmət/:** Being or happening at the end of a process; final. (Mục tiêu cuối cùng của quảng cáo là doanh số.).
+171. **Ultimate (adj) /ˈʌltɪmət/:** Being or happening at the end of a process; final. (Mục tiêu cuối cùng của quảng cáo là doanh số.).
 Ví dụ: The ultimate goal of any advertising campaign is to increase sales and profits.
 
 ---
 
-173. **Unbiased (adj) /ʌnˈbaɪəst/:** Showing no prejudice for or against something; impartial. (Đây là một tính từ dùng để chỉ tính không thiên vị, công tâm.).
+172. **Unbiased (adj) /ʌnˈbaɪəst/:** Showing no prejudice for or against something; impartial. (Đây là một tính từ dùng để chỉ tính không thiên vị, công tâm.).
 Ví dụ: It is difficult to find completely unbiased news in today's polarized political climate.
 
 ---
 
-174. **Undermine (v) /ˌʌndərˈmaɪn/:** Lessen the effectiveness, power, or ability of, especially gradually or insidiously. (Tin giả có thể làm suy yếu sự tin tưởng của công chúng.).
+173. **Undermine (v) /ˌʌndərˈmaɪn/:** Lessen the effectiveness, power, or ability of, especially gradually or insidiously. (Tin giả có thể làm suy yếu sự tin tưởng của công chúng.).
 Ví dụ: The spread of misinformation can undermine public trust in scientific experts.
 
 ---
 
-175. **Update (v) /ˌʌpˈdeɪt/:** Make (something) more modern or up to date. (Đây là một động từ dùng để chỉ việc cập nhật tin tức.).
+174. **Update (v) /ˌʌpˈdeɪt/:** Make (something) more modern or up to date. (Đây là một động từ dùng để chỉ việc cập nhật tin tức.).
 Ví dụ: The news website is updated every few minutes with the latest headlines.
 
 ---
 
-176. **Upload (v) /ˌʌpˈloʊd/:** Transfer (data) from one computer system to another, typically to a larger computer or a server. (Đây là một động từ dùng để chỉ việc tải nội dung lên mạng.).
+175. **Upload (v) /ˌʌpˈloʊd/:** Transfer (data) from one computer system to another, typically to a larger computer or a server. (Đây là một động từ dùng để chỉ việc tải nội dung lên mạng.).
 Ví dụ: It only takes a few seconds to upload a photo to social media.
 
 ---
 
-177. **Vibrant (adj) /ˈvaɪbrənt/:** Full of energy and life. (Đây là một tính từ dùng để chỉ môi trường truyền thông sôi động.).
+176. **Vibrant (adj) /ˈvaɪbrənt/:** Full of energy and life. (Đây là một tính từ dùng để chỉ môi trường truyền thông sôi động.).
 Ví dụ: The city has a vibrant independent media scene with many small magazines and websites.
 
 ---
 
-178. **Video (n) /ˈvɪdioʊ/:** The recording, reproducing, or broadcasting of moving visual images. (Đây là một danh từ dùng để chỉ video, phương tiện truyền thông chính hiện nay.).
+177. **Video (n) /ˈvɪdioʊ/:** The recording, reproducing, or broadcasting of moving visual images. (Đây là một danh từ dùng để chỉ video, phương tiện truyền thông chính hiện nay.).
 Ví dụ: Online video consumption is growing at an incredible rate.
 
 ---
 
-179. **Viewer (n) /ˈvjuːər/:** A person who watches television or a movie. (Lặp lại lần 2.).
-Ví dụ: The show was a hit with viewers and critics alike.
-
----
-
-180. **Viewpoint (n) /ˈvjuːpɔɪnt/:** A particular attitude or way of considering a matter. (Đây là một danh từ dùng để chỉ góc nhìn, quan điểm.).
+178. **Viewpoint (n) /ˈvjuːpɔɪnt/:** A particular attitude or way of considering a matter. (Đây là một danh từ dùng để chỉ góc nhìn, quan điểm.).
 Ví dụ: The documentary presents a variety of different viewpoints on the issue of climate change.
 
 ---
 
-181. **Viral (adj) /ˈvaɪrəl/:** Circulated rapidly and widely. (Lặp lại lần 2.).
-Ví dụ: A viral marketing campaign can be much more effective than traditional advertising.
-
----
-
-182. **Virtual (adj) /ˈvɜːrtʃuəl/:** Almost or nearly as described, but not completely. (Đây là một tính từ dùng để chỉ sự ảo/trực tuyến.).
+179. **Virtual (adj) /ˈvɜːrtʃuəl/:** Almost or nearly as described, but not completely. (Đây là một tính từ dùng để chỉ sự ảo/trực tuyến.).
 Ví dụ: Many news organizations now have a major virtual presence through their websites and apps.
 
 ---
 
-183. **Visual (adj) /ˈvɪʒuəl/:** Relating to seeing or sight. (Yếu tố thị giác trong quảng cáo.).
+180. **Visual (adj) /ˈvɪʒuəl/:** Relating to seeing or sight. (Yếu tố thị giác trong quảng cáo.).
 Ví dụ: Strong visual elements are essential for creating an eye-catching advertisement.
 
 ---
 
-184. **Vlog (n) /vlɑːɡ/:** A personal website or social media account where a person regularly posts short videos. (Đây là một danh từ dùng để chỉ nhật ký bằng video.).
+181. **Vlog (n) /vlɑːɡ/:** A personal website or social media account where a person regularly posts short videos. (Đây là một danh từ dùng để chỉ nhật ký bằng video.).
 Ví dụ: She has a popular vlog where she shares her daily life and travels.
 
 ---
 
-185. **Voice (n) /vɔɪs/:** An expressed opinion or desire. (Trong truyền thông, đây là tiếng nói/quan điểm của một nhóm người.).
+182. **Voice (n) /vɔɪs/:** An expressed opinion or desire. (Trong truyền thông, đây là tiếng nói/quan điểm của một nhóm người.).
 Ví dụ: The media should give a voice to marginalized groups in society.
 
 ---
 
-186. **Volume (n) /ˈvɑːljuːm/:** The amount of space that a substance or object occupies; the quantity or power of sound. (Lượng thông tin hoặc âm lượng phát sóng.).
+183. **Volume (n) /ˈvɑːljuːm/:** The amount of space that a substance or object occupies; the quantity or power of sound. (Lượng thông tin hoặc âm lượng phát sóng.).
 Ví dụ: The sheer volume of news available online can be overwhelming.
 
 ---
 
-187. **Voucher (n) /ˈvaʊtʃər/:** A small printed piece of paper that entitles the holder to a discount. (Công cụ khuyến mãi trong quảng cáo.).
+184. **Voucher (n) /ˈvaʊtʃər/:** A small printed piece of paper that entitles the holder to a discount. (Công cụ khuyến mãi trong quảng cáo.).
 Ví dụ: You can find discount vouchers for several local restaurants in the newspaper.
 
 ---
 
-188. **Walkthrough (n) /ˈwɔːkθruː/:** A demonstration or explanation of something. (Trong truyền thông, đây là bài hướng dẫn chi tiết.).
+185. **Walkthrough (n) /ˈwɔːkθruː/:** A demonstration or explanation of something. (Trong truyền thông, đây là bài hướng dẫn chi tiết.).
 Ví dụ: The website features a step-by-step walkthrough of how to use the new software.
 
 ---
 
-189. **Warp (v) /wɔːrp/:** Become or cause to become bent or twisted out of shape. (Nghĩa bóng: làm sai lệch thông tin.).
+186. **Warp (v) /wɔːrp/:** Become or cause to become bent or twisted out of shape. (Nghĩa bóng: làm sai lệch thông tin.).
 Ví dụ: Sensationalist reporting can warp our perception of reality.
 
 ---
 
-190. **Watch (v) /wɑːtʃ/:** Look at or observe attentively. (Hành động tiêu thụ truyền hình/video.).
+187. **Watch (v) /wɑːtʃ/:** Look at or observe attentively. (Hành động tiêu thụ truyền hình/video.).
 Ví dụ: I like to watch the news while I'm eating breakfast.
 
 ---
 
-191. **Website (n) /ˈwebsaɪt/:** A set of related web pages located under a single domain name. (Đây là một danh từ dùng để chỉ trang web.).
+188. **Website (n) /ˈwebsaɪt/:** A set of related web pages located under a single domain name. (Đây là một danh từ dùng để chỉ trang web.).
 Ví dụ: Most newspapers now have a website where you can read their stories for free.
 
 ---
 
-192. **Weekly (adj) /ˈwiːkli/:** Occurring or published once a week. (Đây là một tính từ dùng để chỉ các ấn phẩm hàng tuần.).
+189. **Weekly (adj) /ˈwiːkli/:** Occurring or published once a week. (Đây là một tính từ dùng để chỉ các ấn phẩm hàng tuần.).
 Ví dụ: The Sunday Times is a famous weekly broadsheet in the UK.
 
 ---
 
-193. **Whistleblowing (n) /ˈwɪslbloʊɪŋ/:** The act of informing on a person or organization engaged in an illicit activity. (Lặp lại lần 2.).
+190. **Whistleblowing (n) /ˈwɪslbloʊɪŋ/:** The act of informing on a person or organization engaged in an illicit activity. (Lặp lại lần 2.).
 Ví dụ: Whistleblowing is often the only way to expose deep-seated corruption in large organizations.
 
 ---
 
-194. **Wide (adj) /waɪd/:** Over a large area. (Độ phủ rộng của truyền thông.).
+191. **Wide (adj) /waɪd/:** Over a large area. (Độ phủ rộng của truyền thông.).
 Ví dụ: The story has received wide coverage in both national and international media.
 
 ---
 
-195. **Widespread (adj) /ˌwaɪdˈspred/:** Found or distributed over a large area or number of people. (Lặp lại lần 2.).
+192. **Widespread (adj) /ˌwaɪdˈspred/:** Found or distributed over a large area or number of people. (Lặp lại lần 2.).
 Ví dụ: There is widespread concern about the impact of social media on mental health.
 
 ---
 
-196. **Window (n) /ˈwɪndoʊ/:** A rectangular area on a computer screen that displays an app or a document. (Cửa sổ trình duyệt/ứng dụng truyền thông.).
+193. **Window (n) /ˈwɪndoʊ/:** A rectangular area on a computer screen that displays an app or a document. (Cửa sổ trình duyệt/ứng dụng truyền thông.).
 Ví dụ: You can open multiple windows to compare news from different sources at the same time.
 
 ---
 
-197. **Wireless (adj) /ˈwaɪərləs/:** Using radio waves. (Lặp lại lần 3.).
-Ví dụ: Wireless headphones are very convenient for listening to podcasts on the go.
-
----
-
-198. **Witness (n) /ˈwɪtnəs/:** A person who sees an event, typically a crime or accident, take place. (Nhân chứng là nguồn tin quan trọng cho báo chí.).
+194. **Witness (n) /ˈwɪtnəs/:** A person who sees an event, typically a crime or accident, take place. (Nhân chứng là nguồn tin quan trọng cho báo chí.).
 Ví dụ: The reporter interviewed several witnesses to the accident.
 
 ---
 
-199. **Witty (adj) /ˈwɪti/:** Showing or characterized by quick and inventive verbal humor. (Lối viết hóm hỉnh trong quảng cáo/bình luận.).
+195. **Witty (adj) /ˈwɪti/:** Showing or characterized by quick and inventive verbal humor. (Lối viết hóm hỉnh trong quảng cáo/bình luận.).
 Ví dụ: The advertisement features a witty script that makes the audience laugh.
 
 ---
 
-200. **Wordsmith (n) /ˈwɜːrdsmɪθ/:** A skilled user of words. (Đây là một danh từ dùng để chỉ người viết lách giỏi/bút chiến.).
+196. **Wordsmith (n) /ˈwɜːrdsmɪθ/:** A skilled user of words. (Đây là một danh từ dùng để chỉ người viết lách giỏi/bút chiến.).
 Ví dụ: Copywriters are professional wordsmiths who know how to craft a compelling message.
 
 ---
