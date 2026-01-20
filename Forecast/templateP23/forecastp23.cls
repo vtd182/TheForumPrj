@@ -216,7 +216,7 @@
       at ([xshift=-2cm,yshift=-\HeaderHeight-\WhiteGap-\SubHeight/2] current page.north east) {#2};
   \end{tikzpicture}%
 
-  \vspace{3.55cm}
+  \vspace{1.5cm}
   \forecast@centerheading{#3}
   \vspace{10pt}
 }
