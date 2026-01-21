@@ -1,7 +1,7 @@
 Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **Energy Innovation (Đổi mới năng lượng)**. Nội dung được biên soạn kỹ lưỡng, tuân thủ chặt chẽ định dạng trải phẳng (flat) chi tiết: Từ vựng (Từ loại) /Phiên âm/: Nghĩa tiếng Anh (Giải thích chi tiết nghĩa tiếng Việt).
 
 ---
-1. **Innovation (n) /ˌɪnəˈveɪʃn/:** (Lặp lại cuối cùng để chốt chủ đề).
+1. **Innovation (n) /ˌɪnəˈveɪʃn/:** The action or process of innovating; a new method, idea, or product. (Đây là một danh từ dùng để chỉ sự đổi mới sáng tạo, chủ đề cốt lõi của ngành năng lượng).
 Ví dụ: Continuous innovation in the energy sector is our best hope for a cleaner and more prosperous world.
 
 ---
@@ -30,7 +30,7 @@ Ví dụ: The global shift towards decarbonization is essential for achieving ne
 
 ---
 
-7. **Efficiency (n) /ɪˈfɪʃnsi/:** (Lặp lại nghĩa về sự tối ưu hóa tài nguyên).
+7. **Efficiency (n) /ɪˈfɪʃnsi/:** The state or quality of being efficient; achieving maximum productivity with minimum wasted effort or expense. (Đây là một danh từ dùng để chỉ hiệu suất hoặc sự tối ưu hóa tài nguyên năng lượng).
 Ví dụ: New power electronics are designed for maximum efficiency and minimum heat loss.
 
 ---
@@ -75,7 +75,7 @@ Ví dụ: Reducing methane emissions is a top priority in energy innovation.
 
 ---
 
-16. **Infrastructure (n) /ˈɪnfrəstrʌktʃər/:** (Lặp lại nghĩa về hệ thống hạ tầng kỹ thuật).
+16. **Infrastructure (n) /ˈɪnfrəstrʌktʃər/:** The basic physical and organizational structures and facilities needed for the operation of a society or enterprise. (Đây là một danh từ dùng để chỉ hệ thống hạ tầng kỹ thuật, bao gồm lưới điện và các công trình năng lượng).
 Ví dụ: Massive investment in infrastructure is required to support the transition to green energy.
 
 ---
@@ -100,7 +100,7 @@ Ví dụ: Carbon capture technology is being tested at coal-fired power plants t
 
 ---
 
-21. **Intermittent (adj) /ˌɪntərˈmɪtənt/:** (Lặp lại để nhấn mạnh tính chất quan trọng của điện gió/mặt trời).
+21. **Intermittent (adj) /ˌɪntərˈmɪtənt/:** Occurring at irregular intervals; not continuous or steady. (Đây là một tính từ dùng để chỉ tính chất gian đoạn, không liên tục của điện gió và điện mặt trời).
 Ví dụ: Intermittent energy sources need to be complemented by stable base-load power.
 
 ---
@@ -115,7 +115,7 @@ Ví dụ: High-efficiency semi-conductors are essential for converting DC power 
 
 ---
 
-24. **Sustainability (n) /səˌsteɪnəˈbɪləti/:** (Lặp lại để nhấn mạnh tính bền vững).
+24. **Sustainability (n) /səˌsteɪnəˈbɪləti/:** The ability to be maintained at a certain rate or level; avoidance of the depletion of natural resources. (Đây là một danh từ dùng để chỉ tính bền vững, khả năng duy trì phát triển lâu dài mà không cạn kiệt tài nguyên).
 Ví dụ: The sustainability of renewable energy projects depends on responsible mineral sourcing.
 
 ---
@@ -155,7 +155,7 @@ Ví dụ: We must reduce our dependency on fossil fuels to meet global environme
 
 ---
 
-32. **Transition (n) /trænˈzɪʃn/:** (Lặp lại nghĩa danh từ chỉ sự chuyển đổi giai đoạn).
+32. **Transition (n) /trænˈzɪʃn/:** The process or a period of changing from one state or condition to another. (Đây là một danh từ dùng để chỉ sự chuyển đổi giai đoạn, đặc biệt từ nhiên liệu hóa thạch sang năng lượng sạch).
 Ví dụ: The transition period between coal and gas will vary from country to country.
 
 ---
@@ -170,12 +170,12 @@ Ví dụ: Tax incentives for solar panel installation have encouraged many homeo
 
 ---
 
-35. **Optimization (n) /ˌɑːptɪməˈzeɪʃn/:** (Lặp lại nghĩa về việc tối ưu hóa).
+35. **Optimization (n) /ˌɑːptɪməˈzeɪʃn/:** The action of making the best or most effective use of a situation or resource. (Đây là một danh từ dùng để chỉ quá trình tối ưu hóa hiệu suất hệ thống năng lượng).
 Ví dụ: Artificial intelligence is playing a huge role in the optimization of the modern energy grid.
 
 ---
 
-36. **Interconnected (adj) /ˌɪntərkəˈnektɪd/:** (Lặp lại để nhấn mạnh tính hệ thống lưới điện).
+36. **Interconnected (adj) /ˌɪntərkəˈnektɪd/:** (Of two or more things) connected with each other. (Đây là một tính từ dùng để chễ tính liên kết với nhau, đặc biệt là các hệ thống lưới điện khu vực).
 Ví dụ: An interconnected market allows for more stable electricity prices across regions.
 
 ---
@@ -235,7 +235,7 @@ Ví dụ: Increasing the storage capacity of the grid is essential for a 100% re
 
 ---
 
-48. **Breakthrough (n) /ˈbreɪkθruː/:** (Lặp lại nghĩa về sự đột phá quan trọng).
+48. **Breakthrough (n) /ˈbreɪkθruː/:** A sudden, dramatic, and important discovery or development. (Đây là một danh từ dùng để chỉ sự đột phá quan trọng trong nghiên cứu và công nghệ năng lượng).
 Ví dụ: A breakthrough in solid-state batteries could make electric cars much lighter and safer.
 
 ---
@@ -250,17 +250,17 @@ Ví dụ: Many corporations have pledged to become net-zero by the year 2050.
 
 ---
 
-51. **Adaptation (n) /ˌædæpˈteɪʃn/:** (Lặp lại nghĩa về sự thích nghi của con người và hệ thống).
+51. **Adaptation (n) /ˌædæpˈteɪʃn/:** The action or process of adapting or being adapted. (Đây là một danh từ dùng để chỉ sự thích nghi của con người và hệ thống với biến đổi khí hậu và môi trường).
 Ví dụ: Adaptation to rising sea levels is already a priority for many coastal power plants.
 
 ---
 
-52. **Feasibility (n) /ˌfiːzəˈbɪləti/:** (Lặp lại nghĩa về sự thực thi thực tế).
+52. **Feasibility (n) /ˌfiːzəˈbɪləti/:** The state or degree of being easily or conveniently done. (Đây là một danh từ dùng để chỉ tính khả thi, sự thực thi thực tế của một dự án năng lượng).
 Ví dụ: The feasibility of using hydrogen for home heating is still being debated by experts.
 
 ---
 
-53. **Regulation (n) /ˌreɡjuˈleɪʃn/:** (Lặp lại nghĩa về quy chuẩn/luật lệ).
+53. **Regulation (n) /ˌreɡjuˈleɪʃn/:** A rule or directive made and maintained by an authority. (Đây là một danh từ dùng để chỉ quy chuẩn, quy định hoặc luật lệ về năng lượng và môi trường).
 Ví dụ: Environmental regulations have forced many coal plants to shut down or upgrade.
 
 ---
@@ -280,7 +280,7 @@ Ví dụ: A wind turbine converts the kinetic energy of the wind into electrical
 
 ---
 
-57. **Conservation (n) /ˌkɑːnsərˈveɪʃn/:** (Lặp lại nghĩa về bảo tồn tài nguyên).
+57. **Conservation (n) /ˌkɑːnsərˈveɪʃn/:** The action of conserving something, in particular preservation, protection, or restoration of the natural environment. (Đây là một danh từ dùng để chỉ sự bảo tồn, tiết kiệm tài nguyên năng lượng).
 Ví dụ: Water conservation is becoming increasingly important for hydropower production during droughts.
 
 ---
@@ -310,7 +310,7 @@ Ví dụ: The transition to renewables could shift the geopolitical balance away
 
 ---
 
-63. **Scalability (n) /ˌskeɪləˈbɪləti/:** (Lặp lại nghĩa về khả năng mở rộng nhanh chóng).
+63. **Scalability (n) /ˌskeɪləˈbɪləti/:** The capacity to be changed in size or scale. (Đây là một danh từ dùng để chỉ khả năng mở rộng quy mô nhanh chóng của một giải pháp năng lượng).
 Ví dụ: The scalability of offshore wind power could allow it to meet a huge part of global demand.
 
 ---
@@ -375,7 +375,7 @@ Ví dụ: A new pipeline was built to transport natural gas from the sea to the 
 
 ---
 
-76. **Resilience (n) /rɪˈzɪliəns/:** (Lặp lại để nhấn mạnh khả năng chống chịu).
+76. **Resilience (n) /rɪˈzɪliens/:** The capacity to recover quickly from difficulties; toughness. (Đây là một danh từ dùng để chỉ khả năng chống chịu và phục hồi của hệ thống năng lượng trước các sự cố).
 Ví dụ: Building a more resilient grid is a top priority for governments worldwide.
 
 ---
@@ -395,27 +395,27 @@ Ví dụ: Energy diversification is essential to reduce reliance on imported nat
 
 ---
 
-80. **Affordability (n) /əˌfɔːrdəˈbɪləti/:** (Lặp lại nghĩa về giá cả dễ tiếp cận).
+80. **Affordability (n) /əˌfɔːrdəˈbɪləti/:** The fact of being cheap enough that people can afford to buy it or pay for it. (Đây là một danh từ dùng để chỉ tính dễ tiếp cận về giá cả của năng lượng sạch).
 Ví dụ: Improving the affordability of green energy is essential for a fair transition.
 
 ---
 
-81. **Standardization (n) /ˌstændərdəˈzeɪʃn/:** (Lặp lại nghĩa về việc áp dụng tiêu chuẩn chung).
+81. **Standardization (n) /ˌstændərdəˈzeɪʃn/:** The process of making things of the same type all have the same basic features. (Đây là một danh từ dùng để chỉ sự áp dụng tiêu chuẩn chung cho các thiết bị và hệ thống năng lượng).
 Ví dụ: International standardization of battery recycling processes is needed to protect the environment.
 
 ---
 
-82. **Implementation (n) /ˌɪmplɪmenˈteɪʃn/:** (Lặp lại nghĩa danh từ về sự thực hiện).
+82. **Implementation (n) /ˌɪmplosámanˈteɪʃn/:** The process of putting a decision or plan into effect; execution. (Đây là một danh từ dùng để chỉ sự thực hiện chính sách hoặc dự án năng lượng).
 Ví dụ: The slow implementation of carbon taxes has delayed the shift to green energy.
 
 ---
 
-83. **Utilization (n) /ˌjuːtələˈzeɪʃn/:** (Lặp lại nghĩa về sự tận dụng tối đa nguồn lực).
+83. **Utilization (n) /ˌjuːtələˈzeɪʃn/:** The action of making practical and effective use of something. (Đây là một danh từ dùng để chỉ sự tận dụng tối đa nguồn lực năng lượng hiện có).
 Ví dụ: The utilization of waste heat from power plants can provide district heating for entire cities.
 
 ---
 
-84. **Compliance (n) /kəmˈplaɪəns/:** (Lặp lại nghĩa về sự tuân thủ quy định).
+84. **Compliance (n) /kəmˈplaɪəns/:** The action or fact of complying with a wish or command. (Đây là một danh từ dùng để chỉ sự tuân thủ quy định và tiêu chuẩn an toàn năng lượng).
 Ví dụ: Companies must ensure compliance with all safety regulations when building nuclear plants.
 
 ---
@@ -490,7 +490,7 @@ Ví dụ: The interconnection of regional grids helps to prevent blackouts.
 
 ---
 
-99. **Connectivity (n) /ˌkɑːnekˈtɪvəti/:** (Lặp lại nghĩa danh từ về khả năng kết nối mạng lưới).
+99. **Connectivity (n) /ˌkɑːnekˈtɪvəti/:** The state or extent of being connected or interconnected. (Đây là một danh từ dùng để chễ khả năng kết nối của mạng lưới điện thông minh và thiết bị).
 Ví dụ: Smart appliances require internet connectivity to communicate with the smart meter.
 
 ---
@@ -505,7 +505,7 @@ Ví dụ: The availability of natural sunlight is the only limit to solar power 
 
 ---
 
-102. **Reliability (n) /rɪˌlaɪəˈbɪləti/:** (Lặp lại nghĩa về độ ổn định, không mất điện).
+102. **Reliability (n) /rɪˌlaɪəˈbɪləti/:** The quality of being trustworthy or of performing consistently well. (Đây là một danh từ dùng để chỉ độ ổn định và tin cậy của hệ thống điện, không mất điện).
 Ví dụ: Ensuring the reliability of the grid during extreme weather events is a major challenge.
 
 ---
@@ -570,7 +570,7 @@ Ví dụ: Many countries are aiming for the total elimination of coal power by 2
 
 ---
 
-115. **Mitigation (n) /ˌmɪtɪˈɡeɪʃn/:** (Lặp lại nghĩa về sự giảm nhẹ tác hại môi trường).
+115. **Mitigation (n) /ˌmɪtɪˈɡeɪʃn/:** The action of reducing the severity, seriousness, or painfulness of something. (Đây là một danh từ dùng để chỉ sự giảm nhẹ tác hại môi trường, đặc biệt là khí thải).
 Ví dụ: Mitigation strategies in the energy sector are essential for a sustainable future.
 
 ---

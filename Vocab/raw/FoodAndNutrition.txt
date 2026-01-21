@@ -36,7 +36,7 @@ Ví dụ: Obesity is a major health concern linked to heart disease and diabetes
 
 ---
 
-8. **Malnutrition (n) /ˌmælnuˈtrɪʃn/:** (Lặp lại mục 8 - nhấn mạnh nghĩa suy dinh dưỡng).
+8. **Malnutrition (n) /ˌmælnuˈtrɪʃn/:** Lack of proper nutrition, caused by not having enough to eat, not eating enough of the right things, or being unable to use the food that one does eat. (Danh từ chỉ sự suy dinh dưỡng.).
 Ví dụ: Eradicating malnutrition is a primary goal of many global health organizations.
 
 ---
@@ -201,7 +201,7 @@ Ví dụ: Fresh air and exercise can help to increase your appetite for dinner.
 
 ---
 
-41. **Balance (v) /ˈbæləns/:** (Lặp lại mục 41 - nhấn mạnh hành động cân bằng thực đơn).
+41. **Balance (v) /ˈbæləns/:** A condition in which different elements are equal or in the correct proportions. (Sự cân bằng sinh thái.).
 Ví dụ: You should balance your intake of proteins, fats, and carbohydrates.
 
 ---
@@ -396,7 +396,7 @@ Ví dụ: A protein-rich diet is important for athletes who want to build muscle
 
 ---
 
-80. **Quality (n) /ˈkwɑːləti/:** (Lặp lại mục 81 - nhấn mạnh tiêu chuẩn thực phẩm).
+80. **Quality (n) /ˈkwɑːləti/:** The standard of something as measured against other things; a distinctive attribute. (Đây là một danh từ dùng để chỉ chất lượng/phẩm chất.)
 Ví dụ: Food quality is a major concern for consumers who shop at organic markets.
 
 ---
@@ -456,7 +456,7 @@ Ví dụ: Vitamin A deficiency can lead to serious problems with vision and immu
 
 ---
 
-92. **Essential (adj) /ɪˈsenʃl/:** (Lặp lại mục 94 - nhấn mạnh vi chất thiết yếu).
+92. **Essential (adj) /ɪˈsenʃl/:** Absolutely necessary; extremely important. (Đây là một tính từ dùng để chỉ sự thiết yếu.).
 Ví dụ: Certain amino acids are essential because the body cannot produce them.
 
 ---
@@ -761,7 +761,7 @@ Ví dụ: It is important to find a reliable source of information about healthy
 
 ---
 
-153. **Sustainable (adj) /səˈsteɪnəbl/:** (Lặp lại mục 16 - nhấn mạnh canh tác bền vững).
+153. **Sustainable (adj) /səˈsteɪnəbl/:** Able to be maintained at a certain rate or level. (Đây là một tính từ dùng để chỉ sự bền vững về năng lượng và môi trường.).
 Ví dụ: Sustainable agriculture aims to produce food without damaging the environment.
 
 ---

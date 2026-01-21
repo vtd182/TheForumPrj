@@ -16,7 +16,7 @@ Ví dụ: The unmanned spacecraft successfully landed on the surface of Mars las
 
 ---
 
-4. **Orbit (v) /ˈɔːrbɪt/:** (Lặp lại lần 3 để ghi nhớ hành động của vệ tinh).
+4. **Orbit (v) /ˈɔːrbɪt/:** To move in a curved path around a planet, moon, or star. (Đây là một động từ dùng để chỉ việc quay quanh quỹ đạo.)
 Ví dụ: Thousands of pieces of space junk are currently orbiting the Earth at high speeds.
 
 ---
@@ -131,7 +131,7 @@ Ví dụ: Spacecraft must be heavily shielded to protect crews from harmful cosm
 
 ---
 
-27. **Trajectory (n) /trəˈdʒektəri/:** (Lặp lại lần 2 để ghi nhớ đường bay).
+27. **Trajectory (n) /trəˈdʒektəri/:** The path followed by a moving object through the air or in space. (Đây là một danh từ dùng để chỉ quỹ đạo/đường bay.)
 Ví dụ: A small error in the spacecraft's trajectory could cause it to miss its target planet.
 
 ---
@@ -141,7 +141,7 @@ Ví dụ: The pilot used the thrusters to dock the capsule with the space statio
 
 ---
 
-29. **Payload (n) /ˈpeɪloʊd/:** (Lặp lại lần 3 để ghi nhớ khối lượng hữu ích).
+29. **Payload (n) /ˈpeɪloʊd/:** The cargo carried by a vehicle, especially by a spacecraft or rocket. (Đây là một danh từ dùng để chỉ tải trọng hữu ích.)
 Ví dụ: The cost of a space mission is largely determined by the weight of the payload.
 
 ---
@@ -206,7 +206,7 @@ Ví dụ: Yuri Gagarin was the first cosmonaut to orbit the Earth in 1961.
 
 ---
 
-42. **Telemetry (n) /təˈlemətri/:** (Lặp lại để ghi nhớ việc truyền dữ liệu từ không gian).
+42. **Telemetry (n) /təˈlemətri/:** The automatic measurement and wireless transmission of data from remote sources. (Đây là một danh từ dùng để chỉ hệ thống đo xa/truyền dữ liệu từ xa.)
 Ví dụ: The scientists used telemetry to monitor the health of the astronauts during their mission.
 
 ---
@@ -241,7 +241,7 @@ Ví dụ: Astronauts train in a large centrifuge to prepare for the intense forc
 
 ---
 
-49. **Inertia (n) /ɪˈnɜːrʃə/:** (Lặp lại để nhấn mạnh tính chất vật lý của vật thể trong không gian).
+49. **Inertia (n) /ɪˈnɜːrʃə/:** The tendency of an object to resist changes in its motion (to stay at rest or keep moving). (Đây là một danh từ dùng để chỉ quán tính.)
 Ví dụ: Due to inertia, an astronaut floating in space will continue to drift unless they use a thruster.
 
 ---
@@ -306,7 +306,7 @@ Ví dụ: The astronauts performed a six-hour spacewalk to repair a broken anten
 
 ---
 
-62. **Astrobiology (n) /ˌæstroʊbaɪˈɑːlə dʒi/:** (Lặp lại để nhấn mạnh nghĩa nghiên cứu sự sống ngoài trái đất).
+62. **Astrobiology (n) /ˌæstroʊbaɪˈɑːlə dʒi/:** The study of the origin, evolution, and possibility of life in the universe. (Đây là một danh từ dùng để chỉ ngành sinh học vũ trụ.)
 Ví dụ: Astrobiology is a multidisciplinary field that combines biology, chemistry, and physics.
 
 ---

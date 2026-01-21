@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  19 JAN 2026 17:31
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  20 JAN 2026 20:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1143,12 +1143,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 513--513
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 513--513
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
-integration of new
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 519--519
 []\TU/LatinModernSans(0)/b/n/14.4 Inclusivity[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
 ɪnkluːˈsɪvəti/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
@@ -1602,50 +1596,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1137--1137
-[]\TU/LatinModernSans(0)/b/n/14.4 Integration[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
-ɪntɪˈɡreɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+Overfull \hbox (12.9779pt too wide) in paragraph at lines 1143--1143
+[]\TU/LatinModernSans(0)/b/n/14.4 Prejudice[] \TU/TimesNewRoman(0)/m/it/12 /ˈpr
+edʒədɪs/ (n) \TU/LatinModernRoman(0)/m/n/12 — Preconceived
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [16]
-Overfull \hbox (12.9779pt too wide) in paragraph at lines 1149--1149
-[]\TU/LatinModernSans(0)/b/n/14.4 Prejudice[] \TU/TimesNewRoman(0)/m/it/12 /ˈpr
-edʒədɪs/ (n) \TU/LatinModernRoman(0)/m/n/12 — Preconceived
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1155--1155
+Underfull \hbox (badness 10000) in paragraph at lines 1149--1149
 []\TU/LatinModernSans(0)/b/n/14.4 Discrimination[] \TU/TimesNewRoman(0)/m/it/12
  /dɪˌskrɪmɪˈneɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Overfull \hbox (7.98769pt too wide) in paragraph at lines 1167--1167
+Overfull \hbox (7.98769pt too wide) in paragraph at lines 1161--1161
 []\TU/LatinModernSans(0)/b/n/14.4 Inequality[] \TU/TimesNewRoman(0)/m/it/12 /ˌɪ
 nɪˈkwɑːləti/ (n) \TU/LatinModernRoman(0)/m/n/12 — Difference
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1173--1173
+Underfull \hbox (badness 10000) in paragraph at lines 1167--1167
 \TU/LatinModernRoman(0)/m/n/12 just treatment or behavior without
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1185--1185
+Underfull \hbox (badness 10000) in paragraph at lines 1179--1179
 []\TU/LatinModernSans(0)/b/n/14.4 Welfare[] \TU/TimesNewRoman(0)/m/it/12 /ˈwelf
 er/ (n) \TU/LatinModernRoman(0)/m/n/12 — The health,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1197--1197
+Underfull \hbox (badness 10000) in paragraph at lines 1191--1191
 []\TU/LatinModernSans(0)/b/n/14.4 Well-being[] \TU/TimesNewRoman(0)/m/it/12 /ˌw
 el ˈbiːɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 7777) in paragraph at lines 1203--1203
+Underfull \hbox (badness 7777) in paragraph at lines 1197--1197
 \TU/LatinModernRoman(0)/m/n/12 of the factors that add up to a
  []
 
@@ -1660,10 +1648,10 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 19024 strings out of 473832
- 443508 string characters out of 5729481
- 873299 words of memory out of 5000000
- 41775 multiletter control sequences out of 15000+600000
+ 19016 strings out of 473832
+ 443388 string characters out of 5729481
+ 871662 words of memory out of 5000000
+ 41767 multiletter control sequences out of 15000+600000
  559173 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  131i,16n,135p,478b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s

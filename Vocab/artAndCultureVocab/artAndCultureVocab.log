@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  19 JAN 2026 17:31
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  20 JAN 2026 20:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -958,15 +958,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--141
 / (n) \TU/LatinModernRoman(0)/m/n/12 — A strong,
  []
 
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[2]
+
 Underfull \hbox (badness 6016) in paragraph at lines 141--141
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 fast rhythm of the
  []
 
-
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 153--153
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 painter carefully
@@ -1031,6 +1031,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--207
  []
 
 
+Underfull \hbox (badness 6125) in paragraph at lines 207--207
+\TU/LatinModernRoman(0)/m/it/12 fascinating interview with a famous
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 213--213
 []\TU/LatinModernSans(0)/b/n/14.4 Authenticity[] \TU/TimesNewRoman(0)/m/it/12 /
 ˌɔːθenˈtɪsəti/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
@@ -1058,7 +1063,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 243--243
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 243--243
-\TU/LatinModernRoman(0)/m/n/12 The preservation, protection, or
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Cons
+ervation experts are
  []
 
 
@@ -1095,15 +1101,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--279
 \TU/LatinModernRoman(0)/m/n/12 an instance of something becoming
  []
 
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[4]
+
 Overfull \hbox (2.9282pt too wide) in paragraph at lines 291--291
 []\TU/LatinModernSans(0)/b/n/14.4 Universal[] \TU/TimesNewRoman(0)/m/it/12 /ˌju
 ːnɪˈvɜːrsl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Relating
  []
 
-
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 297--297
 []\TU/LatinModernSans(0)/b/n/14.4 Vernacular[] \TU/TimesNewRoman(0)/m/it/12 /və
 rˈnækjələr/ (adj) \TU/LatinModernRoman(0)/m/n/12 — (Of
@@ -1122,74 +1128,68 @@ bˈstrækʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Overfull \hbox (1.80159pt too wide) in paragraph at lines 327--327
+Overfull \hbox (1.80159pt too wide) in paragraph at lines 321--321
 []\TU/LatinModernSans(0)/b/n/14.4 Catalogue[] \TU/TimesNewRoman(0)/m/it/12 /ˈkæ
 təlɔːɡ/ (n) \TU/LatinModernRoman(0)/m/n/12 — A complete
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--339
+Underfull \hbox (badness 10000) in paragraph at lines 333--333
 []\TU/LatinModernSans(0)/b/n/14.4 Chorus[] \TU/TimesNewRoman(0)/m/it/12 /ˈkɔːrə
 s/ (n) \TU/LatinModernRoman(0)/m/n/12 — A large
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
 []\TU/LatinModernSans(0)/b/n/14.4 Cinematography[] \TU/TimesNewRoman(0)/m/it/12
  /ˌsɪnəməˈtɑːɡrəfi/ (n)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 357--357
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
 []\TU/LatinModernSans(0)/b/n/14.4 Collage[] \TU/TimesNewRoman(0)/m/it/12 /kəˈlɑ
 ːʒ/ (n) \TU/LatinModernRoman(0)/m/n/12 — A piece of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
+[]\TU/LatinModernSans(0)/b/n/14.4 Cosmopolitan[] \TU/TimesNewRoman(0)/m/it/12 /
+ˌkɑːzməˈpɑːlɪtən/ (adj)
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [5]
 Underfull \hbox (badness 10000) in paragraph at lines 369--369
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Cons
-ervation experts are
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 375--375
-[]\TU/LatinModernSans(0)/b/n/14.4 Cosmopolitan[] \TU/TimesNewRoman(0)/m/it/12 /
-ˌkɑːzməˈpɑːlɪtən/ (adj)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 381--381
 []\TU/LatinModernSans(0)/b/n/14.4 Critic[] \TU/TimesNewRoman(0)/m/it/12 /ˈkrɪtɪ
 k/ (n) \TU/LatinModernRoman(0)/m/n/12 — A person who
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--381
+Underfull \hbox (badness 10000) in paragraph at lines 369--369
 \TU/LatinModernRoman(0)/m/n/12 expresses an unfavorable opinion of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
 []\TU/LatinModernSans(0)/b/n/14.4 Criticism[] \TU/TimesNewRoman(0)/m/it/12 /ˈkr
 ɪtɪsɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--417
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
 []\TU/LatinModernSans(0)/b/n/14.4 Design[] \TU/TimesNewRoman(0)/m/it/12 /dɪˈzaɪ
 n/ (n/v) \TU/LatinModernRoman(0)/m/n/12 — A plan or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
 []\TU/LatinModernSans(0)/b/n/14.4 Dimension[] \TU/TimesNewRoman(0)/m/it/12 /daɪ
 ˈmenʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — An
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--435
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 []\TU/LatinModernSans(0)/b/n/14.4 Drama[] \TU/TimesNewRoman(0)/m/it/12 /ˈdrɑːmə
 / (n) \TU/LatinModernRoman(0)/m/n/12 — A play for
  []
@@ -1197,575 +1197,562 @@ Underfull \hbox (badness 10000) in paragraph at lines 435--435
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 459--459
 []\TU/LatinModernSans(0)/b/n/14.4 Engraving[] \TU/TimesNewRoman(0)/m/it/12 /ɪnˈ
 ɡreɪvɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — A print
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\TU/LatinModernSans(0)/b/n/14.4 Epic[] \TU/TimesNewRoman(0)/m/it/12 /ˈepɪk/ (
 adj/n) \TU/LatinModernRoman(0)/m/n/12 — A long poem,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \TU/LatinModernRoman(0)/m/n/12 typically one derived from ancient
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []\TU/LatinModernSans(0)/b/n/14.4 Ethnocentric[] \TU/TimesNewRoman(0)/m/it/12 /
 ˌeθnoʊˈsentrɪk/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 We m
 ust avoid making
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
 []\TU/LatinModernSans(0)/b/n/14.4 Evolution[] \TU/TimesNewRoman(0)/m/it/12 /ˌev
 əˈluːʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
 \TU/LatinModernRoman(0)/m/n/12 gradual development of something,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--507
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
 []\TU/LatinModernSans(0)/b/n/14.4 Experimental[] \TU/TimesNewRoman(0)/m/it/12 /
 ɪkˌsperɪˈmentl/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--507
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 experimental music
  []
 
 
-Underfull \hbox (badness 5970) in paragraph at lines 513--513
+Underfull \hbox (badness 5970) in paragraph at lines 501--501
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Arti
 stic expression is an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--519
+Underfull \hbox (badness 10000) in paragraph at lines 507--507
 []\TU/LatinModernSans(0)/b/n/14.4 Expressionism[] \TU/TimesNewRoman(0)/m/it/12 
 /ɪkˈspreʃənɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]\TU/LatinModernSans(0)/b/n/14.4 Fable[] \TU/TimesNewRoman(0)/m/it/12 /ˈfeɪbl/
+ (n) \TU/LatinModernRoman(0)/m/n/12 — A short story,
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 525--525
-[]\TU/LatinModernSans(0)/b/n/14.4 Fable[] \TU/TimesNewRoman(0)/m/it/12 /ˈfeɪbl/
- (n) \TU/LatinModernRoman(0)/m/n/12 — A short story,
- []
-
-
-Overfull \hbox (23.32237pt too wide) in paragraph at lines 537--537
+Overfull \hbox (23.32237pt too wide) in paragraph at lines 525--525
 []\TU/LatinModernSans(0)/b/n/14.4 Figurative[] \TU/TimesNewRoman(0)/m/it/12 /ˈf
 ɪɡjərətɪv/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Representing
  []
 
 
-Underfull \hbox (badness 7238) in paragraph at lines 549--549
+Underfull \hbox (badness 7238) in paragraph at lines 537--537
 \TU/LatinModernRoman(0)/m/n/12 are to be appreciated primarily or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 549--549
 []\TU/LatinModernSans(0)/b/n/14.4 Formal[] \TU/TimesNewRoman(0)/m/it/12 /ˈfɔːrm
 l/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Done in
  []
 
 
-Overfull \hbox (10.15514pt too wide) in paragraph at lines 573--573
+Overfull \hbox (10.15514pt too wide) in paragraph at lines 561--561
 \TU/LatinModernRoman(0)/m/n/12 with special entertainments or performances. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 579--579
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
 []\TU/LatinModernSans(0)/b/n/14.4 Gallery[] \TU/TimesNewRoman(0)/m/it/12 /ˈɡælə
 ri/ (n) \TU/LatinModernRoman(0)/m/n/12 — A room or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 585--585
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 []\TU/LatinModernSans(0)/b/n/14.4 Geographic[] \TU/TimesNewRoman(0)/m/it/12 /ˌd
 ʒiːəˈɡræfɪk/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--585
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+city’s cathedral is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--585
+\TU/LatinModernRoman(0)/m/it/12 a magnificent example of Gothic
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 591--591
+\TU/LatinModernRoman(0)/m/it/12 variety of gourmet food from local
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [8]
 Underfull \hbox (badness 10000) in paragraph at lines 597--597
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
-city’s cathedral is
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 597--597
-\TU/LatinModernRoman(0)/m/it/12 a magnificent example of Gothic
- []
-
-
-Underfull \hbox (badness 6559) in paragraph at lines 603--603
-\TU/LatinModernRoman(0)/m/it/12 variety of gourmet food from local
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 609--609
 []\TU/LatinModernSans(0)/b/n/14.4 Grandeur[] \TU/TimesNewRoman(0)/m/it/12 /ˈɡræ
 ndʒər/ (n) \TU/LatinModernRoman(0)/m/n/12 — Splendor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 609--609
+Underfull \hbox (badness 10000) in paragraph at lines 597--597
 \TU/LatinModernRoman(0)/m/n/12 and impressiveness, especially of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 627--627
+Underfull \hbox (badness 10000) in paragraph at lines 615--615
 []\TU/LatinModernSans(0)/b/n/14.4 Habitat[] \TU/TimesNewRoman(0)/m/it/12 /ˈæbɪt
 æt/ (n) \TU/LatinModernRoman(0)/m/n/12 — The natural
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 633--633
+Underfull \hbox (badness 10000) in paragraph at lines 621--621
 []\TU/LatinModernSans(0)/b/n/14.4 Harmonious[] \TU/TimesNewRoman(0)/m/it/12 /hɑ
 ːrˈmoʊniəs/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 6284) in paragraph at lines 645--645
+Underfull \hbox (badness 6284) in paragraph at lines 633--633
 []\TU/LatinModernSans(0)/b/n/14.4 Heirloom[] \TU/TimesNewRoman(0)/m/it/12 /ˈerl
 uːm/ (n) \TU/LatinModernRoman(0)/m/n/12 — A valuable
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 651--651
+Underfull \hbox (badness 10000) in paragraph at lines 639--639
 []\TU/LatinModernSans(0)/b/n/14.4 Hero[] \TU/TimesNewRoman(0)/m/it/12 /ˈhɪroʊ/ 
 (n) \TU/LatinModernRoman(0)/m/n/12 — A person who
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 651--651
+Underfull \hbox (badness 10000) in paragraph at lines 639--639
 \TU/LatinModernRoman(0)/m/n/12 outstanding achievements, or noble
  []
 
 
-Overfull \hbox (10.46567pt too wide) in paragraph at lines 663--663
+Overfull \hbox (10.46567pt too wide) in paragraph at lines 651--651
 []\TU/LatinModernSans(0)/b/n/14.4 Historical[] \TU/TimesNewRoman(0)/m/it/12 /hɪ
 ˈstɔːrɪkl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Concerning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 663--663
+Underfull \hbox (badness 10000) in paragraph at lines 651--651
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 novel is based on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 669--669
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
 []\TU/LatinModernSans(0)/b/n/14.4 Humanism[] \TU/TimesNewRoman(0)/m/it/12 /ˈhju
 ːmənɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 669--669
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
 \TU/LatinModernRoman(0)/m/n/12 rather than divine or supernatural
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 705--705
+Underfull \hbox (badness 10000) in paragraph at lines 693--693
 []\TU/LatinModernSans(0)/b/n/14.4 Illustration[] \TU/TimesNewRoman(0)/m/it/12 /
 ˌɪləˈstreɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 711--711
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 []\TU/LatinModernSans(0)/b/n/14.4 Imagery[] \TU/TimesNewRoman(0)/m/it/12 /ˈɪmɪd
 ʒəri/ (n) \TU/LatinModernRoman(0)/m/n/12 — Visually
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 711--711
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 \TU/LatinModernRoman(0)/m/n/12 descriptive or figurative language,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 717--717
+Underfull \hbox (badness 10000) in paragraph at lines 705--705
 []\TU/LatinModernSans(0)/b/n/14.4 Immersive[] \TU/TimesNewRoman(0)/m/it/12 /ɪˈm
 ɜːrsɪv/ (adj) \TU/LatinModernRoman(0)/m/n/12 — (Of a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 723--723
+Underfull \hbox (badness 10000) in paragraph at lines 711--711
 []\TU/LatinModernSans(0)/b/n/14.4 Indigenous[] \TU/TimesNewRoman(0)/m/it/12 /ɪn
 ˈdɪdʒənəs/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Overfull \hbox (13.59798pt too wide) in paragraph at lines 735--735
+Overfull \hbox (13.59798pt too wide) in paragraph at lines 723--723
 []\TU/LatinModernSans(0)/b/n/14.4 Infusion[] \TU/TimesNewRoman(0)/m/it/12 /ɪnˈf
 juːʒn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The introduction
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 747--747
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
 []\TU/LatinModernSans(0)/b/n/14.4 Initial[] \TU/TimesNewRoman(0)/m/it/12 /ɪˈnɪʃ
 l/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Existing or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+[]\TU/LatinModernSans(0)/b/n/14.4 Innovation[] \TU/TimesNewRoman(0)/m/it/12 /ˌɪ
+nəˈveɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 759--759
-[]\TU/LatinModernSans(0)/b/n/14.4 Innovation[] \TU/TimesNewRoman(0)/m/it/12 /ˌɪ
-nəˈveɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
- []
-
-
-Overfull \hbox (21.44463pt too wide) in paragraph at lines 765--765
+Overfull \hbox (21.44463pt too wide) in paragraph at lines 753--753
 []\TU/LatinModernSans(0)/b/n/14.4 Insight[] \TU/TimesNewRoman(0)/m/it/12 /ˈaɪsa
 ɪt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A deep understanding
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 765--765
+Underfull \hbox (badness 10000) in paragraph at lines 753--753
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 novel provides a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 771--771
+Underfull \hbox (badness 10000) in paragraph at lines 759--759
 []\TU/LatinModernSans(0)/b/n/14.4 Inspirational[] \TU/TimesNewRoman(0)/m/it/12 
 /ˌɪnspəˈreɪʃənl/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 789--789
+Underfull \hbox (badness 10000) in paragraph at lines 777--777
 []\TU/LatinModernSans(0)/b/n/14.4 Integration[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
 ɪntɪˈɡreɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Overfull \hbox (13.4923pt too wide) in paragraph at lines 807--807
+Overfull \hbox (13.4923pt too wide) in paragraph at lines 795--795
 []\TU/LatinModernSans(0)/b/n/14.4 Interaction[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
 ɪntərˈækʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — Reciprocal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 807--807
+Underfull \hbox (badness 10000) in paragraph at lines 795--795
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 interaction between
  []
 
 
-Underfull \hbox (badness 6032) in paragraph at lines 807--807
+Underfull \hbox (badness 6032) in paragraph at lines 795--795
 \TU/LatinModernRoman(0)/m/it/12 different cultures can lead to great
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 813--813
+Underfull \hbox (badness 10000) in paragraph at lines 801--801
 []\TU/LatinModernSans(0)/b/n/14.4 Intercultural[] \TU/TimesNewRoman(0)/m/it/12 
 /ˌɪntərˈkʌltʃərəl/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 813--813
+Underfull \hbox (badness 6348) in paragraph at lines 801--801
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 university offers an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 819--819
+Underfull \hbox (badness 10000) in paragraph at lines 807--807
 []\TU/LatinModernSans(0)/b/n/14.4 Interpretation[] \TU/TimesNewRoman(0)/m/it/12
  /ɪnˌtɜːrprɪˈteɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--831
+[]\TU/LatinModernSans(0)/b/n/14.4 Irreplaceable[] \TU/TimesNewRoman(0)/m/it/12 
+/ˌɪrɪˈpleɪsəbl/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 843--843
-[]\TU/LatinModernSans(0)/b/n/14.4 Irreplaceable[] \TU/TimesNewRoman(0)/m/it/12 
-/ˌɪrɪˈpleɪsəbl/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 861--861
+Underfull \hbox (badness 10000) in paragraph at lines 849--849
 []\TU/LatinModernSans(0)/b/n/14.4 Kitsch[] \TU/TimesNewRoman(0)/m/it/12 /kɪtʃ/ 
 (n) \TU/LatinModernRoman(0)/m/n/12 — Art, objects, or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 861--861
+Underfull \hbox (badness 10000) in paragraph at lines 849--849
 \TU/LatinModernRoman(0)/m/n/12 because of excessive garishness or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 867--867
+Underfull \hbox (badness 10000) in paragraph at lines 855--855
 []\TU/LatinModernSans(0)/b/n/14.4 Knowledge[] \TU/TimesNewRoman(0)/m/it/12 /ˈnɑ
 ːlɪdʒ/ (n) \TU/LatinModernRoman(0)/m/n/12 — Facts,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 879--879
+Underfull \hbox (badness 10000) in paragraph at lines 867--867
 []\TU/LatinModernSans(0)/b/n/14.4 Language[] \TU/TimesNewRoman(0)/m/it/12 /ˈlæŋ
 ɡwɪdʒ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Overfull \hbox (25.70369pt too wide) in paragraph at lines 891--891
+Overfull \hbox (25.70369pt too wide) in paragraph at lines 879--879
 []\TU/LatinModernSans(0)/b/n/14.4 Legitimate[] \TU/TimesNewRoman(0)/m/it/12 /lə
 ˈdʒɪtɪmət/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Conforming
  []
 
 
-Overfull \hbox (0.69211pt too wide) in paragraph at lines 915--915
+Overfull \hbox (0.69211pt too wide) in paragraph at lines 903--903
 []\TU/LatinModernSans(0)/b/n/14.4 Limitation[] \TU/TimesNewRoman(0)/m/it/12 /ˌl
 ɪmɪˈteɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A limiting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 915--915
+Underfull \hbox (badness 10000) in paragraph at lines 903--903
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Work
 ing within certain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--915
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+country’s linguistic
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [12]
 Underfull \hbox (badness 10000) in paragraph at lines 927--927
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
-country’s linguistic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 939--939
-[]\TU/LatinModernSans(0)/b/n/14.4 Literary[] \TU/TimesNewRoman(0)/m/it/12 /ˈlɪt
-əreri/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Concerning
- []
-
-
-Underfull \hbox (badness 6125) in paragraph at lines 939--939
-\TU/LatinModernRoman(0)/m/it/12 fascinating interview with a famous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 945--945
 []\TU/LatinModernSans(0)/b/n/14.4 Literature[] \TU/TimesNewRoman(0)/m/it/12 /ˈl
 ɪtrətʃər/ (n) \TU/LatinModernRoman(0)/m/n/12 — Written
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 951--951
+Underfull \hbox (badness 10000) in paragraph at lines 933--933
 []\TU/LatinModernSans(0)/b/n/14.4 Logic[] \TU/TimesNewRoman(0)/m/it/12 /ˈlɑːdʒɪ
 k/ (n) \TU/LatinModernRoman(0)/m/n/12 — Reasoning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 957--957
+Underfull \hbox (badness 10000) in paragraph at lines 939--939
 []\TU/LatinModernSans(0)/b/n/14.4 Longevity[] \TU/TimesNewRoman(0)/m/it/12 /lɔː
 nˈdʒevəti/ (n) \TU/LatinModernRoman(0)/m/n/12 — Long
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 969--969
+Underfull \hbox (badness 10000) in paragraph at lines 951--951
 []\TU/LatinModernSans(0)/b/n/14.4 Mainstream[] \TU/TimesNewRoman(0)/m/it/12 /ˈm
 eɪnstriːm/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 6944) in paragraph at lines 975--975
+Underfull \hbox (badness 6944) in paragraph at lines 957--957
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Weav
 ing is a traditional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 981--981
+Underfull \hbox (badness 10000) in paragraph at lines 963--963
 []\TU/LatinModernSans(0)/b/n/14.4 Manuscript[] \TU/TimesNewRoman(0)/m/it/12 /ˈm
 ænjuskrɪpt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 993--993
+Underfull \hbox (badness 10000) in paragraph at lines 975--975
 []\TU/LatinModernSans(0)/b/n/14.4 Masquerade[] \TU/TimesNewRoman(0)/m/it/12 /ˌm
 æskəˈreɪd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 993--993
+Underfull \hbox (badness 10000) in paragraph at lines 975--975
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 festival features a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 993--993
+Underfull \hbox (badness 10000) in paragraph at lines 975--975
 \TU/LatinModernRoman(0)/m/it/12 spectacular masquerade parade with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 999--999
+Underfull \hbox (badness 10000) in paragraph at lines 981--981
 []\TU/LatinModernSans(0)/b/n/14.4 Mechanism[] \TU/TimesNewRoman(0)/m/it/12 /ˈme
 kənɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 999--999
+Underfull \hbox (badness 10000) in paragraph at lines 981--981
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Muse
 ums have complex
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1005--1005
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 []\TU/LatinModernSans(0)/b/n/14.4 Mediate[] \TU/TimesNewRoman(0)/m/it/12 /ˈmiːd
 ieɪt/ (v) \TU/LatinModernRoman(0)/m/n/12 — Intervene
  []
 
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[13]
-Underfull \hbox (badness 7468) in paragraph at lines 1011--1011
+
+Underfull \hbox (badness 7468) in paragraph at lines 993--993
 []\TU/LatinModernSans(0)/b/n/14.4 Medieval[] \TU/TimesNewRoman(0)/m/it/12 /ˌmed
 iˈiːvl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Relating
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
+Underfull \hbox (badness 10000) in paragraph at lines 1005--1005
 \TU/LatinModernRoman(0)/m/n/12 account or biography written from
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1047--1047
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
 []\TU/LatinModernSans(0)/b/n/14.4 Metropolis[] \TU/TimesNewRoman(0)/m/it/12 /mə
 ˈtrɑːpəlɪs/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1053--1053
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1023
 []\TU/LatinModernSans(0)/b/n/14.4 Minimalism[] \TU/TimesNewRoman(0)/m/it/12 /ˈm
 ɪnɪməlɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1071--1071
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1041
 []\TU/LatinModernSans(0)/b/n/14.4 Monolith[] \TU/TimesNewRoman(0)/m/it/12 /ˈmɑː
 nəlɪθ/ (n) \TU/LatinModernRoman(0)/m/n/12 — A large
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1047
 []\TU/LatinModernSans(0)/b/n/14.4 Monument[] \TU/TimesNewRoman(0)/m/it/12 /ˈmɑː
 njumənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 7832) in paragraph at lines 1077--1077
+Underfull \hbox (badness 7832) in paragraph at lines 1047--1047
 \TU/LatinModernRoman(0)/m/n/12 statue, building, or other structure,
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 1083--1083
+Underfull \hbox (badness 5175) in paragraph at lines 1053--1053
 []\TU/LatinModernSans(0)/b/n/14.4 Mural[] \TU/TimesNewRoman(0)/m/it/12 /ˈmjʊrəl
 / (n) \TU/LatinModernRoman(0)/m/n/12 — A painting or
  []
 
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[14]
-Overfull \hbox (6.89236pt too wide) in paragraph at lines 1113--1113
+
+Overfull \hbox (6.89236pt too wide) in paragraph at lines 1077--1077
 []\TU/LatinModernSans(0)/b/n/14.4 Neutral[] \TU/TimesNewRoman(0)/m/it/12 /ˈnuːt
 rəl/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Not supporting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1119--1119
+Underfull \hbox (badness 10000) in paragraph at lines 1083--1083
 []\TU/LatinModernSans(0)/b/n/14.4 Nomadic[] \TU/TimesNewRoman(0)/m/it/12 /noʊˈm
 ædɪk/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Living
  []
 
-
-Underfull \hbox (badness 6477) in paragraph at lines 1125--1125
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[14]
+Underfull \hbox (badness 6477) in paragraph at lines 1089--1089
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Resp
 ect for family is a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1137--1137
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1101
 []\TU/LatinModernSans(0)/b/n/14.4 Nuance[] \TU/TimesNewRoman(0)/m/it/12 /ˈnuːɑː
 ns/ (n) \TU/LatinModernRoman(0)/m/n/12 — A subtle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1137--1137
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1101
 \TU/LatinModernRoman(0)/m/n/12 difference in or shade of meaning,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1149--1149
+Underfull \hbox (badness 10000) in paragraph at lines 1113--1113
 []\TU/LatinModernSans(0)/b/n/14.4 Objective[] \TU/TimesNewRoman(0)/m/it/12 /əbˈ
 dʒektɪv/ (adj) \TU/LatinModernRoman(0)/m/n/12 — (Of a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1161--1161
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1125
 []\TU/LatinModernSans(0)/b/n/14.4 Opulence[] \TU/TimesNewRoman(0)/m/it/12 /ˈɑːp
 jələns/ (n) \TU/LatinModernRoman(0)/m/n/12 — Great
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1167--1167
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
 []\TU/LatinModernSans(0)/b/n/14.4 Orchestra[] \TU/TimesNewRoman(0)/m/it/12 /ˈɔː
 rkɪstrə/ (n) \TU/LatinModernRoman(0)/m/n/12 — A large
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1167--1167
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
 \TU/LatinModernRoman(0)/m/n/12 group of musicians playing various
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1167--1167
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 symphony orchestra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1167--1167
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
 \TU/LatinModernRoman(0)/m/it/12 performed works by Beethoven and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1179--1179
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1143
 []\TU/LatinModernSans(0)/b/n/14.4 Outlet[] \TU/TimesNewRoman(0)/m/it/12 /ˈaʊtle
 t/ (n) \TU/LatinModernRoman(0)/m/n/12 — A means of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1179--1179
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1143
 \TU/LatinModernRoman(0)/m/n/12 expressing one’s talents, energy, or
  []
 
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 1191--1191
+
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1155
 []\TU/LatinModernSans(0)/b/n/14.4 Participation[] \TU/TimesNewRoman(0)/m/it/12 
 /pɑːrˌtɪsɪˈpeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1191--1191
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1155
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Enco
 uraging community
  []
@@ -1774,19 +1761,19 @@ uraging community
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
-[16] (./artAndCultureVocab.aux)
+[15] (./artAndCultureVocab.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 19023 strings out of 473832
- 443349 string characters out of 5729481
- 869131 words of memory out of 5000000
- 41774 multiletter control sequences out of 15000+600000
+ 19004 strings out of 473832
+ 443010 string characters out of 5729481
+ 875379 words of memory out of 5000000
+ 41755 multiletter control sequences out of 15000+600000
  559173 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  131i,16n,135p,468b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on artAndCultureVocab.pdf (16 pages).
+Output written on artAndCultureVocab.pdf (15 pages).

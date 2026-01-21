@@ -1,6 +1,6 @@
 # Vocab Raw Dedup Report
 
-Last run: `2026-01-20T15:07:18`
+Last run: `2026-01-20T16:00:02`
 
 Rule: de-duplicate repeated `word` entries within each file (keep the first occurrence).
 
@@ -28,18 +28,6 @@ Rule: de-duplicate repeated `word` entries within each file (keep the first occu
 | `Vocab/raw/TourismAndTravel.txt` | 190 | 190 | 0 |
 | `Vocab/raw/TransportAndInfrastructure.txt` | 108 | 108 | 0 |
 | `Vocab/raw/WorkAndEmployment.txt` | 187 | 187 | 0 |
-| `Vocab/raw/YouthGenerationIssues.txt` | 190 | 182 | 8 |
+| `Vocab/raw/YouthGenerationIssues.txt` | 182 | 182 | 0 |
 
 ## Duplicates Detail
-
-### `Vocab/raw/YouthGenerationIssues.txt`
-| Word | Extra occurrences |
-|---|---:|
-| Innovation | 1 |
-| Activism | 1 |
-| Diversity | 1 |
-| Sustainability | 1 |
-| Ethics | 1 |
-| Curiosity | 1 |
-| Faith | 1 |
-| Perspective | 1 |

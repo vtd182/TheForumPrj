@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  19 JAN 2026 17:31
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  20 JAN 2026 20:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1221,9 +1221,7 @@ Overfull \hbox (2.1472pt too wide) in paragraph at lines 579--579
 body converts carbohydrates
  []
 
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[7]
+
 Overfull \hbox (8.02255pt too wide) in paragraph at lines 585--585
 []\TU/LatinModernSans(0)/b/n/14.4 Handicap[] \TU/TimesNewRoman(0)/m/it/12 /ˈhæn
 dikæp/ (n) \TU/LatinModernRoman(0)/m/n/12 — A condition
@@ -1234,7 +1232,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 585--585
 \TU/LatinModernRoman(0)/m/n/12 to function physically, mentally, or
  []
 
-
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 597--597
 []\TU/LatinModernSans(0)/b/n/14.4 Healthcare[] \TU/TimesNewRoman(0)/m/it/12 /ˈh
 elθker/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
@@ -1288,15 +1288,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 657--657
 haɪpoʊˈθɜːrmiə/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[8]
+
 Underfull \hbox (badness 10000) in paragraph at lines 663--663
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Vacc
 ination makes you
  []
 
-
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[8]
 Underfull \hbox (badness 6859) in paragraph at lines 669--669
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Babi
 es get some natural
@@ -1569,15 +1569,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 1107--1107
 zɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A person
  []
 
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[13]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1113--1113
 []\TU/LatinModernSans(0)/b/n/14.4 Physiotherapy[] \TU/TimesNewRoman(0)/m/it/12 
 /ˌfɪzioʊˈθerəpi/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
-
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 1125--1125
 []\TU/LatinModernSans(0)/b/n/14.4 Pneumonia[] \TU/TimesNewRoman(0)/m/it/12 /nuː
 ˈmoʊniə/ (n) \TU/LatinModernRoman(0)/m/n/12 — Lung
@@ -1690,7 +1690,7 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  19004 strings out of 473832
  442926 string characters out of 5729481
- 868975 words of memory out of 5000000
+ 869338 words of memory out of 5000000
  41755 multiletter control sequences out of 15000+600000
  559173 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

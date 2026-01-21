@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  19 JAN 2026 17:31
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  20 JAN 2026 20:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -845,6 +845,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--51
  []
 
 
+Underfull \hbox (badness 6380) in paragraph at lines 63--63
+\TU/LatinModernRoman(0)/m/n/12 motivates or encourages someone to
+ []
+
+
 Underfull \hbox (badness 5036) in paragraph at lines 69--69
 []\TU/LatinModernSans(0)/b/n/14.4 Superannuation[] \TU/TimesNewRoman(0)/m/it/12
  /ˌsuːpərˌænjuˈeɪʃn/ (n)
@@ -933,12 +938,6 @@ tsɔːrs/ (v) \TU/LatinModernRoman(0)/m/n/12 — Obtain
  []
 
 
-Underfull \hbox (badness 6893) in paragraph at lines 189--189
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Many
- Western companies
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 195--195
 []\TU/LatinModernSans(0)/b/n/14.4 Personnel[] \TU/TimesNewRoman(0)/m/it/12 /ˌpɜ
 ːrsəˈnel/ (n) \TU/LatinModernRoman(0)/m/n/12 — People
@@ -984,6 +983,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--249
 Underfull \hbox (badness 6032) in paragraph at lines 255--255
 []\TU/LatinModernSans(0)/b/n/14.4 Wage[] \TU/TimesNewRoman(0)/m/it/12 /weɪdʒ/ (
 n) \TU/LatinModernRoman(0)/m/n/12 — A fixed regular
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+company offers a
  []
 
 
@@ -1090,6 +1095,11 @@ File: ../wm/logoTF.png Graphic file (type bmp)
 Underfull \hbox (badness 10000) in paragraph at lines 423--423
 []\TU/LatinModernSans(0)/b/n/14.4 Qualifications[] \TU/TimesNewRoman(0)/m/it/12
  /ˌkwɑːlɪfɪˈkeɪʃnz/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+\TU/LatinModernRoman(0)/m/n/12 A pass of an examination or an
  []
 
 
@@ -1258,25 +1268,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 621--621
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 645--645
+Underfull \hbox (badness 10000) in paragraph at lines 639--639
 []\TU/LatinModernSans(0)/b/n/14.4 Benchmark[] \TU/TimesNewRoman(0)/m/it/12 /ˈbe
 ntʃmɑːrk/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 651--651
+Underfull \hbox (badness 10000) in paragraph at lines 645--645
 []\TU/LatinModernSans(0)/b/n/14.4 Collaborate[] \TU/TimesNewRoman(0)/m/it/12 /k
 əˈlæbəreɪt/ (v) \TU/LatinModernRoman(0)/m/n/12 — Work
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 663--663
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 escalation of the
  []
 
 
-Underfull \hbox (badness 5908) in paragraph at lines 669--669
+Underfull \hbox (badness 5908) in paragraph at lines 663--663
 []\TU/LatinModernSans(0)/b/n/14.4 Facilitate[] \TU/TimesNewRoman(0)/m/it/12 /fə
 ˈsɪlɪteɪt/ (v) \TU/LatinModernRoman(0)/m/n/12 — Make (an
  []
@@ -1284,427 +1294,365 @@ Underfull \hbox (badness 5908) in paragraph at lines 669--669
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 699--699
+Underfull \hbox (badness 10000) in paragraph at lines 693--693
 []\TU/LatinModernSans(0)/b/n/14.4 Knowledgeable[] \TU/TimesNewRoman(0)/m/it/12 
 /ˈnɑːlɪdʒəbl/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Overfull \hbox (14.11642pt too wide) in paragraph at lines 711--711
+Overfull \hbox (14.11642pt too wide) in paragraph at lines 705--705
 []\TU/LatinModernSans(0)/b/n/14.4 Mediation[] \TU/TimesNewRoman(0)/m/it/12 /ˌmi
 ːdiˈeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — Intervention
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 711--711
+Underfull \hbox (badness 10000) in paragraph at lines 705--705
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 dispute was finally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 723--723
+Underfull \hbox (badness 10000) in paragraph at lines 717--717
 []\TU/LatinModernSans(0)/b/n/14.4 Outplacement[] \TU/TimesNewRoman(0)/m/it/12 /
 ˈaʊtˌpleɪsmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 6792) in paragraph at lines 723--723
+Underfull \hbox (badness 6792) in paragraph at lines 717--717
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 company offered an
  []
 
 
-Underfull \hbox (badness 6284) in paragraph at lines 729--729
+Underfull \hbox (badness 6284) in paragraph at lines 723--723
 []\TU/LatinModernSans(0)/b/n/14.4 Payroll[] \TU/TimesNewRoman(0)/m/it/12 /ˈpeɪr
 oʊl/ (n) \TU/LatinModernRoman(0)/m/n/12 — A list of a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 735--735
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
 []\TU/LatinModernSans(0)/b/n/14.4 Quarterly[] \TU/TimesNewRoman(0)/m/it/12 /ˈkw
 ɔːrtərli/ (adv) \TU/LatinModernRoman(0)/m/n/12 — At
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 741--741
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
 []\TU/LatinModernSans(0)/b/n/14.4 Redeploy[] \TU/TimesNewRoman(0)/m/it/12 /ˌriː
 dɪˈplɔɪ/ (v) \TU/LatinModernRoman(0)/m/n/12 — Assign
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 741--741
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
 \TU/LatinModernRoman(0)/m/it/12 the staff were redeployed to other
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 747--747
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
 []\TU/LatinModernSans(0)/b/n/14.4 Supervisor[] \TU/TimesNewRoman(0)/m/it/12 /ˈs
 uːpərvaɪzər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 753--753
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
 []\TU/LatinModernSans(0)/b/n/14.4 Teamwork[] \TU/TimesNewRoman(0)/m/it/12 /ˈtiː
 mwɜːrk/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 759--759
+Underfull \hbox (badness 10000) in paragraph at lines 753--753
 []\TU/LatinModernSans(0)/b/n/14.4 Understaffed[] \TU/TimesNewRoman(0)/m/it/12 /
 ˌʌndərˈstæft/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 759--759
+Underfull \hbox (badness 10000) in paragraph at lines 753--753
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 hospital is severely
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 765--765
+Underfull \hbox (badness 10000) in paragraph at lines 759--759
 []\TU/LatinModernSans(0)/b/n/14.4 Voluntary[] \TU/TimesNewRoman(0)/m/it/12 /ˈvɑ
 ːlənteri/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Done,
+ []
+
+
+Overfull \hbox (0.40906pt too wide) in paragraph at lines 765--765
+[]\TU/LatinModernSans(0)/b/n/14.4 Workshop[] \TU/TimesNewRoman(0)/m/it/12 /ˈwɜː
+rkʃɑːp/ (n) \TU/LatinModernRoman(0)/m/n/12 — A meeting
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [11]
-Overfull \hbox (0.40906pt too wide) in paragraph at lines 771--771
-[]\TU/LatinModernSans(0)/b/n/14.4 Workshop[] \TU/TimesNewRoman(0)/m/it/12 /ˈwɜː
-rkʃɑːp/ (n) \TU/LatinModernRoman(0)/m/n/12 — A meeting
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 771--771
+Underfull \hbox (badness 10000) in paragraph at lines 765--765
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
 HR department is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 795--795
+Underfull \hbox (badness 10000) in paragraph at lines 783--783
 []\TU/LatinModernSans(0)/b/n/14.4 Beneficiary[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
 benɪˈfɪʃieri/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 795--795
+Underfull \hbox (badness 10000) in paragraph at lines 783--783
 \TU/LatinModernRoman(0)/m/n/12 person who derives advantage from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 801--801
+Underfull \hbox (badness 10000) in paragraph at lines 789--789
 []\TU/LatinModernSans(0)/b/n/14.4 Clientele[] \TU/TimesNewRoman(0)/m/it/12 /ˌkl
 aɪənˈtel/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 801--801
+Underfull \hbox (badness 10000) in paragraph at lines 789--789
 \TU/LatinModernRoman(0)/m/it/12 clientele that includes many major
  []
 
 
-Overfull \hbox (14.35846pt too wide) in paragraph at lines 819--819
+Overfull \hbox (14.35846pt too wide) in paragraph at lines 807--807
 []\TU/LatinModernSans(0)/b/n/14.4 Fulfillment[] \TU/TimesNewRoman(0)/m/it/12 /f
 ʊlˈfɪlmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — Satisfaction
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--831
+Underfull \hbox (badness 10000) in paragraph at lines 819--819
 []\TU/LatinModernSans(0)/b/n/14.4 Headquarters[] \TU/TimesNewRoman(0)/m/it/12 /
 ˈhedkwɔːrtərz/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 837--837
+Underfull \hbox (badness 10000) in paragraph at lines 825--825
 []\TU/LatinModernSans(0)/b/n/14.4 Industrious[] \TU/TimesNewRoman(0)/m/it/12 /ɪ
 nˈdʌstriəs/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 837--837
+[]\TU/LatinModernSans(0)/b/n/14.4 Keynote[] \TU/TimesNewRoman(0)/m/it/12 /ˈkiːn
+oʊt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A central
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 849--849
-[]\TU/LatinModernSans(0)/b/n/14.4 Keynote[] \TU/TimesNewRoman(0)/m/it/12 /ˈkiːn
-oʊt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A central
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 855--855
+Underfull \hbox (badness 10000) in paragraph at lines 843--843
 \TU/LatinModernRoman(0)/m/it/12 increasingly competitive for recent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 861--861
+Underfull \hbox (badness 10000) in paragraph at lines 849--849
 []\TU/LatinModernSans(0)/b/n/14.4 Misconduct[] \TU/TimesNewRoman(0)/m/it/12 /ˌm
 ɪsˈkɑːndʌkt/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 861--861
+Underfull \hbox (badness 10000) in paragraph at lines 849--849
 \TU/LatinModernRoman(0)/m/n/12 Unacceptable or improper behavior,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 861--861
+Underfull \hbox (badness 10000) in paragraph at lines 849--849
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 He w
 as dismissed for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 861--861
+Underfull \hbox (badness 10000) in paragraph at lines 849--849
 \TU/LatinModernRoman(0)/m/it/12 professional misconduct following an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 867--867
+Underfull \hbox (badness 10000) in paragraph at lines 855--855
 []\TU/LatinModernSans(0)/b/n/14.4 Negotiate[] \TU/TimesNewRoman(0)/m/it/12 /nəˈ
 ɡoʊʃieɪt/ (v) \TU/LatinModernRoman(0)/m/n/12 — Try to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 873--873
+Underfull \hbox (badness 10000) in paragraph at lines 861--861
 []\TU/LatinModernSans(0)/b/n/14.4 Orientation[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
 ɔːriənˈteɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 7722) in paragraph at lines 885--885
+Underfull \hbox (badness 7722) in paragraph at lines 873--873
 []\TU/LatinModernSans(0)/b/n/14.4 Qualification[] \TU/TimesNewRoman(0)/m/it/12 
 /ˌkwɑːlɪfɪˈkeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 885--885
+Underfull \hbox (badness 10000) in paragraph at lines 873--873
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 She 
 has all the right
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 891--891
+Underfull \hbox (badness 10000) in paragraph at lines 879--879
 []\TU/LatinModernSans(0)/b/n/14.4 Retirement[] \TU/TimesNewRoman(0)/m/it/12 /rɪ
 ˈtaɪərmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 7238) in paragraph at lines 897--897
+Underfull \hbox (badness 7238) in paragraph at lines 885--885
 []\TU/LatinModernSans(0)/b/n/14.4 Shift work[] \TU/TimesNewRoman(0)/m/it/12 /ˈʃ
 ɪft wɜːrk/ (n) \TU/LatinModernRoman(0)/m/n/12 — Work
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 903--903
+Underfull \hbox (badness 10000) in paragraph at lines 891--891
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Each
  team member was
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 909--909
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
 []\TU/LatinModernSans(0)/b/n/14.4 Underprivileged[] \TU/TimesNewRoman(0)/m/it/1
 2 /ˌʌndərˈprɪvəlɪdʒd/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 909--909
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
 \TU/LatinModernRoman(0)/m/it/12 to provide training and jobs for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 909--909
+[]\TU/LatinModernSans(0)/b/n/14.4 Whistleblowing[] \TU/TimesNewRoman(0)/m/it/12
+ /ˈwɪslbloʊɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 915--915
-[]\TU/LatinModernSans(0)/b/n/14.4 Vocation[] \TU/TimesNewRoman(0)/m/it/12 /voʊˈ
-keɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A strong
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 927--927
-[]\TU/LatinModernSans(0)/b/n/14.4 Whistleblowing[] \TU/TimesNewRoman(0)/m/it/12
- /ˈwɪslbloʊɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 939--939
+Underfull \hbox (badness 10000) in paragraph at lines 921--921
 []\TU/LatinModernSans(0)/b/n/14.4 Zeal[] \TU/TimesNewRoman(0)/m/it/12 /ziːl/ (n
 ) \TU/LatinModernRoman(0)/m/n/12 — Great energy or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 945--945
+Underfull \hbox (badness 10000) in paragraph at lines 927--927
 []\TU/LatinModernSans(0)/b/n/14.4 Advancement[] \TU/TimesNewRoman(0)/m/it/12 /ə
 dˈvænsmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 945--945
+Underfull \hbox (badness 10000) in paragraph at lines 927--927
 \TU/LatinModernRoman(0)/m/it/12 for career advancement within the
  []
 
 
-Underfull \hbox (badness 6758) in paragraph at lines 951--951
+Underfull \hbox (badness 6758) in paragraph at lines 933--933
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 All 
 new employees must
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 963--963
+Underfull \hbox (badness 10000) in paragraph at lines 945--945
 []\TU/LatinModernSans(0)/b/n/14.4 Discipline[] \TU/TimesNewRoman(0)/m/it/12 /ˈd
 ɪsəplɪn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 969--969
+Underfull \hbox (badness 10000) in paragraph at lines 951--951
 \TU/LatinModernRoman(0)/m/n/12 or machine) achieving maximum
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 981--981
+Underfull \hbox (badness 10000) in paragraph at lines 963--963
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Plea
 se follow the safety
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 981--981
+Underfull \hbox (badness 10000) in paragraph at lines 963--963
 \TU/LatinModernRoman(0)/m/it/12 guidelines carefully when using the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
+[]\TU/LatinModernSans(0)/b/n/14.4 Marketing[] \TU/TimesNewRoman(0)/m/it/12 /ˈmɑ
+ːrkɪtɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 1005--1005
-[]\TU/LatinModernSans(0)/b/n/14.4 Knowledgeable[] \TU/TimesNewRoman(0)/m/it/12 
-/ˈnɑːlɪdʒəbl/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
-[]\TU/LatinModernSans(0)/b/n/14.4 Marketing[] \TU/TimesNewRoman(0)/m/it/12 /ˈmɑ
-ːrkɪtɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
- []
-
-
-Overfull \hbox (16.52289pt too wide) in paragraph at lines 1023--1023
+Overfull \hbox (16.52289pt too wide) in paragraph at lines 993--993
 []\TU/LatinModernSans(0)/b/n/14.4 Notice[] \TU/TimesNewRoman(0)/m/it/12 /ˈnoʊtɪ
 s/ (n) \TU/LatinModernRoman(0)/m/n/12 — Advance notification
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
-[]\TU/LatinModernSans(0)/b/n/14.4 Outsource[] \TU/TimesNewRoman(0)/m/it/12 /ˈaʊ
-tsɔːrs/ (v) \TU/LatinModernRoman(0)/m/n/12 — Obtain
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1035--1035
+Underfull \hbox (badness 10000) in paragraph at lines 999--999
 []\TU/LatinModernSans(0)/b/n/14.4 Permanent[] \TU/TimesNewRoman(0)/m/it/12 /ˈpɜ
 ːrmənənt/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 1041--1041
+Underfull \hbox (badness 5607) in paragraph at lines 1005--1005
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Ever
 y product must pass
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1053--1053
-[]\TU/LatinModernSans(0)/b/n/14.4 Supervisor[] \TU/TimesNewRoman(0)/m/it/12 /ˈs
-uːpərvaɪzər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1065--1065
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1023
 []\TU/LatinModernSans(0)/b/n/14.4 Underpaid[] \TU/TimesNewRoman(0)/m/it/12 /ˌʌn
 dərˈpeɪd/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Paid
  []
 
 
-Overfull \hbox (7.94543pt too wide) in paragraph at lines 1071--1071
-[]\TU/LatinModernSans(0)/b/n/14.4 Vacancy[] \TU/TimesNewRoman(0)/m/it/12 /ˈveɪk
-ənsi/ (n) \TU/LatinModernRoman(0)/m/n/12 — An unoccupied
- []
-
-File: ../wm/logoTF.png Graphic file (type bmp)
-<../wm/logoTF.png>
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
-[]\TU/LatinModernSans(0)/b/n/14.4 Workforce[] \TU/TimesNewRoman(0)/m/it/12 /ˈwɜ
-ːrkfɔːrs/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1089--1089
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 []\TU/LatinModernSans(0)/b/n/14.4 Absenteeism[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
 æbsənˈtiːɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1095--1095
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1035
 []\TU/LatinModernSans(0)/b/n/14.4 Blue-collar worker[] \TU/TimesNewRoman(0)/m/i
 t/12 /ˌbluː ˈkɑːlər
  []
 
 
-Underfull \hbox (badness 7030) in paragraph at lines 1101--1101
+Underfull \hbox (badness 7030) in paragraph at lines 1041--1041
 \TU/LatinModernRoman(0)/m/n/12 or spoken agreement, especially one
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1107--1107
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1047
 []\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Prom
 oting diversity and
  []
 
 
-Overfull \hbox (2.00827pt too wide) in paragraph at lines 1113--1113
+Overfull \hbox (2.00827pt too wide) in paragraph at lines 1053--1053
 []\TU/LatinModernSans(0)/b/n/14.4 Experience[] \TU/TimesNewRoman(0)/m/it/12 /ɪk
 ˈspɪriəns/ (n) \TU/LatinModernRoman(0)/m/n/12 — Practical
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1155--1155
-[]\TU/LatinModernSans(0)/b/n/14.4 Promotion[] \TU/TimesNewRoman(0)/m/it/12 /prə
-ˈmoʊʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
- []
-
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 1161--1161
-[]\TU/LatinModernSans(0)/b/n/14.4 Qualifications[] \TU/TimesNewRoman(0)/m/it/12
- /ˌkwɑːlɪfɪˈkeɪʃnz/ (n) \TU/LatinModernRoman(0)/m/n/12 —
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1167--1167
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1095
 []\TU/LatinModernSans(0)/b/n/14.4 Resume[] \TU/TimesNewRoman(0)/m/it/12 /rɪˈzuː
 meɪ/ (n) \TU/LatinModernRoman(0)/m/n/12 — A brief
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1167--1167
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1095
 \TU/LatinModernRoman(0)/m/n/12 account of a person’s education,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1173--1173
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1101
 []\TU/LatinModernSans(0)/b/n/14.4 Staff[] \TU/TimesNewRoman(0)/m/it/12 /stæf/ (
 n) \TU/LatinModernRoman(0)/m/n/12 — All the people
  []
 
 
-Underfull \hbox (badness 6032) in paragraph at lines 1197--1197
-[]\TU/LatinModernSans(0)/b/n/14.4 Wage[] \TU/TimesNewRoman(0)/m/it/12 /weɪdʒ/ (
-n) \TU/LatinModernRoman(0)/m/n/12 — A fixed regular
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1197--1197
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
-company offers a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1203--1203
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1125
 []\TU/LatinModernSans(0)/b/n/14.4 Workload[] \TU/TimesNewRoman(0)/m/it/12 /ˈwɜː
 rkloʊd/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
@@ -1713,19 +1661,19 @@ rkloʊd/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
-[17] (./workAndEmploymentVocab.aux)
+[16] (./workAndEmploymentVocab.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 19016 strings out of 473832
- 443316 string characters out of 5729481
- 869262 words of memory out of 5000000
- 41767 multiletter control sequences out of 15000+600000
+ 19010 strings out of 473832
+ 443187 string characters out of 5729481
+ 869510 words of memory out of 5000000
+ 41761 multiletter control sequences out of 15000+600000
  559173 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  131i,16n,135p,472b,997s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on workAndEmploymentVocab.pdf (17 pages).
+Output written on workAndEmploymentVocab.pdf (16 pages).

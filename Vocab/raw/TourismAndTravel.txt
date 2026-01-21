@@ -1,7 +1,7 @@
 Dưới đây là danh sách 200 từ vựng học thuật trình độ B1-C2 chủ đề **Tourism & Travel (Du lịch và Lữ hành)**. Các từ vựng được biên soạn kỹ lưỡng, tuân thủ chặt chẽ định dạng trải phẳng (flat) chi tiết: Từ vựng (Từ loại) /Phiên âm/: Nghĩa tiếng Anh (Giải thích chi tiết nghĩa tiếng Việt).
 
 ---
-1. **Itinerary (n) /aɪˈtɪnəreri/:** A planned route or journey. (Lặp lại lần 2.).
+1. **Itinerary (n) /aɪˈtɪnəreri/:** A planned route or journey.
 Ví dụ: We had to change our itinerary because of the bad weather.
 
 ---
@@ -16,12 +16,12 @@ Ví dụ: Finding affordable accommodation in the city center during peak season
 
 ---
 
-4. **Destination (n) /ˌdestɪˈneɪʃn/:** The place to which someone or something is going or being sent. (Lặp lại lần 3 do tính quan trọng.).
+4. **Destination (n) /ˌdestɪˈneɪʃn/:** The place to which someone or something is going or being sent.
 Ví dụ: What is your final destination?
 
 ---
 
-5. **Hospitality (n) /ˌhɑːspɪˈtæləti/:** Friendly reception of guests. (Lặp lại lần 2.).
+5. **Hospitality (n) /ˌhɑːspɪˈtæləti/:** Friendly reception of guests.
 Ví dụ: The local people are famous for their hospitality and generosity.
 
 ---
@@ -36,7 +36,7 @@ Ví dụ: The view from the top of the mountain was absolutely breathtaking.
 
 ---
 
-8. **Expedition (n) /ˌekspəˈdɪʃn/:** A journey or voyage undertaken by a group of people with a particular purpose. (Lặp lại lần 2.).
+8. **Expedition (n) /ˌekspəˈdɪʃn/:** A journey or voyage undertaken by a group of people with a particular purpose.
 Ví dụ: He joined an expedition to search for the lost city in the jungle.
 
 ---
@@ -51,7 +51,7 @@ Ví dụ: Outbound travel has increased significantly as people have more dispos
 
 ---
 
-11. **Excursion (n) /ɪkˈskɜːrʒn/:** A short journey or trip. (Lặp lại để nhấn mạnh.).
+11. **Excursion (n) /ɪkˈskɜːrʒn/:** A short journey or trip.
 Ví dụ: The hotel organizes daily excursions to the local sights.
 
 ---
@@ -66,7 +66,7 @@ Ví dụ: Staying with a local family provides a more immersive cultural experie
 
 ---
 
-14. **Heritage (n) /ˈherɪtɪdʒ/:** Valued objects and qualities passed down from previous generations. (Lặp lại lần 2.).
+14. **Heritage (n) /ˈherɪtɪdʒ/:** Valued objects and qualities such as cultural traditions and historic buildings passed down from previous generations. (Đây là một danh từ dùng để chỉ di sản văn hóa hoặc truyền thống.).
 Ví dụ: This building is part of our national heritage and must be protected.
 
 ---
@@ -171,7 +171,7 @@ Ví dụ: Domestic tourism has seen a boost as people choose to explore their ow
 
 ---
 
-35. **Exotic (adj) /ɪɡˈzɑːtɪk/:** Originating in or characteristic of a distant foreign country. (Lặp lại lần 2.).
+35. **Exotic (adj) /ɪɡˈzɑːtɪk/:** Originating in or characteristic of a distant foreign country. (Đây là một tính từ dùng để chỉ vẻ đẹp kỳ lạ, ngoại lai.).
 Ví dụ: I love trying exotic fruits when I travel to tropical countries.
 
 ---
@@ -321,12 +321,12 @@ Ví dụ: Please do not leave your luggage unattended at any time.
 
 ---
 
-65. **Inn (n) /ɪn/:** A house providing accommodation for travelers. (Lặp lại lần 2.).
+65. **Inn (n) /ɪn/:** A house providing accommodation for travelers.
 Ví dụ: We stayed in a traditional inn that has been in the same family for generations.
 
 ---
 
-66. **Hostel (n) /ˈhɑːstl/:** Inexpensive food and lodging for travelers. (Lặp lại lần 2.).
+66. **Hostel (n) /ˈhɑːstl/:** Inexpensive food and lodging for travelers.
 Ví dụ: Staying in a hostel is a great way to save money and meet new people.
 
 ---
@@ -466,7 +466,7 @@ Ví dụ: The cave system contains several large chambers with impressive stalac
 
 ---
 
-94. **Chartered (adj) /ˈtʃɑːrtərd/:** (Of a ship, aircraft, or bus) rented for a special use. (Lặp lại để nhấn mạnh.).
+94. **Chartered (adj) /ˈtʃɑːrtərd/:** (Of a ship, aircraft, or bus) rented for a special use.
 Ví dụ: The group took a chartered bus to the ski resort.
 
 ---
@@ -706,7 +706,7 @@ Ví dụ: The boat took us into a beautiful blue grotto where the water was crys
 
 ---
 
-142. **Guided (adj) /ˈɡaɪdɪd/:** Directed or supervised by a guide. (Lặp lại lần 2.).
+142. **Guided (adj) /ˈɡaɪdɪd/:** Directed or supervised by a guide.
 Ví dụ: We took a guided tour of the city to learn more about its history.
 
 ---

@@ -26,7 +26,7 @@ Ví dụ: They offered a high level of remuneration to attract experienced candi
 
 ---
 
-6. **Promotion (n) /prəˈmoʊʃn/:** The action of raising someone to a higher position or rank. (Lặp lại để nhấn mạnh.).
+6. **Promotion (n) /prəˈmoʊʃn/:** The action of raising someone to a higher position or rank, or the publicizing of a product. (Đây là một danh từ dùng để chỉ sự thăng tiến trong công việc hoặc hoạt động quảng bá).
 Ví dụ: Hard work and dedication are the keys to earning a promotion.
 
 ---
@@ -46,7 +46,7 @@ Ví dụ: More companies are allowing their employees to telecommute to improve 
 
 ---
 
-10. **Incentive (n) /ɪnˈsentɪv/:** A thing that motivates or encourages someone to do something. (Lặp lại để nhấn mạnh.).
+10. **Incentive (n) /ɪnˈsentɪv/:** A thing that motivates or encourages someone to do something, especially a payment or concession. (Đây là một danh từ dùng để chỉ động lực, phương tiện khích lệ nhân viên).
 Ví dụ: Cash bonuses are a common incentive for high-performing employees.
 
 ---
@@ -61,7 +61,7 @@ Ví dụ: Unfair dismissal is a serious issue that can lead to legal action agai
 
 ---
 
-13. **Vocation (n) /voʊˈkeɪʃn/:** A strong feeling of suitability for a particular career or occupation. (Lặp lại để nhấn mạnh nghĩa đam mê nghề nghiệp.).
+13. **Vocation (n) /voʊˈkeɪʃn/:** A strong feeling of suitability for a particular career or occupation; a calling. (Đây là một danh từ dùng để chỉ sự tập trung chuyên sâu vào một nghề nghiệp cụ thể, đam mê nghề nghiệp).
 Ví dụ: Many nurses feel that their work is a vocation rather than just a way to earn money.
 
 ---
@@ -151,7 +151,7 @@ Ví dụ: To remain profitable, the airline had to downsize its workforce by 20%
 
 ---
 
-31. **Outsource (v) /ˈaʊtsɔːrs/:** Obtain (goods or a service) from an outside or foreign supplier. (Lặp lại để nhấn mạnh.).
+31. **Outsource (v) /ˈaʊtsɔːrs/:** Obtain (goods or a service) from an outside or foreign supplier, especially in place of an internal source. (Đây là một động từ dùng để chỉ việc thuê ngoài, chuyển công việc cho đơn vị bên ngoài).
 Ví dụ: To reduce costs, the company decided to outsource its IT support.
 
 ---
@@ -206,7 +206,7 @@ Ví dụ: High levels of youth unemployment can lead to social instability.
 
 ---
 
-42. **Wage (n) /weɪdʒ/:** A fixed regular payment made by an employer to an employee. (Lặp lại để nhấn mạnh.).
+42. **Wage (n) /weɪdʒ/:** A fixed regular payment, typically paid on a daily or weekly basis, made by an employer to an employee. (Đây là một danh từ dùng để chỉ lương cố định, thường trả theo ngày hoặc theo tuần).
 Ví dụ: The company offers a competitive wage and a range of fringe benefits.
 
 ---
@@ -346,7 +346,7 @@ Ví dụ: One of the perks of working for an airline is free or discounted fligh
 
 ---
 
-70. **Qualifications (n) /ˌkwɑːlɪfɪˈkeɪʃnz/:** A pass of an examination or an official record of achievement. (Lặp lại để nhấn mạnh.).
+70. **Qualifications (n) /ˌkwɑːlɪfɪˈkeɪʃnz/:** A pass of an examination or an official completion of a course, especially one conferring status as a recognized practitioner. (Đây là một danh từ dùng để chỉ trình độ chuyên môn, bằng cấp nghề nghiệp).
 Ví dụ: Do you have any professional qualifications in accounting or finance?
 
 ---
@@ -376,7 +376,7 @@ Ví dụ: Many PhD graduates are currently underemployed, working in roles that 
 
 ---
 
-76. **Vacancy (n) /ˈveɪkənsi/:** An unoccupied position or job. (Lặp lại để nhấn mạnh.).
+76. **Vacancy (n) /ˈveɪkənsi/:** An unoccupied position or job that is available to be filled. (Đây là một danh từ dùng để chỉ vị trí tuyển dụng, công việc đang bỏ trống).
 Ví dụ: We have several vacancies for experienced software engineers.
 
 ---
@@ -391,7 +391,7 @@ Ví dụ: HR policies must be strictly enforced to prevent any form of xenophobi
 
 ---
 
-79. **Yield (v) /jiːld/:** Produce or provide. (Lặp lại để nhấn mạnh.).
+79. **Yield (v) /jiːld/:** Produce or provide (a natural, agricultural, or industrial product); generate (a financial return). (Đây là một động từ dùng để chỉ sự mang lại kết quả, tạo ra lợi nhuận hoặc sản phẩm).
 Ví dụ: Investing in new technology will yield significant benefits for the company.
 
 ---
@@ -511,7 +511,7 @@ Ví dụ: The HR department is currently conducting a background verification of
 
 ---
 
-103. **Workforce (n) /ˈwɜːrkfɔːrs/:** The people engaged in or available for work. (Lặp lại để nhấn mạnh.).
+103. **Workforce (n) /ˈwɜːrkfɔːrs/:** The people engaged in or available for work, either in a country or area or in a particular company. (Đây là một danh từ dùng để chỉ lực lượng lao động, nguồn nhân lực).
 Ví dụ: A diverse workforce can bring a wider range of ideas and perspectives to a company.
 
 ---
@@ -571,7 +571,7 @@ Ví dụ: He started his career as a junior developer and was promoted within a 
 
 ---
 
-115. **Knowledgeable (adj) /ˈnɑːlɪdʒəbl/:** Intelligent and well informed. (Lặp lại để nhấn mạnh.).
+115. **Knowledgeable (adj) /ˈnɑːlɪdʒəbl/:** Intelligent and well informed; having or showing knowledge or intelligence. (Đây là một tính từ dùng để chỉ người có kiến thức sâu rộng, hiểu biết).
 Ví dụ: Our customer service staff are very knowledgeable about all of our services.
 
 ---
@@ -611,7 +611,7 @@ Ví dụ: When the project was canceled, the staff were redeployed to other depa
 
 ---
 
-123. **Supervisor (n) /ˈsuːpərvaɪzər/:** A person who supervises a person or an activity. (Lặp lại để nhấn mạnh.).
+123. **Supervisor (n) /ˈsuːpərvaɪzər/:** A person who supervises a person or an activity, especially workers. (Đây là một danh từ dùng để chỉ người giám sát, quản lý trực tiếp).
 Ví dụ: My supervisor gave me some very helpful feedback on my last project.
 
 ---
@@ -791,7 +791,7 @@ Ví dụ: The new production process is much more efficient than the old one.
 
 ---
 
-159. **Full-stack (adj) /ˌfʊl ˈstæk/:** Relating to or being a computer programmer who is able to work with both the front end and back end of a website or application. (Lặp lại do tính phổ biến trong tuyển dụng hiện nay.).
+159. **Full-stack (adj) /ˌfʊl ˈstæk/:** Relating to or being a computer programmer who is able to work with both the front end and back end of a website or application. (Đây là một thuật ngữ chuyên ngành IT phổ biến trong tuyển dụng hiện nay, chỉ lập trình viên toàn diện).
 Ví dụ: The company is looking for a full-stack developer to lead their new tech project.
 
 ---
@@ -806,7 +806,7 @@ Ví dụ: We need to hire more staff to help with the increased workload.
 
 ---
 
-162. **Job market (n) /ˈdʒɑːb ˈmɑːrkɪt/:** The supply of people in a particular country or area who are able and willing to work in relation to the number of jobs available. (Lặp lại để nhấn mạnh.).
+162. **Job market (n) /ˈdʒɑːb ˈmɑːrkɪt/:** The supply of people in a particular country or area who are able and willing to work in relation to the number of jobs available. (Đây là một cụm danh từ dùng để chỉ thị trường lao động, tình hình việc làm).
 Ví dụ: The job market is currently very difficult for recent graduates.
 
 ---
@@ -856,7 +856,7 @@ Ví dụ: High levels of absenteeism can be a sign of low employee morale.
 
 ---
 
-172. **Blue-collar worker (n) /ˌbluː ˈkɑːlər ˈwɜːrkər/:** A person who performs manual labor. (Lặp lại để nhấn mạnh.).
+172. **Blue-collar worker (n) /ˌbluː ˈkɑːlər ˈwɜːrkər/:** A person who performs manual labor, especially in manufacturing or industrial work. (Đây là một cụm danh từ dùng để chỉ công nhân lao động chân tay, đối lập với "white-collar worker" - nhân viên văn phòng).
 Ví dụ: Many blue-collar workers in the construction industry are facing job losses.
 
 ---

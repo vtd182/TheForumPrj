@@ -6,7 +6,7 @@ Ví dụ: The building was designed with both practical and aesthetic considerat
 
 ---
 
-2. **Artifact (n) /ˈɑːrtɪfækt/:** (Lặp lại mục 2 - nhấn mạnh hiện vật lịch sử).
+2. **Artifact (n) /ˈɑːrtɪfækt/:** An object made by a human being. (Trong quyền động vật, có thể chỉ các công cụ săn bắn cổ.).
 Ví dụ: These gold artifacts were recovered from a shipwreck.
 
 ---
@@ -61,7 +61,7 @@ Ví dụ: The religious iconography in the medieval cathedral is incredibly deta
 
 ---
 
-13. **Metaphor (n) /ˈmetəfɔːr/:** (Lặp lại mục 13 - phép ẩn dụ).
+13. **Metaphor (n) /ˈmetəfɔːr/:** A figure of speech in which a word or phrase is applied to an object or action. (Phép ẩn dụ trong các câu chuyện lịch sử.).
 Ví dụ: The journey in the story is a metaphor for the character's personal growth.
 
 ---
@@ -141,7 +141,7 @@ Ví dụ: Renaissance artists revolutionized painting by using mathematical pers
 
 ---
 
-29. **Narrative (n) /ˈnærətɪv/:** (Lặp lại mục 29 - nhấn mạnh tính kể chuyện).
+29. **Narrative (n) /ˈnærətɪv/:** A spoken or written account of connected events; a story. (Lời kể/Văn tự sự lịch sử.).
 Ví dụ: The author's narrative style is engaging and easy to follow.
 
 ---
@@ -166,7 +166,7 @@ Ví dụ: Visual arts include painting, sculpture, and photography.
 
 ---
 
-34. **Literary (adj) /ˈlɪtəreri/:** Concerning the writing, study, or content of literature. (Lặp lại để nhấn mạnh nghĩa tính từ.).
+34. **Literary (adj) /ˈlɪtəreri/:** Concerning the writing, study, or content of literature.
 Ví dụ: The magazine published a fascinating interview with a famous literary figure.
 
 ---
@@ -186,7 +186,7 @@ Ví dụ: The historic castle is filled with ornate tapestries depicting heroic 
 
 ---
 
-38. **Melody (n) /ˈmelədi/:** (Lặp lại mục 38 - nhấn mạnh giai điệu chính).
+38. **Melody (n) /ˈmelədi/:** A sequence of musical notes that form the main tune of a song or piece of music. (Đây là một danh từ dùng để chỉ giai điệu.)
 Ví dụ: The melody is simple, but it stays in your head for hours.
 
 ---
@@ -196,7 +196,7 @@ Ví dụ: Anthropology helps us understand the diverse cultural practices around
 
 ---
 
-40. **Conservation (n) /ˌkɑːnsərˈveɪʃn/:** (Lặp lại mục 40 - nhấn mạnh sự bảo tồn vật thể).
+40. **Conservation (n) /ˌkɑːnsərˈveɪʃn/:** The protection of plants and animals and natural areas from the damaging effects of human activity. (Đây là một danh từ dùng để chỉ sự bảo tồn động vật hoang dã và môi trường sống của chúng.).
 Ví dụ: Conservation experts are working to clean the ancient statues.
 
 ---
@@ -916,7 +916,7 @@ Ví dụ: A good actor can convey a wide range of emotions through subtle nuance
 
 ---
 
-184. **Nurture (v) /ˈnɜːrtʃər/:** (Lặp lại mục 116 - bồi dưỡng tài năng).
+184. **Nurture (v) /ˈnɜːrtʃər/:** Care for and encourage the growth or development of. (Đây là một động từ dùng để chỉ sự nuôi dưỡng hoặc bồi dưỡng tài năng.).
 Ví dụ: The arts center aims to nurture young talent and encourage creativity.
 
 ---

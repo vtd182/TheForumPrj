@@ -1,0 +1,1780 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  20 JAN 2026 20:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**economicsAndMoneyVocab.tex
+(./economicsAndMoneyVocab.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(./forumvocab.cls
+Document Class: forumvocab 2026/01/19 v1.0 IELTS Vocabulary Document Class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
+eX and XeLaTeX
+\babel@savecnt=\count266
+\U@D=\dimen142
+\l@unhyphenated=\language90
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/xebabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count267
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language22). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language22). Reported on input line 108.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-vietnamese/vietnamese.ldf
+Language: vietnamese 
+Package babel Info: Making " an active character on input line 147.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/vi/babel-vietnames
+e.tex
+Package babel Info: Importing font and identification data for vietnamese
+(babel)             from babel-vi.ini. Reported on input line 11.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/en/babel-english.t
+ex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks18
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@offset@elh=\skip52
+\f@nch@offset@erh=\skip53
+\f@nch@offset@olh=\skip54
+\f@nch@offset@orh=\skip55
+\f@nch@offset@elf=\skip56
+\f@nch@offset@erf=\skip57
+\f@nch@offset@olf=\skip58
+\f@nch@offset@orf=\skip59
+\f@nch@height=\skip60
+\f@nch@footalignment=\skip61
+\f@nch@widthL=\skip62
+\f@nch@widthC=\skip63
+\f@nch@widthR=\skip64
+\@temptokenb=\toks19
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count271
+\mult@box=\box52
+\multicol@leftmargin=\dimen151
+\c@unbalance=\count272
+\c@collectmore=\count273
+\doublecol@number=\count274
+\multicoltolerance=\count275
+\multicolpretolerance=\count276
+\full@width=\dimen152
+\page@free=\dimen153
+\premulticols=\dimen154
+\postmulticols=\dimen155
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box53
+\last@line=\box54
+\mc@boxedresult=\box55
+\maxbalancingoverflow=\dimen156
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count277
+\c@columnbadness=\count278
+\c@finalcolumnbadness=\count279
+\last@try=\dimen157
+\multicolovershoot=\dimen158
+\multicolundershoot=\dimen159
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count280
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2024/10/22 version 6.4.1 text color boxes
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen160
+\pgfutil@tempdimb=\dimen161
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box98
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+)
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen164
+\pgf@y=\dimen165
+\pgf@xa=\dimen166
+\pgf@ya=\dimen167
+\pgf@xb=\dimen168
+\pgf@yb=\dimen169
+\pgf@xc=\dimen170
+\pgf@yc=\dimen171
+\pgf@xd=\dimen172
+\pgf@yd=\dimen173
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count281
+\c@pgf@countb=\count282
+\c@pgf@countc=\count283
+\c@pgf@countd=\count284
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count285
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
+f
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
+.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfsys@objnum=\count286
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count287
+\pgfsyssoftpath@bigbuffer@items=\count288
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count289
+\pgfmath@box=\box99
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count290
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen175
+\pgf@picmaxx=\dimen176
+\pgf@picminy=\dimen177
+\pgf@picmaxy=\dimen178
+\pgf@pathminx=\dimen179
+\pgf@pathmaxx=\dimen180
+\pgf@pathminy=\dimen181
+\pgf@pathmaxy=\dimen182
+\pgf@xx=\dimen183
+\pgf@xy=\dimen184
+\pgf@yx=\dimen185
+\pgf@yy=\dimen186
+\pgf@zx=\dimen187
+\pgf@zy=\dimen188
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen189
+\pgf@path@lasty=\dimen190
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen191
+\pgf@shorten@start@additional=\dimen192
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box100
+\pgf@hbox=\box101
+\pgf@layerbox@main=\box102
+\pgf@picture@serial@count=\count291
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen193
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen194
+\pgf@pt@y=\dimen195
+\pgf@pt@temp=\dimen196
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen197
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen198
+\pgf@sys@shading@range@num=\count292
+\pgf@shadingcount=\count293
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box103
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box104
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen199
+\pgf@nodesepend=\dimen256
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen257
+\pgffor@skip=\dimen258
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count294
+\pgfplotmarksize=\dimen259
+)
+\tikz@lastx=\dimen260
+\tikz@lasty=\dimen261
+\tikz@lastxsaved=\dimen262
+\tikz@lastysaved=\dimen263
+\tikz@lastmovetox=\dimen264
+\tikz@lastmovetoy=\dimen265
+\tikzleveldistance=\dimen266
+\tikzsiblingdistance=\dimen267
+\tikz@figbox=\box105
+\tikz@figbox@bg=\box106
+\tikz@tempbox=\box107
+\tikz@tempbox@bg=\box108
+\tikztreelevel=\count295
+\tikznumberofchildren=\count296
+\tikznumberofcurrentchild=\count297
+\tikz@fig@count=\count298
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count299
+\pgfmatrixcurrentcolumn=\count300
+\pgf@matrix@numberofcolumns=\count301
+)
+\tikz@expandcount=\count302
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks32
+\verbatim@line=\toks33
+\verbatim@in@stream=\read4
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks34
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count303
+)
+\tcb@titlebox=\box109
+\tcb@upperbox=\box110
+\tcb@lowerbox=\box111
+\tcb@phantombox=\box112
+\c@tcbbreakpart=\count304
+\c@tcblayer=\count305
+\c@tcolorbox@number=\count306
+\l__tcobox_tmpa_box=\box113
+\l__tcobox_tmpa_dim=\dimen268
+\tcb@temp=\box114
+\tcb@temp=\box115
+\tcb@temp=\box116
+\tcb@temp=\box117
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen269
+\ESO@tempdimb=\dimen270
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count307
+\l__pdf_internal_box=\box118
+\g__pdf_backend_annotation_int=\count308
+\g__pdf_backend_link_int=\count309
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count310
+\l__fontspec_language_int=\count311
+\l__fontspec_strnum_int=\count312
+\l__fontspec_tmp_int=\count313
+\l__fontspec_tmpa_int=\count314
+\l__fontspec_tmpb_int=\count315
+\l__fontspec_tmpc_int=\count316
+\l__fontspec_em_int=\count317
+\l__fontspec_emdef_int=\count318
+\l__fontspec_strong_int=\count319
+\l__fontspec_strongdef_int=\count320
+\l__fontspec_tmpa_dim=\dimen271
+\l__fontspec_tmpb_dim=\dimen272
+\l__fontspec_tmpc_dim=\dimen273
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'LatinModernRoman(0)' created for font
+(fontspec)             'Latin Modern Roman' with options
+(fontspec)             [Ligatures=TeX,Path=../../font/latin-modern-roman/,Exten
+sion=.otf,UprightFont=lmroman10-regular,BoldFont=lmroman10-bold,ItalicFont=lmro
+man10-italic,BoldItalicFont=lmroman10-bolditalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-regular.otf
+]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-bold.otf]/O
+T:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-italic.otf]
+/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-bolditalic.
+otf]/OT:script=latn;language=dflt;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'LatinModernSans(0)' created for font
+(fontspec)             'Latin Modern Sans' with options
+(fontspec)             [Ligatures=TeX,Path=../../font/Latin-Modern-Sans/,Extens
+ion=.otf,UprightFont=lmsans10-regular,BoldFont=lmsans10-bold,ItalicFont=lmsans1
+0-oblique,BoldItalicFont=lmsans10-boldoblique].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-regular.otf]/
+OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-bold.otf]/OT:
+script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-oblique.otf]/
+OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-boldoblique.o
+tf]/OT:script=latn;language=dflt;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'UTM-Impact.ttf(0)' created for font
+(fontspec)             'UTM-Impact.ttf' with options [Path = ./,Extension =
+(fontspec)             .ttf,UprightFont = UTM-Impact].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[./UTM-Impact.ttf]/OT:language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Times New Roman scale = 0.9636299023440277.
+
+
+Package fontspec Info: 
+(fontspec)             Times New Roman scale = 0.9636299023440277.
+
+
+Package fontspec Info: 
+(fontspec)             Times New Roman/B scale = 0.9440481727713549.
+
+
+Package fontspec Info: 
+(fontspec)             Times New Roman/I scale = 1.001912475428977.
+
+
+Package fontspec Info: 
+(fontspec)             Times New Roman/BI scale = 0.9818519945425632.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Scale=MatchLowercase].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9636299023440277]"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9440481727713549]"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1.001912475428977]"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.9818519945425632]"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;"
+
+) (./economicsAndMoneyVocab.aux)
+\openout1 = `economicsAndMoneyVocab.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(0.0pt, 845.04684pt, 0.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=727.36772pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-72.26999pt
+* \headheight=40.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=42.67912pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=42.67912pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 11.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 11.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 11.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 11.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 11.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 11.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 11.
+LaTeX Font Info:    Redeclaring math accent \check on input line 11.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 11.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 11.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 11.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 11.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 11.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/LatinModernRoman(0)/m/n on input lin
+e 11.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 11.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/LatinModernRoman(0)/m/n on input li
+ne 11.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/LatinModernRoman(0)/m/n --> TU/LatinModernRoman(0)/m
+/n on input line 11.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/LatinModernRoman(0)/m/it on input l
+ine 11.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/LatinModernRoman(0)/b/n on input li
+ne 11.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/LatinModernSans(0)/m/n on input lin
+e 11.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 11.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/LatinModernRoman(0)/m/n --> TU/LatinModernRoman(0)/b
+/n on input line 11.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/LatinModernRoman(0)/b/it on input 
+line 11.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/LatinModernSans(0)/b/n on input li
+ne 11.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 11.
+(./data.tex
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 11.56348pt on input line 9.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
+(Font)              scaled to size 12.02289pt on input line 9.
+
+Overfull \hbox (4.8319pt too wide) in paragraph at lines 9--9
+[]\TU/LatinModernSans(0)/b/n/14.4 Macroeconomics[] \TU/TimesNewRoman(0)/m/it/12
+ /ˌmækroʊˌekəˈnɑːmɪks/
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 9--9
+\TU/LatinModernRoman(0)/m/n/12 with large-scale or general economic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Macr
+oeconomics helps
+ []
+
+
+Overfull \hbox (2.17935pt too wide) in paragraph at lines 15--15
+[]\TU/LatinModernSans(0)/b/n/14.4 Microeconomics[] \TU/TimesNewRoman(0)/m/it/12
+ /ˌmaɪkroʊˌekəˈnɑːmɪks/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]\TU/LatinModernSans(0)/b/n/14.4 Inflation[] \TU/TimesNewRoman(0)/m/it/12 /ɪnˈ
+fleɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A general
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 27--27
+[]\TU/LatinModernSans(0)/b/n/14.4 Deflation[] \TU/TimesNewRoman(0)/m/it/12 /ˌdi
+ːˈfleɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — Reduction
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\TU/LatinModernSans(0)/b/n/14.4 Fiscal policy[] \TU/TimesNewRoman(0)/m/it/12 
+/ˈfɪskl ˈpɑːləsi/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 33--33
+\TU/LatinModernRoman(0)/m/n/12 Government policy that attempts to
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 39--39
+[]\TU/LatinModernSans(0)/b/n/14.4 Monetary policy[] \TU/TimesNewRoman(0)/m/it/1
+2 /ˈmɑːnɪteri ˈpɑːləsi/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]\TU/LatinModernSans(0)/b/n/14.4 Gross Domestic Product[] \TU/TimesNewRoman(0)
+/m/it/12 /ɡroʊs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]\TU/LatinModernSans(0)/b/n/14.4 Subsidy[] \TU/TimesNewRoman(0)/m/it/12 /ˈsʌbs
+ədi/ (n) \TU/LatinModernRoman(0)/m/n/12 — A sum of
+ []
+
+
+Underfull \hbox (badness 5036) in paragraph at lines 57--57
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Agri
+cultural subsidies help
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+\TU/LatinModernRoman(0)/m/it/12 farmers stay competitive in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]\TU/LatinModernSans(0)/b/n/14.4 Revenue[] \TU/TimesNewRoman(0)/m/it/12 /ˈrevə
+nuː/ (n) \TU/LatinModernRoman(0)/m/n/12 — Income,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\TU/LatinModernRoman(0)/m/n/12 especially when of a company or
+ []
+
+
+Underfull \hbox (badness 6526) in paragraph at lines 63--63
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+company reported a
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\TU/LatinModernSans(0)/b/n/14.4 Expenditure[] \TU/TimesNewRoman(0)/m/it/12 /ɪ
+kˈspendɪtʃər/ (n) \TU/LatinModernRoman(0)/m/n/12 — An
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 69--69
+\TU/LatinModernRoman(0)/m/n/12 amount of money spent, as by a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\TU/LatinModernRoman(0)/m/n/12 for which someone is responsible,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+[]\TU/LatinModernSans(0)/b/n/14.4 Assets[] \TU/TimesNewRoman(0)/m/it/12 /ˈæsets
+/ (n) \TU/LatinModernRoman(0)/m/n/12 — A useful or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+\TU/LatinModernRoman(0)/m/it/12 considered fixed and liquid assets,
+ []
+
+
+Overfull \hbox (15.4882pt too wide) in paragraph at lines 99--99
+[]\TU/LatinModernSans(0)/b/n/14.4 Liquidity[] \TU/TimesNewRoman(0)/m/it/12 /lɪˈ
+kwɪdəti/ (n) \TU/LatinModernRoman(0)/m/n/12 — The availability
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]\TU/LatinModernSans(0)/b/n/14.4 Market capitalization[] \TU/TimesNewRoman(0)/
+m/it/12 /ˈmɑːrkɪt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]\TU/LatinModernSans(0)/b/n/14.4 Privatization[] \TU/TimesNewRoman(0)/m/it/12 
+/ˌpraɪvətəˈzeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]\TU/LatinModernSans(0)/b/n/14.4 Monopoly[] \TU/TimesNewRoman(0)/m/it/12 /əˈmɑ
+ːnəpəli/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]\TU/LatinModernSans(0)/b/n/14.4 Bankruptcy[] \TU/TimesNewRoman(0)/m/it/12 /ˈb
+æŋkrʌptsi/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]\TU/LatinModernSans(0)/b/n/14.4 Equilibrium[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+iːkwɪˈlɪbriəm/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 189--189
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Mark
+et equilibrium occurs
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[3]
+Underfull \hbox (badness 7133) in paragraph at lines 213--213
+[]\TU/LatinModernSans(0)/b/n/14.4 Utility[] \TU/TimesNewRoman(0)/m/it/12 /juːˈt
+ɪləti/ (n) \TU/LatinModernRoman(0)/m/n/12 — The state of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Marg
+inal utility is the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+[]\TU/LatinModernSans(0)/b/n/14.4 Elasticity[] \TU/TimesNewRoman(0)/m/it/12 /ˌi
+ːlæˈstɪsəti/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Poll
+ution is a negative
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[4]
+Overfull \hbox (4.04446pt too wide) in paragraph at lines 279--279
+[]\TU/LatinModernSans(0)/b/n/14.4 Sanction[] \TU/TimesNewRoman(0)/m/it/12 /ˈsæŋ
+kʃn/ (n/v) \TU/LatinModernRoman(0)/m/n/12 — A threatened
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+\TU/LatinModernRoman(0)/m/n/12 government has borrowed, typically
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+[]\TU/LatinModernSans(0)/b/n/14.4 Cryptocurrency[] \TU/TimesNewRoman(0)/m/it/12
+ /ˈkrɪptoʊkɜːrənsi/ (n)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+\TU/LatinModernRoman(0)/m/n/12 — A digital currency in which
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 291--291
+\TU/LatinModernRoman(0)/m/n/12 transactions are verified and records
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+[]\TU/LatinModernSans(0)/b/n/14.4 Blockchain[] \TU/TimesNewRoman(0)/m/it/12 /ˈb
+lɑːktʃeɪn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+[]\TU/LatinModernSans(0)/b/n/14.4 Fintech[] \TU/TimesNewRoman(0)/m/it/12 /ˈfɪnt
+ek/ (n) \TU/LatinModernRoman(0)/m/n/12 — Computer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+[]\TU/LatinModernSans(0)/b/n/14.4 Hedge fund[] \TU/TimesNewRoman(0)/m/it/12 /ˈh
+edʒ fʌnd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 333--333
+\TU/LatinModernRoman(0)/m/n/12 market in which prices are falling,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
+[]\TU/LatinModernSans(0)/b/n/14.4 Arbitrage[] \TU/TimesNewRoman(0)/m/it/12 /ˈɑː
+rbɪtrɑːʒ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
+\TU/LatinModernRoman(0)/m/n/12 simultaneous buying and selling of
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
+[]\TU/LatinModernSans(0)/b/n/14.4 Speculation[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+spekjuˈleɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
+\TU/LatinModernRoman(0)/m/n/12 used by a government or business
+ []
+
+
+Overfull \hbox (6.5192pt too wide) in paragraph at lines 399--399
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Many
+ multinational corporations
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
+[]\TU/LatinModernSans(0)/b/n/14.4 Brackets[] \TU/TimesNewRoman(0)/m/it/12 /ˈbræ
+kɪts/ (n) \TU/LatinModernRoman(0)/m/n/12 — Each of
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+[]\TU/LatinModernSans(0)/b/n/14.4 Consolidation[] \TU/TimesNewRoman(0)/m/it/12 
+/kənˌsɑːlɪˈdeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+[]\TU/LatinModernSans(0)/b/n/14.4 Liability[] \TU/TimesNewRoman(0)/m/it/12 /ˌla
+ɪəˈbɪləti/ (n) \TU/LatinModernRoman(0)/m/n/12 — Legal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--429
+[]\TU/LatinModernSans(0)/b/n/14.4 Amortization[] \TU/TimesNewRoman(0)/m/it/12 /
+əˌmɔːrtəˈzeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 429--429
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+mortgage includes a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--435
+[]\TU/LatinModernSans(0)/b/n/14.4 Depreciation[] \TU/TimesNewRoman(0)/m/it/12 /
+dɪˌpriːʃiˈeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--435
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+depreciation of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--447
+[]\TU/LatinModernSans(0)/b/n/14.4 Appreciation[] \TU/TimesNewRoman(0)/m/it/12 /
+əˌpriːʃiˈeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — An
+ []
+
+
+Overfull \hbox (13.3397pt too wide) in paragraph at lines 453--453
+[]\TU/LatinModernSans(0)/b/n/14.4 Solvency[] \TU/TimesNewRoman(0)/m/it/12 /ˈsɑː
+lvənsi/ (n) \TU/LatinModernRoman(0)/m/n/12 — The possession
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--459
+[]\TU/LatinModernSans(0)/b/n/14.4 Insolvency[] \TU/TimesNewRoman(0)/m/it/12 /ɪn
+ˈsɑːlvənsi/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+[]\TU/LatinModernSans(0)/b/n/14.4 Crowdfunding[] \TU/TimesNewRoman(0)/m/it/12 /
+ˈkraʊdfʌndɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+\TU/LatinModernRoman(0)/m/n/12 process by which an individual or
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 483--483
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Seve
+ral large banks were
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
+[]\TU/LatinModernSans(0)/b/n/14.4 Prospectus[] \TU/TimesNewRoman(0)/m/it/12 /pr
+əˈspektəs/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 495--495
+\TU/LatinModernRoman(0)/m/n/12 printed document that advertises or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+[]\TU/LatinModernSans(0)/b/n/14.4 Bullish[] \TU/TimesNewRoman(0)/m/it/12 /ˈbʊlɪ
+ʃ/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Characterized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--507
+[]\TU/LatinModernSans(0)/b/n/14.4 Bearish[] \TU/TimesNewRoman(0)/m/it/12 /ˈberɪ
+ʃ/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Characterized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]\TU/LatinModernSans(0)/b/n/14.4 Volatility[] \TU/TimesNewRoman(0)/m/it/12 /ˌv
+ɑːləˈtɪləti/ (n) \TU/LatinModernRoman(0)/m/n/12 — Liability
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 525--525
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Opti
+ons and futures are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+[]\TU/LatinModernSans(0)/b/n/14.4 Hedging[] \TU/TimesNewRoman(0)/m/it/12 /ˈhedʒ
+ɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — Protecting
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 549--549
+[]\TU/LatinModernSans(0)/b/n/14.4 Arbitrageur[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+ɑːrbɪtrɑːˈʒɜːr/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--555
+[]\TU/LatinModernSans(0)/b/n/14.4 Mercantilism[] \TU/TimesNewRoman(0)/m/it/12 /
+ˈmɜːrkəntɪlɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--555
+\TU/LatinModernRoman(0)/m/n/12 wealth and is stimulated by the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
+[]\TU/LatinModernSans(0)/b/n/14.4 Protectionism[] \TU/TimesNewRoman(0)/m/it/12 
+/prəˈtekʃənɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Overfull \hbox (0.3112pt too wide) in paragraph at lines 561--561
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Crit
+ics argue that protectionism
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+[]\TU/LatinModernSans(0)/b/n/14.4 Laissez-faire[] \TU/TimesNewRoman(0)/m/it/12 
+/ˌleseɪ ˈfer/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Lais
+sez-faire economics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/it/12 advocates for minimal government
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+[]\TU/LatinModernSans(0)/b/n/14.4 Keynesianism[] \TU/TimesNewRoman(0)/m/it/12 /
+ˌkeɪnziəˈnɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+\TU/LatinModernRoman(0)/m/n/12 Keynes, especially those advocating
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+\TU/LatinModernRoman(0)/m/n/12 government spending to stimulate
+ []
+
+
+Overfull \hbox (11.41187pt too wide) in paragraph at lines 585--585
+[]\TU/LatinModernSans(0)/b/n/14.4 Stagflation[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
+stæɡˈfleɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — Persistent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--585
+\TU/LatinModernRoman(0)/m/n/12 high inflation combined with high
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 591--591
+[]\TU/LatinModernSans(0)/b/n/14.4 Hyperinflation[] \TU/TimesNewRoman(0)/m/it/12
+ /ˌhaɪpərɪnˈfleɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--597
+[]\TU/LatinModernSans(0)/b/n/14.4 Globalism[] \TU/TimesNewRoman(0)/m/it/12 /ˈɡl
+oʊbəlɪzəm/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Overfull \hbox (0.9104pt too wide) in paragraph at lines 603--603
+[]\TU/LatinModernSans(0)/b/n/14.4 Outsourcing[] \TU/TimesNewRoman(0)/m/it/12 /ˈ
+aʊtsɔːrsɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — Obtain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
+[]\TU/LatinModernSans(0)/b/n/14.4 Offshoring[] \TU/TimesNewRoman(0)/m/it/12 /ˌɔ
+ːfˈʃɔːrɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 609--609
+\TU/LatinModernRoman(0)/m/it/12 for causing job losses in developed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--615
+[]\TU/LatinModernSans(0)/b/n/14.4 Sustainability[] \TU/TimesNewRoman(0)/m/it/12
+ /səˌsteɪnəˈbɪləti/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 615--615
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Econ
+omic sustainability
+ []
+
+
+Overfull \hbox (9.31122pt too wide) in paragraph at lines 615--615
+\TU/LatinModernRoman(0)/m/it/12 requires balancing growth with environmental
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--621
+[]\TU/LatinModernSans(0)/b/n/14.4 Infrastructure[] \TU/TimesNewRoman(0)/m/it/12
+ /ˈɪnfrəstrʌktʃər/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 639--639
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Remi
+ttances from workers
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 645--645
+[]\TU/LatinModernSans(0)/b/n/14.4 Globalization[] \TU/TimesNewRoman(0)/m/it/12 
+/ˌɡloʊbələˈzeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 651--651
+[]\TU/LatinModernSans(0)/b/n/14.4 Free trade[] \TU/TimesNewRoman(0)/m/it/12 /ˌf
+riː ˈtreɪd/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Overfull \hbox (7.98769pt too wide) in paragraph at lines 663--663
+[]\TU/LatinModernSans(0)/b/n/14.4 Inequality[] \TU/TimesNewRoman(0)/m/it/12 /ˌɪ
+nɪˈkwɑːləti/ (n) \TU/LatinModernRoman(0)/m/n/12 — Difference
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 675--675
+\TU/LatinModernRoman(0)/m/n/12 Statutory procedure or social effort
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 687--687
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Seve
+ral countries are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 693--693
+[]\TU/LatinModernSans(0)/b/n/14.4 Austerity[] \TU/TimesNewRoman(0)/m/it/12 /ɔːˈ
+sterəti/ (n) \TU/LatinModernRoman(0)/m/n/12 — Difficult
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 693--693
+\TU/LatinModernRoman(0)/m/n/12 economic conditions created by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 711--711
+[]\TU/LatinModernSans(0)/b/n/14.4 Deregulation[] \TU/TimesNewRoman(0)/m/it/12 /
+ˌdiːˌreɡjuˈleɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--717
+[]\TU/LatinModernSans(0)/b/n/14.4 Standard of living[] \TU/TimesNewRoman(0)/m/i
+t/12 /ˌstændərd əv
+ []
+
+
+Underfull \hbox (badness 7522) in paragraph at lines 723--723
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Infl
+ation can significantly
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 735--735
+[]\TU/LatinModernSans(0)/b/n/14.4 Employment[] \TU/TimesNewRoman(0)/m/it/12 /ɪm
+ˈplɔɪmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 High
+ levels of youth
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+\TU/LatinModernRoman(0)/m/it/12 increasingly competitive for recent
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 753--753
+[]\TU/LatinModernSans(0)/b/n/14.4 Productivity[] \TU/TimesNewRoman(0)/m/it/12 /
+ˌproʊdʌkˈtɪvəti/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--777
+[]\TU/LatinModernSans(0)/b/n/14.4 Specialization[] \TU/TimesNewRoman(0)/m/it/12
+ /ˌspeʃələˈzeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Overfull \hbox (0.29675pt too wide) in paragraph at lines 783--783
+[]\TU/LatinModernSans(0)/b/n/14.4 Comparative advantage[] \TU/TimesNewRoman(0)/
+m/it/12 /kəmˈpærətɪv
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--783
+\TU/TimesNewRoman(0)/m/it/12 ədˈvæntɪdʒ/ (n) \TU/LatinModernRoman(0)/m/n/12 — T
+he ability of an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--783
+\TU/LatinModernRoman(0)/m/n/12 individual or group to carry out
+ []
+
+
+Underfull \hbox (badness 7291) in paragraph at lines 783--783
+\TU/LatinModernRoman(0)/m/n/12 a particular economic activity more
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--789
+\TU/TimesNewRoman(0)/m/it/12 ədˈvæntɪdʒ/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ condition or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--795
+[]\TU/LatinModernSans(0)/b/n/14.4 Innovation[] \TU/TimesNewRoman(0)/m/it/12 /ˌɪ
+nəˈveɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--795
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Cont
+inuous innovation is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 801--801
+[]\TU/LatinModernSans(0)/b/n/14.4 Entrepreneurship[] \TU/TimesNewRoman(0)/m/it/
+12 /ˌɑːntrəprəˈnɜːrʃɪp/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 807--807
+[]\TU/LatinModernSans(0)/b/n/14.4 Startup[] \TU/TimesNewRoman(0)/m/it/12 /ˈstɑː
+rtʌp/ (n) \TU/LatinModernRoman(0)/m/n/12 — A newly
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[12]
+Underfull \hbox (badness 5832) in paragraph at lines 843--843
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Memb
+er countries of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--867
+[]\TU/LatinModernSans(0)/b/n/14.4 Logistics[] \TU/TimesNewRoman(0)/m/it/12 /ləˈ
+dʒɪstɪks/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--867
+\TU/LatinModernRoman(0)/m/n/12 detailed coordination of a complex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 873--873
+[]\TU/LatinModernSans(0)/b/n/14.4 Supply chain[] \TU/TimesNewRoman(0)/m/it/12 /
+ˈsʌplaɪ tʃeɪn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 879--879
+[]\TU/LatinModernSans(0)/b/n/14.4 Distribution[] \TU/TimesNewRoman(0)/m/it/12 /
+ˌdɪstrɪˈbjuːʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 885--885
+[]\TU/LatinModernSans(0)/b/n/14.4 Wholesale[] \TU/TimesNewRoman(0)/m/it/12 /ˈho
+ʊlseɪl/ (n/adj) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 891--891
+[]\TU/LatinModernSans(0)/b/n/14.4 Retail[] \TU/TimesNewRoman(0)/m/it/12 /ˈriːte
+ɪl/ (n/adj) \TU/LatinModernRoman(0)/m/n/12 — The sale of
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[13]
+Overfull \hbox (30.1343pt too wide) in paragraph at lines 933--933
+[]\TU/LatinModernSans(0)/b/n/14.4 Franchise[] \TU/TimesNewRoman(0)/m/it/12 /ˈfr
+æntʃaɪz/ (n) \TU/LatinModernRoman(0)/m/n/12 — An authorization
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 945--945
+[]\TU/LatinModernSans(0)/b/n/14.4 Marketing[] \TU/TimesNewRoman(0)/m/it/12 /ˈmɑ
+ːrkɪtɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 951--951
+[]\TU/LatinModernSans(0)/b/n/14.4 Advertising[] \TU/TimesNewRoman(0)/m/it/12 /ˈ
+ædvərtaɪzɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 951--951
+\TU/LatinModernRoman(0)/m/n/12 activity or profession of producing
+ []
+
+
+Underfull \hbox (badness 5652) in paragraph at lines 951--951
+\TU/LatinModernRoman(0)/m/it/12 of dollars on television and online
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 957--957
+[]\TU/LatinModernSans(0)/b/n/14.4 Promotion[] \TU/TimesNewRoman(0)/m/it/12 /prə
+ˈmoʊʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 963--963
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Rewa
+rd programs are a
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
+[]\TU/LatinModernSans(0)/b/n/14.4 Benchmarking[] \TU/TimesNewRoman(0)/m/it/12 /
+ˈbentʃmɑːrkɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
+\TU/LatinModernRoman(0)/m/n/12 Evaluate or check (something) by
+ []
+
+
+Overfull \hbox (0.2192pt too wide) in paragraph at lines 987--987
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Benc
+hmarking our performance
+ []
+
+
+Underfull \hbox (badness 8189) in paragraph at lines 993--993
+[]\TU/LatinModernSans(0)/b/n/14.4 Best practice[] \TU/TimesNewRoman(0)/m/it/12 
+/best ˈpræktɪs/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 999--999
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 High
+-tech manufacturing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 999--999
+\TU/LatinModernRoman(0)/m/it/12 generates more value added than
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1005--1005
+[]\TU/LatinModernSans(0)/b/n/14.4 Competitive[] \TU/TimesNewRoman(0)/m/it/12 /k
+əmˈpetətɪv/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1005--1005
+\TU/LatinModernRoman(0)/m/n/12 Relating to or characterized by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
+[]\TU/LatinModernSans(0)/b/n/14.4 Dominant[] \TU/TimesNewRoman(0)/m/it/12 /ˈdɑː
+mɪnənt/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Most
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1023
+[]\TU/LatinModernSans(0)/b/n/14.4 Vibrant[] \TU/TimesNewRoman(0)/m/it/12 /ˈvaɪb
+rənt/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Full of
+ []
+
+
+Underfull \hbox (badness 6961) in paragraph at lines 1029--1029
+[]\TU/LatinModernSans(0)/b/n/14.4 Stagnant[] \TU/TimesNewRoman(0)/m/it/12 /ˈstæ
+ɡnənt/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Showing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1035
+[]\TU/LatinModernSans(0)/b/n/14.4 Voluntary[] \TU/TimesNewRoman(0)/m/it/12 /ˈvɑ
+ːlənteri/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Done,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1041
+[]\TU/LatinModernSans(0)/b/n/14.4 Mandatory[] \TU/TimesNewRoman(0)/m/it/12 /ˈmæ
+ndətɔːri/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1041
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+new environmental
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1041
+\TU/LatinModernRoman(0)/m/it/12 standards are mandatory for all
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[15]
+Overfull \hbox (25.70369pt too wide) in paragraph at lines 1047--1047
+[]\TU/LatinModernSans(0)/b/n/14.4 Legitimate[] \TU/TimesNewRoman(0)/m/it/12 /lə
+ˈdʒɪtɪmət/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Conforming
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 1047--1047
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
+government aims to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1059
+[]\TU/LatinModernSans(0)/b/n/14.4 Transparency[] \TU/TimesNewRoman(0)/m/it/12 /
+trænsˈpærənsi/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 1059--1059
+\TU/LatinModernRoman(0)/m/it/12 spending is essential for preventing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1065--1065
+[]\TU/LatinModernSans(0)/b/n/14.4 Accountability[] \TU/TimesNewRoman(0)/m/it/12
+ /əˌkaʊntəˈbɪləti/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1065--1065
+\TU/LatinModernRoman(0)/m/it/12 accountability for large financial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1083--1083
+[]\TU/LatinModernSans(0)/b/n/14.4 Compliance[] \TU/TimesNewRoman(0)/m/it/12 /kə
+mˈplaɪəns/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1089--1089
+[]\TU/LatinModernSans(0)/b/n/14.4 Bureaucracy[] \TU/TimesNewRoman(0)/m/it/12 /b
+jʊˈrɑːkrəsi/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1089--1089
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Exce
+ssive government
+ []
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 1119--1119
+[]\TU/LatinModernSans(0)/b/n/14.4 Subsidize[] \TU/TimesNewRoman(0)/m/it/12 /ˈsʌ
+bsɪdaɪz/ (v) \TU/LatinModernRoman(0)/m/n/12 — Support
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1125
+[]\TU/LatinModernSans(0)/b/n/14.4 Fiscal[] \TU/TimesNewRoman(0)/m/it/12 /ˈfɪskl
+/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Relating to
+ []
+
+
+Overfull \hbox (6.96329pt too wide) in paragraph at lines 1131--1131
+[]\TU/LatinModernSans(0)/b/n/14.4 Economic[] \TU/TimesNewRoman(0)/m/it/12 /ˌekə
+ˈnɑːmɪk/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Relating
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
+\TU/LatinModernRoman(0)/m/it/12 economic challenges, including high
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1137--1137
+[]\TU/LatinModernSans(0)/b/n/14.4 Economical[] \TU/TimesNewRoman(0)/m/it/12 /ˌe
+kəˈnɑːmɪkl/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1149--1149
+[]\TU/LatinModernSans(0)/b/n/14.4 Prosperity[] \TU/TimesNewRoman(0)/m/it/12 /pr
+ɑːˈsperəti/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 1155--1155
+[]\TU/LatinModernRoman(0)/m/it/12 (Trong kinh tế thường dùng trong
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1161--1161
+[]\TU/LatinModernSans(0)/b/n/14.4 Value[] \TU/TimesNewRoman(0)/m/it/12 /ˈvæljuː
+/ (n/v) \TU/LatinModernRoman(0)/m/n/12 — The regard
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1161--1161
+\TU/LatinModernRoman(0)/m/n/12 importance, worth, or usefulness of
+ []
+
+)
+
+File: ../wm/logoTF.png Graphic file (type bmp)
+<../wm/logoTF.png>
+[17] (./economicsAndMoneyVocab.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 19016 strings out of 473832
+ 443316 string characters out of 5729481
+ 869622 words of memory out of 5000000
+ 41767 multiletter control sequences out of 15000+600000
+ 559173 words of font info for 78 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 131i,16n,135p,472b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on economicsAndMoneyVocab.pdf (17 pages).

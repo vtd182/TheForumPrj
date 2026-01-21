@@ -19,6 +19,14 @@
 % ============================================
 % Note: inputenc/fontenc not needed for XeTeX - it handles UTF-8 natively
 \RequirePackage[english,vietnamese]{babel}
+% Disable babel shorthands for double quotes. Some babel language shorthands
+% make `"` active and break literal quotes in examples/notes (e.g. "Tube.").
+\addto\extrasenglish{\shorthandoff{"}}
+\addto\extrasvietnamese{\shorthandoff{"}}
+\AtBeginDocument{%
+  \shorthandoff{"}%
+  \catcode`\"=12\relax
+}
 \RequirePackage[a4paper, left=2cm, right=2cm, top=0cm, bottom=0cm, includehead, includefoot, headheight=50pt, footskip=1.5cm]{geometry}
 \RequirePackage{fancyhdr}
 \RequirePackage{multicol}
