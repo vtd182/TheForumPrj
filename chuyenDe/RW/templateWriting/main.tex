@@ -1,14 +1,14 @@
 \documentclass{cdwriting}
 
-% You can override these if needed:
-%\workshopsetauthor{THE FORUM CENTER - NGUYỄN HOÀNG HUY}
-%\workshopsetdoctype{TÀI LIỆU CHUYÊN ĐỀ WRITING}
-%\workshopsetsubtitle{...}
+% Forecast-like header params (easy to reuse)
+\newcommand{\authorinfo}{THE FORUM CENTER - NGUYỄN HOÀNG HUY}
+\newcommand{\documenttitle}{TÀI LIỆU CHUYÊN ĐỀ WRITING}
+\newcommand{\collectiontitle}{} % optional centered line under the big title
 
 \begin{document}
 
 \thispagestyle{firstpage}
-\makeworkshopcover
+\makeworkshopheader{\authorinfo}{\documenttitle}{\collectiontitle}
 \pagestyle{otherpages}
 
 \cdred{\textbf{Phần I. Xác định tư duy}}

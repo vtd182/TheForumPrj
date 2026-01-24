@@ -26,7 +26,15 @@ Mỗi template có:
 
 ## Tuỳ biến
 
-Trong `main.tex` bạn có thể override:
+Trong `main.tex` (mỗi template) đang dùng đúng pattern của `Forecast`:
+
+- `\thispagestyle{firstpage}`
+- `\makeworkshopheader{\authorinfo}{\documenttitle}{\collectiontitle}`
+- `\pagestyle{otherpages}`
+
+Bạn chỉ việc đổi 3 biến này để reuse.
+
+Ngoài ra (nếu muốn) bạn có thể override trực tiếp:
 
 - `\workshopsetauthor{...}`
 - `\workshopsetmaintitle{...}` (mặc định: `IELTS WORKSHOP`)
