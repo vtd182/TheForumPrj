@@ -1,0 +1,248 @@
+% ============================================
+% IELTS WORKSHOP (CHUYÊN ĐỀ) - BASE (FORECAST-DERIVED)
+% Header/footer/watermark copied from Forecast templates.
+% ============================================
+\LoadClass[12pt,a4paper]{article}
+
+% ============================================
+% PACKAGES (kept aligned with Forecast)
+% ============================================
+\RequirePackage[english,vietnamese]{babel}
+\RequirePackage[a4paper,left=2cm,right=2cm,top=0cm,bottom=0cm,includehead,includefoot,headheight=50pt,footskip=1.5cm]{geometry}
+\RequirePackage{fancyhdr}
+\RequirePackage{xcolor}
+\RequirePackage{graphicx}
+\RequirePackage{tikz}
+\RequirePackage{eso-pic}
+\RequirePackage{fontspec}
+\RequirePackage{enumitem}
+\usetikzlibrary{calc}
+
+% ============================================
+% INTERNAL STATE
+% ============================================
+\makeatletter
+\newcommand{\workshop@maintitle}{IELTS WORKSHOP}
+\newcommand{\workshop@author}{THE FORUM CENTER - NGUYỄN HOÀNG HUY}
+\newcommand{\workshop@doctype}{TÀI LIỆU CHUYÊN ĐỀ}
+\newcommand{\workshop@subtitle}{} % optional centered line under big title
+
+% Public setters (usable from .cls or .tex)
+\newcommand{\workshopsetmaintitle}[1]{\makeatletter\gdef\workshop@maintitle{#1}\makeatother}
+\newcommand{\workshopsetauthor}[1]{\makeatletter\gdef\workshop@author{#1}\makeatother}
+\newcommand{\workshopsetdoctype}[1]{\makeatletter\gdef\workshop@doctype{#1}\makeatother}
+\newcommand{\workshopsetsubtitle}[1]{\makeatletter\gdef\workshop@subtitle{#1}\makeatother}
+
+% ============================================
+% FONTS (copied from Forecast; path probing kept)
+% ============================================
+\newcommand{\workshop@fontroot}{}%
+\IfFileExists{./@font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\workshop@fontroot}{./@font}}{%
+  \IfFileExists{../@font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\workshop@fontroot}{../@font}}{%
+    \IfFileExists{../../@font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\workshop@fontroot}{../../@font}}{%
+      \IfFileExists{../../../@font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\workshop@fontroot}{../../../@font}}{%
+        \IfFileExists{./font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\workshop@fontroot}{./font}}{%
+          \IfFileExists{../font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\workshop@fontroot}{../font}}{%
+            \IfFileExists{../../font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\workshop@fontroot}{../../font}}{%
+              \IfFileExists{../../../font/latin-modern-roman/lmroman10-regular.otf}{\renewcommand{\workshop@fontroot}{../../../font}}{}%
+            }%
+          }%
+        }%
+      }%
+    }%
+  }%
+}%
+
+\ifx\workshop@fontroot\empty
+  \setmainfont{Latin Modern Roman}
+  \setsansfont{Latin Modern Sans}
+\else
+  \setmainfont[
+    Path=\workshop@fontroot/latin-modern-roman/,
+    Extension=.otf,
+    UprightFont=lmroman10-regular,
+    BoldFont=lmroman10-bold,
+    ItalicFont=lmroman10-italic,
+    BoldItalicFont=lmroman10-bolditalic
+  ]{Latin Modern Roman}
+  \setsansfont[
+    Path=\workshop@fontroot/Latin-Modern-Sans/,
+    Extension=.otf,
+    UprightFont=lmsans10-regular,
+    BoldFont=lmsans10-bold,
+    ItalicFont=lmsans10-oblique,
+    BoldItalicFont=lmsans10-boldoblique
+  ]{Latin Modern Sans}
+\fi
+
+\IfFileExists{\workshop@fontroot/UTM-Impact.ttf}{%
+  \newfontfamily\impactfont{UTM-Impact.ttf}[Path=\workshop@fontroot/,Extension=.ttf,UprightFont=UTM-Impact]
+}{%
+  \IfFileExists{../../../font/UTM-Impact.ttf}{%
+    \newfontfamily\impactfont{UTM-Impact.ttf}[Path=../../../font/,Extension=.ttf,UprightFont=UTM-Impact]
+  }{%
+    \newfontfamily\impactfont{UTM-Impact.ttf}[Path=./,Extension=.ttf,UprightFont=UTM-Impact]
+  }%
+}
+
+
+% ============================================
+% COLORS (Forecast)
+% ============================================
+\definecolor{forumred}{HTML}{E52B20}
+\definecolor{topicblue}{HTML}{1F4E79}
+\definecolor{cuegreen}{HTML}{5AA244}
+\definecolor{accentpurple}{HTML}{7A1FA2}
+
+% ============================================
+% LAYOUT
+% ============================================
+\setlength{\parindent}{0pt}
+\setlength{\headheight}{40pt}
+\setlist[itemize]{leftmargin=1.2em,itemsep=2pt,topsep=4pt}
+
+\newcommand{\workshop@pagenumfont}{\sffamily\bfseries\fontsize{14}{16}\selectfont}
+
+% ============================================
+% WATERMARK (Forecast)
+% ============================================
+\AtBeginDocument{%
+  \pgfsetfillopacity{0.15}%
+  \pgfsetstrokeopacity{0.15}%
+  \pgfsetfillopacity{1}%
+  \pgfsetstrokeopacity{1}%
+}
+\newcommand{\workshop@watermarkfile}{../../../Vocab/wm/logoTF.png}
+\IfFileExists{./templates/logoTF.png}{\renewcommand{\workshop@watermarkfile}{./templates/logoTF.png}}{}
+\IfFileExists{./logoTF.png}{\renewcommand{\workshop@watermarkfile}{./logoTF.png}}{}
+\IfFileExists{../wm/logoTF.png}{\renewcommand{\workshop@watermarkfile}{../wm/logoTF.png}}{}
+\IfFileExists{../../Vocab/wm/logoTF.png}{\renewcommand{\workshop@watermarkfile}{../../Vocab/wm/logoTF.png}}{}
+\IfFileExists{../../../Vocab/wm/logoTF.png}{\renewcommand{\workshop@watermarkfile}{../../../Vocab/wm/logoTF.png}}{}
+\IfFileExists{../../../../Vocab/wm/logoTF.png}{\renewcommand{\workshop@watermarkfile}{../../../../Vocab/wm/logoTF.png}}{}
+\AddToShipoutPictureBG{%
+  \begin{tikzpicture}[remember picture, overlay]
+    \fill[white] (current page.south west) rectangle (current page.north east);
+    \node[opacity=0.15] at (current page.center) {%
+      \includegraphics[width=15cm]{\workshop@watermarkfile}%
+    };
+  \end{tikzpicture}%
+}
+
+% ============================================
+% HEADER / FOOTER STYLES (Forecast)
+% ============================================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\raisebox{0.15cm}{\textcolor{forumred}{{\workshop@pagenumfont\thepage}}}}
+
+\fancypagestyle{firstpage}{%
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0pt}
+  \fancyfoot[C]{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \draw[forumred, line width=5pt] (current page.south west) -- (current page.south east);
+      \node[text=forumred, font=\workshop@pagenumfont] at ([yshift=20pt]current page.south) {\thepage};
+    \end{tikzpicture}%
+  }%
+}
+
+\fancypagestyle{otherpages}{%
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0pt}
+  \fancyhead[C]{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \draw[forumred, line width=8pt] (current page.north west) -- (current page.north east);
+      \def\w{5.4cm}
+      \def\h{0.7cm}
+      \def\r{9pt}
+      \coordinate (badgeTopCenter) at ([yshift=-4pt]current page.north);
+      \coordinate (A) at ($(badgeTopCenter)+(-\w/2,0)$);
+      \path[fill=forumred]
+        (A) -- ++(\w,0) -- ++(0,-\h+\r)
+        arc[start angle=0,end angle=-90,radius=\r]
+        -- ++(-\w+2*\r,0)
+        arc[start angle=-90,end angle=-180,radius=\r]
+        -- ++(0,\h-\r) -- cycle;
+      \node[text=white, font=\sffamily\bfseries\fontsize{10}{12}\selectfont]
+        at ($(badgeTopCenter)+(0,-\h/2)$) {Self-study IELTS Material};
+    \end{tikzpicture}%
+  }%
+  \fancyfoot[C]{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \draw[forumred, line width=5pt] (current page.south west) -- (current page.south east);
+      \node[text=forumred, font=\workshop@pagenumfont] at ([yshift=20pt]current page.south) {\thepage};
+    \end{tikzpicture}%
+  }%
+}
+
+% ============================================
+% FIRST PAGE HEADER (Forecast-derived)
+% ============================================
+\newcommand{\workshop@centerheading}[1]{%
+  {\centering\sffamily\bfseries\spaceskip=0.18em\relax #1\par}%
+}
+\newcommand{\makeworkshopheader}[3]{%
+  \begin{tikzpicture}[remember picture, overlay]
+    \def\HeaderHeight{2.55cm}
+    \def\WhiteGap{0.16cm}
+    \def\SubHeight{0.75cm}
+
+    \fill[forumred]
+      (current page.north west) rectangle ([yshift=-\HeaderHeight]current page.north east);
+
+    \node[
+      text=white,
+      font=\impactfont\fontsize{72}{78}\selectfont,
+      anchor=south,
+      inner sep=0pt
+    ] at ([yshift=-\HeaderHeight-1pt]current page.north) {\workshop@maintitle};
+
+    \fill[white]
+      ([yshift=-\HeaderHeight]current page.north west) rectangle ([yshift=-\HeaderHeight-\WhiteGap]current page.north east);
+
+    \fill[forumred]
+      ([yshift=-\HeaderHeight-\WhiteGap]current page.north west)
+      rectangle ([yshift=-\HeaderHeight-\WhiteGap-\SubHeight]current page.north east);
+
+    \node[text=white, font=\sffamily\bfseries\small, anchor=west, text height=1.6ex, text depth=0.4ex]
+      at ([xshift=2cm,yshift=-\HeaderHeight-\WhiteGap-\SubHeight/2] current page.north west) {#1};
+    \node[text=white, font=\sffamily\bfseries\small, anchor=east, text height=1.6ex, text depth=0.4ex]
+      at ([xshift=-2cm,yshift=-\HeaderHeight-\WhiteGap-\SubHeight/2] current page.north east) {#2};
+  \end{tikzpicture}%
+
+  \vspace{0.75cm}
+  \workshop@centerheading{#3}
+  \vspace{6pt}
+}
+
+
+% Convenience wrapper for templates using internal vars
+\newcommand{\workshopcoverdecor}{}%
+\newcommand{\workshopcovervspace}{0pt}%
+\newcommand{\workshopmakecoverbase}{%
+  \makeworkshopheader{\workshop@author}{\workshop@doctype}{\workshop@subtitle}%
+}%
+\newcommand{\makeworkshopcover}{%
+  \workshopmakecoverbase
+  \workshopcoverdecor
+  \vspace*{\workshopcovervspace}%
+}
+
+% ============================================
+% SIMPLE CONTENT HELPERS (OPTIONAL)
+% ============================================
+\newcommand{\workshoptopic}[1]{%
+  \par\noindent
+  \begin{tikzpicture}
+    \node[fill=black, minimum width=\linewidth, minimum height=1.15cm, anchor=west, inner sep=10pt] (box) at (0,0) {};
+    \node[anchor=west, text=forumred, font=\sffamily\bfseries\fontsize{12}{14}\selectfont] at ([xshift=4pt]box.west) {\underline{#1}};
+  \end{tikzpicture}%
+  \par\vspace{8pt}%
+}
+\newcommand{\mainideas}{\textcolor{topicblue}{\sffamily\bfseries Main ideas:}}
+\newcommand{\cdred}[1]{\textcolor{forumred}{#1}}
+\newcommand{\cdblue}[1]{\textcolor{topicblue}{#1}}
+\newcommand{\cdgreen}[1]{\textcolor{cuegreen}{#1}}
+\newcommand{\cdpurple}[1]{\textcolor{accentpurple}{#1}}
+
+\makeatother
