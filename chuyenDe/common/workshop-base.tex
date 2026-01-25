@@ -233,11 +233,8 @@
 % ============================================
 \newcommand{\workshoptopic}[1]{%
   \par\noindent
-  \begin{tikzpicture}
-    \node[fill=black, minimum width=\linewidth, minimum height=1.15cm, anchor=west, inner sep=10pt] (box) at (0,0) {};
-    \node[anchor=west, text=forumred, font=\sffamily\bfseries\fontsize{12}{14}\selectfont] at ([xshift=4pt]box.west) {\underline{#1}};
-  \end{tikzpicture}%
-  \par\vspace{8pt}%
+  {\textcolor{forumred}{\sffamily\bfseries\fontsize{12}{14}\selectfont #1}}\par
+  \vspace{8pt}%
 }
 \newcommand{\mainideas}{\textcolor{topicblue}{\sffamily\bfseries Main ideas:}}
 \newcommand{\cdred}[1]{\textcolor{forumred}{#1}}
