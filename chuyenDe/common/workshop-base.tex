@@ -2,13 +2,13 @@
 % IELTS WORKSHOP (CHUYÊN ĐỀ) - BASE (FORECAST-DERIVED)
 % Header/footer/watermark copied from Forecast templates.
 % ============================================
-\LoadClass[12pt,a4paper]{article}
+\LoadClass[12pt,letterpaper]{article}
 
 % ============================================
 % PACKAGES (kept aligned with Forecast)
 % ============================================
 \RequirePackage[english,vietnamese]{babel}
-\RequirePackage[a4paper,left=2cm,right=2cm,top=0cm,bottom=0cm,includehead,includefoot,headheight=50pt,footskip=1.5cm]{geometry}
+\RequirePackage[letterpaper,left=2cm,right=2cm,top=0cm,bottom=0cm,includehead,includefoot,headheight=50pt,footskip=1.5cm]{geometry}
 \RequirePackage{fancyhdr}
 \RequirePackage{xcolor}
 \RequirePackage{graphicx}
@@ -16,6 +16,10 @@
 \RequirePackage{eso-pic}
 \RequirePackage{fontspec}
 \RequirePackage{enumitem}
+\RequirePackage[most]{tcolorbox}
+\RequirePackage{tabularx}
+\RequirePackage{array}
+\RequirePackage{colortbl}
 \usetikzlibrary{calc}
 
 % ============================================
@@ -98,8 +102,11 @@
 % LAYOUT
 % ============================================
 \setlength{\parindent}{0pt}
-\setlength{\headheight}{40pt}
-\setlist[itemize]{leftmargin=1.2em,itemsep=2pt,topsep=4pt}
+\setlength{\parskip}{4pt}
+\setlist[itemize,1]{leftmargin=1.2em,itemsep=2pt,topsep=4pt,label=\textbullet}
+\setlist[itemize,2]{leftmargin=1.8em,itemsep=1pt,topsep=2pt,label=$\circ$}
+\setlist[enumerate,1]{leftmargin=1.6em,itemsep=2pt,topsep=4pt,label=\textbf{\arabic*.}}
+\setlist[enumerate,2]{leftmargin=2.0em,itemsep=1pt,topsep=2pt,label=\textbf{\alph*)}}
 
 \newcommand{\workshop@pagenumfont}{\sffamily\bfseries\fontsize{14}{16}\selectfont}
 
@@ -231,10 +238,58 @@
 % ============================================
 % SIMPLE CONTENT HELPERS (OPTIONAL)
 % ============================================
+\tcbset{
+  cd/boxbase/.style={
+    enhanced,
+    breakable,
+    colback=white,
+    boxrule=0pt,
+    left=8pt,
+    right=8pt,
+    top=6pt,
+    bottom=6pt,
+    arc=2pt,
+    outer arc=2pt,
+  },
+  cd/leftbar/.style 2 args={
+    borderline west={3pt}{0pt}{#1},
+    colframe=#1,
+    colback=#2,
+  },
+}
+\newtcolorbox{cdpromptbox}{cd/boxbase,cd/leftbar={forumred}{forumred!5}}
+\newtcolorbox{cdsectionbox}{cd/boxbase,cd/leftbar={forumred}{black!2}}
+\newtcolorbox{cdstepbox}{cd/boxbase,cd/leftbar={topicblue}{topicblue!4}}
+\newtcolorbox{cdgreenbox}{cd/boxbase,cd/leftbar={cuegreen}{cuegreen!5}}
+\newtcolorbox{cdnote}{cd/boxbase,cd/leftbar={accentpurple}{accentpurple!4}}
+\newtcolorbox{cdtablebox}{cd/boxbase,cd/leftbar={topicblue}{topicblue!2}}
+
+\newcommand{\cdsection}[1]{%
+  \begin{cdsectionbox}\cdred{\sffamily\bfseries #1}\end{cdsectionbox}%
+}
+\newcommand{\cdstep}[1]{%
+  \begin{cdstepbox}\cdblue{\sffamily\bfseries #1}\end{cdstepbox}%
+}
+\newcommand{\cdgreenheading}[1]{%
+  \begin{cdgreenbox}\cdgreen{\sffamily\bfseries #1}\end{cdgreenbox}%
+}
+\newcommand{\cdnoteinline}[1]{%
+  \begin{cdnote}\cdpurple{\sffamily\bfseries #1}\end{cdnote}%
+}
+
+\newcommand{\cdhl}[1]{\colorbox{forumred!12}{\strut #1}}
+\newcommand{\cdterm}[1]{\textit{\cdblue{#1}}}
+\newcommand{\cdkv}[2]{\cdblue{\textbf{#1:}}~#2}
+
 \newcommand{\workshoptopic}[1]{%
   \par\noindent
   {\textcolor{forumred}{\sffamily\bfseries\fontsize{12}{14}\selectfont #1}}\par
   \vspace{8pt}%
+}
+\newcommand{\workshopprompt}[1]{%
+  \begin{cdpromptbox}%
+    \cdred{\sffamily\bfseries Prompt:}~\cdred{\textit{#1}}%
+  \end{cdpromptbox}%
 }
 \newcommand{\mainideas}{\textcolor{topicblue}{\sffamily\bfseries Main ideas:}}
 \newcommand{\cdred}[1]{\textcolor{forumred}{#1}}
