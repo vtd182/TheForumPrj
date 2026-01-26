@@ -189,11 +189,10 @@
   {\centering\sffamily\bfseries\spaceskip=0.18em\relax #1\par}%
 }
 \newcommand{\makeworkshopheader}[3]{%
+  \def\HeaderHeight{2.55cm}%
+  \def\WhiteGap{0.16cm}%
+  \def\SubHeight{0.75cm}%
   \begin{tikzpicture}[remember picture, overlay]
-    \def\HeaderHeight{2.55cm}
-    \def\WhiteGap{0.16cm}
-    \def\SubHeight{0.75cm}
-
     \fill[forumred]
       (current page.north west) rectangle ([yshift=-\HeaderHeight]current page.north east);
 
@@ -217,7 +216,7 @@
       at ([xshift=-2cm,yshift=-\HeaderHeight-\WhiteGap-\SubHeight/2] current page.north east) {#2};
   \end{tikzpicture}%
 
-  \vspace{0.75cm}
+  \vspace*{\dimexpr\HeaderHeight+\WhiteGap+\SubHeight+0.45cm\relax}%
   \workshop@centerheading{#3}
   \vspace{6pt}
 }
@@ -257,7 +256,33 @@
     colback=#2,
   },
 }
-\newtcolorbox{cdpromptbox}{cd/boxbase,cd/leftbar={forumred}{forumred!5}}
+\newtcolorbox{cdpromptbox}{
+  enhanced,
+  breakable,
+  colback=forumred!4,
+  colframe=forumred!80!black,
+  boxrule=0.8pt,
+  arc=3pt,
+  left=10pt,
+  right=10pt,
+  top=10pt,
+  bottom=10pt,
+  drop shadow={black!18},
+  title=WRITING PROMPT,
+  colbacktitle=forumred,
+  coltitle=white,
+  fonttitle=\sffamily\bfseries\fontsize{10}{12}\selectfont,
+  attach boxed title to top left={xshift=8pt,yshift=-2mm},
+  boxed title style={boxrule=0pt,arc=2pt,left=6pt,right=6pt,top=2pt,bottom=2pt},
+  overlay={
+    \begin{tikzpicture}[remember picture, overlay]
+      \draw[forumred!18, line width=0.6pt]
+        ([xshift=2pt,yshift=2pt]frame.south west) -- ([xshift=-2pt,yshift=-2pt]frame.north east);
+      \draw[forumred!18, line width=0.6pt]
+        ([xshift=2pt,yshift=6pt]frame.south west) -- ([xshift=-6pt,yshift=-2pt]frame.north east);
+    \end{tikzpicture}
+  },
+}
 \newtcolorbox{cdsectionbox}{cd/boxbase,cd/leftbar={forumred}{black!2}}
 \newtcolorbox{cdstepbox}{cd/boxbase,cd/leftbar={topicblue}{topicblue!4}}
 \newtcolorbox{cdgreenbox}{cd/boxbase,cd/leftbar={cuegreen}{cuegreen!5}}
@@ -288,7 +313,7 @@
 }
 \newcommand{\workshopprompt}[1]{%
   \begin{cdpromptbox}%
-    \cdred{\sffamily\bfseries Prompt:}~\cdred{\textit{#1}}%
+    {\sffamily\itshape #1}%
   \end{cdpromptbox}%
 }
 \newcommand{\mainideas}{\textcolor{topicblue}{\sffamily\bfseries Main ideas:}}
