@@ -8,7 +8,9 @@
 % PACKAGES (kept aligned with Forecast)
 % ============================================
 \RequirePackage[english,vietnamese]{babel}
-\RequirePackage[letterpaper,left=2cm,right=2cm,top=0cm,bottom=0cm,includehead,headheight=50pt,footskip=1.5cm]{geometry}
+% Keep header/footer artwork full-bleed (drawn via TikZ overlays), but reserve a real
+% bottom margin so long tables never collide with the page number/footer bar.
+\RequirePackage[letterpaper,left=2cm,right=2cm,top=0cm,bottom=2cm,includehead,headheight=50pt,footskip=1.5cm]{geometry}
 \RequirePackage{fancyhdr}
 \RequirePackage{xcolor}
 \RequirePackage{graphicx}
