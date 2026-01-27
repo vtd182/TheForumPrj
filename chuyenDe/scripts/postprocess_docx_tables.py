@@ -50,6 +50,15 @@ def _is_answer_table(tbl: ET.Element) -> bool:
         return False
     return _get_attr(tbl_style, "val") == "CDAnswerTable"
 
+def _is_choice_table(tbl: ET.Element) -> bool:
+    tbl_pr = tbl.find("./w:tblPr", NS)
+    if tbl_pr is None:
+        return False
+    tbl_style = tbl_pr.find("./w:tblStyle", NS)
+    if tbl_style is None:
+        return False
+    return _get_attr(tbl_style, "val") == "CDChoiceTable"
+
 
 def _count_columns(tbl: ET.Element) -> int:
     grid = tbl.find("./w:tblGrid", NS)
@@ -169,6 +178,16 @@ def _postprocess_document_xml(xml_bytes: bytes) -> bytes:
             w3 = int(usable_width * 0.14)
             w2 = max(0, usable_width - w1 - w3)
             _set_grid_widths_weighted(tbl, widths=[w1, w2, w3])
+            continue
+        if _is_choice_table(tbl):
+            _ensure_tbl_layout_autofit(tbl)
+            _ensure_tbl_indent(tbl, indent_twips=indent_twips)
+            usable_width = content_width_twips - indent_twips
+            _ensure_tbl_width_dxa(tbl, width_twips=usable_width)
+            # 2 columns: narrow / wide.
+            w1 = int(usable_width * 0.18)
+            w2 = max(0, usable_width - w1)
+            _set_grid_widths_weighted(tbl, widths=[w1, w2])
             continue
         if _is_option_table(tbl):
             _ensure_tbl_centered(tbl)

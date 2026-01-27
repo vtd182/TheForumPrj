@@ -382,7 +382,7 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
             return
         if lines and lines[-1] != "":
             emit("")
-        emit("::: cdoptiontable")
+        emit("::: cdchoicetable")
         emit("| **Option** | **Person/Choice** |")
         emit("| --- | --- |")
         for opt, meaning in reading_choice_rows:

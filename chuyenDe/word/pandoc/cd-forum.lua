@@ -27,6 +27,7 @@ local TABLE_STYLE = {
   cdvocabtable = "CDVocabTable",
   cdoptiontable = "CDOptionTable",
   cdanswertable = "CDAnswerTable",
+  cdchoicetable = "CDChoiceTable",
 }
 
 local function set_custom_style(attr, style_name)
@@ -121,6 +122,12 @@ function Div(el)
             if class_name == "cdanswertable" and ncols == 3 then
               -- Make analysis column wider for readability.
               local weights = { 0.14, 0.72, 0.14 }
+              for i = 1, ncols do
+                local align = blk.colspecs[i][1]
+                colspecs[i] = { align, weights[i] }
+              end
+            elseif class_name == "cdchoicetable" and ncols == 2 then
+              local weights = { 0.18, 0.82 }
               for i = 1, ncols do
                 local align = blk.colspecs[i][1]
                 colspecs[i] = { align, weights[i] }
