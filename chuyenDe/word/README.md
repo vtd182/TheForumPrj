@@ -22,6 +22,17 @@ Output:
 - footer (số trang + thanh đỏ)
 - các styles cho component (Prompt/Section/Step/Note + màu inline)
 
+## 1.1) Cài font để không bị fallback
+
+Template Word đang dùng các font “giống LaTeX” cho header/title/component (ví dụ `Latin Modern Sans`, `UTM Impact`). Nếu máy bạn chưa cài `Latin Modern Sans` thì Word sẽ tự fallback sang font khác (thường là UTM/Arial), nhìn sẽ lệch.
+
+- Font trong repo:
+  - `font/Latin-Modern-Sans/*.otf`
+  - `font/latin-modern-roman/*.otf`
+  - `font/UTM-Impact.ttf`
+- macOS: mở từng file font → **Install** (Font Book), rồi **Quit Word (Cmd+Q)** và mở lại.
+- Windows: chọn các file font → **Install for all users**, rồi mở lại Word.
+
 ## 2) Convert Markdown → DOCX (giữ styles)
 
 Yêu cầu: cài Pandoc trên máy của bạn.

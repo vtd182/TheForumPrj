@@ -95,7 +95,7 @@ def _theme_xml() -> str:
         <a:latin typeface="Latin Modern Sans"/>
       </a:majorFont>
       <a:minorFont>
-        <a:latin typeface="Latin Modern Roman"/>
+        <a:latin typeface="Georgia"/>
       </a:minorFont>
     </a:fontScheme>
     <a:fmtScheme name="Office"/>
@@ -115,7 +115,7 @@ def _styles_xml() -> str:
   <w:docDefaults>
     <w:rPrDefault>
       <w:rPr>
-        <w:rFonts w:ascii="Latin Modern Roman" w:hAnsi="Latin Modern Roman" w:cs="Latin Modern Roman"/>
+        <w:rFonts w:ascii="Georgia" w:hAnsi="Georgia" w:cs="Georgia"/>
         <w:sz w:val="24"/>
       </w:rPr>
     </w:rPrDefault>
@@ -129,6 +129,10 @@ def _styles_xml() -> str:
   <w:style w:type="paragraph" w:default="1" w:styleId="Normal">
     <w:name w:val="Normal"/>
     <w:qFormat/>
+    <w:rPr>
+      <w:rFonts w:ascii="Georgia" w:hAnsi="Georgia" w:cs="Georgia"/>
+      <w:sz w:val="24"/>
+    </w:rPr>
   </w:style>
 
   <w:style w:type="paragraph" w:styleId="Heading1">
@@ -425,7 +429,7 @@ def _header_first_xml() -> str:
           </w:pPr>
           <w:r>
             <w:rPr>
-              <w:rFonts w:ascii="UTM Impact" w:hAnsi="UTM Impact" w:cs="UTM Impact"/>
+              <w:rFonts w:ascii="Impact" w:hAnsi="Impact" w:cs="Impact"/>
               <w:color w:val="FFFFFF"/>
               <w:sz w:val="144"/>
               <w:b/>
