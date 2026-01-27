@@ -336,6 +336,7 @@ def _document_xml() -> str:
     <w:sectPr>
       <w:headerReference w:type="default" r:id="rId1"/>
       <w:headerReference w:type="first" r:id="rId2"/>
+      <w:footerReference w:type="first" r:id="rId3"/>
       <w:footerReference w:type="default" r:id="rId3"/>
       <w:titlePg/>
       <w:pgSz w:w="12240" w:h="15840"/>
@@ -408,16 +409,17 @@ def _header_first_xml() -> str:
        xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
        xmlns:v="urn:schemas-microsoft-com:vml"
        xmlns:o="urn:schemas-microsoft-com:office:office">
-  {_watermark_shape_xml().rstrip()}
   <w:tbl>
     <w:tblPr>
-      <w:tblW w:w="5000" w:type="pct"/>
+      <w:tblW w:w="12240" w:type="dxa"/>
+      <w:tblInd w:w="-1134" w:type="dxa"/>
+      <w:tblLayout w:type="fixed"/>
       <w:tblBorders>
         <w:top w:val="nil"/><w:left w:val="nil"/><w:bottom w:val="nil"/><w:right w:val="nil"/>
         <w:insideH w:val="nil"/><w:insideV w:val="nil"/>
       </w:tblBorders>
     </w:tblPr>
-    <w:tblGrid><w:gridCol w:w="5000"/></w:tblGrid>
+    <w:tblGrid><w:gridCol w:w="12240"/></w:tblGrid>
     <w:tr>
       <w:trPr><w:trHeight w:val="1446" w:hRule="exact"/></w:trPr>
       <w:tc>
@@ -449,18 +451,25 @@ def _header_first_xml() -> str:
         <w:tcPr><w:shd w:val="clear" w:color="auto" w:fill="{forumred}"/></w:tcPr>
         <w:tbl>
           <w:tblPr>
-            <w:tblW w:w="5000" w:type="pct"/>
+            <w:tblW w:w="12240" w:type="dxa"/>
+            <w:tblLayout w:type="fixed"/>
             <w:tblBorders>
               <w:top w:val="nil"/><w:left w:val="nil"/><w:bottom w:val="nil"/><w:right w:val="nil"/>
               <w:insideH w:val="nil"/><w:insideV w:val="nil"/>
             </w:tblBorders>
           </w:tblPr>
           <w:tblGrid>
-            <w:gridCol w:w="2500"/><w:gridCol w:w="2500"/>
+            <w:gridCol w:w="6120"/><w:gridCol w:w="6120"/>
           </w:tblGrid>
           <w:tr>
             <w:tc>
-              <w:tcPr><w:shd w:val="clear" w:color="auto" w:fill="{forumred}"/></w:tcPr>
+              <w:tcPr>
+                <w:shd w:val="clear" w:color="auto" w:fill="{forumred}"/>
+                <w:tcMar>
+                  <w:left w:w="1134" w:type="dxa"/>
+                  <w:right w:w="240" w:type="dxa"/>
+                </w:tcMar>
+              </w:tcPr>
               <w:p>
                 <w:pPr><w:jc w:val="left"/></w:pPr>
                 <w:r>
@@ -473,7 +482,13 @@ def _header_first_xml() -> str:
               </w:p>
             </w:tc>
             <w:tc>
-              <w:tcPr><w:shd w:val="clear" w:color="auto" w:fill="{forumred}"/></w:tcPr>
+              <w:tcPr>
+                <w:shd w:val="clear" w:color="auto" w:fill="{forumred}"/>
+                <w:tcMar>
+                  <w:left w:w="240" w:type="dxa"/>
+                  <w:right w:w="1134" w:type="dxa"/>
+                </w:tcMar>
+              </w:tcPr>
               <w:p>
                 <w:pPr><w:jc w:val="right"/></w:pPr>
                 <w:r>
@@ -490,6 +505,7 @@ def _header_first_xml() -> str:
       </w:tc>
     </w:tr>
   </w:tbl>
+  {_watermark_shape_xml().rstrip()}
 </w:hdr>
 """
 
@@ -502,16 +518,17 @@ def _header_default_xml() -> str:
        xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
        xmlns:v="urn:schemas-microsoft-com:vml"
        xmlns:o="urn:schemas-microsoft-com:office:office">
-  {_watermark_shape_xml().rstrip()}
   <w:tbl>
     <w:tblPr>
-      <w:tblW w:w="5000" w:type="pct"/>
+      <w:tblW w:w="12240" w:type="dxa"/>
+      <w:tblInd w:w="-1134" w:type="dxa"/>
+      <w:tblLayout w:type="fixed"/>
       <w:tblBorders>
         <w:top w:val="nil"/><w:left w:val="nil"/><w:bottom w:val="nil"/><w:right w:val="nil"/>
         <w:insideH w:val="nil"/><w:insideV w:val="nil"/>
       </w:tblBorders>
     </w:tblPr>
-    <w:tblGrid><w:gridCol w:w="5000"/></w:tblGrid>
+    <w:tblGrid><w:gridCol w:w="12240"/></w:tblGrid>
     <w:tr>
       <w:trPr><w:trHeight w:val="120" w:hRule="exact"/></w:trPr>
       <w:tc><w:tcPr><w:shd w:val="clear" w:color="auto" w:fill="{forumred}"/></w:tcPr><w:p/></w:tc>
@@ -555,6 +572,7 @@ def _header_default_xml() -> str:
       </w:tc>
     </w:tr>
   </w:tbl>
+  {_watermark_shape_xml().rstrip()}
 </w:hdr>
 """
 
@@ -565,13 +583,15 @@ def _footer_default_xml() -> str:
 <w:ftr xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
   <w:tbl>
     <w:tblPr>
-      <w:tblW w:w="5000" w:type="pct"/>
+      <w:tblW w:w="12240" w:type="dxa"/>
+      <w:tblInd w:w="-1134" w:type="dxa"/>
+      <w:tblLayout w:type="fixed"/>
       <w:tblBorders>
         <w:top w:val="nil"/><w:left w:val="nil"/><w:bottom w:val="nil"/><w:right w:val="nil"/>
         <w:insideH w:val="nil"/><w:insideV w:val="nil"/>
       </w:tblBorders>
     </w:tblPr>
-    <w:tblGrid><w:gridCol w:w="5000"/></w:tblGrid>
+    <w:tblGrid><w:gridCol w:w="12240"/></w:tblGrid>
     <w:tr>
       <w:trPr><w:trHeight w:val="560" w:hRule="exact"/></w:trPr>
       <w:tc>
@@ -587,15 +607,41 @@ def _footer_default_xml() -> str:
             <w:jc w:val="center"/>
             <w:spacing w:before="0" w:after="0"/>
           </w:pPr>
-          <w:fldSimple w:instr=" PAGE ">
-            <w:r>
-              <w:rPr>
-                <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
-                <w:color w:val="{forumred}"/><w:b/><w:sz w:val="28"/>
-              </w:rPr>
-              <w:t>1</w:t>
-            </w:r>
-          </w:fldSimple>
+          <w:r>
+            <w:rPr>
+              <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
+              <w:color w:val="{forumred}"/><w:b/><w:sz w:val="28"/>
+            </w:rPr>
+            <w:fldChar w:fldCharType="begin"/>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
+              <w:color w:val="{forumred}"/><w:b/><w:sz w:val="28"/>
+            </w:rPr>
+            <w:instrText xml:space="preserve"> PAGE </w:instrText>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
+              <w:color w:val="{forumred}"/><w:b/><w:sz w:val="28"/>
+            </w:rPr>
+            <w:fldChar w:fldCharType="separate"/>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
+              <w:color w:val="{forumred}"/><w:b/><w:sz w:val="28"/>
+            </w:rPr>
+            <w:t>1</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
+              <w:color w:val="{forumred}"/><w:b/><w:sz w:val="28"/>
+            </w:rPr>
+            <w:fldChar w:fldCharType="end"/>
+          </w:r>
         </w:p>
       </w:tc>
     </w:tr>
