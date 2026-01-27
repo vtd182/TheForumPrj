@@ -8,16 +8,21 @@
 % PACKAGES (kept aligned with Forecast)
 % ============================================
 \RequirePackage[english,vietnamese]{babel}
-\RequirePackage[letterpaper,left=2cm,right=2cm,top=0cm,bottom=0cm,includehead,includefoot,headheight=50pt,footskip=1.5cm]{geometry}
+\RequirePackage[letterpaper,left=2cm,right=2cm,top=0cm,bottom=0cm,includehead,headheight=50pt,footskip=1.5cm]{geometry}
 \RequirePackage{fancyhdr}
 \RequirePackage{xcolor}
 \RequirePackage{graphicx}
 \RequirePackage{tikz}
 \RequirePackage{eso-pic}
 \RequirePackage{fontspec}
+\RequirePackage{hyperref}
+\RequirePackage{xurl}
+\RequirePackage{ragged2e}
 \RequirePackage{enumitem}
 \RequirePackage[most]{tcolorbox}
 \RequirePackage{tabularx}
+\RequirePackage{longtable}
+\RequirePackage{booktabs}
 \RequirePackage{array}
 \RequirePackage{colortbl}
 \usetikzlibrary{calc}
@@ -79,6 +84,34 @@
   ]{Latin Modern Sans}
 \fi
 
+% ============================================
+% IPA FONT (for /ˈ.../ phonetics in vocab tables)
+% ============================================
+\newcommand{\workshop@ipafontname}{}%
+\IfFontExistsTF{Charis SIL}{\renewcommand{\workshop@ipafontname}{Charis SIL}}{%
+  \IfFontExistsTF{Doulos SIL}{\renewcommand{\workshop@ipafontname}{Doulos SIL}}{%
+    \IfFontExistsTF{Gentium Plus}{\renewcommand{\workshop@ipafontname}{Gentium Plus}}{%
+      \IfFontExistsTF{Gentium Book Plus}{\renewcommand{\workshop@ipafontname}{Gentium Book Plus}}{%
+        \IfFontExistsTF{Noto Serif}{\renewcommand{\workshop@ipafontname}{Noto Serif}}{%
+          \IfFontExistsTF{Noto Sans}{\renewcommand{\workshop@ipafontname}{Noto Sans}}{%
+            \IfFontExistsTF{DejaVu Sans}{\renewcommand{\workshop@ipafontname}{DejaVu Sans}}{%
+              \IfFontExistsTF{Arial Unicode MS}{\renewcommand{\workshop@ipafontname}{Arial Unicode MS}}{%
+                \IfFontExistsTF{Lucida Sans Unicode}{\renewcommand{\workshop@ipafontname}{Lucida Sans Unicode}}{}%
+              }%
+            }%
+          }%
+        }%
+      }%
+    }%
+  }%
+}%
+\ifx\workshop@ipafontname\empty
+  \newfontfamily\workshopipafont{Latin Modern Roman}
+\else
+  \newfontfamily\workshopipafont[Scale=MatchLowercase]{\workshop@ipafontname}
+\fi
+\newcommand{\cdipa}[1]{{\workshopipafont #1}}
+
 \IfFileExists{\workshop@fontroot/UTM-Impact.ttf}{%
   \newfontfamily\impactfont{UTM-Impact.ttf}[Path=\workshop@fontroot/,Extension=.ttf,UprightFont=UTM-Impact]
 }{%
@@ -103,12 +136,24 @@
 % ============================================
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{4pt}
+\setlength{\emergencystretch}{2em}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}%
+}
 \setlist[itemize,1]{leftmargin=1.2em,itemsep=2pt,topsep=4pt,label=\textbullet}
 \setlist[itemize,2]{leftmargin=1.8em,itemsep=1pt,topsep=2pt,label=$\circ$}
 \setlist[enumerate,1]{leftmargin=1.6em,itemsep=2pt,topsep=4pt,label=\textbf{\arabic*.}}
 \setlist[enumerate,2]{leftmargin=2.0em,itemsep=1pt,topsep=2pt,label=\textbf{\alph*)}}
 
 \newcommand{\workshop@pagenumfont}{\sffamily\bfseries\fontsize{14}{16}\selectfont}
+
+% Table-friendly column types (Pandoc-generated tables rely on these)
+\newcolumntype{Y}{>{\RaggedRight\arraybackslash}X}
+\newcolumntype{P}[1]{>{\RaggedRight\arraybackslash}p{#1}}
+\newcolumntype{M}[1]{>{\RaggedRight\arraybackslash}m{#1}}
+
+% Consistent table header styling (used by Pandoc LaTeX filter)
+\newcommand{\cdtableheader}[1]{{\color{white}\sffamily\bfseries #1}}
 
 % ============================================
 % WATERMARK (Forecast)
@@ -129,7 +174,7 @@
 \AddToShipoutPictureBG{%
   \begin{tikzpicture}[remember picture, overlay]
     \fill[white] (current page.south west) rectangle (current page.north east);
-    \node[opacity=0.15] at (current page.center) {%
+    \node[opacity=0.08] at (current page.center) {%
       \includegraphics[width=15cm]{\workshop@watermarkfile}%
     };
   \end{tikzpicture}%
@@ -288,6 +333,11 @@
 \newtcolorbox{cdgreenbox}{cd/boxbase,cd/leftbar={cuegreen}{cuegreen!5}}
 \newtcolorbox{cdnote}{cd/boxbase,cd/leftbar={accentpurple}{accentpurple!4}}
 \newtcolorbox{cdtablebox}{cd/boxbase,cd/leftbar={topicblue}{topicblue!2}}
+
+% Pandoc/Markdown helpers
+\newenvironment{cdquestions}{%
+  \par\setlength{\parskip}{0pt}\setlength{\parindent}{0pt}%
+}{\par}
 
 \newcommand{\cdsection}[1]{%
   \begin{cdsectionbox}\cdred{\sffamily\bfseries #1}\end{cdsectionbox}%
