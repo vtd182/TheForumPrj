@@ -28,6 +28,8 @@ local TABLE_STYLE = {
   cdoptiontable = "CDOptionTable",
   cdanswertable = "CDAnswerTable",
   cdchoicetable = "CDChoiceTable",
+  cdanswerkeytable = "CDAnswerKeyTable",
+  cdreadingvocabtable = "CDReadingVocabTable",
 }
 
 local function set_custom_style(attr, style_name)
@@ -128,6 +130,18 @@ function Div(el)
               end
             elseif class_name == "cdchoicetable" and ncols == 2 then
               local weights = { 0.18, 0.82 }
+              for i = 1, ncols do
+                local align = blk.colspecs[i][1]
+                colspecs[i] = { align, weights[i] }
+              end
+            elseif class_name == "cdanswerkeytable" and ncols == 2 then
+              local weights = { 0.18, 0.82 }
+              for i = 1, ncols do
+                local align = blk.colspecs[i][1]
+                colspecs[i] = { align, weights[i] }
+              end
+            elseif class_name == "cdreadingvocabtable" and ncols == 4 then
+              local weights = { 0.24, 0.14, 0.40, 0.22 }
               for i = 1, ncols do
                 local align = blk.colspecs[i][1]
                 colspecs[i] = { align, weights[i] }

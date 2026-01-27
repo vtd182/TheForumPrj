@@ -24,6 +24,12 @@ class OutputPaths:
         return self.out_md_dir / skill / f"Level{level}" / f"W{week}.md"
 
 
+@dataclass
+class ReadingCollect:
+    answers: dict[int, str]
+    glossary: dict[str, str]
+
+
 def _normalize_text(s: str) -> str:
     s = s.replace("\xa0", " ").strip()
     s = re.sub(r"[ \t]+", " ", s)
@@ -353,7 +359,9 @@ def _try_render_vocab_table_list(paragraphs: list[Paragraph], *, start_index: in
     return _render_vocab_table(["Từ/Cụm từ", "Nghĩa", "Ví dụ"], rows), i
 
 
-def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str]:
+def _render_markdown_body(
+    paragraphs: list[Paragraph], *, mode: str, collect: ReadingCollect | None = None
+) -> list[str]:
     lines: list[str] = []
     in_list = False
     vocab_active = False
@@ -365,6 +373,7 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
     reading_choice_rows: list[tuple[str, str]] = []
     reading_heading_rows: list[tuple[str, str]] = []
     reading_questions_div_open = False
+    reading_current_qnum: int | None = None
 
     def emit(line: str) -> None:
         # Avoid accumulating multiple blank lines (keeps Word output tighter).
@@ -523,6 +532,8 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
             out.append(
                 f"| **{_escape_table_cell(num)}** | {_escape_table_cell(analysis)} | **{_escape_table_cell(answer)}** |"
             )
+            if collect is not None:
+                collect.answers[int(num)] = answer
         out.append(":::")
         out.append("")
         return out, j
@@ -539,6 +550,14 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
         if not s:
             i += 1
             continue
+
+        if mode == "reading":
+            m_qctx = re.match(r"^câu\s*(?P<num>\d{1,3})\s*:\s*(?P<rest>.+)$", s, flags=re.IGNORECASE)
+            if m_qctx:
+                reading_current_qnum = int(m_qctx.group("num"))
+            m_ans = re.match(r"^đáp\s*án\s*:\s*(?P<ans>.+)$", s, flags=re.IGNORECASE)
+            if m_ans and reading_current_qnum is not None and collect is not None:
+                collect.answers[reading_current_qnum] = _normalize_text(m_ans.group("ans"))
 
         if mode == "reading" and p.list_level is None:
             tbl = _render_answer_conclusion_table(start_index=i)
@@ -641,6 +660,8 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
                     in_list = True
                     term = _normalize_text(m_gl.group("term"))
                     definition = _normalize_text(m_gl.group("def"))
+                    if collect is not None:
+                        collect.glossary.setdefault(term, definition)
                     emit(f"- **{term}:** {definition}")
                     i += 1
                     continue
@@ -867,7 +888,30 @@ def render_reading_md(*, level: int, section: Section) -> str:
     out.append("")
     out.append("## " + _normalize_text(title))
     out.append("")
-    out.extend(_render_markdown_body(body, mode="reading"))
+    collect = ReadingCollect(answers={}, glossary={})
+    out.extend(_render_markdown_body(body, mode="reading", collect=collect))
+
+    # Append answer key + vocabulary summary at the end of each Reading doc.
+    out.append("")
+    out.append("## Bảng đáp án tổng hợp")
+    out.append("")
+    out.append("::: cdanswerkeytable")
+    out.append("| Câu | Đáp án |")
+    out.append("| --- | --- |")
+    for q in sorted(collect.answers):
+        out.append(f"| **{q}** | **{_escape_table_cell(collect.answers[q])}** |")
+    out.append(":::")
+    out.append("")
+
+    out.append("## Tổng hợp từ vựng")
+    out.append("")
+    out.append("::: cdreadingvocabtable")
+    out.append("| Từ vựng (Từ loại) | Phiên âm | Nghĩa tiếng Anh (Giải thích chi tiết nghĩa tiếng Việt) | Ví dụ minh họa |")
+    out.append("| --- | --- | --- | --- |")
+    for term in sorted(collect.glossary, key=lambda s: s.lower()):
+        definition = collect.glossary[term]
+        out.append(f"| **{_escape_table_cell(term)}** |  | {_escape_table_cell(definition)} ( ) |  |")
+    out.append(":::")
     out.append("")
     return "\n".join(out)
 
