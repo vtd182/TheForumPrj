@@ -263,9 +263,12 @@
       at ([xshift=-2cm,yshift=-\HeaderHeight-\WhiteGap-\SubHeight/2] current page.north east) {#2};
   \end{tikzpicture}%
 
-  \vspace*{\dimexpr\HeaderHeight+\WhiteGap+\SubHeight+0.45cm\relax}%
+  % Space from the top banner to the cover title line.
+  % Compensate for the reserved header area (geometry/fancyhdr) since the banner
+  % itself is drawn as a page overlay.
+  \vspace*{\dimexpr\HeaderHeight+\WhiteGap+\SubHeight-\headheight-\headsep+0.15cm\relax}%
   \workshop@centerheading{#3}
-  \vspace{6pt}
+  \vspace{1pt}
 }
 
 
@@ -306,6 +309,8 @@
 \newtcolorbox{cdpromptbox}{
   enhanced,
   breakable,
+  before skip=10pt,
+  after skip=8pt,
   colback=forumred!4,
   colframe=forumred!80!black,
   boxrule=0.8pt,

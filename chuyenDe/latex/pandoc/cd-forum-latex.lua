@@ -135,6 +135,27 @@ local function render_cd_table(class_name, tbl)
     return table.concat(parts, "")
   end
 
+  local function looks_like_before_after_upgrade_table(normalized_header)
+    if not normalized_header or #normalized_header ~= 2 then
+      return false
+    end
+    local a = normalized_header[1] or ""
+    local b = normalized_header[2] or ""
+
+    -- Heuristic: these tables usually encode band levels in both headers,
+    -- e.g. "Band 4.0" vs "Band 5.5+". Matching on ASCII is robust against
+    -- Vietnamese normalization differences (NFC/NFD).
+    local band_a = a:match("band%s*([0-9]+%.?[0-9]*)")
+    local band_b = b:match("band%s*([0-9]+%.?[0-9]*)")
+    if band_a and band_b and band_a ~= band_b then
+      return true
+    end
+
+    local left_ok = (a:find("original") ~= nil) or (a:find("before") ~= nil)
+    local right_ok = (b:find("upgrade") ~= nil) or (b:find("improv") ~= nil) or (b:find("after") ~= nil)
+    return left_ok and right_ok
+  end
+
   local function colspec_for_longtable()
     -- Leave room for rules + tabcolsep; keep sum < 1.0 to avoid overfull boxes.
     if class_name == "cdanswertable" and ncols == 3 then
@@ -159,6 +180,35 @@ local function render_cd_table(class_name, tbl)
     return table.concat(parts, "")
   end
 
+  -- Header analysis (used for styling + some layout overrides).
+  local header = header_rows[1]
+  local skip_header = false
+  local normalized_header = nil
+  local force_equal_two_col = false
+  if header ~= nil and #header > 0 then
+    local normalized = {}
+    for _, h in ipairs(header) do
+      table.insert(normalized, (h:gsub("\\allowbreak%{%}", "")):lower())
+    end
+    normalized_header = normalized
+    force_equal_two_col = (ncols == 2 and looks_like_before_after_upgrade_table(normalized))
+
+    local is_generic_two_col =
+      #normalized == 2
+      and ((normalized[1] == "heading" and normalized[2] == "title")
+        or (normalized[1] == "option" and (normalized[2] == "meaning" or normalized[2] == "person/choice")))
+    if class_name == "cdvocabtable" and is_generic_two_col then
+      skip_header = true
+    end
+    if class_name == "cdchoicetable" and is_generic_two_col then
+      skip_header = true
+    end
+    if class_name == "cdoptiontable" and is_generic_two_col then
+      -- Keep centered option table clean (avoid showing "Option / Meaning" header).
+      skip_header = true
+    end
+  end
+
   local use_longtable = (
     class_name == "cdreadingvocabtable"
     or class_name == "cdanswertable"
@@ -166,6 +216,10 @@ local function render_cd_table(class_name, tbl)
     or (#body_rows >= 18 and class_name ~= "cdoptiontable")
   )
   local colspec = use_longtable and colspec_for_longtable() or colspec_for_tabularx()
+  if (not use_longtable) and force_equal_two_col then
+    -- For "Câu gốc / Câu nâng cấp" (Before & After) tables, use a 50/50 split.
+    colspec = "|Y|Y|"
+  end
 
   local out = {}
   table.insert(out, "\\begingroup")
@@ -204,30 +258,6 @@ local function render_cd_table(class_name, tbl)
     table.insert(out, "\\begin{tabularx}{\\linewidth}{" .. colspec .. "}")
   end
   table.insert(out, "\\hline")
-
-  -- Header row (first header row only).
-  local header = header_rows[1]
-  local skip_header = false
-  if header ~= nil and #header > 0 then
-    local normalized = {}
-    for _, h in ipairs(header) do
-      table.insert(normalized, (h:gsub("\\allowbreak%{%}", "")):lower())
-    end
-    local is_generic_two_col =
-      #normalized == 2
-      and ((normalized[1] == "heading" and normalized[2] == "title")
-        or (normalized[1] == "option" and (normalized[2] == "meaning" or normalized[2] == "person/choice")))
-    if class_name == "cdvocabtable" and is_generic_two_col then
-      skip_header = true
-    end
-    if class_name == "cdchoicetable" and is_generic_two_col then
-      skip_header = true
-    end
-    if class_name == "cdoptiontable" and is_generic_two_col then
-      -- Keep centered option table clean (avoid showing "Option / Meaning" header).
-      skip_header = true
-    end
-  end
 
   local function header_row()
     local cells = {}
