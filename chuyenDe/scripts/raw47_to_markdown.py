@@ -60,6 +60,8 @@ def _format_kv_line(line: str) -> str | None:
 def _writing_heading_level(s: str) -> int | None:
     if s.lower().startswith("phần "):
         return 2
+    if re.match(r"^(i{1,3}|iv|v|vi{0,3}|ix|x)\.\s+", s, flags=re.IGNORECASE):
+        return 2
     if re.match(r"^\d+\.\s+", s) or ("Bước" in s) or ("Step" in s):
         return 3
     if re.match(r"^[A-Z]\.\s+", s):
@@ -175,17 +177,167 @@ def _render_before_after_block(body: list[Paragraph], *, start_index: int) -> tu
         right = row_lines[j + 1] if j + 1 < len(row_lines) else ""
         rows.append((left, right))
 
-    out.append(f"| {left_header} | {right_header} |")
+    out.append("::: cdvocabtable")
+    out.append(f"| {_escape_table_cell(left_header)} | {_escape_table_cell(right_header)} |")
     out.append("| --- | --- |")
     for left, right in rows:
-        out.append(f"| {left} | {right} |")
+        out.append(f"| {_escape_table_cell(left)} | {_escape_table_cell(right)} |")
+    out.append(":::")
     out.append("")
     return out, i
+
+
+VOCAB_CONTEXT_RE = re.compile(r"(từ vựng|cụm từ|language focus|công cụ ngôn ngữ)", re.IGNORECASE)
+VOCAB_HDR_TERM_RE = re.compile(r"^(từ.*cụm\s*từ|từ\s*/?\s*cụm\s*từ|từ\s*vựng\s*/\s*cụm\s*từ)", re.IGNORECASE)
+VOCAB_HDR_MEANING_RE = re.compile(r"^nghĩa", re.IGNORECASE)
+VOCAB_HDR_EXAMPLE_RE = re.compile(r"^(ví\s*dụ|example)", re.IGNORECASE)
+VOCAB_HDR_BASIC_RE = re.compile(r"^từ\s*cơ\s*bản", re.IGNORECASE)
+VOCAB_HDR_ADV_RE = re.compile(r"^từ\s*nâng\s*cao", re.IGNORECASE)
+
+
+def _escape_table_cell(s: str) -> str:
+    # Keep table structure safe for Markdown.
+    return _normalize_text(s).replace("|", r"\|")
+
+
+def _render_vocab_table(headers: list[str], rows: list[list[str]]) -> list[str]:
+    out: list[str] = []
+    out.append("::: cdvocabtable")
+    out.append("| " + " | ".join(_escape_table_cell(h) for h in headers) + " |")
+    out.append("| " + " | ".join(["---"] * len(headers)) + " |")
+    for row in rows:
+        out.append("| " + " | ".join(_escape_table_cell(c) for c in row) + " |")
+    out.append(":::")
+    out.append("")
+    return out
+
+
+def _try_render_vocab_table_plain(paragraphs: list[Paragraph], *, start_index: int, mode: str) -> tuple[list[str], int] | None:
+    if mode != "writing":
+        return None
+
+    def is_break(p: Paragraph) -> bool:
+        if p.list_level is not None:
+            return True
+        s = _normalize_text(p.text)
+        if not s:
+            return True
+        if _is_note_line(s, mode=mode):
+            return True
+        if _writing_heading_level(s) is not None:
+            return True
+        return False
+
+    # Need consecutive non-list, non-heading header lines.
+    if start_index + 2 >= len(paragraphs):
+        return None
+    if paragraphs[start_index].list_level is not None:
+        return None
+
+    h1 = _normalize_text(paragraphs[start_index].text)
+    h2 = _normalize_text(paragraphs[start_index + 1].text)
+    h3 = _normalize_text(paragraphs[start_index + 2].text)
+
+    # 4-column vocab table (we will render as 3 columns to avoid overflow).
+    if start_index + 3 < len(paragraphs):
+        h4 = _normalize_text(paragraphs[start_index + 3].text)
+        if (
+            VOCAB_HDR_BASIC_RE.match(h1)
+            and VOCAB_HDR_ADV_RE.match(h2)
+            and VOCAB_HDR_MEANING_RE.match(h3)
+            and VOCAB_HDR_EXAMPLE_RE.match(h4)
+        ):
+            i = start_index + 4
+            cells: list[str] = []
+            while i < len(paragraphs) and not is_break(paragraphs[i]):
+                cells.append(_normalize_text(paragraphs[i].text))
+                i += 1
+            rows: list[list[str]] = []
+            for j in range(0, len(cells), 4):
+                if j + 3 >= len(cells):
+                    break
+                basic, adv, meaning, example = cells[j : j + 4]
+                note = f"Nghĩa: {meaning}<br>Ví dụ: {example}"
+                rows.append([basic, adv, note])
+            return _render_vocab_table([h1, h2, "Nghĩa + Ví dụ"], rows), i
+
+    # 3-column vocab table.
+    if VOCAB_HDR_TERM_RE.match(h1) and VOCAB_HDR_MEANING_RE.match(h2) and VOCAB_HDR_EXAMPLE_RE.match(h3):
+        i = start_index + 3
+        cells: list[str] = []
+        while i < len(paragraphs) and not is_break(paragraphs[i]):
+            cells.append(_normalize_text(paragraphs[i].text))
+            i += 1
+        rows: list[list[str]] = []
+        for j in range(0, len(cells), 3):
+            if j + 2 >= len(cells):
+                break
+            rows.append(cells[j : j + 3])
+        return _render_vocab_table([h1, h2, h3], rows), i
+
+    return None
+
+
+def _try_render_vocab_table_list(paragraphs: list[Paragraph], *, start_index: int, mode: str) -> tuple[list[str], int] | None:
+    if mode != "writing":
+        return None
+    p0 = paragraphs[start_index]
+    if p0.list_level is None or int(p0.list_level or 0) != 0:
+        return None
+    if (p0.list_fmt or "").lower() == "decimal":
+        return None
+
+    # Term definition should look like "Term (pos): meaning".
+    first = _normalize_text(p0.text)
+    if ":" not in first:
+        return None
+    key, val = first.split(":", 1)
+    if not key.strip():
+        return None
+
+    i = start_index
+    rows: list[list[str]] = []
+    while i < len(paragraphs):
+        p = paragraphs[i]
+        if p.list_level is None:
+            break
+        lvl = int(p.list_level or 0)
+        if lvl != 0:
+            break
+
+        term_line = _normalize_text(p.text)
+        if ":" in term_line:
+            term, meaning = term_line.split(":", 1)
+        else:
+            term, meaning = term_line, ""
+
+        examples: list[str] = []
+        extra_meaning: list[str] = []
+        j = i + 1
+        while j < len(paragraphs) and paragraphs[j].list_level is not None and int(paragraphs[j].list_level or 0) > 0:
+            sub = _normalize_text(paragraphs[j].text)
+            if re.match(r"^(ví\s*dụ|example)\s*:", sub, flags=re.IGNORECASE):
+                examples.append(re.sub(r"^(ví\s*dụ|example)\s*:\s*", "", sub, flags=re.IGNORECASE))
+            elif re.match(r"^nghĩa\s*là\s*:", sub, flags=re.IGNORECASE):
+                extra_meaning.append(re.sub(r"^nghĩa\s*là\s*:\s*", "", sub, flags=re.IGNORECASE))
+            j += 1
+
+        meaning_out = _normalize_text(meaning)
+        if extra_meaning:
+            meaning_out = (meaning_out + " (" + "; ".join(extra_meaning) + ")").strip()
+        ex_out = "<br>".join(examples)
+        rows.append([term.strip(), meaning_out, ex_out])
+        i = j
+
+    if not rows:
+        return None
+    return _render_vocab_table(["Từ/Cụm từ", "Nghĩa", "Ví dụ"], rows), i
 
 
 def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str]:
     lines: list[str] = []
     in_list = False
+    vocab_active = False
 
     def close_list() -> None:
         nonlocal in_list
@@ -232,10 +384,24 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
         lvl = heading_level(s)
         if lvl is not None:
             close_list()
+            if mode == "writing":
+                if VOCAB_CONTEXT_RE.search(s):
+                    vocab_active = True
+                elif lvl == 2:
+                    vocab_active = False
             lines.append("#" * lvl + " " + s)
             lines.append("")
             i += 1
             continue
+
+        if mode == "writing":
+            plain_table = _try_render_vocab_table_plain(paragraphs, start_index=i, mode=mode)
+            if plain_table is not None:
+                close_list()
+                table_lines, next_i = plain_table
+                lines.extend(table_lines)
+                i = next_i
+                continue
 
         if _is_note_line(s, mode=mode):
             close_list()
@@ -250,6 +416,15 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
             lines.append("")
             i += 1
             continue
+
+        if mode == "writing" and vocab_active:
+            list_table = _try_render_vocab_table_list(paragraphs, start_index=i, mode=mode)
+            if list_table is not None:
+                close_list()
+                table_lines, next_i = list_table
+                lines.extend(table_lines)
+                i = next_i
+                continue
 
         in_list = True
         list_level = max(0, int(p.list_level or 0))

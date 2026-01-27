@@ -23,6 +23,10 @@ local BLOCK_STYLE = {
   cdnote = "CD Note",
 }
 
+local TABLE_STYLE = {
+  cdvocabtable = "CDVocabTable",
+}
+
 local function set_custom_style(attr, style_name)
   if attr == nil then
     attr = pandoc.Attr("", {}, {})
@@ -96,6 +100,23 @@ function Div(el)
   if el.attr and el.attr.classes then
     classes = el.attr.classes
   end
+
+  for _, class_name in ipairs(classes) do
+    local table_style_name = TABLE_STYLE[class_name]
+    if table_style_name then
+      local out = {}
+      for _, blk in ipairs(el.content) do
+        if blk.t == "Table" then
+          local attr = set_custom_style(blk.attr, table_style_name)
+          table.insert(out, pandoc.Table(blk.caption, blk.colspecs, blk.head, blk.bodies, blk.foot, attr))
+        else
+          table.insert(out, blk)
+        end
+      end
+      return out
+    end
+  end
+
   for _, class_name in ipairs(classes) do
     local style_name = BLOCK_STYLE[class_name]
     if style_name then

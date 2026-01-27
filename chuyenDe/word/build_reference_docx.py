@@ -296,6 +296,38 @@ def _styles_xml() -> str:
       <w:sz w:val="24"/>
     </w:rPr>
   </w:style>
+
+  <w:style w:type="table" w:styleId="CDVocabTable">
+    <w:name w:val="CDVocabTable"/>
+    <w:basedOn w:val="TableNormal"/>
+    <w:tblPr>
+      <w:tblW w:w="5000" w:type="pct"/>
+      <w:tblBorders>
+        <w:top w:val="single" w:sz="10" w:space="0" w:color="BFBFBF"/>
+        <w:left w:val="single" w:sz="10" w:space="0" w:color="BFBFBF"/>
+        <w:bottom w:val="single" w:sz="10" w:space="0" w:color="BFBFBF"/>
+        <w:right w:val="single" w:sz="10" w:space="0" w:color="BFBFBF"/>
+        <w:insideH w:val="single" w:sz="8" w:space="0" w:color="D0D0D0"/>
+        <w:insideV w:val="single" w:sz="8" w:space="0" w:color="D0D0D0"/>
+      </w:tblBorders>
+      <w:tblCellMar>
+        <w:top w:w="80" w:type="dxa"/>
+        <w:left w:w="120" w:type="dxa"/>
+        <w:bottom w:w="80" w:type="dxa"/>
+        <w:right w:w="120" w:type="dxa"/>
+      </w:tblCellMar>
+    </w:tblPr>
+    <w:tblStylePr w:type="firstRow">
+      <w:tcPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="{topicblue}"/>
+      </w:tcPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
+        <w:b/>
+        <w:color w:val="FFFFFF"/>
+      </w:rPr>
+    </w:tblStylePr>
+  </w:style>
 </w:styles>
 """
 
