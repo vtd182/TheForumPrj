@@ -16,6 +16,7 @@ out_root="${repo_root}/chuyenDe/RW/docx/raw47"
 converter="${repo_root}/chuyenDe/word/pandoc/md_to_docx.sh"
 ref_w="${repo_root}/chuyenDe/word/reference-writing.docx"
 ref_r="${repo_root}/chuyenDe/word/reference-reading.docx"
+postprocess="${repo_root}/chuyenDe/scripts/postprocess_docx_tables.py"
 
 rm -rf "${out_root}"
 mkdir -p "${out_root}"
@@ -37,6 +38,6 @@ while IFS= read -r -d '' md; do
   else
     bash "${converter}" "${md}" "${out}" "${ref_r}"
   fi
+  python3 "${postprocess}" "${out}"
   echo "${out#${repo_root}/}"
 done < <(find "${md_root}" -type f -name '*.md' -print0)
-

@@ -302,6 +302,7 @@ def _styles_xml() -> str:
     <w:basedOn w:val="TableNormal"/>
     <w:tblPr>
       <w:tblW w:w="5000" w:type="pct"/>
+      <w:tblLayout w:type="autofit"/>
       <w:tblBorders>
         <w:top w:val="single" w:sz="10" w:space="0" w:color="BFBFBF"/>
         <w:left w:val="single" w:sz="10" w:space="0" w:color="BFBFBF"/>

@@ -99,6 +99,13 @@ def _format_inline_paragraph(s: str, *, mode: str) -> str:
     if kv is not None:
         return kv
 
+    # Make Vietnamese translations italic to distinguish from English samples.
+    if mode == "writing":
+        if s.lower().startswith("(bản dịch"):
+            return f"*{s}*"
+        if s.startswith("(") and s.endswith(")") and re.search(r"[À-ỹ]", s):
+            return f"*{s}*"
+
     if mode == "writing" and s.endswith(":") and len(s) <= 50:
         head = _normalize_text(s[:-1])
         return f"**{_md_span(head, 'cdblue')}:**"
@@ -320,6 +327,8 @@ def _try_render_vocab_table_list(paragraphs: list[Paragraph], *, start_index: in
                 examples.append(re.sub(r"^(ví\s*dụ|example)\s*:\s*", "", sub, flags=re.IGNORECASE))
             elif re.match(r"^nghĩa\s*là\s*:", sub, flags=re.IGNORECASE):
                 extra_meaning.append(re.sub(r"^nghĩa\s*là\s*:\s*", "", sub, flags=re.IGNORECASE))
+            elif sub.startswith("(") and sub.endswith(")") and re.search(r"[À-ỹ]", sub):
+                examples.append(sub)
             j += 1
 
         meaning_out = _normalize_text(meaning)

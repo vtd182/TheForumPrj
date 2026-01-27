@@ -108,7 +108,17 @@ function Div(el)
       for _, blk in ipairs(el.content) do
         if blk.t == "Table" then
           local attr = set_custom_style(blk.attr, table_style_name)
-          table.insert(out, pandoc.Table(blk.caption, blk.colspecs, blk.head, blk.bodies, blk.foot, attr))
+          local ncols = #blk.colspecs
+          local colspecs = blk.colspecs
+          if ncols > 0 then
+            colspecs = {}
+            local w = 1.0 / ncols
+            for i = 1, ncols do
+              local align = blk.colspecs[i][1]
+              colspecs[i] = { align, w }
+            end
+          end
+          table.insert(out, pandoc.Table(blk.caption, colspecs, blk.head, blk.bodies, blk.foot, attr))
         else
           table.insert(out, blk)
         end
