@@ -25,17 +25,27 @@ local BLOCK_STYLE = {
 
 local TABLE_STYLE = {
   cdvocabtable = "CDVocabTable",
+  cdoptiontable = "CDOptionTable",
 }
 
 local function set_custom_style(attr, style_name)
-  if attr == nil then
-    attr = pandoc.Attr("", {}, {})
+  -- Pandoc >= 3 treats elements as immutable; build a new Attr.
+  local id = ""
+  local classes = {}
+  local attributes = {}
+
+  if attr ~= nil then
+    id = attr.identifier or ""
+    classes = attr.classes or {}
+    if attr.attributes ~= nil then
+      for k, v in pairs(attr.attributes) do
+        attributes[k] = v
+      end
+    end
   end
-  if attr.attributes == nil then
-    attr.attributes = {}
-  end
-  attr.attributes["custom-style"] = style_name
-  return attr
+
+  attributes["custom-style"] = style_name
+  return pandoc.Attr(id, classes, attributes)
 end
 
 local function has_class(attr, class_name)
@@ -68,31 +78,26 @@ local function div_to_single_para(div, style_name)
     end
   end
 
-  local para = pandoc.Para(inlines)
-  para.attr = set_custom_style(para.attr, style_name)
-  return para
+  local attr = set_custom_style(pandoc.Attr("", {}, {}), style_name)
+  return pandoc.Para(inlines, attr)
 end
 
 function Header(el)
   if el.level == 2 then
-    el.attr = set_custom_style(el.attr, "CD Section")
-    return el
+    return pandoc.Header(el.level, el.content, set_custom_style(el.attr, "CD Section"))
   end
   if el.level == 3 then
-    el.attr = set_custom_style(el.attr, "CD Step")
-    return el
+    return pandoc.Header(el.level, el.content, set_custom_style(el.attr, "CD Step"))
   end
   if el.level == 4 then
-    el.attr = set_custom_style(el.attr, "CD Green Heading")
-    return el
+    return pandoc.Header(el.level, el.content, set_custom_style(el.attr, "CD Green Heading"))
   end
   return el
 end
 
 function BlockQuote(el)
   -- Treat blockquotes as notes by wrapping in a styled Div.
-  local attr = set_custom_style(pandoc.Attr("", {}, {}), "CD Note")
-  return pandoc.Div(el.content, attr)
+  return pandoc.Div(el.content, set_custom_style(pandoc.Attr("", {}, {}), "CD Note"))
 end
 
 function Div(el)
@@ -128,10 +133,16 @@ function Div(el)
   end
 
   for _, class_name in ipairs(classes) do
+    if class_name == "cdquestions" then
+      -- Apply paragraph style to all paragraphs inside this Div.
+      return pandoc.Div(el.content, set_custom_style(el.attr, "CDQuestion"))
+    end
+  end
+
+  for _, class_name in ipairs(classes) do
     local style_name = BLOCK_STYLE[class_name]
     if style_name then
-      el.attr = set_custom_style(el.attr, style_name)
-      return el
+      return pandoc.Div(el.content, set_custom_style(el.attr, style_name))
     end
   end
   return el
@@ -145,8 +156,7 @@ function Span(el)
   for _, class_name in ipairs(classes) do
     local style_name = SPAN_STYLE[class_name]
     if style_name then
-      el.attr = set_custom_style(el.attr, style_name)
-      return el
+      return pandoc.Span(el.content, set_custom_style(el.attr, style_name))
     end
   end
   return el

@@ -104,12 +104,31 @@ def _theme_xml() -> str:
 """
 
 
-def _styles_xml() -> str:
+def _styles_xml(*, normal_after_twips: int, tight: bool) -> str:
     # Colors are taken from `chuyenDe/common/workshop-base.tex`.
     forumred = "E52B20"
     topicblue = "1F4E79"
     cuegreen = "5AA244"
     accentpurple = "7A1FA2"
+
+    if tight:
+        h1_before, h1_after = 200, 80
+        h2_before, h2_after = 160, 80
+        collection_before, collection_after = 80, 120
+        prompt_before, prompt_after = 100, 120
+        section_before, section_after = 100, 80
+        step_before, step_after = 80, 60
+        green_before, green_after = 80, 60
+        note_before, note_after = 80, 80
+    else:
+        h1_before, h1_after = 240, 120
+        h2_before, h2_after = 200, 100
+        collection_before, collection_after = 120, 160
+        prompt_before, prompt_after = 120, 160
+        section_before, section_after = 160, 120
+        step_before, step_after = 140, 100
+        green_before, green_after = 120, 80
+        note_before, note_after = 120, 120
     return f"""<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:styles xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
   <w:docDefaults>
@@ -121,7 +140,7 @@ def _styles_xml() -> str:
     </w:rPrDefault>
     <w:pPrDefault>
       <w:pPr>
-        <w:spacing w:after="120"/>
+        <w:spacing w:after="{normal_after_twips}"/>
       </w:pPr>
     </w:pPrDefault>
   </w:docDefaults>
@@ -129,6 +148,9 @@ def _styles_xml() -> str:
   <w:style w:type="paragraph" w:default="1" w:styleId="Normal">
     <w:name w:val="Normal"/>
     <w:qFormat/>
+    <w:pPr>
+      <w:spacing w:after="{normal_after_twips}"/>
+    </w:pPr>
     <w:rPr>
       <w:rFonts w:ascii="Georgia" w:hAnsi="Georgia" w:cs="Georgia"/>
       <w:sz w:val="24"/>
@@ -140,7 +162,7 @@ def _styles_xml() -> str:
     <w:basedOn w:val="Normal"/>
     <w:uiPriority w:val="9"/>
     <w:qFormat/>
-    <w:pPr><w:spacing w:before="240" w:after="120"/></w:pPr>
+    <w:pPr><w:spacing w:before="{h1_before}" w:after="{h1_after}"/></w:pPr>
     <w:rPr>
       <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
       <w:b/>
@@ -154,7 +176,7 @@ def _styles_xml() -> str:
     <w:basedOn w:val="Normal"/>
     <w:uiPriority w:val="9"/>
     <w:qFormat/>
-    <w:pPr><w:spacing w:before="200" w:after="100"/></w:pPr>
+    <w:pPr><w:spacing w:before="{h2_before}" w:after="{h2_after}"/></w:pPr>
     <w:rPr>
       <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
       <w:b/>
@@ -169,7 +191,7 @@ def _styles_xml() -> str:
     <w:qFormat/>
     <w:pPr>
       <w:jc w:val="center"/>
-      <w:spacing w:before="120" w:after="160"/>
+      <w:spacing w:before="{collection_before}" w:after="{collection_after}"/>
     </w:pPr>
     <w:rPr>
       <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
@@ -201,7 +223,7 @@ def _styles_xml() -> str:
     <w:basedOn w:val="Normal"/>
     <w:qFormat/>
     <w:pPr>
-      <w:spacing w:before="120" w:after="160"/>
+      <w:spacing w:before="{prompt_before}" w:after="{prompt_after}"/>
       <w:pBdr>
         <w:top w:val="single" w:sz="8" w:space="2" w:color="{forumred}"/>
         <w:left w:val="single" w:sz="8" w:space="2" w:color="{forumred}"/>
@@ -222,7 +244,7 @@ def _styles_xml() -> str:
     <w:basedOn w:val="Normal"/>
     <w:qFormat/>
     <w:pPr>
-      <w:spacing w:before="160" w:after="120"/>
+      <w:spacing w:before="{section_before}" w:after="{section_after}"/>
       <w:pBdr>
         <w:left w:val="single" w:sz="24" w:space="2" w:color="{forumred}"/>
       </w:pBdr>
@@ -242,7 +264,7 @@ def _styles_xml() -> str:
     <w:basedOn w:val="Normal"/>
     <w:qFormat/>
     <w:pPr>
-      <w:spacing w:before="140" w:after="100"/>
+      <w:spacing w:before="{step_before}" w:after="{step_after}"/>
       <w:pBdr>
         <w:left w:val="single" w:sz="24" w:space="2" w:color="{topicblue}"/>
       </w:pBdr>
@@ -262,7 +284,7 @@ def _styles_xml() -> str:
     <w:basedOn w:val="Normal"/>
     <w:qFormat/>
     <w:pPr>
-      <w:spacing w:before="120" w:after="80"/>
+      <w:spacing w:before="{green_before}" w:after="{green_after}"/>
       <w:pBdr>
         <w:left w:val="single" w:sz="24" w:space="2" w:color="{cuegreen}"/>
       </w:pBdr>
@@ -282,12 +304,12 @@ def _styles_xml() -> str:
     <w:basedOn w:val="Normal"/>
     <w:qFormat/>
     <w:pPr>
-      <w:spacing w:before="120" w:after="120"/>
+      <w:spacing w:before="{note_before}" w:after="{note_after}" w:line="276" w:lineRule="auto"/>
       <w:pBdr>
-        <w:left w:val="single" w:sz="24" w:space="2" w:color="{accentpurple}"/>
+        <w:left w:val="single" w:sz="24" w:space="6" w:color="{accentpurple}"/>
       </w:pBdr>
       <w:shd w:val="clear" w:color="auto" w:fill="F6F0FA"/>
-      <w:ind w:left="240"/>
+      <w:ind w:left="360" w:right="240"/>
     </w:pPr>
     <w:rPr>
       <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
@@ -297,11 +319,24 @@ def _styles_xml() -> str:
     </w:rPr>
   </w:style>
 
+  <w:style w:type="paragraph" w:styleId="CDQuestion">
+    <w:name w:val="CDQuestion"/>
+    <w:basedOn w:val="Normal"/>
+    <w:qFormat/>
+    <w:pPr>
+      <w:spacing w:before="0" w:after="0"/>
+    </w:pPr>
+    <w:rPr>
+      <w:rFonts w:ascii="Georgia" w:hAnsi="Georgia" w:cs="Georgia"/>
+    </w:rPr>
+  </w:style>
+
   <w:style w:type="table" w:styleId="CDVocabTable">
     <w:name w:val="CDVocabTable"/>
     <w:basedOn w:val="TableNormal"/>
     <w:tblPr>
       <w:tblW w:w="5000" w:type="pct"/>
+      <w:tblInd w:w="240" w:type="dxa"/>
       <w:tblLayout w:type="autofit"/>
       <w:tblBorders>
         <w:top w:val="single" w:sz="10" w:space="0" w:color="BFBFBF"/>
@@ -326,6 +361,36 @@ def _styles_xml() -> str:
         <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
         <w:b/>
         <w:color w:val="FFFFFF"/>
+      </w:rPr>
+    </w:tblStylePr>
+  </w:style>
+
+  <w:style w:type="table" w:styleId="CDOptionTable">
+    <w:name w:val="CDOptionTable"/>
+    <w:basedOn w:val="TableNormal"/>
+    <w:tblPr>
+      <w:tblW w:w="3200" w:type="pct"/>
+      <w:jc w:val="center"/>
+      <w:tblBorders>
+        <w:top w:val="single" w:sz="10" w:space="0" w:color="{topicblue}"/>
+        <w:left w:val="single" w:sz="10" w:space="0" w:color="{topicblue}"/>
+        <w:bottom w:val="single" w:sz="10" w:space="0" w:color="{topicblue}"/>
+        <w:right w:val="single" w:sz="10" w:space="0" w:color="{topicblue}"/>
+        <w:insideH w:val="single" w:sz="6" w:space="0" w:color="D0D0D0"/>
+        <w:insideV w:val="single" w:sz="6" w:space="0" w:color="D0D0D0"/>
+      </w:tblBorders>
+      <w:tblCellMar>
+        <w:top w:w="80" w:type="dxa"/>
+        <w:left w:w="120" w:type="dxa"/>
+        <w:bottom w:w="80" w:type="dxa"/>
+        <w:right w:w="120" w:type="dxa"/>
+      </w:tblCellMar>
+    </w:tblPr>
+    <w:tblStylePr w:type="firstColumn">
+      <w:rPr>
+        <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
+        <w:b/>
+        <w:color w:val="{topicblue}"/>
       </w:rPr>
     </w:tblStylePr>
   </w:style>
@@ -695,7 +760,14 @@ def _header_rels_xml() -> str:
 """
 
 
-def build_reference_docx(repo_root: Path, out_path: Path, *, doctype: str) -> None:
+def build_reference_docx(
+    repo_root: Path,
+    out_path: Path,
+    *,
+    doctype: str,
+    normal_after_twips: int,
+    tight_styles: bool,
+) -> None:
     logo_path = repo_root / "Vocab" / "wm" / "logoTF.png"
     if not logo_path.exists():
         raise SystemExit(f"Missing watermark image: {logo_path}")
@@ -710,7 +782,7 @@ def build_reference_docx(repo_root: Path, out_path: Path, *, doctype: str) -> No
 
         zf.writestr("word/document.xml", _document_xml())
         zf.writestr("word/_rels/document.xml.rels", _document_rels_xml())
-        zf.writestr("word/styles.xml", _styles_xml())
+        zf.writestr("word/styles.xml", _styles_xml(normal_after_twips=normal_after_twips, tight=tight_styles))
         zf.writestr("word/settings.xml", _settings_xml())
         zf.writestr("word/theme/theme1.xml", _theme_xml())
 
@@ -736,16 +808,22 @@ def main() -> None:
         repo_root=repo_root,
         out_path=writing,
         doctype="TÀI LIỆU CHUYÊN ĐỀ WRITING",
+        normal_after_twips=120,
+        tight_styles=False,
     )
     build_reference_docx(
         repo_root=repo_root,
         out_path=reading,
         doctype="TÀI LIỆU CHUYÊN ĐỀ READING",
+        normal_after_twips=60,
+        tight_styles=True,
     )
     build_reference_docx(
         repo_root=repo_root,
         out_path=legacy,
         doctype="TÀI LIỆU CHUYÊN ĐỀ WRITING",
+        normal_after_twips=120,
+        tight_styles=False,
     )
     print(f"Wrote {writing}")
     print(f"Wrote {reading}")

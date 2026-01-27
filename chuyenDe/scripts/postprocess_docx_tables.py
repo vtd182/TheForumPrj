@@ -32,6 +32,15 @@ def _is_vocab_table(tbl: ET.Element) -> bool:
         return False
     return _get_attr(tbl_style, "val") == "CDVocabTable"
 
+def _is_option_table(tbl: ET.Element) -> bool:
+    tbl_pr = tbl.find("./w:tblPr", NS)
+    if tbl_pr is None:
+        return False
+    tbl_style = tbl_pr.find("./w:tblStyle", NS)
+    if tbl_style is None:
+        return False
+    return _get_attr(tbl_style, "val") == "CDOptionTable"
+
 
 def _count_columns(tbl: ET.Element) -> int:
     grid = tbl.find("./w:tblGrid", NS)
@@ -58,6 +67,45 @@ def _ensure_tbl_layout_autofit(tbl: ET.Element) -> None:
         tbl_pr.append(layout)
     _set_attr(layout, "type", "autofit")
 
+def _ensure_tbl_indent(tbl: ET.Element, *, indent_twips: int) -> None:
+    tbl_pr = tbl.find("./w:tblPr", NS)
+    if tbl_pr is None:
+        return
+    ind = tbl_pr.find("./w:tblInd", NS)
+    if ind is None:
+        ind = ET.Element(_w("tblInd"))
+        tbl_pr.append(ind)
+    _set_attr(ind, "type", "dxa")
+    _set_attr(ind, "w", str(indent_twips))
+
+
+def _ensure_tbl_width_dxa(tbl: ET.Element, *, width_twips: int) -> None:
+    tbl_pr = tbl.find("./w:tblPr", NS)
+    if tbl_pr is None:
+        return
+    tblw = tbl_pr.find("./w:tblW", NS)
+    if tblw is None:
+        tblw = ET.Element(_w("tblW"))
+        tbl_pr.append(tblw)
+    _set_attr(tblw, "type", "dxa")
+    _set_attr(tblw, "w", str(width_twips))
+
+
+def _ensure_tbl_centered(tbl: ET.Element) -> None:
+    tbl_pr = tbl.find("./w:tblPr", NS)
+    if tbl_pr is None:
+        return
+    jc = tbl_pr.find("./w:jc", NS)
+    if jc is None:
+        jc = ET.Element(_w("jc"))
+        tbl_pr.append(jc)
+    _set_attr(jc, "val", "center")
+
+    # Ensure no indentation forces left alignment.
+    ind = tbl_pr.find("./w:tblInd", NS)
+    if ind is not None:
+        tbl_pr.remove(ind)
+
 
 def _set_grid_widths(tbl: ET.Element, *, content_width_twips: int) -> None:
     grid = tbl.find("./w:tblGrid", NS)
@@ -80,11 +128,18 @@ def _postprocess_document_xml(xml_bytes: bytes) -> bytes:
     # Letter page width 12240 twips; margins left/right 1134 twips (2cm) in our template.
     content_width_twips = 12240 - 1134 - 1134
 
+    indent_twips = 240  # ~2 small spaces visually
+
     for tbl in root.findall(".//w:tbl", NS):
-        if not _is_vocab_table(tbl):
+        if _is_vocab_table(tbl):
+            _ensure_tbl_layout_autofit(tbl)
+            _ensure_tbl_indent(tbl, indent_twips=indent_twips)
+            usable_width = content_width_twips - indent_twips
+            _ensure_tbl_width_dxa(tbl, width_twips=usable_width)
+            _set_grid_widths(tbl, content_width_twips=usable_width)
             continue
-        _ensure_tbl_layout_autofit(tbl)
-        _set_grid_widths(tbl, content_width_twips=content_width_twips)
+        if _is_option_table(tbl):
+            _ensure_tbl_centered(tbl)
 
     return ET.tostring(root, encoding="utf-8", xml_declaration=True)
 
@@ -129,4 +184,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

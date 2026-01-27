@@ -201,6 +201,15 @@ VOCAB_HDR_EXAMPLE_RE = re.compile(r"^(ví\s*dụ|example)", re.IGNORECASE)
 VOCAB_HDR_BASIC_RE = re.compile(r"^từ\s*cơ\s*bản", re.IGNORECASE)
 VOCAB_HDR_ADV_RE = re.compile(r"^từ\s*nâng\s*cao", re.IGNORECASE)
 
+READING_ROMAN_HEADING_RE = re.compile(
+    r"^\(?\s*(?P<roman>i{1,3}|iv|v|vi{0,3}|ix|x|xi)\s*\)?[).]?\s+(?P<rest>.+)$",
+    re.IGNORECASE,
+)
+READING_Q_NUM_RE = re.compile(r"^\((?P<num>\d{1,3})\)\s*(?P<rest>.+)$")
+READING_Q_NUM2_RE = re.compile(r"^(?P<num>\d{1,3})[).]\s*(?P<rest>.+)$")
+READING_Q_NUM3_RE = re.compile(r"^(?P<num>\d{1,3})\s+(?P<rest>.+)$")
+READING_SUBQ_RE = re.compile(r"^\(?\s*(?P<sub>[a-h])\s*\)?[).]\s*(?P<rest>.+)$", re.IGNORECASE)
+
 
 def _escape_table_cell(s: str) -> str:
     # Keep table structure safe for Markdown.
@@ -347,12 +356,109 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
     lines: list[str] = []
     in_list = False
     vocab_active = False
+    reading_questions_active = False
+    reading_glossary_active = False
+    reading_example_active = False
+    reading_q_phase: str | None = None  # "options" | "questions"
+    reading_tfng_rows: list[tuple[str, str]] = []
+    reading_choice_rows: list[tuple[str, str]] = []
+    reading_heading_rows: list[tuple[str, str]] = []
+    reading_questions_div_open = False
+
+    def emit(line: str) -> None:
+        # Avoid accumulating multiple blank lines (keeps Word output tighter).
+        if line == "":
+            if lines and lines[-1] == "":
+                return
+        lines.append(line)
+
+    def flush_choice_table() -> None:
+        nonlocal reading_choice_rows
+        if mode != "reading":
+            reading_choice_rows = []
+            return
+        if not reading_choice_rows:
+            return
+        if lines and lines[-1] != "":
+            emit("")
+        emit("::: cdoptiontable")
+        emit("| **Option** | **Person/Choice** |")
+        emit("| --- | --- |")
+        for opt, meaning in reading_choice_rows:
+            emit(f"| **{_escape_table_cell(opt)}** | {_escape_table_cell(meaning)} |")
+        emit(":::")
+        emit("")
+        reading_choice_rows = []
+
+    def flush_heading_table() -> None:
+        nonlocal reading_heading_rows
+        if mode != "reading":
+            reading_heading_rows = []
+            return
+        if not reading_heading_rows:
+            return
+        if lines and lines[-1] != "":
+            emit("")
+        emit("::: cdvocabtable")
+        emit("| Heading | Title |")
+        emit("| --- | --- |")
+        for roman, title in reading_heading_rows:
+            emit(f"| **{_escape_table_cell(roman.lower())}** | {_escape_table_cell(title)} |")
+        emit(":::")
+        emit("")
+        reading_heading_rows = []
+
+    def flush_tfng_table() -> None:
+        nonlocal reading_tfng_rows
+        if mode != "reading":
+            reading_tfng_rows = []
+            return
+        if not reading_tfng_rows:
+            return
+        if lines and lines[-1] != "":
+            emit("")
+        emit("::: cdoptiontable")
+        emit("| Option | Meaning |")
+        emit("| --- | --- |")
+        for opt, meaning in reading_tfng_rows:
+            emit(f"| **{_escape_table_cell(opt)}** | {_escape_table_cell(meaning)} |")
+        emit(":::")
+        emit("")
+        reading_tfng_rows = []
+
+    def open_questions_div() -> None:
+        nonlocal reading_questions_div_open
+        if not reading_questions_div_open:
+            emit("::: cdquestions")
+            reading_questions_div_open = True
+
+    def close_questions_div() -> None:
+        nonlocal reading_questions_div_open
+        if reading_questions_div_open:
+            emit(":::")
+            emit("")
+            reading_questions_div_open = False
 
     def close_list() -> None:
         nonlocal in_list
-        if in_list and (not lines or lines[-1] != ""):
-            lines.append("")
+        if in_list:
+            emit("")
         in_list = False
+        if mode == "reading":
+            nonlocal reading_q_phase
+            reading_q_phase = None
+
+    def _parse_reading_question_line(text: str) -> tuple[str, str] | None:
+        m = READING_Q_NUM_RE.match(text)
+        if m:
+            return m.group("num"), _normalize_text(m.group("rest"))
+        m = READING_Q_NUM2_RE.match(text)
+        if m:
+            return m.group("num"), _normalize_text(m.group("rest"))
+        m = READING_Q_NUM3_RE.match(text)
+        if m:
+            return m.group("num"), _normalize_text(m.group("rest"))
+        return None
 
     def heading_level(s: str) -> int | None:
         if mode == "writing":
@@ -367,62 +473,207 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
             i += 1
             continue
 
-        if mode == "reading" and p.list_level is None:
-            m_roman = re.match(r"^(?P<roman>i{1,3}|iv|v|vi{0,3}|ix|x|xi)\s+(?P<rest>.+)$", s, flags=re.IGNORECASE)
+        if mode == "reading" and p.list_level is None and reading_questions_active:
+            m_roman = READING_ROMAN_HEADING_RE.match(s)
             if m_roman:
-                in_list = True
-                lines.append(f"- {_format_inline_paragraph(s, mode=mode)}")
-                i += 1
-                continue
-            m_ans = re.match(r"^(?P<num>\d{1,3})\s+(?P<rest>Paragraph\s+[A-H].*)$", s, flags=re.IGNORECASE)
-            if m_ans:
-                in_list = True
-                num = _normalize_text(m_ans.group("num"))
-                rest = _normalize_text(m_ans.group("rest"))
-                lines.append(f"- **{num}.** {rest}")
+                # Prefer a compact table over nested lists for heading options.
+                flush_choice_table()
+                flush_tfng_table()
+                close_questions_div()
+                close_list()
+                reading_heading_rows.append((_normalize_text(m_roman.group("roman")), _normalize_text(m_roman.group("rest"))))
                 i += 1
                 continue
 
         if mode == "writing" and BEFORE_AFTER_RE.search(s):
             close_list()
             block_lines, next_i = _render_before_after_block(paragraphs, start_index=i)
-            lines.extend(block_lines)
+            for ln in block_lines:
+                emit(ln)
             i = next_i
             continue
 
         lvl = heading_level(s)
         if lvl is not None:
-            close_list()
+            if mode == "reading":
+                close_questions_div()
+                close_list()
+                flush_choice_table()
+                flush_heading_table()
+                flush_tfng_table()
+            else:
+                close_list()
             if mode == "writing":
                 if VOCAB_CONTEXT_RE.search(s):
                     vocab_active = True
                 elif lvl == 2:
                     vocab_active = False
-            lines.append("#" * lvl + " " + s)
-            lines.append("")
+            if mode == "reading":
+                reading_glossary_active = s.lower().startswith("glossary")
+                reading_questions_active = s.lower().startswith("questions")
+                reading_example_active = False
+                reading_q_phase = None
+            emit("#" * lvl + " " + s)
+            emit("")
             i += 1
             continue
+
+        if mode == "reading":
+            # Make glossary compact: turn "term: meaning" into bullets.
+            if reading_glossary_active:
+                m_gl = re.match(r"^(?P<term>[^:]{1,40}):\s*(?P<def>.+)$", s)
+                if m_gl:
+                    in_list = True
+                    term = _normalize_text(m_gl.group("term"))
+                    definition = _normalize_text(m_gl.group("def"))
+                    emit(f"- **{term}:** {definition}")
+                    i += 1
+                    continue
+
+            # Example answers: compact list.
+            if s.lower() == "example answer":
+                close_list()
+                reading_example_active = True
+                emit("### Example Answer")
+                emit("")
+                i += 1
+                continue
+            if reading_example_active:
+                m_pa = re.match(r"^Paragraph\s+(?P<p>[A-H])\s+(?P<ans>.+)$", s, flags=re.IGNORECASE)
+                if m_pa:
+                    in_list = True
+                    emit(f"- **Paragraph {m_pa.group('p').upper()}:** {_normalize_text(m_pa.group('ans'))}")
+                    i += 1
+                    continue
+                reading_example_active = False
+
+            # Compact question blocks: options and numbered questions into lists.
+            if reading_questions_active:
+                # Instruction stems: keep separate and visually distinct from questions.
+                if re.match(r"^(do the following|in boxes?|in box)\b", s, flags=re.IGNORECASE):
+                    flush_choice_table()
+                    flush_heading_table()
+                    flush_tfng_table()
+                    close_questions_div()
+                    close_list()
+                    emit("> " + s)
+                    emit("")
+                    i += 1
+                    continue
+                if s.startswith("NB "):
+                    flush_choice_table()
+                    flush_heading_table()
+                    flush_tfng_table()
+                    close_questions_div()
+                    close_list()
+                    emit("> " + s)
+                    emit("")
+                    i += 1
+                    continue
+                m_tfng = re.match(r"^(TRUE|FALSE|NOT GIVEN)\b(.*)$", s, flags=re.IGNORECASE)
+                if m_tfng:
+                    flush_choice_table()
+                    flush_heading_table()
+                    close_questions_div()
+                    # Collect into a centered option table.
+                    if reading_q_phase not in {None, "options"}:
+                        close_list()
+                    reading_q_phase = "options"
+                    label = m_tfng.group(1).upper()
+                    rest = _normalize_text(m_tfng.group(2)).lstrip()
+                    if rest.lower().startswith("if "):
+                        rest = rest[3:].strip()
+                    if rest:
+                        reading_tfng_rows.append((label, rest))
+                    else:
+                        reading_tfng_rows.append((label, ""))
+                    i += 1
+                    continue
+                m_opt = re.match(r"^([A-F])\s+(.+)$", s, flags=re.IGNORECASE)
+                if m_opt:
+                    flush_heading_table()
+                    flush_tfng_table()
+                    close_questions_div()
+                    if reading_q_phase not in {None, "options"}:
+                        close_list()
+                    reading_q_phase = "options"
+                    reading_choice_rows.append((m_opt.group(1).upper(), _normalize_text(m_opt.group(2))))
+                    i += 1
+                    continue
+                m_roman = READING_ROMAN_HEADING_RE.match(s)
+                if m_roman:
+                    flush_choice_table()
+                    flush_tfng_table()
+                    close_questions_div()
+                    close_list()
+                    reading_heading_rows.append((_normalize_text(m_roman.group("roman")), _normalize_text(m_roman.group("rest"))))
+                    i += 1
+                    continue
+                m_sub = READING_SUBQ_RE.match(s)
+                if m_sub:
+                    flush_choice_table()
+                    flush_heading_table()
+                    flush_tfng_table()
+                    if reading_q_phase not in {None, "questions"}:
+                        close_list()
+                    reading_q_phase = "questions"
+                    open_questions_div()
+                    sub = m_sub.group("sub").lower()
+                    rest = _normalize_text(m_sub.group("rest"))
+                    emit(f"**{sub}.** {rest}  ")
+                    i += 1
+                    continue
+                qn = _parse_reading_question_line(s)
+                if qn:
+                    flush_choice_table()
+                    flush_heading_table()
+                    flush_tfng_table()
+                    if reading_q_phase not in {None, "questions"}:
+                        close_list()
+                    reading_q_phase = "questions"
+                    num, rest = qn
+                    open_questions_div()
+                    # Use hard line breaks inside a compact paragraph style.
+                    emit(f"**{num}.** {rest}  ")
+                    i += 1
+                    continue
 
         if mode == "writing":
             plain_table = _try_render_vocab_table_plain(paragraphs, start_index=i, mode=mode)
             if plain_table is not None:
                 close_list()
                 table_lines, next_i = plain_table
-                lines.extend(table_lines)
+                for ln in table_lines:
+                    emit(ln)
                 i = next_i
                 continue
 
         if _is_note_line(s, mode=mode):
+            if mode == "reading":
+                close_questions_div()
+                close_list()
+                flush_choice_table()
+                flush_heading_table()
+                flush_tfng_table()
             close_list()
-            lines.append("> " + s)
-            lines.append("")
+            emit("> " + s)
+            emit("")
             i += 1
             continue
 
         if p.list_level is None:
-            close_list()
-            lines.append(_format_inline_paragraph(s, mode=mode))
-            lines.append("")
+            if mode == "reading" and reading_questions_active:
+                # If we have any pending TFNG options, flush before continuing.
+                # If we were in a compact question block, close it before normal text.
+                close_questions_div()
+                close_list()
+                flush_choice_table()
+                flush_heading_table()
+                flush_tfng_table()
+            else:
+                close_list()
+            emit(_format_inline_paragraph(s, mode=mode))
+            emit("")
             i += 1
             continue
 
@@ -431,7 +682,8 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
             if list_table is not None:
                 close_list()
                 table_lines, next_i = list_table
-                lines.extend(table_lines)
+                for ln in table_lines:
+                    emit(ln)
                 i = next_i
                 continue
 
@@ -439,10 +691,15 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
         list_level = max(0, int(p.list_level or 0))
         bullet = "-" if (p.list_fmt or "").lower() != "decimal" else "1."
         indent = " " * (4 * list_level)
-        lines.append(f"{indent}{bullet} {_format_inline_paragraph(s, mode=mode)}")
+        emit(f"{indent}{bullet} {_format_inline_paragraph(s, mode=mode)}")
         i += 1
 
     close_list()
+    if mode == "reading":
+        flush_choice_table()
+        flush_heading_table()
+        flush_tfng_table()
+        close_questions_div()
     while lines and lines[-1] == "":
         lines.pop()
     return lines
