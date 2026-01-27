@@ -383,10 +383,11 @@ def _watermark_shape_xml() -> str:
       <v:shape id="WatermarkLogo" o:spid="_x0000_s2049" type="#_x0000_t75"
                style="position:absolute;margin-left:0;margin-top:0;width:450pt;height:450pt;z-index:-251654144;
                       mso-position-horizontal:center;mso-position-horizontal-relative:page;
-                      mso-position-vertical:center;mso-position-vertical-relative:page"
+                      mso-position-vertical:center;mso-position-vertical-relative:page;
+                      opacity:.03"
                o:allowincell="f" stroked="f">
-        <v:fill opacity="0.08"/>
-        <v:imagedata r:id="rId1" o:title="logoTF"/>
+        <v:fill opacity=".03" o:opacity2=".03"/>
+        <v:imagedata r:id="rId1" o:title="logoTF" gain="19661f" blacklevel="22938f"/>
       </v:shape>
     </w:pict>
   </w:r>

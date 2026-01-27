@@ -18,17 +18,17 @@ on run argv
       set docxPath to item i of argv
       set pdfPath to item (i + 1) of argv
 
-      set docxFile to POSIX file docxPath
+      set docxFile to (POSIX file docxPath) as alias
       set pdfFile to POSIX file pdfPath
+      set pdfHFS to pdfFile as text
 
       open docxFile
       set docRef to active document
 
       -- Word uses fixed-format export via "save as" with PDF file format.
-      save as docRef file name pdfFile file format format PDF
+      save as docRef file name pdfHFS file format format PDF
       close docRef saving no
     end repeat
     quit
   end tell
 end run
-
