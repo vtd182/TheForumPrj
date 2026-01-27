@@ -554,6 +554,40 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
                 i = next_i
                 continue
 
+        if mode == "reading" and p.list_level is not None:
+            # Avoid "double bullets" like "• (i) ..." by turning roman sub-bullets into a single table.
+            m_roman_list = READING_ROMAN_HEADING_RE.match(s)
+            if m_roman_list:
+                roman_rows: list[tuple[str, str]] = []
+                j = i
+                base_level = int(p.list_level or 0)
+                while j < len(paragraphs):
+                    pj = paragraphs[j]
+                    if pj.list_level is None or int(pj.list_level or 0) != base_level:
+                        break
+                    tj = _normalize_text(pj.text)
+                    mj = READING_ROMAN_HEADING_RE.match(tj)
+                    if not mj:
+                        break
+                    roman_rows.append((_normalize_text(mj.group("roman")).lower(), _normalize_text(mj.group("rest"))))
+                    j += 1
+
+                if roman_rows:
+                    flush_choice_table()
+                    flush_heading_table()
+                    flush_tfng_table()
+                    close_questions_div()
+                    close_list()
+                    emit("::: cdvocabtable")
+                    emit("| Heading | Title |")
+                    emit("| --- | --- |")
+                    for roman, title in roman_rows:
+                        emit(f"| **{_escape_table_cell(roman)}** | {_escape_table_cell(title)} |")
+                    emit(":::")
+                    emit("")
+                    i = j
+                    continue
+
         if mode == "reading" and p.list_level is None and reading_questions_active:
             m_roman = READING_ROMAN_HEADING_RE.match(s)
             if m_roman:
