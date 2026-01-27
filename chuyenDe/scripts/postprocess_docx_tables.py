@@ -41,6 +41,15 @@ def _is_option_table(tbl: ET.Element) -> bool:
         return False
     return _get_attr(tbl_style, "val") == "CDOptionTable"
 
+def _is_answer_table(tbl: ET.Element) -> bool:
+    tbl_pr = tbl.find("./w:tblPr", NS)
+    if tbl_pr is None:
+        return False
+    tbl_style = tbl_pr.find("./w:tblStyle", NS)
+    if tbl_style is None:
+        return False
+    return _get_attr(tbl_style, "val") == "CDAnswerTable"
+
 
 def _count_columns(tbl: ET.Element) -> int:
     grid = tbl.find("./w:tblGrid", NS)
@@ -121,6 +130,18 @@ def _set_grid_widths(tbl: ET.Element, *, content_width_twips: int) -> None:
         w = base + (remainder if i == n - 1 else 0)
         _set_attr(col, "w", str(w))
 
+def _set_grid_widths_weighted(tbl: ET.Element, *, widths: list[int]) -> None:
+    grid = tbl.find("./w:tblGrid", NS)
+    if grid is None:
+        return
+    cols = grid.findall("./w:gridCol", NS)
+    if not cols:
+        return
+    if len(cols) != len(widths):
+        return
+    for col, w_val in zip(cols, widths, strict=False):
+        _set_attr(col, "w", str(w_val))
+
 
 def _postprocess_document_xml(xml_bytes: bytes) -> bytes:
     root = ET.fromstring(xml_bytes)
@@ -137,6 +158,17 @@ def _postprocess_document_xml(xml_bytes: bytes) -> bytes:
             usable_width = content_width_twips - indent_twips
             _ensure_tbl_width_dxa(tbl, width_twips=usable_width)
             _set_grid_widths(tbl, content_width_twips=usable_width)
+            continue
+        if _is_answer_table(tbl):
+            _ensure_tbl_layout_autofit(tbl)
+            _ensure_tbl_indent(tbl, indent_twips=indent_twips)
+            usable_width = content_width_twips - indent_twips
+            _ensure_tbl_width_dxa(tbl, width_twips=usable_width)
+            # 3 columns: narrow / wide / narrow.
+            w1 = int(usable_width * 0.14)
+            w3 = int(usable_width * 0.14)
+            w2 = max(0, usable_width - w1 - w3)
+            _set_grid_widths_weighted(tbl, widths=[w1, w2, w3])
             continue
         if _is_option_table(tbl):
             _ensure_tbl_centered(tbl)

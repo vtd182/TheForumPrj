@@ -26,6 +26,7 @@ local BLOCK_STYLE = {
 local TABLE_STYLE = {
   cdvocabtable = "CDVocabTable",
   cdoptiontable = "CDOptionTable",
+  cdanswertable = "CDAnswerTable",
 }
 
 local function set_custom_style(attr, style_name)
@@ -117,10 +118,19 @@ function Div(el)
           local colspecs = blk.colspecs
           if ncols > 0 then
             colspecs = {}
-            local w = 1.0 / ncols
-            for i = 1, ncols do
-              local align = blk.colspecs[i][1]
-              colspecs[i] = { align, w }
+            if class_name == "cdanswertable" and ncols == 3 then
+              -- Make analysis column wider for readability.
+              local weights = { 0.14, 0.72, 0.14 }
+              for i = 1, ncols do
+                local align = blk.colspecs[i][1]
+                colspecs[i] = { align, weights[i] }
+              end
+            else
+              local w = 1.0 / ncols
+              for i = 1, ncols do
+                local align = blk.colspecs[i][1]
+                colspecs[i] = { align, w }
+              end
             end
           end
           table.insert(out, pandoc.Table(blk.caption, colspecs, blk.head, blk.bodies, blk.foot, attr))

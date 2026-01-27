@@ -209,6 +209,7 @@ READING_Q_NUM_RE = re.compile(r"^\((?P<num>\d{1,3})\)\s*(?P<rest>.+)$")
 READING_Q_NUM2_RE = re.compile(r"^(?P<num>\d{1,3})[).]\s*(?P<rest>.+)$")
 READING_Q_NUM3_RE = re.compile(r"^(?P<num>\d{1,3})\s+(?P<rest>.+)$")
 READING_SUBQ_RE = re.compile(r"^\(?\s*(?P<sub>[a-h])\s*\)?[).]\s*(?P<rest>.+)$", re.IGNORECASE)
+READING_ANSWER_ROW_NUM_RE = re.compile(r"^(?:câu\s*)?(?P<num>\d{1,3})\.?$", re.IGNORECASE)
 
 
 def _escape_table_cell(s: str) -> str:
@@ -460,6 +461,72 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
             return m.group("num"), _normalize_text(m.group("rest"))
         return None
 
+    def _render_answer_conclusion_table(*, start_index: int) -> tuple[list[str], int] | None:
+        """
+        Detect and render the common block:
+          Câu
+          Phân tích và Dẫn chứng
+          Đáp án
+          21
+          <analysis>
+          <answer>
+          22
+          ...
+        as a 3-column Markdown table.
+        """
+        if mode != "reading":
+            return None
+        if start_index + 2 >= len(paragraphs):
+            return None
+        h1 = _normalize_text(paragraphs[start_index].text)
+        h2 = _normalize_text(paragraphs[start_index + 1].text)
+        h3 = _normalize_text(paragraphs[start_index + 2].text)
+        if h1.lower() not in {"câu", "cau"}:
+            return None
+        if not re.search(r"phân\s*tích", h2, flags=re.IGNORECASE):
+            return None
+        if h3.lower() not in {"đáp án", "dap an"}:
+            return None
+
+        rows: list[tuple[str, str, str]] = []
+        j = start_index + 3
+        while j < len(paragraphs):
+            if paragraphs[j].list_level is not None:
+                break
+            t = _normalize_text(paragraphs[j].text)
+            if not t:
+                j += 1
+                continue
+            if heading_level(t) is not None:
+                break
+            m = READING_ANSWER_ROW_NUM_RE.match(t)
+            if not m:
+                break
+            num = m.group("num")
+            if j + 2 >= len(paragraphs):
+                break
+            analysis = _normalize_text(paragraphs[j + 1].text)
+            answer = _normalize_text(paragraphs[j + 2].text)
+            if heading_level(analysis) is not None or heading_level(answer) is not None:
+                break
+            rows.append((num, analysis, answer))
+            j += 3
+
+        if not rows:
+            return None
+
+        out: list[str] = []
+        out.append("::: cdanswertable")
+        out.append("| Câu | Phân tích và Dẫn chứng | Đáp án |")
+        out.append("| --- | --- | --- |")
+        for num, analysis, answer in rows:
+            out.append(
+                f"| **{_escape_table_cell(num)}** | {_escape_table_cell(analysis)} | **{_escape_table_cell(answer)}** |"
+            )
+        out.append(":::")
+        out.append("")
+        return out, j
+
     def heading_level(s: str) -> int | None:
         if mode == "writing":
             return _writing_heading_level(s)
@@ -472,6 +539,20 @@ def _render_markdown_body(paragraphs: list[Paragraph], *, mode: str) -> list[str
         if not s:
             i += 1
             continue
+
+        if mode == "reading" and p.list_level is None:
+            tbl = _render_answer_conclusion_table(start_index=i)
+            if tbl is not None:
+                flush_choice_table()
+                flush_heading_table()
+                flush_tfng_table()
+                close_questions_div()
+                close_list()
+                table_lines, next_i = tbl
+                for ln in table_lines:
+                    emit(ln)
+                i = next_i
+                continue
 
         if mode == "reading" and p.list_level is None and reading_questions_active:
             m_roman = READING_ROMAN_HEADING_RE.match(s)
