@@ -8,7 +8,7 @@ set -euo pipefail
 # - xelatex (TeX Live / MacTeX)
 #
 # Usage:
-#   bash chuyenDe/latex/md_to_pdf.sh input.md output.pdf [Reading|Writing]
+#   bash chuyenDe/latex/md_to_pdf.sh input.md output.pdf [Reading|Writing|Listening|Speaking]
 
 if [[ $# -lt 2 ]]; then
   echo "Usage: $0 input.md output.pdf [Reading|Writing]" >&2
@@ -70,9 +70,15 @@ PY
 )"
 
 skill="${skill_arg:-${meta_skill}}"
-if [[ "${skill}" != "Reading" && "${skill}" != "Writing" ]]; then
-  echo "Cannot infer skill. Pass Reading/Writing as arg3 or set frontmatter: skill: Reading|Writing" >&2
+if [[ "${skill}" != "Reading" && "${skill}" != "Writing" && "${skill}" != "Listening" && "${skill}" != "Speaking" ]]; then
+  echo "Cannot infer skill. Pass Reading/Writing/Listening/Speaking as arg3 or set frontmatter: skill: Reading|Writing|Listening|Speaking" >&2
   exit 1
+fi
+
+if [[ "${skill}" == "Reading" || "${skill}" == "Writing" ]]; then
+  build_dir="${chuyende_root}/RW/build-mdpdf"
+else
+  build_dir="${chuyende_root}/LS/build-mdpdf"
 fi
 
 mkdir -p "${build_dir}"
@@ -83,8 +89,12 @@ doctype="TÀI LIỆU CHUYÊN ĐỀ ${skill_upper}"
 class_rel=""
 if [[ "${skill}" == "Reading" ]]; then
   class_rel="../templateReading/cdreading"
-else
+elif [[ "${skill}" == "Writing" ]]; then
   class_rel="../templateWriting/cdwriting"
+elif [[ "${skill}" == "Listening" ]]; then
+  class_rel="../templateListening/cdlistening"
+else
+  class_rel="../templateSpeaking/cdspeaking"
 fi
 
 pandoc "${in_abs}" \

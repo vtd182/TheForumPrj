@@ -8,3 +8,4 @@
 
 \workshopsetdoctype{TÀI LIỆU CHUYÊN ĐỀ LISTENING}
 \workshopsetsubtitle{}
+\renewcommand{\workshopprompttitle}{LISTENING TASK}

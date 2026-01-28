@@ -29,6 +29,12 @@
 \RequirePackage{colortbl}
 \usetikzlibrary{calc}
 
+% Pandoc can emit longtable wrappers with \LTcaptype{none} for tables without a
+% caption; hyperref/caption expect a counter to exist and otherwise throw a hard
+% error. Define a harmless counter so builds don't fail.
+\newcounter{none}
+\providecommand{\theHnone}{}
+
 % ============================================
 % INTERNAL STATE
 % ============================================
@@ -321,7 +327,7 @@
   top=10pt,
   bottom=10pt,
   drop shadow={black!18},
-  title=WRITING PROMPT,
+  title=\workshopprompttitle,
   colbacktitle=forumred,
   coltitle=white,
   fonttitle=\sffamily\bfseries\fontsize{10}{12}\selectfont,
@@ -352,6 +358,7 @@
 \newlength{\cdpromptafterskip}
 \setlength{\cdpromptbeforeskip}{16pt}
 \setlength{\cdpromptafterskip}{8pt}
+\newcommand{\workshopprompttitle}{PROMPT}
 
 \newcommand{\cdsection}[1]{%
   \begin{cdsectionbox}\cdred{\sffamily\bfseries #1}\end{cdsectionbox}%

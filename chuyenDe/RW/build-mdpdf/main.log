@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  28 JAN 2026 14:04
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  28 JAN 2026 14:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,13 +6,13 @@ entering extended mode
 (./main.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
-(../templateWriting/cdwriting.cls
+(../templateReading/cdreading.cls
 
-LaTeX Warning: You have requested document class `../templateWriting/cdwriting'
+LaTeX Warning: You have requested document class `../templateReading/cdreading'
 ,
-               but the document class provides `cdwriting'.
+               but the document class provides `cdreading'.
 
-Document Class: cdwriting 2026/01/24 v1.0 IELTS Workshop Writing
+Document Class: cdreading 2026/01/24 v1.0 IELTS Workshop Reading
 (../../common/workshop-base.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
@@ -1137,20 +1137,6 @@ Package hyperref Info: Link coloring OFF on input line 6.
 
 \c@lstlisting=\count363
  (./content.tex
-Overfull \hbox (352.35583pt too wide) in paragraph at lines 25--25
-[]\TU/lmtt/m/n/12 - Bạn không nên chọn "Partly agree" (nửa vời) nếu không đủ kh
-ả năng ngôn ngữ để xử lý sự phức tạp, vì dễ dẫn đến mâu thuẫn trong lập luận.[]
- 
- []
-
-
-Overfull \hbox (407.9758pt too wide) in paragraph at lines 26--26
-[]\TU/lmtt/m/n/12 - **Chiến lược bài này:** Chọn HOÀN TOÀN ĐỒNG Ý (Totally Agre
-e). Chúng ta sẽ chứng minh rằng trong kỷ nguyên số, mù tin học cũng tệ hại như 
-mù chữ.[] 
- []
-
-
 
 File: ../../../Vocab/wm/logoTF.png Graphic file (type bmp)
 <../../../Vocab/wm/logoTF.png>
@@ -1165,16 +1151,6 @@ File: ../../../Vocab/wm/logoTF.png Graphic file (type bmp)
 File: ../../../Vocab/wm/logoTF.png Graphic file (type bmp)
 <../../../Vocab/wm/logoTF.png>
 [3]
-Underfull \hbox (badness 1038) in paragraph at lines 291--291
-[]|\TU/LatinModernRoman(0)/m/n/12 IT skills are a 
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 291--291
-[]|\TU/LatinModernRoman(0)/m/n/12 Digital literacy is as 
- []
-
-
 
 File: ../../../Vocab/wm/logoTF.png Graphic file (type bmp)
 <../../../Vocab/wm/logoTF.png>
@@ -1182,11 +1158,107 @@ File: ../../../Vocab/wm/logoTF.png Graphic file (type bmp)
 
 File: ../../../Vocab/wm/logoTF.png Graphic file (type bmp)
 <../../../Vocab/wm/logoTF.png>
-[5])
+[5]
 
 File: ../../../Vocab/wm/logoTF.png Graphic file (type bmp)
 <../../../Vocab/wm/logoTF.png>
-[6] (./main.aux)
+[6]
+Underfull \hbox (badness 10000) in alignment at lines 524--527
+[] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 527--530
+[] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 530--532
+[] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 532--534
+[] [] []
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 538--538
+[]|\TU/LatinModernRoman(0)/m/n/12 Đoạn C nêu rõ phá rừng thải ra 15% lượng khí 
+thải 
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 539--539
+[]|\TU/LatinModernRoman(0)/m/n/12 Đoạn E nhấn mạnh tầm quan trọng của quản lý 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 534--541
+[] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 557--560
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 560--563
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 563--565
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 565--567
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 567--581
+[] []
+ []
+
+File: ../../../Vocab/wm/logoTF.png Graphic file (type bmp)
+<../../../Vocab/wm/logoTF.png>
+[7]
+Underfull \hbox (badness 10000) in alignment at lines 602--605
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 605--608
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 608--610
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 610--612
+[] [] [] []
+ []
+
+LaTeX Font Info:    Font shape `TU/ArialUnicodeMS(0)/m/n' will be
+(Font)              scaled to size 8.3194pt on input line 613.
+
+Underfull \hbox (badness 10000) in alignment at lines 612--630
+[] [] [] []
+ []
+
+File: ../../../Vocab/wm/logoTF.png Graphic file (type bmp)
+<../../../Vocab/wm/logoTF.png>
+[8])
+
+File: ../../../Vocab/wm/logoTF.png Graphic file (type bmp)
+<../../../Vocab/wm/logoTF.png>
+[9] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1195,12 +1267,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31367 strings out of 473832
- 679644 string characters out of 5729481
- 1178048 words of memory out of 5000000
- 53894 multiletter control sequences out of 15000+600000
- 562887 words of font info for 84 fonts, out of 8000000 for 9000
+ 31365 strings out of 473832
+ 679698 string characters out of 5729481
+ 1177243 words of memory out of 5000000
+ 53892 multiletter control sequences out of 15000+600000
+ 562895 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 106i,15n,129p,458b,1353s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 106i,15n,129p,458b,1071s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (6 pages).
+Output written on main.pdf (9 pages).

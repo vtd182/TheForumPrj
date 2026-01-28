@@ -1,6 +1,6 @@
 # LaTeX (PDF) pipeline từ Markdown (cùng MD dùng cho DOCX)
 
-Mục tiêu: dùng **chung 1 nguồn Markdown** (`chuyenDe/RW/md/raw47/...`) để xuất ra **PDF theo template LaTeX** (header/footer/watermark giống hệ `chuyên đề`), trong khi DOCX vẫn dùng Word reference template.
+Mục tiêu: dùng **chung 1 nguồn Markdown** (`chuyenDe/*/md/...`) để xuất ra **PDF theo template LaTeX** (header/footer/watermark giống hệ `chuyên đề`), trong khi DOCX vẫn dùng Word reference template.
 
 ## 1) Thành phần chính
 
@@ -8,6 +8,8 @@ Mục tiêu: dùng **chung 1 nguồn Markdown** (`chuyenDe/RW/md/raw47/...`) đ�
 - Class:
   - Reading: `chuyenDe/RW/templateReading/cdreading.cls`
   - Writing: `chuyenDe/RW/templateWriting/cdwriting.cls`
+  - Listening: `chuyenDe/LS/templateListening/cdlistening.cls`
+  - Speaking: `chuyenDe/LS/templateSpeaking/cdspeaking.cls`
 - Pandoc LaTeX filter (map component Markdown → LaTeX macros/table): `chuyenDe/latex/pandoc/cd-forum-latex.lua`
 - Script build PDF từ Markdown: `chuyenDe/latex/md_to_pdf.sh`
 
@@ -23,10 +25,14 @@ Ghi chú:
 Ví dụ:
 
 ```bash
+# RW
 bash chuyenDe/latex/md_to_pdf.sh chuyenDe/RW/md/raw47/Reading/Level1/W5.md /tmp/Reading-L1-W5.pdf Reading
+
+# LS
+bash chuyenDe/latex/md_to_pdf.sh chuyenDe/LS/md/raw47/Listening/Level1/W2.md /tmp/Listening-L1-W2.pdf Listening
 ```
 
-Nếu frontmatter có `skill: Reading|Writing` thì có thể bỏ arg thứ 3:
+Nếu frontmatter có `skill: Reading|Writing|Listening|Speaking` thì có thể bỏ arg thứ 3:
 
 ```bash
 bash chuyenDe/latex/md_to_pdf.sh chuyenDe/RW/md/raw47/Writing/Level1/W4.md /tmp/Writing-L1-W4.pdf

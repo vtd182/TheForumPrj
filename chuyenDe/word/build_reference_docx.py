@@ -948,6 +948,8 @@ def main() -> None:
 
     writing = out_dir / "reference-writing.docx"
     reading = out_dir / "reference-reading.docx"
+    listening = out_dir / "reference-listening.docx"
+    speaking = out_dir / "reference-speaking.docx"
     legacy = out_dir / "reference.docx"
 
     build_reference_docx(
@@ -966,6 +968,20 @@ def main() -> None:
     )
     build_reference_docx(
         repo_root=repo_root,
+        out_path=listening,
+        doctype="TÀI LIỆU CHUYÊN ĐỀ LISTENING",
+        normal_after_twips=60,
+        tight_styles=True,
+    )
+    build_reference_docx(
+        repo_root=repo_root,
+        out_path=speaking,
+        doctype="TÀI LIỆU CHUYÊN ĐỀ SPEAKING",
+        normal_after_twips=60,
+        tight_styles=True,
+    )
+    build_reference_docx(
+        repo_root=repo_root,
         out_path=legacy,
         doctype="TÀI LIỆU CHUYÊN ĐỀ WRITING",
         normal_after_twips=120,
@@ -973,6 +989,8 @@ def main() -> None:
     )
     print(f"Wrote {writing}")
     print(f"Wrote {reading}")
+    print(f"Wrote {listening}")
+    print(f"Wrote {speaking}")
     print(f"Wrote {legacy}")
 
 

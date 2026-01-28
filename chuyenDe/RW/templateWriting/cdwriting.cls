@@ -8,4 +8,5 @@
 
 \workshopsetdoctype{TÀI LIỆU CHUYÊN ĐỀ WRITING}
 \workshopsetsubtitle{}
+\renewcommand{\workshopprompttitle}{WRITING PROMPT}
 \setlength{\cdpromptbeforeskip}{44pt}

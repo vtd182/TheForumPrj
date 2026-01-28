@@ -1,4 +1,4 @@
-# Word template (editable) + mapping từ Markdown (RW: Reading/Writing)
+# Word template (editable) + mapping từ Markdown (RW/LS)
 
 Mục tiêu: bạn soạn/chỉnh sửa nhiều bằng Word, nhưng vẫn giữ “ngôn ngữ hình ảnh” gần giống template LaTeX (màu/box/header/footer/watermark).
 
@@ -36,6 +36,9 @@ Chạy 1 phát full pipeline:
 Chỉ regen DOCX từ Markdown (không tách raw Word, không rebuild reference):
 - `bash chuyenDe/scripts/raw47_md_to_word.sh`
 
+LS (Listening/Speaking) — nếu bạn đã có Markdown theo layout `chuyenDe/LS/md/...`:
+- `bash chuyenDe/scripts/ls_md_to_word.sh`
+
 ## 1) Tạo Word template (`reference-*.docx`)
 
 File generator:
@@ -47,6 +50,8 @@ Chạy:
 Output:
 - `chuyenDe/word/reference-writing.docx`
 - `chuyenDe/word/reference-reading.docx`
+- `chuyenDe/word/reference-listening.docx`
+- `chuyenDe/word/reference-speaking.docx`
 - `chuyenDe/word/reference.docx` (legacy, mặc định Writing)
 
 `reference.docx` có:
@@ -85,6 +90,8 @@ Script:
 Ví dụ:
 - Writing: `bash chuyenDe/word/pandoc/md_to_docx.sh chuyenDe/word/example.md /tmp/out.docx chuyenDe/word/reference-writing.docx`
 - Reading: `bash chuyenDe/word/pandoc/md_to_docx.sh chuyenDe/word/example.md /tmp/out.docx chuyenDe/word/reference-reading.docx`
+- Listening: `bash chuyenDe/word/pandoc/md_to_docx.sh chuyenDe/word/example.md /tmp/out.docx chuyenDe/word/reference-listening.docx`
+- Speaking: `bash chuyenDe/word/pandoc/md_to_docx.sh chuyenDe/word/example.md /tmp/out.docx chuyenDe/word/reference-speaking.docx`
 
 Pandoc options đang dùng:
 - Input: `markdown+raw_attribute+fenced_divs+bracketed_spans`

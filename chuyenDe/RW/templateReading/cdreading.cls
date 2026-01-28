@@ -8,3 +8,4 @@
 
 \workshopsetdoctype{TÀI LIỆU CHUYÊN ĐỀ READING}
 \workshopsetsubtitle{}
+\renewcommand{\workshopprompttitle}{TASK}
