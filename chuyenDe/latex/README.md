@@ -17,6 +17,9 @@ Yêu cầu:
 - `pandoc`
 - `xelatex` (TeX Live/MacTeX)
 
+Ghi chú:
+- Cover (trang 1) luôn dùng layout chung; **tiêu đề hiển thị lấy từ `::: collectiontitle ... :::` trong Markdown** (để Writing/Reading đồng nhất).
+
 Ví dụ:
 
 ```bash

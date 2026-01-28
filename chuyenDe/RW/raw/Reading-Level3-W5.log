@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  27 JAN 2026 17:41
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  28 JAN 2026 00:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -962,16 +962,20 @@ File: ../../../Vocab/wm/logoTF.png Graphic file (type bmp)
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `Reading-Level3-W5.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31364 strings out of 473832
- 679844 string characters out of 5729481
- 1166291 words of memory out of 5000000
- 53896 multiletter control sequences out of 15000+600000
+ 31366 strings out of 473832
+ 679885 string characters out of 5729481
+ 1167328 words of memory out of 5000000
+ 53898 multiletter control sequences out of 15000+600000
  562871 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 106i,15n,129p,1363b,1061s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 106i,16n,129p,1363b,1061s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on Reading-Level3-W5.pdf (9 pages).

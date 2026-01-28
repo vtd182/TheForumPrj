@@ -235,6 +235,9 @@
 \newcommand{\workshop@centerheading}[1]{%
   {\centering\sffamily\bfseries\spaceskip=0.18em\relax #1\par}%
 }
+\newcommand{\workshopcenterheading}[1]{%
+  \workshop@centerheading{#1}%
+}
 \newcommand{\makeworkshopheader}[3]{%
   \def\HeaderHeight{2.55cm}%
   \def\WhiteGap{0.16cm}%
@@ -268,7 +271,7 @@
   % itself is drawn as a page overlay.
   \vspace*{\dimexpr\HeaderHeight+\WhiteGap+\SubHeight-\headheight-\headsep+0.15cm\relax}%
   \workshop@centerheading{#3}
-  \vspace{1pt}
+  \vspace{2pt}
 }
 
 
@@ -309,8 +312,6 @@
 \newtcolorbox{cdpromptbox}{
   enhanced,
   breakable,
-  before skip=10pt,
-  after skip=8pt,
   colback=forumred!4,
   colframe=forumred!80!black,
   boxrule=0.8pt,
@@ -324,7 +325,7 @@
   colbacktitle=forumred,
   coltitle=white,
   fonttitle=\sffamily\bfseries\fontsize{10}{12}\selectfont,
-  attach boxed title to top left={xshift=8pt,yshift=-2mm},
+  attach boxed title to top left={xshift=8pt,yshift=0mm},
   boxed title style={boxrule=0pt,arc=2pt,left=6pt,right=6pt,top=2pt,bottom=2pt},
   overlay={
     \begin{tikzpicture}[remember picture, overlay]
@@ -345,6 +346,12 @@
 \newenvironment{cdquestions}{%
   \par\setlength{\parskip}{0pt}\setlength{\parindent}{0pt}%
 }{\par}
+
+% Prompt box spacing (override per-template if needed)
+\newlength{\cdpromptbeforeskip}
+\newlength{\cdpromptafterskip}
+\setlength{\cdpromptbeforeskip}{16pt}
+\setlength{\cdpromptafterskip}{8pt}
 
 \newcommand{\cdsection}[1]{%
   \begin{cdsectionbox}\cdred{\sffamily\bfseries #1}\end{cdsectionbox}%
@@ -369,9 +376,11 @@
   \vspace{8pt}%
 }
 \newcommand{\workshopprompt}[1]{%
+  \par\vspace*{\cdpromptbeforeskip}%
   \begin{cdpromptbox}%
     {\sffamily\itshape #1}%
   \end{cdpromptbox}%
+  \vspace{\cdpromptafterskip}%
 }
 \newcommand{\mainideas}{\textcolor{topicblue}{\sffamily\bfseries Main ideas:}}
 \newcommand{\cdred}[1]{\textcolor{forumred}{#1}}

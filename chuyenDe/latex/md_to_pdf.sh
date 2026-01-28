@@ -40,12 +40,12 @@ if [[ ! -f "${in_abs}" ]]; then
   exit 1
 fi
 
-meta_skill_title="$(python3 - "${in_abs}" <<'PY'
+meta_skill="$(python3 - "${in_abs}" <<'PY'
 import re,sys
 p=sys.argv[1]
 text=open(p,'r',encoding='utf-8').read().splitlines()
 if not text or text[0].strip()!='---':
-    print('||')
+    print('')
     raise SystemExit(0)
 # collect yaml frontmatter lines until next ---
 y=[]
@@ -65,25 +65,15 @@ def find_key(key):
     return v
 
 skill=find_key('skill')
-title=find_key('title')
-print(f"{skill}||{title}")
+print(skill)
 PY
 )"
-meta_skill="${meta_skill_title%%||*}"
-meta_title="${meta_skill_title#*||}"
 
 skill="${skill_arg:-${meta_skill}}"
 if [[ "${skill}" != "Reading" && "${skill}" != "Writing" ]]; then
   echo "Cannot infer skill. Pass Reading/Writing as arg3 or set frontmatter: skill: Reading|Writing" >&2
   exit 1
 fi
-
-title="${meta_title}"
-if [[ -z "${title}" ]]; then
-  title="IELTS WORKSHOP"
-fi
-# Drop date range suffix like: "Level 1 — W5 (Jan 26-Feb 1)" -> "Level 1 — W5"
-title="$(printf "%s" "${title}" | sed -E "s/[[:space:]]*\\([^)]*\\)[[:space:]]*$//")"
 
 mkdir -p "${build_dir}"
 rm -f "${build_dir}/content.tex" "${build_dir}/main.tex" "${build_dir}/main.pdf" "${build_dir}/main.aux" "${build_dir}/main.log" >/dev/null 2>&1 || true
@@ -108,11 +98,10 @@ cat > "${build_dir}/main.tex" <<EOF
 
 \\newcommand{\\authorinfo}{THE FORUM CENTER - NGUYỄN HOÀNG HUY}
 \\newcommand{\\documenttitle}{${doctype}}
-\\newcommand{\\collectiontitle}{${title}}
 
 \\begin{document}
 \\thispagestyle{firstpage}
-\\makeworkshopheader{\\authorinfo}{\\documenttitle}{\\collectiontitle}
+\\makeworkshopheader{\\authorinfo}{\\documenttitle}{}
 \\pagestyle{otherpages}
 
 \\input{content.tex}

@@ -7,6 +7,8 @@
 
 local utils = require("pandoc.utils")
 
+local DOC_SKILL = ""
+
 local function latex_escape(s)
   s = s:gsub("\\", "\\textbackslash{}")
   s = s:gsub("([{}$&#%%_])", "\\%1")
@@ -303,7 +305,7 @@ local function render_cd_table(class_name, tbl)
   return pandoc.RawBlock("latex", table.concat(out, "\n"))
 end
 
-function Header(el)
+local function handle_Header(el)
   local text = latex_escape(inlines_to_text(el.content))
   if el.level == 2 then
     return pandoc.RawBlock("latex", "\\cdsection{" .. text .. "}")
@@ -315,7 +317,7 @@ function Header(el)
   return el
 end
 
-function BlockQuote(el)
+local function handle_BlockQuote(el)
   local out = { pandoc.RawBlock("latex", "\\begin{cdnote}") }
   for _, b in ipairs(el.content or {}) do
     table.insert(out, b)
@@ -324,13 +326,18 @@ function BlockQuote(el)
   return out
 end
 
-function Div(el)
+local function handle_Div(el)
   local classes = (el.attr and el.attr.classes) or {}
 
   for _, c in ipairs(classes) do
     if c == "collectiontitle" then
-      -- Cover/title is handled by wrapper, not by body content.
-      return {}
+      local title_text = latex_escape(blocks_to_text(el.content))
+      local after = "\\vspace{6pt}"
+      if (DOC_SKILL or ""):lower() == "writing" then
+        -- Writing typically starts with a prompt box; keep it well below the centered title.
+        after = "\\vspace{18pt}"
+      end
+      return pandoc.RawBlock("latex", "\\workshopcenterheading{" .. title_text .. "}" .. after)
     end
   end
 
@@ -362,7 +369,7 @@ function Div(el)
   return el
 end
 
-function Span(el)
+local function handle_Span(el)
   local classes = (el.attr and el.attr.classes) or {}
   for _, c in ipairs(classes) do
     if c == "cdred" then
@@ -388,4 +395,14 @@ function Span(el)
     end
   end
   return el
+end
+
+function Pandoc(doc)
+  DOC_SKILL = utils.stringify((doc.meta and doc.meta.skill) or "") or ""
+  return doc:walk({
+    Header = handle_Header,
+    BlockQuote = handle_BlockQuote,
+    Div = handle_Div,
+    Span = handle_Span,
+  })
 end
