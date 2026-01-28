@@ -94,6 +94,8 @@ local function render_cd_table(class_name, tbl)
       return { 0.14, 0.72, 0.14 }
     elseif (class_name == "cdchoicetable" or class_name == "cdanswerkeytable") and ncols == 2 then
       return { 0.18, 0.82 }
+    elseif class_name == "cdlisteningtable" and ncols == 2 then
+      return { 0.62, 0.38 }
     elseif class_name == "cdreadingvocabtable" and ncols == 4 then
       return { 0.24, 0.14, 0.40, 0.22 }
     elseif class_name == "cdoptiontable" and ncols == 2 then
@@ -117,6 +119,9 @@ local function render_cd_table(class_name, tbl)
       return "|M{0.14\\linewidth}|Y|M{0.14\\linewidth}|"
     elseif (class_name == "cdchoicetable" or class_name == "cdanswerkeytable" or class_name == "cdvocabtable") and ncols == 2 then
       return "|M{0.18\\linewidth}|Y|"
+    elseif class_name == "cdlisteningtable" and ncols == 2 then
+      -- Left column tends to be longer for "Complete the table" questions.
+      return "|Y|M{0.35\\linewidth}|"
     elseif class_name == "cdoptiontable" and ncols == 2 then
       return "|M{0.22\\linewidth}|Y|"
     end
@@ -164,6 +169,8 @@ local function render_cd_table(class_name, tbl)
       return "|M{0.10\\linewidth}|M{0.66\\linewidth}|M{0.14\\linewidth}|"
     elseif (class_name == "cdanswerkeytable" or class_name == "cdchoicetable" or class_name == "cdvocabtable") and ncols == 2 then
       return "|M{0.17\\linewidth}|M{0.73\\linewidth}|"
+    elseif class_name == "cdlisteningtable" and ncols == 2 then
+      return "|M{0.55\\linewidth}|M{0.35\\linewidth}|"
     elseif class_name == "cdoptiontable" and ncols == 2 then
       return "|M{0.20\\linewidth}|M{0.70\\linewidth}|"
     end
@@ -200,6 +207,9 @@ local function render_cd_table(class_name, tbl)
       and ((normalized[1] == "heading" and normalized[2] == "title")
         or (normalized[1] == "option" and (normalized[2] == "meaning" or normalized[2] == "person/choice")))
     if class_name == "cdvocabtable" and is_generic_two_col then
+      skip_header = true
+    end
+    if class_name == "cdlisteningtable" and is_generic_two_col then
       skip_header = true
     end
     if class_name == "cdchoicetable" and is_generic_two_col then
@@ -354,7 +364,7 @@ local function handle_Div(el)
       table.insert(out, pandoc.RawBlock("latex", "\\end{cdquestions}"))
       return out
     end
-    if c == "cdvocabtable" or c == "cdoptiontable" or c == "cdchoicetable" or c == "cdanswertable" or c == "cdanswerkeytable" or c == "cdreadingvocabtable" then
+    if c == "cdvocabtable" or c == "cdlisteningtable" or c == "cdoptiontable" or c == "cdchoicetable" or c == "cdanswertable" or c == "cdanswerkeytable" or c == "cdreadingvocabtable" then
       -- Custom render first table inside this div (most of our MD tables are single-table divs).
       for _, b in ipairs(el.content or {}) do
         if b.t == "Table" then

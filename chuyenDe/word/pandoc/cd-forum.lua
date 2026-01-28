@@ -25,6 +25,7 @@ local BLOCK_STYLE = {
 
 local TABLE_STYLE = {
   cdvocabtable = "CDVocabTable",
+  cdlisteningtable = "CDVocabTable",
   cdoptiontable = "CDOptionTable",
   cdanswertable = "CDAnswerTable",
   cdchoicetable = "CDChoiceTable",
@@ -136,6 +137,13 @@ function Div(el)
               end
             elseif class_name == "cdanswerkeytable" and ncols == 2 then
               local weights = { 0.18, 0.82 }
+              for i = 1, ncols do
+                local align = blk.colspecs[i][1]
+                colspecs[i] = { align, weights[i] }
+              end
+            elseif class_name == "cdlisteningtable" and ncols == 2 then
+              -- Listening "Complete the table below" questions often have long text on the left.
+              local weights = { 0.62, 0.38 }
               for i = 1, ncols do
                 local align = blk.colspecs[i][1]
                 colspecs[i] = { align, weights[i] }

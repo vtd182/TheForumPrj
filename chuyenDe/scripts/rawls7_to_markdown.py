@@ -181,6 +181,68 @@ def _clean_grid_table_to_prompt(lines: list[str], *, start: int) -> tuple[list[s
     return out, i
 
 
+def _clean_simple_table_to_pipe(lines: list[str], *, start: int) -> tuple[list[str], int] | None:
+    """
+    Convert Pandoc "simple tables" (Markdown) into a pipe table wrapped in cdlisteningtable.
+
+    Example pattern:
+      Header A     Header B
+        -----      -----
+        row a      row b
+    """
+    if start + 1 >= len(lines):
+        return None
+    header = _normalize_underlines(lines[start].rstrip())
+    sep = lines[start + 1].rstrip()
+
+    if header.strip() == "" or not re.search(r"\s{2,}", header):
+        return None
+    if not re.match(r"^\s*-{5,}(\s+-{5,})+\s*$", sep):
+        return None
+
+    header_parts = [p.strip() for p in re.split(r"\s{2,}", header.strip()) if p.strip()]
+    if len(header_parts) != 2:
+        return None
+
+    h1 = _strip_md_emphasis(header_parts[0]).strip()
+    h2 = _strip_md_emphasis(header_parts[1]).strip()
+
+    rows: list[tuple[str, str]] = []
+    i = start + 2
+    while i < len(lines):
+        ln = lines[i].rstrip()
+        if not ln.strip():
+            i += 1
+            continue
+        # stop at next section/paragraph (table rows are indented in pandoc output)
+        if not ln.startswith(" "):
+            break
+        parts = [p.strip() for p in re.split(r"\s{2,}", ln.strip(), maxsplit=1)]
+        if not parts:
+            i += 1
+            continue
+        left = parts[0]
+        right = parts[1] if len(parts) > 1 else ""
+        # Keep inline emphasis in cells (bold placeholders), but normalize underline syntax.
+        left = _normalize_underlines(left)
+        right = _normalize_underlines(right)
+        rows.append((left, right))
+        i += 1
+
+    if not rows:
+        return None
+
+    out: list[str] = []
+    out.append("::: cdlisteningtable")
+    out.append(f"| {h1} | {h2} |")
+    out.append("| --- | --- |")
+    for left, right in rows:
+        out.append(f"| {left.replace('|', '\\\\|')} | {right.replace('|', '\\\\|')} |")
+    out.append(":::")
+    out.append("")
+    return out, i
+
+
 def clean_docx_markdown(text: str, *, skill: str) -> str:
     raw_lines = text.replace("\r\n", "\n").replace("\r", "\n").split("\n")
 
@@ -224,6 +286,18 @@ def clean_docx_markdown(text: str, *, skill: str) -> str:
         if _strip_md_emphasis(ln).strip().lower().startswith("tài liệu chuyên đề"):
             i += 1
             continue
+
+        # Listening: convert Pandoc simple tables (e.g., "Complete the table below") to pipe tables.
+        if skill.lower() == "listening":
+            tbl_simple = _clean_simple_table_to_pipe(lines, start=i)
+            if tbl_simple is not None:
+                block, next_i = tbl_simple
+                out.extend(block)
+                in_list = False
+                after_mainideas = False
+                mainideas_seen_items = 0
+                i = next_i
+                continue
 
         # Convert grid table cue card (Speaking Part 2) into prompt box.
         tbl = _clean_grid_table_to_prompt(lines, start=i)
