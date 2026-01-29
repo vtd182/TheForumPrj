@@ -568,10 +568,10 @@ def _styles_xml(*, normal_after_twips: int, tight: bool) -> str:
       <w:tblW w:w="5000" w:type="pct"/>
       <w:tblLayout w:type="autofit"/>
       <w:tblBorders>
-        <w:top w:val="single" w:sz="24" w:space="0" w:color="{forumred}" w:shadow="1"/>
-        <w:left w:val="single" w:sz="24" w:space="0" w:color="{forumred}" w:shadow="1"/>
-        <w:bottom w:val="thickThinMediumGap" w:sz="24" w:space="0" w:color="{forumred}" w:shadow="1"/>
-        <w:right w:val="single" w:sz="24" w:space="0" w:color="{forumred}" w:shadow="1"/>
+        <w:top w:val="single" w:sz="12" w:space="0" w:color="{forumred}" w:shadow="1"/>
+        <w:left w:val="single" w:sz="12" w:space="0" w:color="{forumred}" w:shadow="1"/>
+        <w:bottom w:val="double" w:sz="16" w:space="0" w:color="{forumred}" w:shadow="1"/>
+        <w:right w:val="single" w:sz="12" w:space="0" w:color="{forumred}" w:shadow="1"/>
       </w:tblBorders>
       <w:shd w:val="clear" w:color="auto" w:fill="D6E9F8"/>
       <w:tblCellMar>
@@ -588,14 +588,14 @@ def _styles_xml(*, normal_after_twips: int, tight: bool) -> str:
     <w:basedOn w:val="Heading1"/>
     <w:qFormat/>
     <w:pPr>
-      <w:spacing w:before="360" w:after="160"/>
-      <w:jc w:val="left"/>
+      <w:spacing w:before="240" w:after="120"/>
+      <w:jc w:val="center"/>
     </w:pPr>
     <w:rPr>
       <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
       <w:b/>
       <w:color w:val="{topicblue}"/>
-      <w:sz w:val="34"/>
+      <w:sz w:val="28"/>
     </w:rPr>
   </w:style>
 </w:styles>
