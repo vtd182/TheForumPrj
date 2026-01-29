@@ -31,6 +31,7 @@ local TABLE_STYLE = {
   cdchoicetable = "CDChoiceTable",
   cdanswerkeytable = "CDAnswerKeyTable",
   cdreadingvocabtable = "CDReadingVocabTable",
+  cdlisteningsectioncontainer = "CDListeningSectionContainer",
 }
 
 local function set_custom_style(attr, style_name)
@@ -88,6 +89,13 @@ local function div_to_single_para(div, style_name)
 end
 
 function Header(el)
+  local text = utils.stringify(el.content)
+  
+  -- SECTION 1, SECTION 2, etc. → special header for listening sections
+  if el.level == 2 and text:match("^SECTION%s+%d") then
+    return pandoc.Header(1, el.content, set_custom_style(el.attr, "CD Listening Section Header"))
+  end
+  
   if el.level == 2 then
     return pandoc.Header(el.level, el.content, set_custom_style(el.attr, "CD Section"))
   end
@@ -109,6 +117,27 @@ function Div(el)
   local classes = {}
   if el.attr and el.attr.classes then
     classes = el.attr.classes
+  end
+
+  -- Special handling: Convert cdlisteningsection div to single-cell table
+  for _, class_name in ipairs(classes) do
+    if class_name == "cdlisteningsection" then
+      -- Use SimpleTable then convert to Table
+      local caption = {}
+      local aligns = {pandoc.AlignDefault}
+      local widths = {0}  -- 0 = auto width
+      local headers = {}  -- NO header row
+      local rows = {{el.content}}  -- one row with content blocks
+      
+      -- Create SimpleTable first
+      local simple_tbl = pandoc.SimpleTable(caption, aligns, widths, headers, rows)
+      
+      -- Convert to full Table and apply style
+      local full_tbl = pandoc.utils.from_simple_table(simple_tbl)
+      full_tbl.attr = set_custom_style(pandoc.Attr("", {}, {}), "CDListeningSectionContainer")
+      
+      return full_tbl
+    end
   end
 
   for _, class_name in ipairs(classes) do

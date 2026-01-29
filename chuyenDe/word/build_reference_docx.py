@@ -239,6 +239,26 @@ def _styles_xml(*, normal_after_twips: int, tight: bool) -> str:
     </w:rPr>
   </w:style>
 
+  <w:style w:type="paragraph" w:styleId="CDListeningSection">
+    <w:name w:val="CD Listening Section"/>
+    <w:basedOn w:val="Normal"/>
+    <w:qFormat/>
+    <w:pPr>
+      <w:spacing w:before="{prompt_before}" w:after="{prompt_after}"/>
+      <w:pBdr>
+        <w:top w:val="single" w:sz="12" w:space="3" w:color="{topicblue}"/>
+        <w:left w:val="single" w:sz="12" w:space="3" w:color="{topicblue}"/>
+        <w:bottom w:val="single" w:sz="12" w:space="3" w:color="{topicblue}"/>
+        <w:right w:val="single" w:sz="12" w:space="3" w:color="{topicblue}"/>
+      </w:pBdr>
+      <w:shd w:val="clear" w:color="auto" w:fill="EBF3FA"/>
+      <w:ind w:left="240" w:right="240"/>
+    </w:pPr>
+    <w:rPr>
+      <w:rFonts w:ascii="Georgia" w:hAnsi="Georgia" w:cs="Georgia"/>
+    </w:rPr>
+  </w:style>
+
   <w:style w:type="paragraph" w:styleId="CDSection">
     <w:name w:val="CD Section"/>
     <w:basedOn w:val="Normal"/>
@@ -539,6 +559,44 @@ def _styles_xml(*, normal_after_twips: int, tight: bool) -> str:
         <w:color w:val="FFFFFF"/>
       </w:rPr>
     </w:tblStylePr>
+  </w:style>
+
+  <w:style w:type="table" w:styleId="CDListeningSectionContainer">
+    <w:name w:val="CDListeningSectionContainer"/>
+    <w:basedOn w:val="TableNormal"/>
+    <w:tblPr>
+      <w:tblW w:w="5000" w:type="pct"/>
+      <w:tblLayout w:type="autofit"/>
+      <w:tblBorders>
+        <w:top w:val="single" w:sz="24" w:space="0" w:color="{forumred}" w:shadow="1"/>
+        <w:left w:val="single" w:sz="24" w:space="0" w:color="{forumred}" w:shadow="1"/>
+        <w:bottom w:val="thickThinMediumGap" w:sz="24" w:space="0" w:color="{forumred}" w:shadow="1"/>
+        <w:right w:val="single" w:sz="24" w:space="0" w:color="{forumred}" w:shadow="1"/>
+      </w:tblBorders>
+      <w:shd w:val="clear" w:color="auto" w:fill="D6E9F8"/>
+      <w:tblCellMar>
+        <w:top w:w="280" w:type="dxa"/>
+        <w:left w:w="280" w:type="dxa"/>
+        <w:bottom w:w="280" w:type="dxa"/>
+        <w:right w:w="280" w:type="dxa"/>
+      </w:tblCellMar>
+    </w:tblPr>
+  </w:style>
+
+  <w:style w:type="paragraph" w:styleId="CDListeningSectionHeader">
+    <w:name w:val="CD Listening Section Header"/>
+    <w:basedOn w:val="Heading1"/>
+    <w:qFormat/>
+    <w:pPr>
+      <w:spacing w:before="360" w:after="160"/>
+      <w:jc w:val="left"/>
+    </w:pPr>
+    <w:rPr>
+      <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
+      <w:b/>
+      <w:color w:val="{topicblue}"/>
+      <w:sz w:val="34"/>
+    </w:rPr>
   </w:style>
 </w:styles>
 """
