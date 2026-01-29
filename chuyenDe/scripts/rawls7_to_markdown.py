@@ -78,6 +78,10 @@ def _drop_weird_lines(line: str) -> bool:
         return False
     if s in {"**\\**", "**\\", "\\", "**\\**\\**"}:
         return True
+    # Pandoc sometimes leaks stray bold markers around a backslash, e.g. "**\\"
+    # split across lines, which can become "***\\***" after cleanup.
+    if re.fullmatch(r"\*+\\\*+", s):
+        return True
     if re.fullmatch(r"#{1,6}\s*", s):
         return True
     if s == "**\\**" or s == "**\\** ":
@@ -97,6 +101,8 @@ def _normalize_underlines(s: str) -> str:
 def _normalize_bullets(line: str) -> str:
     s = line.rstrip()
     s = re.sub(r"^\s*[•●·]\s+", "- ", s)
+    # Pandoc sometimes emits bullet-like lines that are actually indented with odd spacing.
+    s = re.sub(r"^\s*-\s{2,}", "- ", s)
     return s
 
 
@@ -310,6 +316,12 @@ def clean_docx_markdown(text: str, *, skill: str) -> str:
             i = next_i
             continue
 
+        # Speaking: bold-numbered questions like "**2. ...?**" -> heading level 4.
+        if skill.lower() == "speaking":
+            m_q = re.match(r"^\s*\*\*(\d+\.\s+.+?)\*\*\s*$", ln)
+            if m_q:
+                ln = f"#### {_strip_md_emphasis(m_q.group(1)).strip()}"
+
         # Headings: strip bold/italic wrappers.
         if re.match(r"^#{1,6}\s+", ln):
             ln = _clean_heading(ln)
@@ -322,6 +334,9 @@ def clean_docx_markdown(text: str, *, skill: str) -> str:
 
         # Normalize some bold-only lines into headings for Listening.
         if skill.lower() == "listening":
+            # Handle plain section markers (can happen when bold markers were split across lines).
+            if re.fullmatch(r"SECTION\s+\d+", ln_stripped, flags=re.I):
+                ln = f"## {ln_stripped.upper()}"
             only_bold = re.match(r"^\s*\*\*(.+?)\*\*\s*$", ln)
             if only_bold:
                 text_b = only_bold.group(1).strip()
@@ -338,8 +353,24 @@ def clean_docx_markdown(text: str, *, skill: str) -> str:
                 ln = re.sub(r"\*{2}\s*$", "", ln).strip()
                 ln = f"## {ln}"
 
-        # Speaking: remove accidental "## " in normal paragraphs.
+        # Speaking: normalize bold-only PART markers into headings (pandoc sometimes emits "**PART 3**").
         if skill.lower() == "speaking":
+            if re.fullmatch(r"PART\s+\d+", ln_stripped, flags=re.I):
+                ln = f"## {ln_stripped.upper()}"
+            only_bold = re.match(r"^\s*\*\*(.+?)\*\*\s*$", ln)
+            if only_bold:
+                text_b = only_bold.group(1).strip()
+                text_b_norm = _normalize_underlines(text_b)
+                if re.match(r"^PART\s+\d+\s*:?\s*$", text_b_norm, flags=re.I):
+                    ln = f"## {text_b_norm.rstrip(':').strip()}"
+                else:
+                    ln = f"**{text_b_norm}**"
+            # Handle split bold marker leftovers like "PART 3**".
+            if re.match(r"^\s*PART\s+\d+\*{2}\s*$", ln, flags=re.I):
+                ln = re.sub(r"\*{2}\s*$", "", ln).strip()
+                ln = f"## {ln.rstrip(':').strip()}"
+
+            # Speaking: remove accidental "## " in normal paragraphs.
             if (
                 ln.startswith("## ")
                 and not re.match(r"^##\s+PART\s+\d+", ln, flags=re.I)
@@ -359,11 +390,32 @@ def clean_docx_markdown(text: str, *, skill: str) -> str:
                     ln = f"### {candidate}"
                 else:
                     ln = candidate
+            # If "Main ideas" items were turned into headings (often level-3) in DOCX, demote to plain lines
+            # so the main-ideas normalizer can bulletize them.
+            if after_mainideas and ln.startswith("### "):
+                ln = ln[4:].lstrip()
 
         ln = _normalize_bullets(ln)
 
+        # Speaking: normalize topic lines (DOCX sometimes marks them as bullets).
+        if skill.lower() == "speaking":
+            m_topic = re.fullmatch(r"-\s*(Gift|Hobby)\s*", ln.strip(), flags=re.I)
+            if m_topic:
+                ln = f"### {m_topic.group(1).title()}"
+            elif re.fullmatch(r"(Gift|Hobby)\s*", ln_stripped, flags=re.I):
+                ln = f"### {ln_stripped.strip().title()}"
+
+            # If a topic label leaked into the previous Main ideas as a bullet, drop it
+            # (it should be a heading on its own line).
+            if after_mainideas and re.fullmatch(r"-\s*(Gift|Hobby)\s*", ln.strip(), flags=re.I):
+                out.append("")
+                after_mainideas = False
+                in_list = False
+                continue
+
         if _is_main_ideas_line(ln):
             out.append("**[Main ideas]{.cdblue}:**")
+            out.append("")
             after_mainideas = True
             mainideas_seen_items = 0
             in_list = False
@@ -373,7 +425,60 @@ def clean_docx_markdown(text: str, *, skill: str) -> str:
         # If we are in "Main ideas" block, coerce short lines into bullets until a real paragraph starts.
         if after_mainideas:
             s = ln.strip()
+            if skill.lower() == "speaking":
+                # Topic labels sometimes appear as a bullet immediately after the last main-ideas item.
+                # Treat them as structural headings, not bullets.
+                m_topic_bullet = re.fullmatch(r"-\s*(Gift|Hobby)\s*", s, flags=re.I)
+                if m_topic_bullet:
+                    out.append("")
+                    after_mainideas = False
+                    in_list = False
+                    out.append(f"### {m_topic_bullet.group(1).title()}")
+                    out.append("")
+                    i += 1
+                    continue
+                # Also catch plain topic labels like "Hobby" that would otherwise be bulletized.
+                if re.fullmatch(r"(Gift|Hobby)\s*", s, flags=re.I):
+                    out.append("")
+                    after_mainideas = False
+                    in_list = False
+                    continue
+                # If the next question/topic starts, end the Main ideas block cleanly so headings aren't swallowed.
+                if re.match(r"^####\s+\d+\.", s):
+                    out.append("")
+                    after_mainideas = False
+                    in_list = False
+                    continue
+                if re.match(r"^##\s+PART\s+\d+\b", s, flags=re.I):
+                    out.append("")
+                    after_mainideas = False
+                    in_list = False
+                    continue
+                if re.match(r"^###\s+(Gift|Hobby)\s*$", s, flags=re.I) or re.match(r"^-\s*(Gift|Hobby)\s*$", s, flags=re.I):
+                    out.append("")
+                    after_mainideas = False
+                    in_list = False
+                    continue
             if not s:
+                # In Speaking, DOCX sometimes inserts blank lines and even headings inside the "Main ideas" block.
+                # Be permissive and keep collecting bullets unless we hit a real structural break.
+                if skill.lower() == "speaking":
+                    j = i + 1
+                    while j < len(lines) and not lines[j].strip():
+                        j += 1
+                    if j < len(lines):
+                        raw_nxt = _normalize_underlines(lines[j].rstrip())
+                        if raw_nxt.lstrip().startswith("#"):
+                            mhd = re.match(r"^\s*(#{1,6})\s+(.+)$", raw_nxt)
+                            heading_text = _strip_md_emphasis(mhd.group(2).strip()) if mhd else ""
+                            if re.match(r"^(PART|SECTION)\b", heading_text, flags=re.I):
+                                out.append("")
+                                after_mainideas = False
+                                in_list = False
+                                i += 1
+                                continue
+                    i += 1
+                    continue
                 # Ignore blanks inside the block if the next non-empty line still looks like an item.
                 j = i + 1
                 while j < len(lines) and not lines[j].strip():
@@ -422,18 +527,26 @@ def clean_docx_markdown(text: str, *, skill: str) -> str:
             # treat short lines as bullets (pandoc sometimes turned them into headings)
             plain = s
             if re.match(r"^#{1,6}\s+", plain):
-                # Topic/part headings end the main-ideas block.
-                if re.match(r"^#{1,3}\s+", plain):
-                    after_mainideas = False
-                    in_list = False
-                    continue
+                mhd = re.match(r"^(#{1,6})\s+(.+)$", plain)
+                lvl = len(mhd.group(1)) if mhd else 6
                 heading_text = re.sub(r"^#{1,6}\s+", "", plain).strip()
-                # If this looks like a real structural heading, stop the main-ideas block.
+                heading_text = _strip_md_emphasis(heading_text)
+                # Structural headings should end the main-ideas block.
                 if re.match(r"^(PART|SECTION)\b", heading_text, flags=re.I):
                     after_mainideas = False
                     in_list = False
                     continue
-                plain = heading_text
+                # In Speaking, "Main ideas" bullets are sometimes styled as headings in DOCX.
+                # Treat long/sentence-like headings as bullet items instead of breaking structure.
+                if skill.lower() == "speaking" and lvl <= 3:
+                    if len(heading_text) > 30 or re.search(r"[.,'’]", heading_text):
+                        plain = heading_text
+                    else:
+                        after_mainideas = False
+                        in_list = False
+                        continue
+                else:
+                    plain = heading_text
             if re.match(r"^\*\*\d+\.", plain):
                 after_mainideas = False
                 in_list = False

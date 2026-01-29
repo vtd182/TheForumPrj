@@ -8,6 +8,7 @@
 local utils = require("pandoc.utils")
 
 local DOC_SKILL = ""
+local LAST_H2 = ""
 
 local function latex_escape(s)
   s = s:gsub("\\", "\\textbackslash{}")
@@ -316,8 +317,14 @@ local function render_cd_table(class_name, tbl)
 end
 
 local function handle_Header(el)
-  local text = latex_escape(inlines_to_text(el.content))
+  local raw_text = inlines_to_text(el.content)
+  local text = latex_escape(raw_text)
   if el.level == 2 then
+    LAST_H2 = raw_text
+    if (DOC_SKILL or ""):lower() == "speaking" and raw_text:match("^PART%s+2%s*$") then
+      -- Keep the Part 2 heading with the prompt box (avoid orphaned headings at page bottom).
+      return pandoc.RawBlock("latex", "\\needspace{22\\baselineskip}\n\\cdsection{" .. text .. "}")
+    end
     return pandoc.RawBlock("latex", "\\cdsection{" .. text .. "}")
   elseif el.level == 3 then
     return pandoc.RawBlock("latex", "\\cdstep{" .. text .. "}")
@@ -354,6 +361,14 @@ local function handle_Div(el)
   for _, c in ipairs(classes) do
     if c == "prompt" then
       local prompt_text = latex_escape(blocks_to_text(el.content))
+      if (DOC_SKILL or ""):lower() == "speaking" and (LAST_H2 or ""):match("^PART%s+2%s*$") then
+        -- Part 2 prompt should sit right under the Part 2 heading; reduce extra top skip so
+        -- the prompt doesn't overlap the preceding content (title badge protrudes upward).
+        return pandoc.RawBlock(
+          "latex",
+          "\\begingroup\\setlength{\\cdpromptbeforeskip}{34pt}\\workshopprompt{" .. prompt_text .. "}\\endgroup"
+        )
+      end
       return pandoc.RawBlock("latex", "\\workshopprompt{" .. prompt_text .. "}")
     end
     if c == "cdquestions" then
