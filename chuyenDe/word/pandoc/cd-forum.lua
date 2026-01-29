@@ -32,6 +32,7 @@ local TABLE_STYLE = {
   cdanswerkeytable = "CDAnswerKeyTable",
   cdreadingvocabtable = "CDReadingVocabTable",
   cdlisteningsectioncontainer = "CDListeningSectionContainer",
+  cdtranscripttable = "CDTranscriptTable",
 }
 
 local function set_custom_style(attr, style_name)
@@ -178,7 +179,15 @@ function Div(el)
                 colspecs[i] = { align, weights[i] }
               end
             elseif class_name == "cdreadingvocabtable" and ncols == 4 then
-              local weights = { 0.24, 0.14, 0.40, 0.22 }
+              -- Custom widths for vocab table
+              local weights = { 0.25, 0.15, 0.35, 0.25 }
+              for i = 1, ncols do
+                local align = blk.colspecs[i][1]
+                colspecs[i] = { align, weights[i] }
+              end
+            elseif class_name == "cdtranscripttable" and ncols == 2 then
+              -- 20% for Speaker, 80% for Dialogue
+              local weights = { 0.20, 0.80 }
               for i = 1, ncols do
                 local align = blk.colspecs[i][1]
                 colspecs[i] = { align, weights[i] }

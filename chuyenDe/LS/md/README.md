@@ -1,43 +1,84 @@
-# LS Markdown (Listening/Speaking) — nguồn chung cho DOCX & PDF
+# Listening Markdown Files - Formatting Guidelines
 
-Bạn chỉ cần chuẩn bị Markdown theo đúng quy ước, sau đó có thể xuất:
-- **DOCX** (editable) qua Pandoc + Word reference template
-- **PDF** qua Pandoc + LaTeX template
+## Transcript Formatting Rules
 
-## Cấu trúc thư mục đề xuất
+### Auto-Detection: Dialogue vs Monologue
 
-Đặt file vào:
+The transcript conversion script automatically detects whether a section contains:
+- **Dialogue** (2+ speakers) → Convert to 2-column table
+- **Monologue** (1 speaker) → Keep plain text format
 
-`chuyenDe/LS/md/raw47/<Skill>/Level<level>/W<week>.md`
+**Examples:**
 
-Ví dụ:
-- `chuyenDe/LS/md/raw47/Listening/Level1/W2.md`
-- `chuyenDe/LS/md/raw47/Speaking/Level3/W5.md`
+#### Dialogue (2+ speakers) → Table Format
+```markdown
+### SECTION 1
 
-## Frontmatter tối thiểu (khuyến nghị)
-
-```yaml
----
-title: "TÀI LIỆU CHUYÊN ĐỀ LISTENING"
-skill: Listening
-level: 1
-week: 2
----
+::: cdtranscripttable
+| Speaker | Dialogue |
+|---------|----------|
+| ANGELA | Hello, Flanders conference hotel. |
+| MAN | Oh, hi. I wanted to ask about... |
+:::
 ```
 
-Ghi chú:
-- `skill` dùng đúng một trong: `Listening` / `Speaking`
-- `title` không bắt buộc cho PDF cover (cover title lấy từ `::: collectiontitle ... :::` nếu có)
+#### Monologue (1 speaker) → Plain Text
+```markdown
+### SECTION 2
 
-## Component Markdown (dùng chung với RW)
+GUIDE: Welcome everyone to the National Museum...
+(continues in plain text)
+```
 
-- `::: collectiontitle ... :::` (dòng tiêu đề căn giữa dưới header)
-- `::: prompt ... :::` (box prompt)
-- `##` / `###` / `####` map sang các box section/step/green heading
-- Các bảng trong fenced div: `::: cdoptiontable`, `::: cdvocabtable`, ...
+### Important Rules
 
-## Regen nhanh
+1. **Never manually format transcripts** - Use `convert_transcript.py` script
+2. **Plain text for monologues** - Do NOT convert single-speaker sections to tables
+3. **Table for dialogues only** - Only use `::: cdtranscripttable` when 2+ speakers detected
+4. **Preserve speaker names** - Keep original UPPERCASE speaker labels
+5. **No empty cells** - Each dialogue must have both speaker and content
 
-- DOCX: `bash chuyenDe/scripts/ls_md_to_word.sh`
-- PDF: `bash chuyenDe/scripts/ls_md_to_pdf.sh`
+### Running the Conversion
 
+```bash
+cd LS
+python3 convert_transcript.py
+```
+
+The script will:
+- Detect number of unique speakers per section
+- Convert to table if 2+ speakers
+- Keep plain text if 1 speaker
+- Preserve all existing formatting and div wrappers
+
+## Section Container Guidelines
+
+### Wrapping Sections
+
+Each SECTION (questions + analysis) should be wrapped in:
+
+```markdown
+::: cdlisteningsection
+
+## SECTION 1 Question 1 -- 10
+[content]
+
+## Phần 1: Section 1
+[analysis]
+
+:::
+```
+
+### What NOT to Wrap
+
+- Answer Key sections
+- Transcript sections
+- Vocabulary tables
+- Frontmatter and collection title
+
+## Visual Styling
+
+- **Section containers**: Red borders with 3D shadow
+- **SECTION headers**: Centered, 14pt, blue
+- **CDStep spacing**: Increased to prevent sticking
+- **Transcript tables**: Alternating row colors (#F5F5F5)
