@@ -56,13 +56,13 @@ The script will:
 
 ### Wrapping Sections
 
-Each SECTION (questions + analysis) should be wrapped in:
+Each SECTION (questions + analysis) should be wrapped in `::: cdlisteningsection`:
 
 ```markdown
 ::: cdlisteningsection
 
 ## SECTION 1 Question 1 -- 10
-[content]
+[questions]
 
 ## Phần 1: Section 1
 [analysis]
@@ -70,11 +70,28 @@ Each SECTION (questions + analysis) should be wrapped in:
 :::
 ```
 
+### Auto-Wrapping Script
+
+Use `wrap_sections.py` to automatically wrap all SECTION blocks:
+
+```bash
+cd LS
+python3 wrap_sections.py
+```
+
+The script:
+- Finds all `## SECTION X` headers
+- Locates corresponding `## Phần X:` analysis sections
+- Wraps both in `::: cdlisteningsection ... :::`
+- Preserves all existing content and formatting
+
+**IMPORTANT:** Update the file paths in the script before running for new batches.
+
 ### What NOT to Wrap
 
-- Answer Key sections
-- Transcript sections
-- Vocabulary tables
+- Answer Key sections (## Phần X: Lời giải -- Answer Key)
+- Transcript sections (## Phần X: Lời băng -- Transcript)
+- Vocabulary tables (## Từ vựng)
 - Frontmatter and collection title
 
 ## Visual Styling

@@ -79,9 +79,9 @@ def wrap_listening_sections(filepath):
 
 if __name__ == '__main__':
     files = [
-        Path("/Users/lap15116/Desktop/TheForumPrj/chuyenDe/LS/md/rawls7/Listening/Level1/W8.md"),
-        Path("/Users/lap15116/Desktop/TheForumPrj/chuyenDe/LS/md/rawls7/Listening/Level2/W8.md"),
-        Path("/Users/lap15116/Desktop/TheForumPrj/chuyenDe/LS/md/rawls7/Listening/Level3/W8.md"),
+        Path("/Users/lap15116/Desktop/TheForumPrj/chuyenDe/LS/md/rawl6/Listening/Level1/W6.md"),
+        Path("/Users/lap15116/Desktop/TheForumPrj/chuyenDe/LS/md/rawl6/Listening/Level2/W6.md"),
+        Path("/Users/lap15116/Desktop/TheForumPrj/chuyenDe/LS/md/rawl6/Listening/Level3/W6.md"),
     ]
     
     for f in files:
@@ -91,3 +91,4 @@ if __name__ == '__main__':
             print(f"File not found: {f}")
     
     print("\n✅ All files wrapped!")
+
