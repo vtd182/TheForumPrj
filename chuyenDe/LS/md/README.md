@@ -37,6 +37,7 @@ GUIDE: Welcome everyone to the National Museum...
 3. **Table for dialogues only** - Only use `::: cdtranscripttable` when 2+ speakers detected
 4. **Preserve speaker names** - Keep original UPPERCASE speaker labels
 5. **No empty cells** - Each dialogue must have both speaker and content
+6. **Section headers are plain text** - No bold or heading formatting for "SECTION X" titles in transcripts
 
 ### Running the Conversion
 

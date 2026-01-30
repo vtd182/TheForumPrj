@@ -55,7 +55,7 @@ def convert_transcript_to_table(filepath):
                     if len(speakers) >= 2:
                         # DIALOGUE - convert to table with BOLD header
                         output_lines.append('')
-                        output_lines.append(f'**{section_title}**')  # Bold instead of ###
+                        output_lines.append(section_title)  # Plain text, no formatting
                         output_lines.append('')
                         output_lines.append('::: cdtranscripttable')
                         output_lines.append('')
@@ -80,9 +80,9 @@ def convert_transcript_to_table(filepath):
                         output_lines.append('')
                         output_lines.append(':::')
                     else:
-                        # MONOLOGUE - keep plain text with BOLD header
+                        # MONOLOGUE - keep plain text with plain header
                         output_lines.append('')
-                        output_lines.append(f'**{section_title}**')  # Bold instead of ###
+                        output_lines.append(section_title)  # Plain text, no formatting
                         output_lines.extend(lines[section_start:section_end])
                     
                     i = section_end
