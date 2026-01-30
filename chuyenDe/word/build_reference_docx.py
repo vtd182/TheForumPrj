@@ -637,6 +637,33 @@ def _styles_xml(*, normal_after_twips: int, tight: bool) -> str:
       <w:sz w:val="28"/>
     </w:rPr>
   </w:style>
+
+  <w:style w:type="paragraph" w:styleId="CDTranscriptSection">
+    <w:name w:val="CD Transcript Section"/>
+    <w:basedOn w:val="Normal"/>
+    <w:qFormat/>
+    <w:pPr>
+      <w:spacing w:before="160" w:after="80"/>
+    </w:pPr>
+    <w:rPr>
+      <w:rFonts w:ascii="Latin Modern Sans" w:hAnsi="Latin Modern Sans" w:cs="Latin Modern Sans"/>
+      <w:color w:val="{topicblue}"/>
+      <w:sz w:val="24"/>
+    </w:rPr>
+  </w:style>
+
+  <w:style w:type="paragraph" w:styleId="CDTranscriptContent">
+    <w:name w:val="CD Transcript Content"/>
+    <w:basedOn w:val="Normal"/>
+    <w:qFormat/>
+    <w:pPr>
+      <w:spacing w:before="0" w:after="120"/>
+    </w:pPr>
+    <w:rPr>
+      <w:rFonts w:ascii="Georgia" w:hAnsi="Georgia" w:cs="Georgia"/>
+      <w:sz w:val="24"/>
+    </w:rPr>
+  </w:style>
 </w:styles>
 """
 

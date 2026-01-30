@@ -109,6 +109,18 @@ function Header(el)
   return el
 end
 
+function Para(el)
+  -- Handle standalone "SECTION X" paragraphs in transcript (not headers)
+  -- These should be plain text, not bold like CD Section style
+  -- Note: pandoc.Para doesn't support attributes, so wrap in Div
+  local text = utils.stringify(el.content)
+  if text:match("^SECTION%s+%d+%s*$") then
+    -- Wrap in Div with custom-style for transcript section labels
+    return pandoc.Div({pandoc.Para(el.content)}, set_custom_style(pandoc.Attr("", {}, {}), "CD Transcript Section"))
+  end
+  return el
+end
+
 function BlockQuote(el)
   -- Treat blockquotes as notes by wrapping in a styled Div.
   return pandoc.Div(el.content, set_custom_style(pandoc.Attr("", {}, {}), "CD Note"))
@@ -213,6 +225,10 @@ function Div(el)
     if class_name == "cdquestions" then
       -- Apply paragraph style to all paragraphs inside this Div.
       return pandoc.Div(el.content, set_custom_style(el.attr, "CDQuestion"))
+    end
+    if class_name == "cdtranscriptsection" then
+      -- Apply plain style for transcript section content (reset from CDSection)
+      return pandoc.Div(el.content, set_custom_style(el.attr, "CD Transcript Content"))
     end
   end
 
