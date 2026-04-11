@@ -1,6 +1,6 @@
-# Listening Markdown Files - Formatting Guidelines
+# Listening & Speaking Markdown Files - Formatting Guidelines
 
-## 📌 Tham chiếu Format chuẩn (Reference Files)
+## 📌 Tham chiếu Format chuẩn — Listening
 
 Khi cần format hoặc kiểm tra lại cấu trúc Listening MD, hãy tham chiếu **2 bộ file sau** làm chuẩn:
 
@@ -8,6 +8,54 @@ Khi cần format hoặc kiểm tra lại cấu trúc Listening MD, hãy tham chi
 |---|---|---|
 | **W8** (rawls7) | `chuyenDe/LS/md/rawls7/Listening/` | `chuyenDe/LS/docx/rawls7/Listening/` |
 | **W12** (rawl12) | `chuyenDe/LS/md/rawl12/Listening/` | `chuyenDe/LS/docx/rawl12/Listening/` |
+
+## 📌 Tham chiếu Format chuẩn — Speaking
+
+Khi cần format hoặc kiểm tra lại cấu trúc Speaking MD, hãy tham chiếu **bộ file sau** làm chuẩn:
+
+| Bộ tài liệu | Đường dẫn MD | Đường dẫn DOCX |
+|---|---|---|
+| **W11** (raws11) | `chuyenDe/LS/md/raws11/Speaking/` | `chuyenDe/LS/docx/raws11/Speaking/` |
+| **W13** (raws13) | `chuyenDe/LS/md/raws13/Speaking/` | `chuyenDe/LS/docx/raws13/Speaking/` |
+
+> **Quy tắc:** Mọi file Speaking mới đều phải match cấu trúc của W11/W13 trước khi gen DOCX.
+
+---
+
+## ⚠️ Quy tắc bắt buộc khi format Speaking MD
+
+### 1. KHÔNG ĐƯỢC cắt bớt thông tin từ DOCX gốc
+
+Khi pandoc extract từ DOCX raw, **toàn bộ nội dung phải được giữ nguyên** — không được tóm tắt, bỏ bớt, hay gộp các phần lại. Thứ tự thông tin phải giữ **đúng trật tự gốc** trong file DOCX.
+
+Các thông tin quan trọng hay bị bỏ sót:
+- Phần **chi tiết Brainstorming** và **kỹ thuật mở rộng ý**
+- Phần phân tích từng từ vựng (bullet có *Ví dụ:* cụ thể) trong mục "Từ vựng gợi ý"
+- **Công thức** và **Phân tích** trong mỗi câu hỏi Part 1/Part 3
+- Các **chiến thuật** tổng hợp cuối phần tiêu chí
+
+### 2. KHÔNG dùng `>` blockquote cho ghi chú thông thường
+
+Trong file Word được gen từ pandoc, `>` blockquote → Style **CD Note** (màu **tím** — `#7A1FA2`, nền `#F6F0FA`).
+
+Tuy nhiên, tránh dùng `>` quá nhiều vì nó tạo màu nổi bật không phù hợp với các ghi chú thông thường. Chỉ dùng `>` cho:
+- Lưu ý quan trọng thực sự cần nhấn mạnh
+- Quy tắc hoặc cảnh báo critical
+
+Với các nội dung ghi chú bình thường (chiến thuật, tip), dùng bullet list thông thường hoặc heading.
+
+### 3. Heading level map → màu sắc trong Word
+
+| Markdown | Word Style | Màu |
+|---|---|---|
+| `##` | CD Section | Đỏ (`#E52B20`), nền xám nhạt |
+| `###` | CD Step | Xanh dương (`#1F4E79`), nền xanh nhạt |
+| `####` | CD Green Heading | **Xanh lá** (`#5AA244`) ← tránh dùng quá nhiều |
+| `>` blockquote | CD Note | **Tím** (`#7A1FA2`), nền tím nhạt |
+
+**Nguyên tắc:** Dùng `##` cho các phần chính (I, II, III, IV), dùng `###` cho câu hỏi và sub-section, dùng `####` chỉ khi thực sự cần nhấn mạnh một sub-sub-section.
+
+
 
 Cả hai bộ đều có đủ Level 1, 2, 3 và bao gồm đầy đủ các dạng:
 - **Section 1:** Form completion (dialogue 2 người → `cdtranscripttable`)
