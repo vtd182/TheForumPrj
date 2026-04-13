@@ -1,0 +1,123 @@
+% ============================================================
+% PREAMBLE — Tuyển tập câu hay & khó THPT QG 2026
+% The Forum Center
+% ============================================================
+% File này chỉ khai báo packages & import các module.
+% KHÔNG định nghĩa trực tiếp environments/commands ở đây.
+% ============================================================
+
+\documentclass[12pt, a4paper]{book}
+
+% --- Encoding & Vietnamese ---
+\usepackage[utf8]{inputenc}
+\usepackage[vietnamese]{babel}
+\usepackage{fontspec}
+
+% --- Page Geometry ---
+\usepackage[
+  top=2cm,
+  bottom=2cm,
+  left=2.5cm,
+  right=2cm,
+  headheight=16pt
+]{geometry}
+
+% --- Math ---
+\usepackage{amsmath, amssymb, amsfonts, mathtools}
+
+% --- Graphics & Colors ---
+\usepackage{graphicx}
+\graphicspath{{images/}}
+\usepackage[dvipsnames, svgnames, x11names]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{
+  calc,
+  positioning,
+  shadows,
+  decorations.pathreplacing,
+  decorations.markings,
+  arrows.meta,
+  patterns,
+  intersections,
+  through,
+  angles,
+  quotes,
+  3d,
+  perspective
+}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+% --- Tables ---
+\usepackage{tabularx, booktabs, array, multirow, multicol}
+\usepackage{colortbl}
+
+% --- Lists ---
+\usepackage{enumitem}
+
+% --- tcolorbox (for styled boxes) ---
+\usepackage[most, skins, breakable]{tcolorbox}
+
+% --- Header & Footer ---
+\usepackage{fancyhdr}
+
+% --- Hyperlinks ---
+\usepackage[
+  colorlinks=true,
+  linkcolor=ForumDarkBlue,
+  urlcolor=ForumOrange,
+  citecolor=ForumGreen
+]{hyperref}
+
+% --- Misc ---
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{etoolbox}
+\usepackage{pgffor}
+\usepackage{calc}
+
+% ============================================================
+% IMPORT MODULES
+% ============================================================
+
+% Bảng màu
+\input{styles/colors}
+
+% Chapter & Section styling
+\titleformat{\chapter}[display]
+  {\normalfont\Huge\bfseries\color{ForumDarkBlue}}
+  {\chaptertitlename\ \thechapter}
+  {20pt}
+  {\Huge}
+\titlespacing*{\chapter}{0pt}{-30pt}{20pt}
+
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{ForumDarkBlue}}
+  {\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries\color{ForumMidBlue}}
+  {\thesubsection}{1em}{}
+
+% Header & Footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\textit{\leftmark}}
+\fancyhead[RO]{\small\textit{The Forum Center}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% Tcolorbox environments
+\input{styles/environments}
+
+% Custom commands (đáp án, tags, math shortcuts)
+\input{styles/commands}
+
+% TikZ drawing library (BBT, đồ thị, hình học, số phức)
+\input{tikz/lib/tikz-math}

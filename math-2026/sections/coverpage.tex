@@ -1,0 +1,62 @@
+% ============================================================
+% COVER PAGE — Trang bìa
+% ============================================================
+
+\begin{titlepage}
+  \begin{tikzpicture}[remember picture, overlay]
+    % Background
+    \fill[ForumDarkBlue] (current page.south west) rectangle (current page.north east);
+    
+    % Decorative top band
+    \fill[ForumMidBlue, opacity=0.6] 
+      ([yshift=-3cm]current page.north west) rectangle (current page.north east);
+    
+    % Gold accent line
+    \draw[ForumGold, line width=2pt] 
+      ([yshift=-3cm]current page.north west) -- ([yshift=-3cm]current page.north east);
+    
+    % Bottom decorative
+    \fill[ForumMidBlue, opacity=0.3] 
+      (current page.south west) rectangle ([yshift=4cm]current page.south east);
+    \draw[ForumGold, line width=1pt] 
+      ([yshift=4cm]current page.south west) -- ([yshift=4cm]current page.south east);
+    
+    % Title block
+    \node[anchor=center, text width=14cm, align=center] 
+      at ([yshift=4cm]current page.center) {
+        {\fontsize{16}{20}\selectfont\sffamily\bfseries\color{ForumGold}
+          THE FORUM CENTER}\\[12pt]
+        {\fontsize{14}{18}\selectfont\sffamily\color{ForumSkyBlue}
+          Tổ Toán}\\[30pt]
+        {\fontsize{32}{38}\selectfont\sffamily\bfseries\color{white}
+          TUYỂN TẬP}\\[8pt]
+        {\fontsize{28}{34}\selectfont\sffamily\bfseries\color{ForumGold}
+          CÁC CÂU HAY \& KHÓ}\\[20pt]
+        {\fontsize{16}{20}\selectfont\sffamily\color{ForumSkyBlue}
+          Từ các đề thi thử THPT Quốc Gia 2026}\\[6pt]
+        {\fontsize{14}{18}\selectfont\sffamily\color{ForumGray}
+          Các trường \& Sở GD\&ĐT trên cả nước}
+      };
+
+    % Decorative math symbols (subtle)
+    \node[opacity=0.08, font=\fontsize{120}{120}\selectfont, text=white, rotate=15] 
+      at ([xshift=-4cm, yshift=-5cm]current page.center) {$\displaystyle\int$};
+    \node[opacity=0.08, font=\fontsize{80}{80}\selectfont, text=white, rotate=-10]
+      at ([xshift=5cm, yshift=-4cm]current page.center) {$\displaystyle\sum$};
+    \node[opacity=0.06, font=\fontsize{60}{60}\selectfont, text=white, rotate=20]
+      at ([xshift=3cm, yshift=-6cm]current page.center) {$\displaystyle\pi$};
+    \node[opacity=0.06, font=\fontsize{70}{70}\selectfont, text=white, rotate=-5]
+      at ([xshift=-5cm, yshift=-3cm]current page.center) {$\displaystyle\infty$};
+
+    % Bottom info
+    \node[anchor=south, text width=14cm, align=center] 
+      at ([yshift=1.5cm]current page.south) {
+        {\fontsize{11}{14}\selectfont\sffamily\color{ForumGray}
+          Biên soạn \& Tổng hợp bởi \textbf{\color{ForumGold}The Forum Center}}\\[4pt]
+        {\fontsize{11}{14}\selectfont\sffamily\color{ForumGray}
+          Năm học 2025 -- 2026}\\[4pt]
+        {\fontsize{10}{13}\selectfont\sffamily\color{ForumGray!70}
+          Phiên bản: v1.0 — Cập nhật: \today}
+      };
+  \end{tikzpicture}
+\end{titlepage}

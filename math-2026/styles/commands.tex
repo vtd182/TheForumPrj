@@ -1,0 +1,77 @@
+% ============================================================
+% CUSTOM COMMANDS — Lệnh tắt & tiện ích
+% ============================================================
+
+% --- Counters ---
+\newcounter{baitoanCounter}[chapter]
+\renewcommand{\thebaitoanCounter}{\thechapter.\arabic{baitoanCounter}}
+
+% --- Đáp án ABCD ---
+\newcommand{\dapan}[4]{%
+  \begin{enumerate}[label=\textbf{\Alph*.}, itemsep=2pt, leftmargin=2em]
+    \item #1
+    \item #2
+    \item #3
+    \item #4
+  \end{enumerate}
+}
+
+% Đáp án 2 cột
+\newcommand{\dapanhai}[4]{%
+  \begin{multicols}{2}
+    \begin{enumerate}[label=\textbf{\Alph*.}, itemsep=2pt, leftmargin=2em]
+      \item #1
+      \item #2
+      \item #3
+      \item #4
+    \end{enumerate}
+  \end{multicols}
+}
+
+% Đáp án 4 cột
+\newcommand{\dapanbon}[4]{%
+  \begin{multicols}{4}
+    \begin{enumerate}[label=\textbf{\Alph*.}, itemsep=2pt, leftmargin=2em]
+      \item #1
+      \item #2
+      \item #3
+      \item #4
+    \end{enumerate}
+  \end{multicols}
+}
+
+% --- Đánh dấu đáp án đúng ---
+\newcommand{\dung}[1]{\textbf{\textcolor{ForumGreen}{#1}}}
+
+% --- Tag mức độ ---
+\newcommand{\tagMucDo}[1]{%
+  \tcbox[
+    on line,
+    colback=ForumGold!20,
+    colframe=ForumGold,
+    boxrule=0.4pt,
+    arc=2pt,
+    left=3pt, right=3pt, top=1pt, bottom=1pt,
+    fontupper=\sffamily\footnotesize\bfseries
+  ]{\textcolor{ForumGold!80!black}{#1}}%
+}
+
+\newcommand{\mucDoTB}{\tagMucDo{Trung bình}}
+\newcommand{\mucDoKho}{\tagMucDo{Khó}}
+\newcommand{\mucDoRatKho}{\tagMucDo{Rất khó}}
+
+% --- Separator ---
+\newcommand{\separator}{%
+  \begin{center}
+    \textcolor{ForumGray}{\rule{0.6\textwidth}{0.5pt}}
+  \end{center}
+}
+
+% --- Toán học tiện ích ---
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\C}{\mathbb{C}}
+\DeclareMathOperator{\Ima}{Im}
+\DeclareMathOperator{\Rea}{Re}

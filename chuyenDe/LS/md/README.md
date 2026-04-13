@@ -1,6 +1,52 @@
 # Listening & Speaking Markdown Files - Formatting Guidelines
 
-## 📌 Tham chiếu Format chuẩn — Listening
+---
+
+## 🚨 RULE SỐ 1 — TUYỆT ĐỐI KHÔNG CẮT BỚT NỘI DUNG (ÁP DỤNG CHO CẢ 4 KỸ NĂNG)
+
+> **Đây là rule ưu tiên cao nhất. Bất kỳ thao tác format nào cũng phải tuân thủ rule này trước.**
+
+Khi chuyển đổi từ raw DOCX → Markdown, **100% nội dung phải được giữ nguyên**:
+
+- ❌ KHÔNG tóm tắt, rút gọn, gộp, hay bỏ bớt bất kỳ phần nào
+- ❌ KHÔNG bỏ qua phân tích câu hỏi nào — kể cả phân tích options sai (A/B/C/D/E)
+- ❌ KHÔNG đổi thứ tự thông tin so với file gốc
+- ✅ CHỈ được thêm formatting (heading, table, container) và từ vựng bổ sung
+
+### Nội dung hay bị bỏ sót nhầm
+
+| Kỹ năng | Thường bị cắt — CẦN GIỮ ĐỦ |
+|---|---|
+| **Listening** | Per-question keyword; option-by-option analysis (A/B/C kể cả sai); map landmark; trap warnings; note-taking examples với ví dụ tờ nháp mô phỏng |
+| **Speaking** | Công thức mở rộng ý (Contrast/Hypothetical); phân tích tiêu chí từng band; toàn bộ bài mẫu; từ vựng kèm ví dụ cụ thể |
+| **Reading** | "Từ khóa cần tìm", "Dẫn chứng trong bài", "Giải thích" trong MỖI câu; phân tích CÁC options sai |
+| **Writing** | Chi tiết brainstorming từng phe; phân tích từng từ vựng với ví dụ; tất cả công thức và chiến thuật |
+
+### Format bắt buộc khi phân tích từng câu hỏi (Listening)
+
+```markdown
+- **Câu N:**
+
+    - **Từ khóa cần tìm:** keyword1, keyword2, ...
+    - Audio: [quote nguyên văn từ transcript]
+    - Option A: ... → phân tích → ✔/✘
+    - Option B: ... → phân tích → ✔/✘
+    - Option C: ... → phân tích → ✔/✘
+```
+
+### Checklist trước khi gen DOCX
+
+- [ ] Tất cả câu hỏi (Q1..Qlast) có mặt + đúng số thứ tự?
+- [ ] Transcript đầy đủ, không cắt đoạn nào?
+- [ ] Mỗi option (kể cả sai) được giải thích riêng?
+- [ ] Map landmark (nếu có) được mô tả đầy đủ?
+- [ ] Thứ tự các phần đúng như file gốc?
+
+> Xem thêm chi tiết trong `chuyenDe/AGENT.md`
+
+---
+
+
 
 Khi cần format hoặc kiểm tra lại cấu trúc Listening MD, hãy tham chiếu **2 bộ file sau** làm chuẩn:
 

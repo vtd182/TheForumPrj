@@ -1,0 +1,33 @@
+% ============================================================
+% MAIN — Tuyển tập các câu hay & khó THPT QG 2026
+% The Forum Center — Tổ Toán
+% ============================================================
+% Compile:
+%   export PATH="/Library/TeX/texbin:$PATH"
+%   xelatex -output-directory=build main.tex  (chạy 2 lần)
+% ============================================================
+
+\input{preamble}
+
+\begin{document}
+
+% --- Trang bìa ---
+\input{sections/coverpage}
+
+% --- Front matter (mục lục, lời nói đầu) ---
+\input{sections/frontmatter}
+
+% --- Main matter (nội dung chính) ---
+\mainmatter
+
+\input{chapters/chuong01}  % Hàm số và ứng dụng
+\input{chapters/chuong02}  % Mũ — Logarit
+\input{chapters/chuong03}  % Tích phân
+\input{chapters/chuong04}  % Số phức
+\input{chapters/chuong05}  % Hình học không gian
+\input{chapters/chuong06}  % Xác suất — Thống kê
+
+% --- Back matter (đáp số, lộ trình) ---
+\input{sections/backmatter}
+
+\end{document}

@@ -1,6 +1,50 @@
 # Writing Markdown Files - Formatting Guidelines
 
-## 📌 Tham chiếu Format chuẩn (Reference Files)
+---
+
+## 🚨 RULE SỐ 1 — TUYỆT ĐỐI KHÔNG CẮT BỚT NỘI DUNG (ÁP DỤNG CHO CẢ 4 KỸ NĂNG)
+
+> **Đây là rule ưu tiên cao nhất. Bất kỳ thao tác format nào cũng phải tuân thủ rule này trước.**
+
+Khi chuyển đổi từ raw DOCX → Markdown, **100% nội dung phải được giữ nguyên**:
+
+- ❌ KHÔNG tóm tắt, rút gọn, gộp, hay bỏ bớt bất kỳ phần nào
+- ❌ KHÔNG bỏ qua phân tích câu hỏi nào — kể cả câu sai (wrong options)
+- ❌ KHÔNG đổi thứ tự thông tin so với file gốc
+- ✅ CHỈ được thêm formatting (heading, table, container) và từ vựng bổ sung
+
+### Nội dung hay bị bỏ sót nhầm
+
+| Kỹ năng | Thường bị cắt — CẦN GIỮ ĐỦ |
+|---|---|
+| **Reading** | "Từ khóa cần tìm", "Dẫn chứng trong bài", "Giải thích" trong MỖI câu; phân tích CÁC đáp án SAI |
+| **Writing** | Chi tiết brainstorming từng phe; phân tích từng từ vựng với ví dụ; tất cả công thức và chiến thuật |
+| **Listening** | Per-question keyword; option-by-option analysis kể cả options sai; map landmark; trap warnings |
+| **Speaking** | Công thức mở rộng ý; phân tích tiêu chí từng band; toàn bộ bài mẫu; từ vựng kèm ví dụ |
+
+### Format bắt buộc cho mỗi câu hỏi (Reading)
+
+```markdown
+### Câu N: [câu hỏi nguyên văn]
+
+- **Từ khóa cần tìm:** keyword1, keyword2, ...
+- **Dẫn chứng trong bài:** Đoạn X — *"quote nguyên văn từ bài đọc"*
+- **Giải thích:** Lý do đáp án đúng; lý do tại sao các options kia sai
+- **Đáp án: [đáp án]**
+```
+
+### Checklist trước khi gen DOCX
+
+- [ ] Tất cả câu hỏi có mặt + đúng số thứ tự?
+- [ ] Mỗi câu đủ: Từ khóa → Dẫn chứng → Giải thích → Đáp án?
+- [ ] Phân tích các đáp án SAI cũng có mặt đầy đủ?
+- [ ] Thứ tự các phần đúng như file gốc?
+
+> Xem thêm chi tiết trong `chuyenDe/AGENT.md`
+
+---
+
+
 
 Khi cần format hoặc kiểm tra lại cấu trúc Writing MD, hãy tham chiếu các bộ file sau làm chuẩn:
 
