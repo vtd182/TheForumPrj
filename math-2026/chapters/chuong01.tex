@@ -1,69 +1,55 @@
 % ============================================================
-% Chương 1: Hàm số và ứng dụng
+% Chương 1: Tối ưu hóa Thực tế (Kinh tế, Sản xuất, Chi phí)
 % ============================================================
 
-\chapter{Hàm số và ứng dụng}
+\chapter{Tối ưu hóa Thực tế}
+\begin{center}
+  \textit{\color{ForumDarkGray}Kinh tế — Sản xuất — Chi phí — Tài chính}
+\end{center}
 
-\section{Tính đơn điệu, cực trị}
+\section{Tối ưu chi phí sản xuất \& vận chuyển}
 
-% ---- Bài mẫu 1 ----
+% ---- Bài mẫu ----
 \begin{baitoan}{1.1 \hfill \tagNguon{Sở GD\&ĐT Hà Nội} \mucDoKho}
-Cho hàm số $y = x^3 - 3x^2 + 2$. Tìm tất cả các giá trị thực của tham số $m$ để phương trình $x^3 - 3x^2 + 2 = m$ có ba nghiệm phân biệt.
+Một xưởng mộc cần nhập $1200$ thanh gỗ mỗi năm. Chi phí mỗi lần đặt hàng là $500\,000$ đồng. Chi phí lưu trữ mỗi thanh gỗ trong một năm là $10\,000$ đồng. Mỗi lần đặt hàng, xưởng nhập về cùng một số lượng thanh gỗ. Hỏi mỗi lần đặt hàng, xưởng nên nhập bao nhiêu thanh gỗ để tổng chi phí (đặt hàng và lưu trữ) là nhỏ nhất?
 \end{baitoan}
 
 \begin{loigiai}
-Ta xét hàm số $f(x) = x^3 - 3x^2 + 2$.
+Gọi $x$ là số thanh gỗ nhập mỗi lần ($x > 0$, $x$ là ước của $1200$).
 
-\textbf{Bước 1:} Tính đạo hàm:
-\[ f'(x) = 3x^2 - 6x = 3x(x-2) \]
+\textbf{Bước 1:} Số lần đặt hàng trong năm: $n = \dfrac{1200}{x}$.
 
-\textbf{Bước 2:} Bảng biến thiên:
+\textbf{Bước 2:} Tổng chi phí:
+\begin{itemize}
+  \item Chi phí đặt hàng: $C_1 = \dfrac{1200}{x} \cdot 500\,000 = \dfrac{600\,000\,000}{x}$
+  \item Chi phí lưu trữ (trung bình $\frac{x}{2}$ thanh): $C_2 = \dfrac{x}{2} \cdot 10\,000 = 5000x$
+\end{itemize}
 
-\bbtBacBa{0}{2}{2}{-2}{-\infty}{+\infty}
+\textbf{Bước 3:} Tổng chi phí:
+\[ C(x) = \frac{600\,000\,000}{x} + 5000x \]
 
-\textbf{Bước 3:} Đồ thị hàm số $y = f(x)$:
+Áp dụng BĐT AM-GM:
+\[ C(x) \geq 2\sqrt{\frac{600\,000\,000}{x} \cdot 5000x} = 2\sqrt{3 \cdot 10^{12}} \]
 
-\begin{center}
-\begin{tikzpicture}
-  \begin{axis}[
-    forum graph small,
-    xmin=-2, xmax=4,
-    ymin=-4, ymax=4,
-    xtick={-1,0,1,2,3},
-    ytick={-2,0,2},
-  ]
-    % Đồ thị hàm số
-    \addplot[TikzCurve1, domain=-1.5:3.5] {x^3 - 3*x^2 + 2};
-    
-    % Đường y = m (minh họa m = 1)
-    \addplot[TikzCurve2, dashed, domain=-1.5:3.5] {1};
-    
-    % Điểm cực đại
-    \diemDB{0}{2}{$(0;2)$}{above right}
-    
-    % Điểm cực tiểu
-    \diemDB{2}{-2}{$(2;-2)$}{below left}
-    
-    \legend{$y=x^3-3x^2+2$, $y=m$}
-  \end{axis}
-\end{tikzpicture}
-\end{center}
+Dấu "$=$" xảy ra khi $\dfrac{600\,000\,000}{x} = 5000x \Leftrightarrow x^2 = 120\,000 \Leftrightarrow x \approx 346$.
 
-\textbf{Bước 4:} Kết luận: Phương trình có 3 nghiệm phân biệt khi và chỉ khi:
-\[ f(2) < m < f(0) \Leftrightarrow \boxed{-2 < m < 2} \]
+Kiểm tra $x = 300$ hoặc $x = 400$ (ước của $1200$) để chọn giá trị tối ưu thực tế.
 \end{loigiai}
 
-\begin{chotdang}{PT $f(x) = m$ có $n$ nghiệm}
-Số nghiệm của phương trình $f(x)=m$ bằng số giao điểm của đồ thị $y=f(x)$ và đường thẳng $y=m$. Sử dụng bảng biến thiên để xác định các khoảng giá trị $m$ tương ứng.
-\end{chotdang}
+\begin{meobotui}{Mô hình EOQ}
+Bài toán tối ưu lô hàng (Economic Order Quantity): Tổng chi phí = Chi phí đặt hàng + Chi phí lưu trữ $= \frac{aD}{x} + \frac{bx}{2}$. Dùng AM-GM hoặc đạo hàm để tìm cực tiểu.
+\end{meobotui}
 
 \separator
 
-% Thêm các bài toán khác ở đây...
-% Sử dụng cú pháp:
-% \begin{baitoan}{SỐ \hfill \tagNguon{NGUỒN} \mucDoKho}
-%   Đề bài...
-% \end{baitoan}
-% \begin{loigiai}
-%   Lời giải...
-% \end{loigiai}
+\section{Tối ưu lợi nhuận}
+
+% Thêm bài toán ở đây...
+
+\section{Tối ưu chi phí nguyên vật liệu}
+
+% Thêm bài toán ở đây...
+
+\section{Bài toán tài chính phức tạp}
+
+% Thêm bài toán ở đây...

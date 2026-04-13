@@ -163,7 +163,9 @@ xelatex -interaction=nonstopmode -output-directory=build main.tex
 | 2026-04-13 | Tái cấu trúc folder: tách `styles/`, `tikz/`, `sections/` | Modular, dễ bảo trì |
 | 2026-04-13 | Thêm TikZ drawing library (BBT, đồ thị, HHKG, số phức, XS) | Hỗ trợ vẽ hình trong đề |
 | 2026-04-13 | Thêm pgfplots, mở rộng TikZ libraries | Vẽ đồ thị hàm số |
-| 2026-04-13 | Thêm bài mẫu Ch.1 có BBT + đồ thị TikZ | Demo template hoàn chỉnh |
+| 2026-04-13 | Đổi 6 chương cũ → 5 chương mới theo chủ đề đề thi | Phù hợp nguồn đề thực tế |
+| 2026-04-13 | `chotdang` → `meobotui` ("Mẹo nhỏ bỏ túi") | Tên gần gũi, văn phong hơn |
+| 2026-04-13 | Bỏ tất cả icon (`$\star$`, `$\blacktriangleright$`...) khỏi title box | Gọn, sạch hơn |
 
 ---
 
