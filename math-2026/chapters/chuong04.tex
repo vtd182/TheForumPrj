@@ -4,13 +4,182 @@
 
 \chapter{Hàm số \& Mô hình Thực tế}
 \begin{center}
-  \textit{\color{ForumDarkGray}Mô hình Vật lý — Mô hình Sinh học — Hàm đa thức \& Hàm mũ}
+  \textit{\color{ForumDarkGray}Mô hình Vật lý — Mô hình Sinh học — Hàm mũ \& Logarit}
 \end{center}
 
-\section{Mô hình Vật lý}
+\section{Mô hình dịch bệnh \& Sinh học}
 
-% Tàu lượn siêu tốc, hàm bậc 3, cực trị đường ray, v.v.
+% ===== CÂU 1 =====
+\begin{baitoan}{1 \hfill \tagNguon{THPT Thọ Xuân 5 -- Thanh Hóa}}
+Sau khi phát hiện bệnh dịch, số người nhiễm bệnh từ ngày đầu đến ngày thứ $t$ là $f(t) = 45t^2 - t^3$ ($t \ge 0$). Đạo hàm $f'(t)$ được xem là tốc độ truyền bệnh (người/ngày).
 
-\section{Mô hình Sinh học}
+\begin{enumerate}[label=\alph*), leftmargin=2em]
+  \item Đến ngày thứ 45 thì không còn người nhiễm bệnh.
+  \item Trong 35 ngày đầu số người nhiễm bệnh luôn tăng.
+  \item Tốc độ truyền bệnh tại thời điểm $t$ là $f'(t) = 90t - 3t^2$.
+  \item Số người nhiễm bệnh đến ngày thứ 13 là 4752.
+\end{enumerate}
+\end{baitoan}
 
-% Hàm logistic, tốc độ tăng chiều cao, đạo hàm bậc 2, v.v.
+\begin{loigiai}
+\textbf{a) Đúng.} $f(45) = 45 \cdot 45^2 - 45^3 = 0$.
+
+\textbf{b) Sai.} $f'(t) = 90t - 3t^2 = 3t(30 - t)$. $f'(t) > 0 \Leftrightarrow 0 < t < 30$.
+
+Số bệnh nhân tăng trong \textbf{30} ngày đầu (không phải 35).
+
+\textbf{c) Đúng.} $f'(t) = 90t - 3t^2$.
+
+\textbf{d) Sai.} $f(13) = 45 \cdot 169 - 2197 = 7605 - 2197 = \boxed{5408}$.
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 6 =====
+\begin{baitoan}{2 \hfill \tagNguon{Sở GD\&ĐT Hưng Yên}}
+Chiều cao (cm) của một giống cây trồng tuân theo hàm logistic:
+\[ f(t) = \frac{500}{1 + 4e^{-t}}, \]
+trong đó $t$ (tháng) tính từ khi nảy mầm. Đạo hàm $f'(t)$ biểu thị tốc độ tăng chiều cao. Hỏi tại thời điểm tốc độ tăng chiều cao lớn nhất, chiều cao cây là bao nhiêu centimet?
+\end{baitoan}
+
+\begin{loigiai}
+\[ f'(t) = \frac{2000e^{-t}}{(1 + 4e^{-t})^2}. \]
+
+Đặt $u = e^{-t} > 0$. Để tìm cực đại của $f'(t)$, lấy $f''(t) = 0$, tương đương với $1 + 4u = 2 \cdot 4u$, suy ra $4e^{-t} = 1$, tức $e^{-t} = \dfrac{1}{4}$.
+
+Khi đó:
+\[ f(t) = \frac{500}{1 + 4 \cdot \frac{1}{4}} = \frac{500}{2} = \boxed{250 \text{ (cm)}}. \]
+\end{loigiai}
+
+\begin{meobotui}{Hàm logistic: max tốc độ tăng tại điểm uốn}
+Với hàm logistic $f(t) = \frac{L}{1 + ae^{-kt}}$, tốc độ tăng $f'(t)$ đạt cực đại tại điểm uốn, nơi $f(t) = \frac{L}{2}$.
+\end{meobotui}
+
+\separator
+
+\section{Mô hình chuyển động \& Vật lý}
+
+% ===== CÂU 2 =====
+\begin{baitoan}{3 \hfill \tagNguon{THPT Nguyễn Thị Minh Khai -- Hà Nội}}
+Anh Nam làm việc tại giàn khoan cách bờ biển 10\,km. Chị Mai làm tại cơ quan trên bờ cách anh Nam 6\,km phương ngang. Anh Nam đi thuyền (15\,km/h), chị Mai đi bộ (5\,km/h), cùng xuất phát và đến cùng lúc. Hỏi điểm gặp cách cơ quan chị Mai bao nhiêu km? (Làm tròn đến hàng phần trăm).
+\end{baitoan}
+
+\begin{loigiai}
+Gọi $x$ (km) là quãng đường chị Mai đi. Anh Nam đi: $\sqrt{100 + (6-x)^2}$ km.
+
+Hai người cùng thời gian:
+\[ \frac{x}{5} = \frac{\sqrt{100 + (6-x)^2}}{15}. \]
+
+\[ 3x = \sqrt{100 + (6-x)^2} \Rightarrow 9x^2 = 136 - 12x + x^2 \Rightarrow 8x^2 + 12x - 136 = 0. \]
+
+\[ x = \frac{-12 + \sqrt{144 + 4352}}{16} \approx \boxed{3{,}44 \text{ (km)}}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 3 =====
+\begin{baitoan}{4 \hfill \tagNguon{THPT NK -- LTT -- TP.HCM}}
+Hồ nước hình bán nguyệt có đường kính $AB = 150$\,m. Người chèo thuyền từ $A$ đến điểm $C$ trên cung (3\,km/h), nghỉ 2 phút, rồi chạy bộ dọc cung $CB$ đến $B$, sau đó chạy thẳng $BA$ về $A$ (6\,km/h). Hỏi thời gian chậm nhất? (Làm tròn đến hàng phần mười, đơn vị phút).
+\end{baitoan}
+
+\begin{loigiai}
+Gọi $\widehat{CAB} = \alpha$ (rad), $0 \le \alpha \le \dfrac{\pi}{2}$.
+
+$AB = 0{,}15$\,km, $R = 0{,}075$\,km.
+
+$t_{BA} = \dfrac{0{,}15}{6} = 0{,}025$ (giờ).
+
+$t_{AC} = \dfrac{0{,}15\cos\alpha}{3} = 0{,}05\cos\alpha$ (giờ).
+
+$CB = R \cdot 2\alpha = 0{,}15\alpha \Rightarrow t_{CB} = \dfrac{0{,}15\alpha}{6} = 0{,}025\alpha$ (giờ).
+
+\[ T(\alpha) = 0{,}05\cos\alpha + 0{,}025\alpha + 0{,}025 + \frac{1}{30}. \]
+
+$T'(\alpha) = -0{,}05\sin\alpha + 0{,}025 = 0 \Leftrightarrow \sin\alpha = \dfrac{1}{2} \Leftrightarrow \alpha = \dfrac{\pi}{6}$.
+
+\[ T_{\max} = T\!\left(\frac{\pi}{6}\right) \approx 0{,}1146 \text{ giờ} \approx \boxed{6{,}9 \text{ (phút)}}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 5 =====
+\begin{baitoan}{5 \hfill \tagNguon{Cụm trường THPT Hà Tĩnh}}
+Chiến sỹ đặc công cần bơi từ bờ $A$ sang điểm $M$ trên đoạn $BC$ ở bờ bên kia, rồi chạy từ $M$ đến $B$. Biết $AC = 60$\,m, $BC = 120$\,m, $AC \perp BC$, vận tốc dòng nước 1\,m/s, vận tốc bơi so với nước 1,5\,m/s, vận tốc chạy 3\,m/s. Thời gian ít nhất? (Làm tròn đến hàng đơn vị, đơn vị giây).
+\end{baitoan}
+
+\begin{loigiai}
+Vận tốc thực khi bơi: $v = \sqrt{1{,}5^2 - 1^2} = \dfrac{\sqrt{5}}{2}$ m/s (vì $AC \perp BC$).
+
+Đặt $CM = x$ ($0 \le x \le 120$). Thời gian:
+\[ t(x) = \frac{\sqrt{3600 + x^2}}{\frac{\sqrt{5}}{2}} + \frac{120 - x}{3} = \frac{2\sqrt{3600+x^2}}{\sqrt{5}} + \frac{120-x}{3}. \]
+
+Giải $t'(x) = 0$ để tìm cực tiểu: $t_{\min} \approx \boxed{487 \text{ (giây)}}$.
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 7 =====
+\begin{baitoan}{6 \hfill \tagNguon{THPT Yên Mô B -- Ninh Bình}}
+Một vật chuyển động với phương trình quãng đường $s(t) = -t^3 + 6t^2 + 15t$ (m), $t$ (giây).
+
+\begin{enumerate}[label=\alph*), leftmargin=2em]
+  \item Vận tốc tại $t = 2$ là 18\,m/s.
+  \item Vận tốc tại thời điểm $t$: $v(t) = -3t^2 + 12t + 15$.
+  \item Vật đạt vận tốc lớn nhất tại $t = 2$.
+  \item Vật dừng lại sau $t = 4$ giây.
+\end{enumerate}
+\end{baitoan}
+
+\begin{loigiai}
+$v(t) = s'(t) = -3t^2 + 12t + 15$.
+
+\textbf{a) Sai.} $v(2) = -12 + 24 + 15 = \boxed{27}$ (m/s).
+
+\textbf{b) Đúng.} $v(t) = -3t^2 + 12t + 15$.
+
+\textbf{c) Đúng.} $v'(t) = -6t + 12 = 0 \Rightarrow t = 2$. $v''(2) = -6 < 0 \Rightarrow$ cực đại tại $t = 2$.
+
+\textbf{d) Sai.} Vật dừng: $v(t) = 0 \Leftrightarrow -3t^2 + 12t + 15 = 0 \Leftrightarrow t = 5$ (nhận), $t = -1$ (loại).
+\end{loigiai}
+
+\separator
+
+\section{Mô hình tài chính}
+
+% ===== CÂU 4 =====
+\begin{baitoan}{7 \hfill \tagNguon{THPT Yên Mô B -- Ninh Bình}}
+Giá trị còn lại của một chiếc xe: $V(t) = 15000e^{-0{,}15t}$ (USD), $t$ (năm). Hỏi sau bao năm giá trị còn 4500\,USD? (Làm tròn đến hàng đơn vị).
+\end{baitoan}
+
+\begin{loigiai}
+\[ 15000e^{-0{,}15t} = 4500 \Leftrightarrow e^{-0{,}15t} = 0{,}3 \Leftrightarrow t = \frac{\ln 0{,}3}{-0{,}15} \approx \boxed{8 \text{ (năm)}}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 8 =====
+\begin{baitoan}{8 \hfill \tagNguon{Cụm liên trường THPT Hải Phòng}}
+Năm đầu đi làm, anh Huy lương 10 triệu/tháng. Mỗi năm tăng 12\% so với năm trước. Từ năm thứ 2, mỗi tháng anh cất phần lương tăng so với năm trước để mua ô tô giá 500 triệu (gia đình hỗ trợ 30\%). Hỏi sau ít nhất bao nhiêu năm anh Huy đủ tiền?
+\end{baitoan}
+
+\begin{loigiai}
+Số tiền cần góp: $500 - 500 \times 30\% = 350$ triệu.
+
+Lương năm thứ $k$: $10 \cdot 1{,}12^{k-1}$ triệu/tháng.
+
+Tiền tiết kiệm năm thứ $k$ ($k \ge 2$):
+\[ 12 \cdot \left[10 \cdot 1{,}12^{k-1} - 10 \cdot 1{,}12^{k-2}\right] = 120 \cdot 1{,}12^{k-2} \cdot 0{,}12 = 14{,}4 \cdot 1{,}12^{k-2}. \]
+
+Đây là cấp số nhân: $u_1 = 14{,}4$, $q = 1{,}12$.
+
+Tổng $n-1$ số hạng:
+\[ S_n = 14{,}4 \cdot \frac{1{,}12^{n-1} - 1}{0{,}12} = 120 \cdot (1{,}12^{n-1} - 1). \]
+
+\[ S_n \ge 350 \Leftrightarrow 1{,}12^{n-1} \ge \frac{47}{12} \Leftrightarrow n \ge 1 + \log_{1{,}12}\frac{47}{12} \approx 13{,}04. \]
+
+Vậy sau ít nhất $\boxed{13}$ năm anh Huy đủ tiền.
+\end{loigiai}
+
+\begin{meobotui}{Dạng tổng cấp số nhân}
+Tiền tiết kiệm mỗi năm lập thành CSN $\to$ dùng công thức $S_n = u_1 \cdot \dfrac{q^n - 1}{q - 1}$, rồi giải bất phương trình logarit.
+\end{meobotui}

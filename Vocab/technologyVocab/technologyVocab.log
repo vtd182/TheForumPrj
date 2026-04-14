@@ -1,9 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  20 JAN 2026 20:28
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  15 APR 2026 00:21
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**technologyVocab.tex
-(./technologyVocab.tex
+**/Users/lap15116/Desktop/TheForumPrj/Vocab/technologyVocab/technologyVocab
+(/Users/lap15116/Desktop/TheForumPrj/Vocab/technologyVocab/technologyVocab.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (./forumvocab.cls
@@ -24,19 +25,15 @@ File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
-eX and XeLaTeX
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
 \babel@savecnt=\count266
 \U@D=\dimen142
 \l@unhyphenated=\language90
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/xebabel.def)
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/xebabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count267
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-english/english.ldf
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -44,31 +41,23 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 (babel)             (\language22). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language22). Reported on input line 108.
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-vietnamese/vietnamese.ldf
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/babel-vietnamese/vietnamese.ldf
 Language: vietnamese 
 Package babel Info: Making " an active character on input line 147.
-))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/vi/babel-vietnames
-e.tex
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/vi/babel-vietnamese.tex
 Package babel Info: Importing font and identification data for vietnamese
 (babel)             from babel-vi.ini. Reported on input line 11.
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/en/babel-english.t
-ex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count268
@@ -83,10 +72,8 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen149
 \Gm@layoutvoffset=\dimen150
 \Gm@dimlist=\toks18
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-
 \f@nch@headwidth=\skip51
 \f@nch@offset@elh=\skip52
 \f@nch@offset@erh=\skip53
@@ -102,8 +89,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip63
 \f@nch@widthR=\skip64
 \@temptokenb=\toks19
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \c@tracingmulticols=\count271
 \mult@box=\box52
@@ -172,19 +158,15 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \mult@nat@firstbox=\box96
 \colbreak@box=\box97
 \mc@col@check@num=\count280
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 274.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/xetex.def
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `RGB' extended on input line 1365.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
@@ -193,54 +175,37 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2024/10/22 version 6.4.1 text color boxes
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks20
 \pgfutil@tempdima=\dimen160
 \pgfutil@tempdimb=\dimen161
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box98
-) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 106.
 )
 \Gin@req@height=\dimen162
 \Gin@req@width=\dimen163
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks21
 \pgfkeys@temptoks=\toks22
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfil
-tered.code.tex
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks23
 ))
 \pgf@x=\dimen164
@@ -263,72 +228,36 @@ tered.code.tex
 \t@pgf@tokb=\toks25
 \t@pgf@tokc=\toks26
 \pgf@sys@id@count=\count285
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-xetex.def
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
-f
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
 File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
-.def
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
 File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )
 \pgfsys@objnum=\count286
-)))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-code.tex
+))) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count287
 \pgfsyssoftpath@bigbuffer@items=\count288
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
-code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen174
 \pgfmath@count=\count289
 \pgfmath@box=\box99
 \pgfmath@toks=\toks27
 \pgfmath@stack@operand=\toks28
 \pgfmath@stack@operation=\toks29
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
-.code.tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
-erarithmetics.code.tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count290
-)) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
-de.tex
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen175
 \pgf@picmaxx=\dimen176
@@ -344,125 +273,75 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yy=\dimen186
 \pgf@zx=\dimen187
 \pgf@zy=\dimen188
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
-ruct.code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen189
 \pgf@path@lasty=\dimen190
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
-.code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen191
 \pgf@shorten@start@additional=\dimen192
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
-de.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box100
 \pgf@hbox=\box101
 \pgf@layerbox@main=\box102
 \pgf@picture@serial@count=\count291
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-ate.code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen193
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
-ations.code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen194
 \pgf@pt@y=\dimen195
 \pgf@pt@temp=\dimen196
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
-e.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
-ode.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
-ssing.code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
-de.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen197
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
-e.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen198
 \pgf@sys@shading@range@num=\count292
 \pgf@shadingcount=\count293
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
-e.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
-code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box103
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
-de.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
-ncy.code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
-code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
-tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
-e.tex
+))) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box104
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
-tex
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--0-65.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen199
 \pgf@nodesepend=\dimen256
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--1-18.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen257
 \pgffor@skip=\dimen258
 \pgffor@stack=\toks30
 \pgffor@toks=\toks31
-))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
-e.tex
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
-dlers.code.tex
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count294
 \pgfplotmarksize=\dimen259
@@ -483,35 +362,27 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikznumberofchildren=\count296
 \tikznumberofcurrentchild=\count297
 \tikz@fig@count=\count298
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
-e.tex
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfmatrixcurrentrow=\count299
 \pgfmatrixcurrentcolumn=\count300
 \pgf@matrix@numberofcolumns=\count301
 )
 \tikz@expandcount=\count302
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarytopaths.code.tex
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/verbatim.sty
+))) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks32
 \verbatim@line=\toks33
 \verbatim@in@stream=\read4
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/environ/environ.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks34
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count303
 )
@@ -528,18 +399,13 @@ Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \tcb@temp=\box115
 \tcb@temp=\box116
 \tcb@temp=\box117
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen269
 \ESO@tempdimb=\dimen270
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2025-01-18 L3 programming layer (loader) 
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
 \g__graphics_track_int=\count307
 \l__pdf_internal_box=\box118
@@ -549,10 +415,8 @@ File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
-X
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count310
 \l__fontspec_language_int=\count311
 \l__fontspec_strnum_int=\count312
@@ -567,62 +431,46 @@ X
 \l__fontspec_tmpa_dim=\dimen271
 \l__fontspec_tmpb_dim=\dimen272
 \l__fontspec_tmpc_dim=\dimen273
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarycalc.code.tex
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 
 Package fontspec Info: 
 (fontspec)             Font family 'LatinModernRoman(0)' created for font
 (fontspec)             'Latin Modern Roman' with options
-(fontspec)             [Ligatures=TeX,Path=../../font/latin-modern-roman/,Exten
-sion=.otf,UprightFont=lmroman10-regular,BoldFont=lmroman10-bold,ItalicFont=lmro
-man10-italic,BoldItalicFont=lmroman10-bolditalic].
+(fontspec)             [Ligatures=TeX,Path=../../font/latin-modern-roman/,Extension=.otf,UprightFont=lmroman10-regular,BoldFont=lmroman10-bold,ItalicFont=lmroman10-italic,BoldItalicFont=lmroman10-bolditalic].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-regular.otf
-]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-regular.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-bold.otf]/O
-T:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-bold.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-italic.otf]
-/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-italic.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-bolditalic.
-otf]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[../../font/latin-modern-roman/lmroman10-bolditalic.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
 
 
 Package fontspec Info: 
 (fontspec)             Font family 'LatinModernSans(0)' created for font
 (fontspec)             'Latin Modern Sans' with options
-(fontspec)             [Ligatures=TeX,Path=../../font/Latin-Modern-Sans/,Extens
-ion=.otf,UprightFont=lmsans10-regular,BoldFont=lmsans10-bold,ItalicFont=lmsans1
-0-oblique,BoldItalicFont=lmsans10-boldoblique].
+(fontspec)             [Ligatures=TeX,Path=../../font/Latin-Modern-Sans/,Extension=.otf,UprightFont=lmsans10-regular,BoldFont=lmsans10-bold,ItalicFont=lmsans10-oblique,BoldItalicFont=lmsans10-boldoblique].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-regular.otf]/
-OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-regular.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-bold.otf]/OT:
-script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-bold.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-oblique.otf]/
-OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-oblique.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-boldoblique.o
-tf]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[../../font/Latin-Modern-Sans/lmsans10-boldoblique.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
 
 
 Package fontspec Info: 
@@ -766,36 +614,27 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 11.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/LatinModernRoman(0)/m/n on input lin
-e 11.
+(Font)                  OT1/cmr/m/n --> TU/LatinModernRoman(0)/m/n on input line 11.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/LatinModernRoman(0)/m/n on input li
-ne 11.
+(Font)                  OT1/cmr/bx/n --> TU/LatinModernRoman(0)/m/n on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/LatinModernRoman(0)/m/n --> TU/LatinModernRoman(0)/m
-/n on input line 11.
+(Font)                  TU/LatinModernRoman(0)/m/n --> TU/LatinModernRoman(0)/m/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/LatinModernRoman(0)/m/it on input l
-ine 11.
+(Font)                  OT1/cmr/m/it --> TU/LatinModernRoman(0)/m/it on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/LatinModernRoman(0)/b/n on input li
-ne 11.
+(Font)                  OT1/cmr/bx/n --> TU/LatinModernRoman(0)/b/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/LatinModernSans(0)/m/n on input lin
-e 11.
+(Font)                  OT1/cmss/m/n --> TU/LatinModernSans(0)/m/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/LatinModernRoman(0)/m/n --> TU/LatinModernRoman(0)/b
-/n on input line 11.
+(Font)                  TU/LatinModernRoman(0)/m/n --> TU/LatinModernRoman(0)/b/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/LatinModernRoman(0)/b/it on input 
-line 11.
+(Font)                  OT1/cmr/bx/it --> TU/LatinModernRoman(0)/b/it on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/LatinModernSans(0)/b/n on input li
-ne 11.
+(Font)                  OT1/cmss/bx/n --> TU/LatinModernSans(0)/b/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 11.
 (./data.tex
@@ -805,32 +644,27 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 (Font)              scaled to size 12.02289pt on input line 9.
 
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
-[]\TU/LatinModernSans(0)/b/n/14.4 Automation[] \TU/TimesNewRoman(0)/m/it/12 /ˌɔ
-ːtəˈmeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+[]\TU/LatinModernSans(0)/b/n/14.4 Automation[] \TU/TimesNewRoman(0)/m/it/12 /ˌɔːtəˈmeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--15
-[]\TU/LatinModernSans(0)/b/n/14.4 Artificial Intelligence[] \TU/TimesNewRoman(0
-)/m/it/12 /ˌɑːrtɪfɪʃl
+[]\TU/LatinModernSans(0)/b/n/14.4 Artificial Intelligence[] \TU/TimesNewRoman(0)/m/it/12 /ˌɑːrtɪfɪʃl
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--15
-\TU/TimesNewRoman(0)/m/it/12 ɪnˈtelɪdʒəns/ (n) \TU/LatinModernRoman(0)/m/n/12 —
- The theory and
+\TU/TimesNewRoman(0)/m/it/12 ɪnˈtelɪdʒəns/ (n) \TU/LatinModernRoman(0)/m/n/12 — The theory and
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 21--21
-[]\TU/LatinModernSans(0)/b/n/14.4 Algorithm[] \TU/TimesNewRoman(0)/m/it/12 /ˈæl
-ɡərɪðəm/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Algorithm[] \TU/TimesNewRoman(0)/m/it/12 /ˈælɡərɪðəm/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--27
-[]\TU/LatinModernSans(0)/b/n/14.4 Bandwidth[] \TU/TimesNewRoman(0)/m/it/12 /ˈbæ
-ndwɪtθ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+[]\TU/LatinModernSans(0)/b/n/14.4 Bandwidth[] \TU/TimesNewRoman(0)/m/it/12 /ˈbændwɪtθ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
@@ -845,32 +679,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 33--33
-[]\TU/LatinModernSans(0)/b/n/14.4 Biotechnology[] \TU/TimesNewRoman(0)/m/it/12 
-/ˌbaɪoʊtekˈnɑːlədʒi/ (n)
+[]\TU/LatinModernSans(0)/b/n/14.4 Biotechnology[] \TU/TimesNewRoman(0)/m/it/12 /ˌbaɪoʊtekˈnɑːlədʒi/ (n)
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 39--39
-[]\TU/LatinModernSans(0)/b/n/14.4 Blockchain[] \TU/TimesNewRoman(0)/m/it/12 /ˈb
-lɑːktʃeɪn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Blockchain[] \TU/TimesNewRoman(0)/m/it/12 /ˈblɑːktʃeɪn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 45--45
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Clou
-d computing allows
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Cloud computing allows
  []
 
 
 Underfull \hbox (badness 7649) in paragraph at lines 57--57
-[]\TU/LatinModernSans(0)/b/n/14.4 Data mining[] \TU/TimesNewRoman(0)/m/it/12 /ˈ
-deɪtə ˌmaɪnɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Data mining[] \TU/TimesNewRoman(0)/m/it/12 /ˈdeɪtə ˌmaɪnɪŋ/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 63--63
-[]\TU/LatinModernSans(0)/b/n/14.4 Digitalization[] \TU/TimesNewRoman(0)/m/it/12
- /ˌdɪdʒɪtələˈzeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Digitalization[] \TU/TimesNewRoman(0)/m/it/12 /ˌdɪdʒɪtələˈzeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
@@ -879,8 +708,7 @@ File: ../wm/logoTF.png Graphic file (type bmp)
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 69--69
-[]\TU/LatinModernSans(0)/b/n/14.4 Encryption[] \TU/TimesNewRoman(0)/m/it/12 /ɪn
-ˈkrɪpʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+[]\TU/LatinModernSans(0)/b/n/14.4 Encryption[] \TU/TimesNewRoman(0)/m/it/12 /ɪnˈkrɪpʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
@@ -890,56 +718,47 @@ Underfull \hbox (badness 5771) in paragraph at lines 69--69
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 75--75
-[]\TU/LatinModernSans(0)/b/n/14.4 Gadget[] \TU/TimesNewRoman(0)/m/it/12 /ˈɡædʒɪ
-t/ (n) \TU/LatinModernRoman(0)/m/n/12 — A small
+[]\TU/LatinModernSans(0)/b/n/14.4 Gadget[] \TU/TimesNewRoman(0)/m/it/12 /ˈɡædʒɪt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A small
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]\TU/LatinModernSans(0)/b/n/14.4 Hardware[] \TU/TimesNewRoman(0)/m/it/12 /ˈhɑː
-rdwer/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+[]\TU/LatinModernSans(0)/b/n/14.4 Hardware[] \TU/TimesNewRoman(0)/m/it/12 /ˈhɑːrdwer/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
-computer’s hardware
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The computer’s hardware
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[]\TU/LatinModernSans(0)/b/n/14.4 Innovation[] \TU/TimesNewRoman(0)/m/it/12 /ˌɪ
-nəˈveɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+[]\TU/LatinModernSans(0)/b/n/14.4 Innovation[] \TU/TimesNewRoman(0)/m/it/12 /ˌɪnəˈveɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 99--99
-\TU/TimesNewRoman(0)/m/it/12 (n) \TU/LatinModernRoman(0)/m/n/12 — The interconn
-ection via the
+\TU/TimesNewRoman(0)/m/it/12 (n) \TU/LatinModernRoman(0)/m/n/12 — The interconnection via the
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 105--105
-[]\TU/LatinModernSans(0)/b/n/14.4 Nanotechnology[] \TU/TimesNewRoman(0)/m/it/12
- /ˌnænoʊtekˈnɑːlədʒi/
+[]\TU/LatinModernSans(0)/b/n/14.4 Nanotechnology[] \TU/TimesNewRoman(0)/m/it/12 /ˌnænoʊtekˈnɑːlədʒi/
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 111--111
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Plan
-ned obsolescence
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Planned obsolescence
  []
 
 
 Overfull \hbox (4.6248pt too wide) in paragraph at lines 123--123
-[]\TU/LatinModernSans(0)/b/n/14.4 Software[] \TU/TimesNewRoman(0)/m/it/12 /ˈsɔː
-ftwer/ (n) \TU/LatinModernRoman(0)/m/n/12 — The programs
+[]\TU/LatinModernSans(0)/b/n/14.4 Software[] \TU/TimesNewRoman(0)/m/it/12 /ˈsɔːftwer/ (n) \TU/LatinModernRoman(0)/m/n/12 — The programs
  []
 
 
 Overfull \hbox (21.25433pt too wide) in paragraph at lines 129--129
-[]\TU/LatinModernSans(0)/b/n/14.4 Telecommunications[] \TU/TimesNewRoman(0)/m/i
-t/12 /ˌtelikəˌmjuːnɪˈkeɪʃnz/
+[]\TU/LatinModernSans(0)/b/n/14.4 Telecommunications[] \TU/TimesNewRoman(0)/m/it/12 /ˌtelikəˌmjuːnɪˈkeɪʃnz/
  []
 
 
@@ -949,8 +768,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--129
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 129--129
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
-telecommunications
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The telecommunications
  []
 
 
@@ -962,44 +780,37 @@ File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [2]
 Underfull \hbox (badness 10000) in paragraph at lines 147--147
-[]\TU/LatinModernSans(0)/b/n/14.4 Wireless[] \TU/TimesNewRoman(0)/m/it/12 /ˈwaɪ
-ərləs/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Using
+[]\TU/LatinModernSans(0)/b/n/14.4 Wireless[] \TU/TimesNewRoman(0)/m/it/12 /ˈwaɪərləs/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Using
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 153--153
-[]\TU/LatinModernSans(0)/b/n/14.4 Aggregator[] \TU/TimesNewRoman(0)/m/it/12 /ˈæ
-ɡrɪɡeɪtər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Aggregator[] \TU/TimesNewRoman(0)/m/it/12 /ˈæɡrɪɡeɪtər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 159--159
-[]\TU/LatinModernSans(0)/b/n/14.4 Analytics[] \TU/TimesNewRoman(0)/m/it/12 /ˌæn
-əˈlɪtɪks/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+[]\TU/LatinModernSans(0)/b/n/14.4 Analytics[] \TU/TimesNewRoman(0)/m/it/12 /ˌænəˈlɪtɪks/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 165--165
-[]\TU/LatinModernSans(0)/b/n/14.4 App[] \TU/TimesNewRoman(0)/m/it/12 /æp/ (n) \
-TU/LatinModernRoman(0)/m/n/12 — An application,
+[]\TU/LatinModernSans(0)/b/n/14.4 App[] \TU/TimesNewRoman(0)/m/it/12 /æp/ (n) \TU/LatinModernRoman(0)/m/n/12 — An application,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--177
-[]\TU/LatinModernSans(0)/b/n/14.4 Authentication[] \TU/TimesNewRoman(0)/m/it/12
- /ɔːˌθentɪˈkeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Authentication[] \TU/TimesNewRoman(0)/m/it/12 /ɔːˌθentɪˈkeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--177
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Two-
-factor authentication
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Two-factor authentication
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 183--183
-[]\TU/LatinModernSans(0)/b/n/14.4 Avatar[] \TU/TimesNewRoman(0)/m/it/12 /ˈævətɑ
-ːr/ (n) \TU/LatinModernRoman(0)/m/n/12 — An icon or
+[]\TU/LatinModernSans(0)/b/n/14.4 Avatar[] \TU/TimesNewRoman(0)/m/it/12 /ˈævətɑːr/ (n) \TU/LatinModernRoman(0)/m/n/12 — An icon or
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
@@ -1011,8 +822,7 @@ Overfull \hbox (1.19116pt too wide) in paragraph at lines 213--213
 
 
 Underfull \hbox (badness 6380) in paragraph at lines 225--225
-[]\TU/LatinModernSans(0)/b/n/14.4 Browser[] \TU/TimesNewRoman(0)/m/it/12 /ˈbraʊ
-zər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A program
+[]\TU/LatinModernSans(0)/b/n/14.4 Browser[] \TU/TimesNewRoman(0)/m/it/12 /ˈbraʊzər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A program
  []
 
 
@@ -1022,34 +832,29 @@ Underfull \hbox (badness 7759) in paragraph at lines 225--225
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 249--249
-[]\TU/LatinModernSans(0)/b/n/14.4 Chip[] \TU/TimesNewRoman(0)/m/it/12 /tʃɪp/ (n
-) \TU/LatinModernRoman(0)/m/n/12 — A tiny wafer of
+[]\TU/LatinModernSans(0)/b/n/14.4 Chip[] \TU/TimesNewRoman(0)/m/it/12 /tʃɪp/ (n) \TU/LatinModernRoman(0)/m/n/12 — A tiny wafer of
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 261--261
-[]\TU/LatinModernSans(0)/b/n/14.4 Compatibility[] \TU/TimesNewRoman(0)/m/it/12 
-/kəmˌpætəˈbɪləti/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Compatibility[] \TU/TimesNewRoman(0)/m/it/12 /kəmˌpætəˈbɪləti/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 267--267
-[]\TU/LatinModernSans(0)/b/n/14.4 Configuration[] \TU/TimesNewRoman(0)/m/it/12 
-/kənˌfɪɡjəˈreɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Configuration[] \TU/TimesNewRoman(0)/m/it/12 /kənˌfɪɡjəˈreɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [4]
 Underfull \hbox (badness 10000) in paragraph at lines 285--285
-[]\TU/LatinModernSans(0)/b/n/14.4 CPU[] \TU/TimesNewRoman(0)/m/it/12 /ˌsiː piː 
-ˈjuː/ (n) \TU/LatinModernRoman(0)/m/n/12 — Central
+[]\TU/LatinModernSans(0)/b/n/14.4 CPU[] \TU/TimesNewRoman(0)/m/it/12 /ˌsiː piː ˈjuː/ (n) \TU/LatinModernRoman(0)/m/n/12 — Central
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 297--297
-[]\TU/LatinModernSans(0)/b/n/14.4 Cryptocurrency[] \TU/TimesNewRoman(0)/m/it/12
- /ˈkrɪptoʊkɜːrənsi/ (n)
+[]\TU/LatinModernSans(0)/b/n/14.4 Cryptocurrency[] \TU/TimesNewRoman(0)/m/it/12 /ˈkrɪptoʊkɜːrənsi/ (n)
  []
 
 
@@ -1064,32 +869,27 @@ Underfull \hbox (badness 5359) in paragraph at lines 297--297
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 303--303
-[]\TU/LatinModernSans(0)/b/n/14.4 Dashboard[] \TU/TimesNewRoman(0)/m/it/12 /ˈdæ
-ʃbɔːrd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Dashboard[] \TU/TimesNewRoman(0)/m/it/12 /ˈdæʃbɔːrd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
 Overfull \hbox (7.15842pt too wide) in paragraph at lines 309--309
-[]\TU/LatinModernSans(0)/b/n/14.4 Database[] \TU/TimesNewRoman(0)/m/it/12 /ˈdeɪ
-təbeɪs/ (n) \TU/LatinModernRoman(0)/m/n/12 — A structured
+[]\TU/LatinModernSans(0)/b/n/14.4 Database[] \TU/TimesNewRoman(0)/m/it/12 /ˈdeɪtəbeɪs/ (n) \TU/LatinModernRoman(0)/m/n/12 — A structured
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 309--309
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
-customer database
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The customer database
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 321--321
-[]\TU/LatinModernSans(0)/b/n/14.4 Decryption[] \TU/TimesNewRoman(0)/m/it/12 /di
-ːˈkrɪpʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+[]\TU/LatinModernSans(0)/b/n/14.4 Decryption[] \TU/TimesNewRoman(0)/m/it/12 /diːˈkrɪpʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
 Underfull \hbox (badness 7064) in paragraph at lines 327--327
-[]\TU/LatinModernSans(0)/b/n/14.4 Default[] \TU/TimesNewRoman(0)/m/it/12 /dɪˈfɔ
-ːlt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A preselected
+[]\TU/LatinModernSans(0)/b/n/14.4 Default[] \TU/TimesNewRoman(0)/m/it/12 /dɪˈfɔːlt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A preselected
  []
 
 
@@ -1101,8 +901,7 @@ File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [5]
 Underfull \hbox (badness 10000) in paragraph at lines 357--357
-[]\TU/LatinModernSans(0)/b/n/14.4 Domain[] \TU/TimesNewRoman(0)/m/it/12 /doʊˈme
-ɪn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A distinct
+[]\TU/LatinModernSans(0)/b/n/14.4 Domain[] \TU/TimesNewRoman(0)/m/it/12 /doʊˈmeɪn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A distinct
  []
 
 
@@ -1112,8 +911,7 @@ Overfull \hbox (29.22313pt too wide) in paragraph at lines 357--357
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 381--381
-[]\TU/LatinModernSans(0)/b/n/14.4 E-commerce[] \TU/TimesNewRoman(0)/m/it/12 /ˈi
-ː kɑːmɜːrs/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 E-commerce[] \TU/TimesNewRoman(0)/m/it/12 /ˈiː kɑːmɜːrs/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
@@ -1123,32 +921,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 381--381
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 381--381
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 E-co
-mmerce has grown
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 E-commerce has grown
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 387--387
-[]\TU/LatinModernSans(0)/b/n/14.4 Environment[] \TU/TimesNewRoman(0)/m/it/12 /ɪ
-nˈvaɪrənmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Environment[] \TU/TimesNewRoman(0)/m/it/12 /ɪnˈvaɪrənmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
 Underfull \hbox (badness 5847) in paragraph at lines 399--399
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Be c
-areful when opening
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Be careful when opening
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 405--405
-[]\TU/LatinModernSans(0)/b/n/14.4 Export[] \TU/TimesNewRoman(0)/m/it/12 /ɪkˈspɔ
-ːrt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To transfer
+[]\TU/LatinModernSans(0)/b/n/14.4 Export[] \TU/TimesNewRoman(0)/m/it/12 /ɪkˈspɔːrt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To transfer
  []
 
 
 Underfull \hbox (badness 7291) in paragraph at lines 411--411
-[]\TU/LatinModernSans(0)/b/n/14.4 Fiber optics[] \TU/TimesNewRoman(0)/m/it/12 /
-ˌfaɪbər ˈɑːptɪks/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Fiber optics[] \TU/TimesNewRoman(0)/m/it/12 /ˌfaɪbər ˈɑːptɪks/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
@@ -1162,50 +955,42 @@ File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [7]
 Underfull \hbox (badness 10000) in paragraph at lines 513--513
-[]\TU/LatinModernSans(0)/b/n/14.4 Hi-tech[] \TU/TimesNewRoman(0)/m/it/12 /ˌhaɪ 
-ˈtek/ (adj) \TU/LatinModernRoman(0)/m/n/12 — High
+[]\TU/LatinModernSans(0)/b/n/14.4 Hi-tech[] \TU/TimesNewRoman(0)/m/it/12 /ˌhaɪ ˈtek/ (adj) \TU/LatinModernRoman(0)/m/n/12 — High
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 519--519
-[]\TU/LatinModernSans(0)/b/n/14.4 Homepage[] \TU/TimesNewRoman(0)/m/it/12 /ˈhoʊ
-mpeɪdʒ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+[]\TU/LatinModernSans(0)/b/n/14.4 Homepage[] \TU/TimesNewRoman(0)/m/it/12 /ˈhoʊmpeɪdʒ/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-[]\TU/LatinModernSans(0)/b/n/14.4 Hotspot[] \TU/TimesNewRoman(0)/m/it/12 /ˈhɑːt
-spɑːt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A public
+[]\TU/LatinModernSans(0)/b/n/14.4 Hotspot[] \TU/TimesNewRoman(0)/m/it/12 /ˈhɑːtspɑːt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A public
  []
 
 
 Underfull \hbox (badness 6758) in paragraph at lines 543--543
-[]\TU/LatinModernSans(0)/b/n/14.4 Icon[] \TU/TimesNewRoman(0)/m/it/12 /ˈaɪkɑːn/
- (n) \TU/LatinModernRoman(0)/m/n/12 — A small symbol
+[]\TU/LatinModernSans(0)/b/n/14.4 Icon[] \TU/TimesNewRoman(0)/m/it/12 /ˈaɪkɑːn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A small symbol
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 555--555
-[]\TU/LatinModernSans(0)/b/n/14.4 Inbox[] \TU/TimesNewRoman(0)/m/it/12 /ˈɪnbɑːk
-s/ (n) \TU/LatinModernRoman(0)/m/n/12 — An electronic
+[]\TU/LatinModernSans(0)/b/n/14.4 Inbox[] \TU/TimesNewRoman(0)/m/it/12 /ˈɪnbɑːks/ (n) \TU/LatinModernRoman(0)/m/n/12 — An electronic
  []
 
 
 Underfull \hbox (badness 6927) in paragraph at lines 561--561
-[]\TU/LatinModernSans(0)/b/n/14.4 Input[] \TU/TimesNewRoman(0)/m/it/12 /ˈɪnpʊt/
- (n) \TU/LatinModernRoman(0)/m/n/12 — Data or signals
+[]\TU/LatinModernSans(0)/b/n/14.4 Input[] \TU/TimesNewRoman(0)/m/it/12 /ˈɪnpʊt/ (n) \TU/LatinModernRoman(0)/m/n/12 — Data or signals
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 567--567
-[]\TU/LatinModernSans(0)/b/n/14.4 Install[] \TU/TimesNewRoman(0)/m/it/12 /ɪnˈst
-ɔːl/ (v) \TU/LatinModernRoman(0)/m/n/12 — To place
+[]\TU/LatinModernSans(0)/b/n/14.4 Install[] \TU/TimesNewRoman(0)/m/it/12 /ɪnˈstɔːl/ (v) \TU/LatinModernRoman(0)/m/n/12 — To place
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 573--573
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The 
-website has several
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 The website has several
  []
 
 
@@ -1217,14 +1002,12 @@ File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [8]
 Underfull \hbox (badness 10000) in paragraph at lines 585--585
-[]\TU/LatinModernSans(0)/b/n/14.4 IP address[] \TU/TimesNewRoman(0)/m/it/12 /ˌa
-ɪ ˈpiː ədres/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 IP address[] \TU/TimesNewRoman(0)/m/it/12 /ˌaɪ ˈpiː ədres/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
 Overfull \hbox (5.04471pt too wide) in paragraph at lines 591--591
-[]\TU/LatinModernSans(0)/b/n/14.4 IT[] \TU/TimesNewRoman(0)/m/it/12 /ˌaɪ ˈtiː/ 
-(n) \TU/LatinModernRoman(0)/m/n/12 — Information Technology;
+[]\TU/LatinModernSans(0)/b/n/14.4 IT[] \TU/TimesNewRoman(0)/m/it/12 /ˌaɪ ˈtiː/ (n) \TU/LatinModernRoman(0)/m/n/12 — Information Technology;
  []
 
 
@@ -1244,14 +1027,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 597--597
 
 
 Underfull \hbox (badness 5331) in paragraph at lines 603--603
-[]\TU/LatinModernSans(0)/b/n/14.4 Keyboard[] \TU/TimesNewRoman(0)/m/it/12 /ˈkiː
-bɔːrd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A set of
+[]\TU/LatinModernSans(0)/b/n/14.4 Keyboard[] \TU/TimesNewRoman(0)/m/it/12 /ˈkiːbɔːrd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A set of
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 609--609
-[]\TU/LatinModernSans(0)/b/n/14.4 Keyword[] \TU/TimesNewRoman(0)/m/it/12 /ˈkiːw
-ɜːrd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A word
+[]\TU/LatinModernSans(0)/b/n/14.4 Keyword[] \TU/TimesNewRoman(0)/m/it/12 /ˈkiːwɜːrd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A word
  []
 
 
@@ -1266,52 +1047,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 609--609
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 609--609
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 You 
-should use specific
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 You should use specific
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 615--615
-[]\TU/LatinModernSans(0)/b/n/14.4 Laptop[] \TU/TimesNewRoman(0)/m/it/12 /ˈlæptɑ
-ːp/ (n) \TU/LatinModernRoman(0)/m/n/12 — A computer
+[]\TU/LatinModernSans(0)/b/n/14.4 Laptop[] \TU/TimesNewRoman(0)/m/it/12 /ˈlæptɑːp/ (n) \TU/LatinModernRoman(0)/m/n/12 — A computer
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 627--627
-[]\TU/LatinModernSans(0)/b/n/14.4 Load[] \TU/TimesNewRoman(0)/m/it/12 /loʊd/ (v
-) \TU/LatinModernRoman(0)/m/n/12 — To transfer (a
+[]\TU/LatinModernSans(0)/b/n/14.4 Load[] \TU/TimesNewRoman(0)/m/it/12 /loʊd/ (v) \TU/LatinModernRoman(0)/m/n/12 — To transfer (a
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 645--645
-[]\TU/LatinModernSans(0)/b/n/14.4 Malware[] \TU/TimesNewRoman(0)/m/it/12 /ˈmælw
-er/ (n) \TU/LatinModernRoman(0)/m/n/12 — Software
+[]\TU/LatinModernSans(0)/b/n/14.4 Malware[] \TU/TimesNewRoman(0)/m/it/12 /ˈmælwer/ (n) \TU/LatinModernRoman(0)/m/n/12 — Software
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 651--651
-[]\TU/LatinModernSans(0)/b/n/14.4 Menu[] \TU/TimesNewRoman(0)/m/it/12 /ˈmenjuː/
- (n) \TU/LatinModernRoman(0)/m/n/12 — A list of
+[]\TU/LatinModernSans(0)/b/n/14.4 Menu[] \TU/TimesNewRoman(0)/m/it/12 /ˈmenjuː/ (n) \TU/LatinModernRoman(0)/m/n/12 — A list of
  []
 
 
 Underfull \hbox (badness 6995) in paragraph at lines 651--651
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 You 
-can find the print
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 You can find the print
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [9]
 Underfull \hbox (badness 10000) in paragraph at lines 669--669
-[]\TU/LatinModernSans(0)/b/n/14.4 Monitor[] \TU/TimesNewRoman(0)/m/it/12 /ˈmɑːn
-ɪtər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A screen
+[]\TU/LatinModernSans(0)/b/n/14.4 Monitor[] \TU/TimesNewRoman(0)/m/it/12 /ˈmɑːnɪtər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A screen
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 675--675
-[]\TU/LatinModernSans(0)/b/n/14.4 Motherboard[] \TU/TimesNewRoman(0)/m/it/12 /ˈ
-mʌðərbɔːrd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Motherboard[] \TU/TimesNewRoman(0)/m/it/12 /ˈmʌðərbɔːrd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
@@ -1321,8 +1094,7 @@ Underfull \hbox (badness 6428) in paragraph at lines 675--675
 
 
 Underfull \hbox (badness 6910) in paragraph at lines 699--699
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 You 
-can work on your
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 You can work on your
  []
 
 
@@ -1332,28 +1104,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 717--717
 
 
 Underfull \hbox (badness 5064) in paragraph at lines 729--729
-[]\TU/LatinModernSans(0)/b/n/14.4 Password[] \TU/TimesNewRoman(0)/m/it/12 /ˈpæs
-wɜːrd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A secret
+[]\TU/LatinModernSans(0)/b/n/14.4 Password[] \TU/TimesNewRoman(0)/m/it/12 /ˈpæswɜːrd/ (n) \TU/LatinModernRoman(0)/m/n/12 — A secret
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [10]
 Underfull \hbox (badness 10000) in paragraph at lines 741--741
-[]\TU/LatinModernSans(0)/b/n/14.4 PDF[] \TU/TimesNewRoman(0)/m/it/12 /ˌpiː diː 
-ˈef/ (n) \TU/LatinModernRoman(0)/m/n/12 — Portable
+[]\TU/LatinModernSans(0)/b/n/14.4 PDF[] \TU/TimesNewRoman(0)/m/it/12 /ˌpiː diː ˈef/ (n) \TU/LatinModernRoman(0)/m/n/12 — Portable
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 747--747
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Prin
-ters, scanners, and
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Printers, scanners, and
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 771--771
-[]\TU/LatinModernSans(0)/b/n/14.4 Plugin[] \TU/TimesNewRoman(0)/m/it/12 /ˈplʌɡɪ
-n/ (n) \TU/LatinModernRoman(0)/m/n/12 — A software
+[]\TU/LatinModernSans(0)/b/n/14.4 Plugin[] \TU/TimesNewRoman(0)/m/it/12 /ˈplʌɡɪn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A software
  []
 
 
@@ -1363,8 +1131,7 @@ Underfull \hbox (badness 5741) in paragraph at lines 777--777
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 783--783
-[]\TU/LatinModernSans(0)/b/n/14.4 Portal[] \TU/TimesNewRoman(0)/m/it/12 /ˈpɔːrt
-l/ (n) \TU/LatinModernRoman(0)/m/n/12 — A website or
+[]\TU/LatinModernSans(0)/b/n/14.4 Portal[] \TU/TimesNewRoman(0)/m/it/12 /ˈpɔːrtl/ (n) \TU/LatinModernRoman(0)/m/n/12 — A website or
  []
 
 
@@ -1374,22 +1141,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 783--783
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 807--807
-[]\TU/LatinModernSans(0)/b/n/14.4 Programmer[] \TU/TimesNewRoman(0)/m/it/12 /ˈp
-roʊɡræmər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Programmer[] \TU/TimesNewRoman(0)/m/it/12 /ˈproʊɡræmər/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [11]
 Underfull \hbox (badness 10000) in paragraph at lines 807--807
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 She 
-is a very talented
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 She is a very talented
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 813--813
-[]\TU/LatinModernSans(0)/b/n/14.4 Protocol[] \TU/TimesNewRoman(0)/m/it/12 /ˈpro
-ʊtəkɑːl/ (n) \TU/LatinModernRoman(0)/m/n/12 — A set
+[]\TU/LatinModernSans(0)/b/n/14.4 Protocol[] \TU/TimesNewRoman(0)/m/it/12 /ˈproʊtəkɑːl/ (n) \TU/LatinModernRoman(0)/m/n/12 — A set
  []
 
 
@@ -1399,26 +1163,22 @@ Underfull \hbox (badness 6910) in paragraph at lines 813--813
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 819--819
-[]\TU/LatinModernSans(0)/b/n/14.4 RAM[] \TU/TimesNewRoman(0)/m/it/12 /ræm/ (n) 
-\TU/LatinModernRoman(0)/m/n/12 — Random Access
+[]\TU/LatinModernSans(0)/b/n/14.4 RAM[] \TU/TimesNewRoman(0)/m/it/12 /ræm/ (n) \TU/LatinModernRoman(0)/m/n/12 — Random Access
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 825--825
-[]\TU/LatinModernSans(0)/b/n/14.4 Resolution[] \TU/TimesNewRoman(0)/m/it/12 /ˌr
-ezəˈluːʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+[]\TU/LatinModernSans(0)/b/n/14.4 Resolution[] \TU/TimesNewRoman(0)/m/it/12 /ˌrezəˈluːʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 849--849
-[]\TU/LatinModernSans(0)/b/n/14.4 Screenshot[] \TU/TimesNewRoman(0)/m/it/12 /ˈs
-kriːnʃɑːt/ (n) \TU/LatinModernRoman(0)/m/n/12 — An
+[]\TU/LatinModernSans(0)/b/n/14.4 Screenshot[] \TU/TimesNewRoman(0)/m/it/12 /ˈskriːnʃɑːt/ (n) \TU/LatinModernRoman(0)/m/n/12 — An
  []
 
 
 Underfull \hbox (badness 5592) in paragraph at lines 861--861
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 You 
-should take security
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 You should take security
  []
 
 
@@ -1428,34 +1188,29 @@ Underfull \hbox (badness 5711) in paragraph at lines 861--861
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 873--873
-[]\TU/LatinModernSans(0)/b/n/14.4 Settings[] \TU/TimesNewRoman(0)/m/it/12 /ˈset
-ɪŋz/ (n) \TU/LatinModernRoman(0)/m/n/12 — The options
+[]\TU/LatinModernSans(0)/b/n/14.4 Settings[] \TU/TimesNewRoman(0)/m/it/12 /ˈsetɪŋz/ (n) \TU/LatinModernRoman(0)/m/n/12 — The options
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 879--879
-[]\TU/LatinModernSans(0)/b/n/14.4 Shareware[] \TU/TimesNewRoman(0)/m/it/12 /ˈʃe
-rwer/ (n) \TU/LatinModernRoman(0)/m/n/12 — Software
+[]\TU/LatinModernSans(0)/b/n/14.4 Shareware[] \TU/TimesNewRoman(0)/m/it/12 /ˈʃerwer/ (n) \TU/LatinModernRoman(0)/m/n/12 — Software
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [12]
 Underfull \hbox (badness 10000) in paragraph at lines 897--897
-[]\TU/LatinModernSans(0)/b/n/14.4 Smartphone[] \TU/TimesNewRoman(0)/m/it/12 /ˈs
-mɑːrtfoʊn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Smartphone[] \TU/TimesNewRoman(0)/m/it/12 /ˈsmɑːrtfoʊn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
 Underfull \hbox (badness 8075) in paragraph at lines 903--903
-[]\TU/LatinModernSans(0)/b/n/14.4 Social media[] \TU/TimesNewRoman(0)/m/it/12 /
-ˌsoʊʃl ˈmiːdiə/ (n) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Social media[] \TU/TimesNewRoman(0)/m/it/12 /ˌsoʊʃl ˈmiːdiə/ (n) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 909--909
-[]\TU/LatinModernSans(0)/b/n/14.4 Spam[] \TU/TimesNewRoman(0)/m/it/12 /spæm/ (n
-) \TU/LatinModernRoman(0)/m/n/12 — Irrelevant or
+[]\TU/LatinModernSans(0)/b/n/14.4 Spam[] \TU/TimesNewRoman(0)/m/it/12 /spæm/ (n) \TU/LatinModernRoman(0)/m/n/12 — Irrelevant or
  []
 
 
@@ -1470,64 +1225,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 927--927
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 939--939
-[]\TU/LatinModernSans(0)/b/n/14.4 Tablet[] \TU/TimesNewRoman(0)/m/it/12 /ˈtæblə
-t/ (n) \TU/LatinModernRoman(0)/m/n/12 — A portable
+[]\TU/LatinModernSans(0)/b/n/14.4 Tablet[] \TU/TimesNewRoman(0)/m/it/12 /ˈtæblət/ (n) \TU/LatinModernRoman(0)/m/n/12 — A portable
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 951--951
-[]\TU/LatinModernSans(0)/b/n/14.4 Template[] \TU/TimesNewRoman(0)/m/it/12 /ˈtem
-plet/ (n) \TU/LatinModernRoman(0)/m/n/12 — A pre-
+[]\TU/LatinModernSans(0)/b/n/14.4 Template[] \TU/TimesNewRoman(0)/m/it/12 /ˈtemplet/ (n) \TU/LatinModernRoman(0)/m/n/12 — A pre-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 963--963
-[]\TU/LatinModernSans(0)/b/n/14.4 Text[] \TU/TimesNewRoman(0)/m/it/12 /tekst/ (
-v) \TU/LatinModernRoman(0)/m/n/12 — To send a text
+[]\TU/LatinModernSans(0)/b/n/14.4 Text[] \TU/TimesNewRoman(0)/m/it/12 /tekst/ (v) \TU/LatinModernRoman(0)/m/n/12 — To send a text
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [13]
 Underfull \hbox (badness 5217) in paragraph at lines 975--975
-[]\TU/LatinModernSans(0)/b/n/14.4 Thumbnail[] \TU/TimesNewRoman(0)/m/it/12 /ˈθʌ
-mneɪl/ (n) \TU/LatinModernRoman(0)/m/n/12 — A small
+[]\TU/LatinModernSans(0)/b/n/14.4 Thumbnail[] \TU/TimesNewRoman(0)/m/it/12 /ˈθʌmneɪl/ (n) \TU/LatinModernRoman(0)/m/n/12 — A small
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 987--987
-[]\TU/LatinModernSans(0)/b/n/14.4 Toolbar[] \TU/TimesNewRoman(0)/m/it/12 /ˈtuːl
-bɑːr/ (n) \TU/LatinModernRoman(0)/m/n/12 — A strip of
+[]\TU/LatinModernSans(0)/b/n/14.4 Toolbar[] \TU/TimesNewRoman(0)/m/it/12 /ˈtuːlbɑːr/ (n) \TU/LatinModernRoman(0)/m/n/12 — A strip of
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 993--993
-[]\TU/LatinModernSans(0)/b/n/14.4 Touchscreen[] \TU/TimesNewRoman(0)/m/it/12 /ˈ
-tʌtʃskriːn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Touchscreen[] \TU/TimesNewRoman(0)/m/it/12 /ˈtʌtʃskriːn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1005--1005
-[]\TU/LatinModernSans(0)/b/n/14.4 Update[] \TU/TimesNewRoman(0)/m/it/12 /ˌʌpˈde
-ɪt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To make
+[]\TU/LatinModernSans(0)/b/n/14.4 Update[] \TU/TimesNewRoman(0)/m/it/12 /ˌʌpˈdeɪt/ (v) \TU/LatinModernRoman(0)/m/n/12 — To make
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1011--1011
-[]\TU/LatinModernSans(0)/b/n/14.4 Upload[] \TU/TimesNewRoman(0)/m/it/12 /ˌʌpˈlo
-ʊd/ (v) \TU/LatinModernRoman(0)/m/n/12 — To transfer
+[]\TU/LatinModernSans(0)/b/n/14.4 Upload[] \TU/TimesNewRoman(0)/m/it/12 /ˌʌpˈloʊd/ (v) \TU/LatinModernRoman(0)/m/n/12 — To transfer
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
-[]\TU/LatinModernSans(0)/b/n/14.4 URL[] \TU/TimesNewRoman(0)/m/it/12 /ˌjuː ɑːr 
-ˈel/ (n) \TU/LatinModernRoman(0)/m/n/12 — Uniform
+[]\TU/LatinModernSans(0)/b/n/14.4 URL[] \TU/TimesNewRoman(0)/m/it/12 /ˌjuː ɑːr ˈel/ (n) \TU/LatinModernRoman(0)/m/n/12 — Uniform
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1041--1041
-[]\TU/LatinModernSans(0)/b/n/14.4 Webcam[] \TU/TimesNewRoman(0)/m/it/12 /ˈwebkæ
-m/ (n) \TU/LatinModernRoman(0)/m/n/12 — A video
+[]\TU/LatinModernSans(0)/b/n/14.4 Webcam[] \TU/TimesNewRoman(0)/m/it/12 /ˈwebkæm/ (n) \TU/LatinModernRoman(0)/m/n/12 — A video
  []
 
 
@@ -1539,56 +1284,47 @@ File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [14]
 Underfull \hbox (badness 10000) in paragraph at lines 1047--1047
-[]\TU/LatinModernSans(0)/b/n/14.4 Website[] \TU/TimesNewRoman(0)/m/it/12 /ˈwebs
-aɪt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A set of
+[]\TU/LatinModernSans(0)/b/n/14.4 Website[] \TU/TimesNewRoman(0)/m/it/12 /ˈwebsaɪt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A set of
  []
 
 
 Underfull \hbox (badness 6592) in paragraph at lines 1047--1047
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 You 
-can find a lot of
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 You can find a lot of
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1065--1065
-[]\TU/LatinModernSans(0)/b/n/14.4 Workstation[] \TU/TimesNewRoman(0)/m/it/12 /ˈ
-wɜːrksteɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Workstation[] \TU/TimesNewRoman(0)/m/it/12 /ˈwɜːrksteɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
 Overfull \hbox (5.54411pt too wide) in paragraph at lines 1083--1083
-[]\TU/LatinModernSans(0)/b/n/14.4 Advance[] \TU/TimesNewRoman(0)/m/it/12 /ədˈvæ
-ns/ (n) \TU/LatinModernRoman(0)/m/n/12 — A development
+[]\TU/LatinModernSans(0)/b/n/14.4 Advance[] \TU/TimesNewRoman(0)/m/it/12 /ədˈvæns/ (n) \TU/LatinModernRoman(0)/m/n/12 — A development
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1089--1089
-[]\TU/LatinModernSans(0)/b/n/14.4 Analyze[] \TU/TimesNewRoman(0)/m/it/12 /ˈænəl
-aɪz/ (v) \TU/LatinModernRoman(0)/m/n/12 — Examine
+[]\TU/LatinModernSans(0)/b/n/14.4 Analyze[] \TU/TimesNewRoman(0)/m/it/12 /ˈænəlaɪz/ (v) \TU/LatinModernRoman(0)/m/n/12 — Examine
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1095--1095
-[]\TU/LatinModernSans(0)/b/n/14.4 Application[] \TU/TimesNewRoman(0)/m/it/12 /ˌ
-æplɪˈkeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Application[] \TU/TimesNewRoman(0)/m/it/12 /ˌæplɪˈkeɪʃn/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1095--1095
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Word
- processing and
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Word processing and
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1101--1101
-[]\TU/LatinModernSans(0)/b/n/14.4 Automated[] \TU/TimesNewRoman(0)/m/it/12 /ˈɔː
-təmeɪtɪd/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Automated[] \TU/TimesNewRoman(0)/m/it/12 /ˈɔːtəmeɪtɪd/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1107--1107
-[]\TU/LatinModernSans(0)/b/n/14.4 Breakthrough[] \TU/TimesNewRoman(0)/m/it/12 /
-ˈbreɪkθruː/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Breakthrough[] \TU/TimesNewRoman(0)/m/it/12 /ˈbreɪkθruː/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
@@ -1598,46 +1334,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 1107--1107
 
 
 Overfull \hbox (6.47922pt too wide) in paragraph at lines 1113--1113
-[]\TU/LatinModernSans(0)/b/n/14.4 Complex[] \TU/TimesNewRoman(0)/m/it/12 /ˈkɑːm
-pleks/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Consisting
+[]\TU/LatinModernSans(0)/b/n/14.4 Complex[] \TU/TimesNewRoman(0)/m/it/12 /ˈkɑːmpleks/ (adj) \TU/LatinModernRoman(0)/m/n/12 — Consisting
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1113--1113
-[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Mode
-rn computers are
+[]\TU/LatinModernRoman(0)/b/it/12 Example: \TU/LatinModernRoman(0)/m/it/12 Modern computers are
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1119--1119
-[]\TU/LatinModernSans(0)/b/n/14.4 Component[] \TU/TimesNewRoman(0)/m/it/12 /kəm
-ˈpoʊnənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Component[] \TU/TimesNewRoman(0)/m/it/12 /kəmˈpoʊnənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 File: ../wm/logoTF.png Graphic file (type bmp)
 <../wm/logoTF.png>
 [15]
 Underfull \hbox (badness 10000) in paragraph at lines 1137--1137
-[]\TU/LatinModernSans(0)/b/n/14.4 Cutting-edge[] \TU/TimesNewRoman(0)/m/it/12 /
-ˌkʌtɪŋ ˈedʒ/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
+[]\TU/LatinModernSans(0)/b/n/14.4 Cutting-edge[] \TU/TimesNewRoman(0)/m/it/12 /ˌkʌtɪŋ ˈedʒ/ (adj) \TU/LatinModernRoman(0)/m/n/12 —
  []
 
 
 Underfull \hbox (badness 5403) in paragraph at lines 1167--1167
-[]\TU/LatinModernSans(0)/b/n/14.4 Engineer[] \TU/TimesNewRoman(0)/m/it/12 /ˌend
-ʒɪˈnɪr/ (n) \TU/LatinModernRoman(0)/m/n/12 — A person
+[]\TU/LatinModernSans(0)/b/n/14.4 Engineer[] \TU/TimesNewRoman(0)/m/it/12 /ˌendʒɪˈnɪr/ (n) \TU/LatinModernRoman(0)/m/n/12 — A person
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1173--1173
-[]\TU/LatinModernSans(0)/b/n/14.4 Equipment[] \TU/TimesNewRoman(0)/m/it/12 /ɪˈk
-wɪpmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
+[]\TU/LatinModernSans(0)/b/n/14.4 Equipment[] \TU/TimesNewRoman(0)/m/it/12 /ɪˈkwɪpmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — The
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1179--1179
-[]\TU/LatinModernSans(0)/b/n/14.4 Experiment[] \TU/TimesNewRoman(0)/m/it/12 /ɪk
-ˈsperɪmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
+[]\TU/LatinModernSans(0)/b/n/14.4 Experiment[] \TU/TimesNewRoman(0)/m/it/12 /ɪkˈsperɪmənt/ (n) \TU/LatinModernRoman(0)/m/n/12 — A
  []
 
 
@@ -1656,12 +1385,12 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 19010 strings out of 473832
- 443103 string characters out of 5729481
- 872470 words of memory out of 5000000
+ 19011 strings out of 473832
+ 443275 string characters out of 5729481
+ 872468 words of memory out of 5000000
  41761 multiletter control sequences out of 15000+600000
  559173 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 131i,16n,135p,465b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,16n,135p,519b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on technologyVocab.pdf (16 pages).

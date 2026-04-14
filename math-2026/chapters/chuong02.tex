@@ -7,14 +7,213 @@
   \textit{\color{ForumDarkGray}Oxyz — Khoảng cách cực trị — Radar — Véctơ vận tốc}
 \end{center}
 
+\section{Chuyển động thẳng trong không gian}
+
+% ===== CÂU 1 =====
+\begin{baitoan}{1 \hfill \tagNguon{Nhóm Toán Trong Tâm}}
+Trong không gian với hệ trục tọa độ cho trước (đơn vị: km), ra đa phát hiện một chiếc máy bay di chuyển với vận tốc và hướng không đổi từ điểm $A(800;\,500;\,7)$ đến điểm $B(940;\,550;\,9)$ trong 10 phút. Nếu máy bay tiếp tục giữ nguyên vận tốc và hướng bay thì tọa độ của máy bay sau 5 phút tiếp theo là $C(x;\,y;\,z)$. Tính $x + yz$.
+\end{baitoan}
+
+\begin{loigiai}
+Máy bay bay từ $A$ đến $B$ trong 10 phút và từ $B$ đến $C$ trong 5 phút, vận tốc không đổi nên:
+\[ \overrightarrow{AB} = 2\overrightarrow{BC}. \]
+\[ \Leftrightarrow \begin{cases} 140 = 2(x - 940) \\ 50 = 2(y - 550) \\ 2 = 2(z - 9) \end{cases} \Leftrightarrow \begin{cases} x = 1010 \\ y = 575 \\ z = 10 \end{cases}. \]
+
+Vậy $x + yz = 1010 + 575 \cdot 10 = \boxed{6760}$.
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 2 =====
+\begin{baitoan}{2 \hfill \tagNguon{Sở GD\&ĐT Bắc Ninh}}
+Một sân bóng đá tiêu chuẩn có dạng hình chữ nhật, kích thước đường biên ngang 68\,m; khung thành rộng 7,32\,m và cao 2,44\,m nằm ở chính giữa đường biên ngang. Chọn hệ trục tọa độ $Oxyz$ sao cho gốc $O$ là điểm đá phạt góc, trục $Ox$ nằm trên đường biên ngang, trục $Oy$ trên đường biên dọc, trục $Oz$ vuông góc với sân bóng. Một quả bóng được đá từ vị trí $P(6;\,22;\,0)$ với vận tốc 28\,m/s theo hướng của vectơ $\vec{v} = (15;\,-11;\,1)$. Giả sử quỹ đạo bay là đường thẳng, khung thành nằm trên mặt phẳng $(Oxz)$. Thời gian bóng từ $P$ đến khung thành là bao nhiêu giây? (Làm tròn đến hàng phần trăm).
+\end{baitoan}
+
+\begin{loigiai}
+Phương trình đường thẳng $d$ qua $P(6;\,22;\,0)$, VTCP $\vec{v} = (15;\,-11;\,1)$:
+\[ d:\; \begin{cases} x = 6 + 15t \\ y = 22 - 11t \\ z = t \end{cases}. \]
+
+Khung thành thuộc mặt phẳng $(Oxz)$: $y = 0$.
+
+Giao điểm $M \in d \cap (Oxz)$:
+\[ 22 - 11t = 0 \Leftrightarrow t = 2 \Rightarrow M(36;\,0;\,2). \]
+
+Quãng đường:
+\[ PM = \sqrt{(36-6)^2 + (0-22)^2 + (2-0)^2} = \sqrt{1388} = 2\sqrt{347}. \]
+
+Thời gian:
+\[ t = \frac{PM}{v} = \frac{2\sqrt{347}}{28} = \frac{\sqrt{347}}{14} \approx \boxed{1{,}33 \text{ (giây)}}. \]
+\end{loigiai}
+
+\separator
+
+\section{Phân tích lực \& Véctơ trong không gian}
+
+% ===== CÂU 3 =====
+\begin{baitoan}{3 \hfill \tagNguon{THPT Nguyễn Khuyến -- TP.HCM}}
+Một chậu cây được đặt trên giá đỡ có bốn chân. Trong hệ trục $Oxyz$: điểm đặt $S(0;\,0;\,30)$, các điểm chạm đất $A(30;\,0;\,0)$, $B(0;\,30;\,0)$, $C(-30;\,0;\,0)$, $D(0;\,-30;\,0)$ (đơn vị: cm). Trọng lực 80\,N được phân bố thành bốn lực $\vec{F}_1, \vec{F}_2, \vec{F}_3, \vec{F}_4$ có độ lớn bằng nhau.
+
+\begin{enumerate}[label=\alph*), leftmargin=2em]
+  \item Độ dài vectơ $\overrightarrow{SA}$ là $30\sqrt{3}$.
+  \item Hình chóp $S.ABCD$ là hình chóp tứ giác đều.
+  \item Hình chóp $S.A'B'C'D'$ là hình chóp tứ giác đều.
+  \item Biết $\vec{F}_1 = (a;\,b;\,c)$ khi đó $a + b - c = 20$.
+\end{enumerate}
+\end{baitoan}
+
+\begin{loigiai}
+\textbf{a) Sai.}
+$|\overrightarrow{SA}| = \sqrt{30^2 + 0^2 + (-30)^2} = 30\sqrt{2}$.
+
+\textbf{b) Đúng.}
+$\overrightarrow{AB} = (-30;\,30;\,0),\; \overrightarrow{AD} = (-30;\,-30;\,0)$.
+
+$AB = AD = BC = CD = 30\sqrt{2}$ và $\overrightarrow{AB} \cdot \overrightarrow{BC} = 0 \Rightarrow$ đáy $ABCD$ là hình vuông.
+
+$|SA| = |SB| = |SC| = |SD| = 30\sqrt{2} \Rightarrow$ $S.ABCD$ là chóp tứ giác đều.
+
+\textbf{c) Đúng.}
+Vì $|\vec{F}_1| = |\vec{F}_2| = |\vec{F}_3| = |\vec{F}_4|$ nên $SA' = SB' = SC' = SD'$ và $A'B'C'D'$ là hình vuông $\Rightarrow$ $S.A'B'C'D'$ là chóp tứ giác đều.
+
+\textbf{d) Sai.}
+$\overrightarrow{SA'} = (x;\,0;\,-x)$, $|\vec{F}_1| = |\overrightarrow{SA'}| = 20\sqrt{2} \Rightarrow x = 20$.
+
+$\vec{F}_1 = (20;\,0;\,-20) \Rightarrow a + b - c = 20 + 0 - (-20) = \boxed{40}$.
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 4 =====
+\begin{baitoan}{4 \hfill \tagNguon{Liên trường THPT Hà Nội lần 1}}
+Trong không gian $Oxyz$, một vật được treo bằng ba sợi dây không dãn, mỗi sợi có một đầu gắn tại $A(-2;\,-1;\,0)$, $B(2;\,-1;\,0)$, $C(0;\,4;\,0)$, đầu kia gắn với vật tại $D(0;\,0;\,-4)$ (mặt phẳng $(Oxy)$ song song mặt đất, trục $Oz$ hướng lên). Mỗi sợi dây chịu lực căng tối đa 15\,N. Trọng lượng tối đa của vật? (Làm tròn đến hàng phần mười).
+\end{baitoan}
+
+\begin{loigiai}
+Cân bằng lực: $\vec{T}_A + \vec{T}_B + \vec{T}_C + \vec{P} = \vec{0}$, với $\vec{P} = (0;\,0;\,-p)$.
+
+Véctơ đơn vị:
+\begin{align*}
+\vec{u}_A &= \frac{\overrightarrow{DA}}{DA} = \frac{(-2;\,-1;\,4)}{\sqrt{21}}, \quad
+\vec{u}_B = \frac{(2;\,-1;\,4)}{\sqrt{21}}, \quad
+\vec{u}_C = \frac{(0;\,4;\,4)}{4\sqrt{2}}.
+\end{align*}
+
+Từ $\vec{T}_A + \vec{T}_B + \vec{T}_C + \vec{P} = \vec{0}$, xét thành phần $x$: $T_A = T_B$.
+
+Xét thành phần $y$: $T_C = \dfrac{2\sqrt{2}}{\sqrt{21}}\,T_A < T_A$.
+
+Dây $DA$, $DB$ chịu lực lớn nhất $\Rightarrow T_A = T_B = 15$\,N, $T_C = \dfrac{30\sqrt{2}}{\sqrt{21}}$.
+
+Xét thành phần $z$:
+\[ p = \frac{8T_A}{\sqrt{21}} + \frac{T_C}{\sqrt{2}} = \frac{120}{\sqrt{21}} + \frac{30}{\sqrt{21}} = \frac{150}{\sqrt{21}} \approx \boxed{32{,}7 \text{ (N)}}. \]
+\end{loigiai}
+
+\separator
+
 \section{Khoảng cách cực trị trong chuyển động}
 
-% Bài toán cabin cáp treo, Flycam, v.v.
+% ===== CÂU 5 =====
+\begin{baitoan}{5 \hfill \tagNguon{THPT Lê Quý Đôn -- Hà Nội}}
+Cho hình hộp chữ nhật $ABCD.A'B'C'D'$ có đáy $ABCD$ là hình vuông cạnh 20\,cm, $AA' = 20$\,cm. Một con kiến vàng xuất phát từ $A$ di chuyển thẳng đến $D'$ với vận tốc 2\,cm/s. Cùng lúc, kiến đen xuất phát từ $D$ đi thẳng đến $B$ với vận tốc 3\,cm/s. Khoảng cách ngắn nhất của hai chú kiến? (Làm tròn đến hàng phần mười).
+\end{baitoan}
 
-\section{Bài toán Radar \& Vận tốc}
+\begin{loigiai}
+Đặt $A(0,0,0)$, $B(20,0,0)$, $D(0,20,0)$, $D'(0,20,20)$.
 
-% Bài toán máy bay, radar bán kính cho trước
+Véctơ vận tốc kiến vàng: $\vec{v}_1 = \dfrac{2}{|AD'|}\,\overrightarrow{AD'} = (0;\,\sqrt{2};\,\sqrt{2})$.
 
-\section{Tìm điểm thỏa mãn hệ thức Véctơ}
+Véctơ vận tốc kiến đen: $\vec{v}_2 = \dfrac{3}{|DB|}\,\overrightarrow{DB} = \left(\dfrac{3}{\sqrt{2}};\,-\dfrac{3}{\sqrt{2}};\,0\right)$.
 
-% Bài toán min S = MA² + MB² − MC², v.v.
+Vị trí tại thời điểm $t$:
+\begin{align*}
+M(t) &= \left(0;\;\sqrt{2}\,t;\;\sqrt{2}\,t\right), \\
+N(t) &= \left(\frac{3}{\sqrt{2}}\,t;\; 20 - \frac{3}{\sqrt{2}}\,t;\; 0\right).
+\end{align*}
+
+\[ MN^2(t) = \frac{9t^2}{2} + \left(20 - \frac{3t}{\sqrt{2}} - \sqrt{2}\,t\right)^2 + 2t^2 = 19t^2 - 100\sqrt{2}\,t + 400. \]
+
+Cực tiểu tại $t = \dfrac{50\sqrt{2}}{19}$:
+\[ MN_{\min} = \sqrt{\frac{2600}{19}} \approx \boxed{11{,}7 \text{ (cm)}}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 6 =====
+\begin{baitoan}{6 \hfill \tagNguon{Cụm trường THPT Hà Tĩnh}}
+Trong không gian $Oxyz$ (đơn vị: 10\,km), hai khinh khí cầu $A$ và $B$ bay với $\vec{v}_A = (1;\,2;\,0)$ và $\vec{v}_B = (-2;\,3;\,0)$ (km/h). Tại $t = 0$: $A$ ở $M(5;\,4;\,2)$, $B$ ở $N(6;\,5;\,3)$. Hai khinh khí cầu bay trong 10 giờ.
+
+\begin{enumerate}[label=\alph*), leftmargin=2em]
+  \item Sau 3 giờ vị trí khinh khí cầu $A$ là $M'(8;\,10;\,2)$.
+  \item Khinh khí cầu $B$ không bay qua $N'(0;\,14;\,3)$.
+  \item Khoảng cách hai khinh khí cầu sau 3 giờ là 9\,km.
+  \item Khoảng cách ngắn nhất giữa hai khinh khí cầu là 16,1\,km.
+\end{enumerate}
+\end{baitoan}
+
+\begin{loigiai}
+\textbf{a) Đúng.} $M'(5 + 3;\; 4 + 6;\; 2) = (8;\,10;\,2)$.
+
+\textbf{b) Sai.} $N'(6 - 2\cdot 3;\; 5 + 3\cdot 3;\; 3) = (0;\,14;\,3)$, nên $B$ bay qua $N'$.
+
+\textbf{c) Sai.} $M'N' = \sqrt{8^2 + 4^2 + 1} = 9$ (đơn vị) $= 90$\,km.
+
+\textbf{d) Đúng.}
+\[ d(t) = 10\sqrt{(1-3t)^2 + (1+t)^2 + 1} = 10\sqrt{10t^2 - 4t + 3}. \]
+
+Cực tiểu tại $t = 0{,}2$: $d_{\min} = 10\sqrt{2{,}6} \approx \boxed{16{,}1 \text{ (km)}}$.
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 7 =====
+\begin{baitoan}{7 \hfill \tagNguon{THPT NK -- LTT -- TP.HCM}}
+Một tam giác đều cạnh 1\,m có ba đỉnh $A$, $B$, $C$. Ba chùm sáng LED chạy từ $A$ đến $M$ (3\,cm/s), từ $B$ đến $N$ (2\,cm/s), từ $C$ đến $P$ (1\,cm/s). Gọi $O$ là trọng tâm tam giác. Tính tổng khoảng cách ngắn nhất $OM + ON + OP$ trong một dao động (làm tròn đến hàng phần trăm, đơn vị mét).
+\end{baitoan}
+
+\begin{loigiai}
+Đổi đơn vị: $v_A = 0{,}03$\,m/s, $v_B = 0{,}02$\,m/s, $v_C = 0{,}01$\,m/s.
+
+Quãng đường: $AM = 0{,}03t$, $BN = 0{,}02t$, $CP = 0{,}01t$ với $t \in [0;\,100]$.
+
+Áp dụng định lý cosin (với $OA = OB = OC = \dfrac{\sqrt{3}}{3}$, góc tại đỉnh $= 30^\circ$):
+\begin{align*}
+OM(t) &= \sqrt{0{,}0009t^2 - 0{,}03t + \tfrac{1}{3}}, \\
+ON(t) &= \sqrt{0{,}0004t^2 - 0{,}02t + \tfrac{1}{3}}, \\
+OP(t) &= \sqrt{0{,}0001t^2 - 0{,}01t + \tfrac{1}{3}}.
+\end{align*}
+
+Tổng $S(t) = OM + ON + OP$ đạt cực tiểu tại $t \approx 18{,}33$\,s:
+\[ S_{\min} \approx \boxed{1{,}03 \text{ (m)}}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 8 =====
+\begin{baitoan}{8 \hfill \tagNguon{Chuyên ĐH KHTN Hà Nội}}
+Chọn hệ trục $Oxyz$. Trạm phát sóng tại $A(0;\,1;\,3)$, vùng phủ sóng là hình cầu bán kính 5\,km. Đường thẳng $d:\; \dfrac{x-1}{1} = \dfrac{y}{-1} = \dfrac{z}{2}$.
+
+\begin{enumerate}[label=\alph*), leftmargin=2em]
+  \item Véctơ $\vec{u} = (1;\,1;\,2)$ là VTCP của $d$.
+  \item Mặt cầu tâm $A$, $R = 5$ có phương trình $x^2 + (y-1)^2 + (z-3)^2 = 25$.
+  \item Hình chiếu $H$ của $A$ trên $d$ có hoành độ $\dfrac{2}{3}$.
+  \item Đoạn đường trong vùng phủ sóng dài 8,16\,km.
+\end{enumerate}
+\end{baitoan}
+
+\begin{loigiai}
+\textbf{a) Sai.} VTCP của $d$ là $\vec{a} = (1;\,-1;\,2)$.
+
+\textbf{b) Đúng.} $x^2 + (y-1)^2 + (z-3)^2 = 25$.
+
+\textbf{c) Sai.}
+$H \in d \Rightarrow H(1+t;\,-t;\,2t)$, $\overrightarrow{AH} = (1+t;\,-t-1;\,2t-3)$.
+
+$\overrightarrow{AH} \cdot \vec{a} = 0 \Leftrightarrow (1+t) + (t+1) + 2(2t-3) = 0 \Leftrightarrow t = \dfrac{2}{3} \Rightarrow x_H = \dfrac{5}{3}$.
+
+\textbf{d) Sai.}
+$B \in d \cap (S) \Rightarrow (1+t)^2 + (-t-1)^2 + (2t-3)^2 = 25$
+
+$\Leftrightarrow 6t^2 - 8t - 14 = 0 \Leftrightarrow t = -1$ hoặc $t = \dfrac{7}{3}$.
+
+$B(0;\,1;\,-2)$, $C\!\left(\dfrac{10}{3};\,-\dfrac{7}{3};\,\dfrac{14}{3}\right) \Rightarrow BC = \dfrac{\sqrt{264}}{3} \approx \boxed{5{,}42 \text{ (km)}}$.
+\end{loigiai}

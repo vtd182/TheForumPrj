@@ -1,16 +1,184 @@
 % ============================================================
-% Chương 5: Hình học Không gian Tổng hợp & Vận dụng Vật lý
+% Chương 5: Hình học Không gian Tổng hợp & Vận dụng
 % ============================================================
 
 \chapter{Hình học Không gian Tổng hợp}
 \begin{center}
-  \textit{\color{ForumDarkGray}Phân tích lực — Tối ưu hình khối — Cực trị thể tích}
+  \textit{\color{ForumDarkGray}Tối ưu hình khối — Khoảng cách — Trải hình — Ứng dụng thực tế}
 \end{center}
 
-\section{Phân tích lực trong không gian}
+\section{Tối ưu hình khối \& Kích thước}
 
-% Bài toán cần cẩu, dây cáp, góc mặt phẳng, v.v.
+% ===== CÂU 1 =====
+\begin{baitoan}{1 \hfill \tagNguon{THPT Nguyễn Khuyến -- TP.HCM}}
+Một sợi dây kim loại dài 60\,dm được cắt thành 2 đoạn. Đoạn thứ nhất uốn thành hình vuông cạnh $a$, đoạn thứ hai uốn thành đường tròn bán kính $r$. Để tổng diện tích nhỏ nhất thì $\dfrac{a}{r}$ bằng bao nhiêu?
+\end{baitoan}
 
-\section{Tối ưu hình khối}
+\begin{loigiai}
+Gọi $x$ ($0 < x < 60$) là độ dài đoạn dây uốn hình vuông:
+\[ a = \frac{x}{4},\quad S_{\text{hv}} = \frac{x^2}{16}. \]
 
-% Cắt gấp hộp lăng trụ, diện tích → thể tích max, v.v.
+Đoạn thứ hai: $2\pi r = 60 - x \Rightarrow r = \dfrac{60-x}{2\pi}$,
+\[ S_{\text{tr}} = \pi r^2 = \frac{(60-x)^2}{4\pi}. \]
+
+Tổng diện tích:
+\[ T(x) = \frac{x^2}{16} + \frac{(60-x)^2}{4\pi} = \left(\frac{1}{16} + \frac{1}{4\pi}\right)x^2 - \frac{30}{\pi}\,x + \frac{900}{\pi}. \]
+
+$T(x)$ bậc hai, hệ số dương $\Rightarrow$ min tại $x = \dfrac{240}{\pi + 4}$.
+
+\[ a = \frac{60}{\pi + 4},\quad r = \frac{30}{\pi + 4} \quad \Rightarrow \quad \frac{a}{r} = \boxed{2}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 2 =====
+\begin{baitoan}{2 \hfill \tagNguon{THPT Đồng Hỷ -- Thái Nguyên}}
+Ly nước hình trụ cao 9\,cm, nước chiếm $\frac{2}{3}$ thể tích. Đặt một hình lập phương vào miệng ly sao cho một đỉnh chạm mặt nước và trục ly là trục đối xứng. Nếu ban đầu đổ đầy nước, sau khi đặt lập phương thì lượng nước tràn ra bao nhiêu $\text{cm}^3$? (Làm tròn đến hàng phần mười).
+\end{baitoan}
+
+\begin{loigiai}
+Chiều cao phần lập phương ngập ($= \frac{1}{3}$ chiều cao ly): $SO = \frac{1}{3} \cdot 9 = 3$\,(cm).
+
+Phần ngập là hình chóp $S.ABC$ (tam giác đều, đỉnh $S$ chạm mặt nước):
+\[ \frac{x\sqrt{6}}{6} = 3 \Rightarrow x = 3\sqrt{6}\;\text{cm}. \]
+
+Thể tích nước tràn = Thể tích chóp $S.ABC$:
+\[ V = \frac{1}{3} \cdot SO \cdot S_{ABC} = \frac{1}{3} \cdot 3 \cdot \frac{(3\sqrt{6})^2\sqrt{3}}{4} = \frac{27\sqrt{3}}{2} \approx \boxed{23{,}4\;\text{cm}^3}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 5 =====
+\begin{baitoan}{3 \hfill \tagNguon{THPT Nguyễn Trung Thiên -- Hà Tĩnh}}
+Có tấm bìa hình ngũ giác đều $MNPQR$ cạnh 30\,cm. Cắt bỏ 5 tam giác cân (đáy = cạnh ngũ giác, đỉnh = đỉnh ngũ giác bên trong) rồi gập thành khối chóp ngũ giác đều có cạnh đáy $x$ (cm). Tìm $x$ để thể tích lớn nhất.
+\end{baitoan}
+
+\begin{loigiai}
+Xét tam giác cân $OED$ ($\widehat{EOD} = 72^\circ$, $I$ là trung điểm $ED$):
+\[ OI = \frac{x}{2\tan 36^\circ},\quad RI = \frac{15}{\sin 36^\circ} - \frac{x}{2\tan 36^\circ}. \]
+
+Diện tích đáy:
+\[ S = \frac{5x^2}{4\tan 36^\circ}. \]
+
+Chiều cao: $RO = \sqrt{RI^2 - OI^2}$.
+
+Thể tích:
+\[ V(x) = \frac{1}{3} S \cdot RO. \]
+
+Khảo sát $V'(x) = 0 \Rightarrow x \approx \boxed{14{,}8\;\text{cm}}$.
+\end{loigiai}
+
+\separator
+
+\section{Khoảng cách trong không gian}
+
+% ===== CÂU 4 =====
+\begin{baitoan}{4 \hfill \tagNguon{Chuyên Lê Thánh Tông -- Đà Nẵng}}
+Phòng hình hộp chữ nhật $ABCD.A'B'C'D'$ kích thước $5\times 5\times 6$\,(m). Nhện thứ nhất ($E$) bò trên dây từ $A$ đến trung điểm $M$ của $CC'$. Nhện thứ hai ($F$) bò trên dây từ $D'$ đến tâm $I$ của mặt $ABB'A'$. Khoảng cách ngắn nhất giữa 2 nhện? (Làm tròn đến hàng phần trăm).
+\end{baitoan}
+
+\begin{loigiai}
+Chọn $A \equiv O$, trục theo $AB$, $AD$, $AA'$:
+
+$A(0,0,0)$, $M(5,5,3)$, $D'(0,5,6)$, $I(2{,}5;\,0;\,3)$.
+
+VTCP: $\vec{u}_1 = \overrightarrow{AM} = (5;\,5;\,3)$, $\vec{u}_2 = \overrightarrow{D'I} = (2{,}5;\,-5;\,-3)$.
+
+Lấy $\vec{v} = 2\vec{u}_2 = (5;\,-10;\,-6)$.
+
+\[ [\vec{u}_1, \vec{v}] = (0;\,45;\,-75),\quad \overrightarrow{AD'} = (0;\,5;\,6). \]
+
+\[ d = \frac{|[\vec{u}_1, \vec{v}] \cdot \overrightarrow{AD'}|}{|[\vec{u}_1, \vec{v}]|} = \frac{|0 + 225 - 450|}{15\sqrt{34}} = \frac{225}{15\sqrt{34}} \approx \boxed{2{,}57\;\text{m}}. \]
+\end{loigiai}
+
+\separator
+
+\section{Trải hình \& Đường đi ngắn nhất}
+
+% ===== CÂU 6 =====
+\begin{baitoan}{5 \hfill \tagNguon{THPT Nguyễn Trãi -- Hà Nội}}
+Tòa nhà đồ chơi hình hộp chữ nhật $ABCD.A'B'C'D'$, đáy hình vuông cạnh 20\,cm, cao 80\,cm. Mặt $A'B'C'D'$ là mặt dưới, $ABCD$ là mặt trên. Kiến bò từ $A'$ trên bề mặt xung quanh đến $A$, đường gấp khúc cắt các cạnh theo thứ tự $BB'$, $CC'$, $BB'$, $CC'$, $DD'$. Biết kiến chạm $BB'$ cách $B'$ không nhỏ hơn 16\,cm và chạm $CC'$ cách $C$ không lớn hơn 16\,cm. Tính độ dài ngắn nhất. (Làm tròn đến hàng đơn vị, cm).
+\end{baitoan}
+
+\begin{loigiai}
+Áp dụng phương pháp trải hình.
+
+Đặt $CF = x$ ($x \le 16$), $B'E = \dfrac{80 - x}{2} \ge 32$ (thỏa mãn).
+
+Sau khi trải, đường đi:
+\[ f(x) = \sqrt{40^2 + (80-x)^2} + \sqrt{80^2 + x^2}, \quad x \le 16. \]
+
+$f'(x) = 0 \Rightarrow x = \dfrac{160}{3} > 16$, nên $f$ nghịch biến trên $[0;\,16]$.
+
+\[ f_{\min} = f(16) = \sqrt{1600 + 4096} + \sqrt{6400 + 256} = \sqrt{5696} + \sqrt{6656} \approx \boxed{157\;\text{cm}}. \]
+\end{loigiai}
+
+\begin{meobotui}{Phương pháp trải hình}
+Bài toán đường đi ngắn nhất trên bề mặt khối hộp: trải các mặt ra phẳng, đường đi ngắn nhất trở thành đoạn thẳng nối 2 điểm trên mặt phẳng.
+\end{meobotui}
+
+\separator
+
+\section{Ứng dụng Oxyz vào hình học}
+
+% ===== CÂU 3 =====
+\begin{baitoan}{6 \hfill \tagNguon{Chuyên ĐH Vinh -- lần 1}}
+Phao cứu sinh hình xuyến: bán kính ngoài 35\,cm, bán kính trong 25\,cm, khối lượng riêng $0{,}05\;\text{g/cm}^3$. Tính khối lượng phao (kg). (Làm tròn đến hàng phần trăm, $\pi \approx 3{,}1416$).
+\end{baitoan}
+
+\begin{loigiai}
+Bán kính mặt cắt ngang: $r = \dfrac{35 - 25}{2} = 5$\,cm.
+
+Bán kính trung bình: $R = \dfrac{35 + 25}{2} = 30$\,cm.
+
+Thể tích hình xuyến (dùng tích phân hoặc Pappus):
+\[ V = 2\pi^2 R r^2 = 2 \times 3{,}1416^2 \times 30 \times 25 \approx 14804{,}44\;\text{cm}^3. \]
+
+Khối lượng:
+\[ m = V \times D = 14804{,}44 \times 0{,}05 \approx 740{,}22\;\text{g} \approx \boxed{0{,}74\;\text{kg}}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 7 =====
+\begin{baitoan}{7 \hfill \tagNguon{THPT Cửa Lò -- Nghệ An}}
+Trong $Oxyz$, bốn vệ tinh GPS tại $A(0;\,4;\,5)$, $B(3;\,0;\,5)$, $C(3;\,4;\,0)$, $D(3;\,4;\,5)$. Vị trí $M(a;\,b;\,c)$ nằm trên đoạn $AB$ sao cho tổng khoảng cách từ $A$, $B$, $C$ đến đường thẳng $MD$ lớn nhất. Tính $a + b + c$.
+\end{baitoan}
+
+\begin{loigiai}
+$\overrightarrow{DA} = (-3;\,0;\,0)$, $\overrightarrow{DB} = (0;\,-4;\,0)$, $\overrightarrow{DC} = (0;\,0;\,-5)$.
+
+$DA \perp DB \perp DC$ $\Rightarrow$ tứ diện vuông, $DA = 3$, $DB = 4$, $DC = 5$.
+
+$d(C, MD) = DC = 5$ (cố định), nên cần max $d(A, MD) + d(B, MD)$.
+
+Trong $\triangle DAB$: $d(A, MD) + d(B, MD) \le AM + BM$.
+
+Đẳng thức xảy ra khi $M$ là hình chiếu vuông góc của $D$ lên $AB$.
+
+$M \in AB: M(3t;\,4 - 4t;\,5)$, $\overrightarrow{DM} = (3t - 3;\,-4t;\,0)$.
+
+$\overrightarrow{DM} \cdot \overrightarrow{AB} = 0 \Rightarrow 3(3t-3) + (-4)(-4t) = 0 \Rightarrow t = \dfrac{9}{25}$.
+
+$M\!\left(\dfrac{27}{25};\,\dfrac{64}{25};\,5\right) \Rightarrow a + b + c = \dfrac{27}{25} + \dfrac{64}{25} + 5 = \boxed{8{,}64}$.
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 8 =====
+\begin{baitoan}{8 \hfill \tagNguon{Chuyên Hạ Long -- lần 1}}
+Nồi lẩu hình hai trụ đồng trục: bán kính ngoài $R = 15$\,cm, bán kính trụ giữa $r = 3{,}5$\,cm, chiều cao lòng nồi $h = 10$\,cm. Tìm chiều dài tối thiểu $L$ của đũa sao cho dù đầu đũa trượt vào bất kỳ vị trí nào, phần thừa ra ngoài miệng nồi vẫn lớn hơn 5\,cm. (Làm tròn đến hàng phần mười).
+\end{baitoan}
+
+\begin{loigiai}
+Đũa tụt sâu nhất khi đầu đũa chạm đáy, tiếp xúc trụ giữa.
+
+Dây cung dài nhất qua tiết diện (tránh trụ giữa):
+\[ BC_{\max} = 2\sqrt{R^2 - r^2} = 2\sqrt{225 - 12{,}25} = \sqrt{851}. \]
+
+Đoạn ngập sâu nhất:
+\[ AB_{\max} = \sqrt{BC_{\max}^2 + h^2} = \sqrt{851 + 100} = \sqrt{951}. \]
+
+Chiều dài đũa tối thiểu:
+\[ L = \sqrt{951} + 5 \approx \boxed{35{,}8\;\text{cm}}. \]
+\end{loigiai}

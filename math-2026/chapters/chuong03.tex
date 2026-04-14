@@ -4,17 +4,192 @@
 
 \chapter{Xác suất Vận dụng cao}
 \begin{center}
-  \textit{\color{ForumDarkGray}Xác suất có điều kiện — Tổ hợp logic — Ma trận}
+  \textit{\color{ForumDarkGray}Xác suất có điều kiện — Tổ hợp logic — Cấp số nhân}
 \end{center}
 
-\section{Xác suất có điều kiện thực tế}
+\section{Tổ hợp — Phân phối — Đếm}
 
-% Bài toán máy bay F-16B, nâng cấp MLU, v.v.
+% ===== CÂU 1 =====
+\begin{baitoan}{1 \hfill \tagNguon{Chuyên ĐH KHTN Hà Nội}}
+Một đoàn tàu gồm 3 toa đỗ trên sân ga. Có 9 hành khách lần lượt lên tàu, mỗi người chọn ngẫu nhiên 1 trong 3 toa. Mỗi toa chứa được đến 9 hành khách. Biết rằng toa nào cũng có ít nhất 2 hành khách, xác suất để mỗi toa có đúng 3 hành khách là bao nhiêu? (Làm tròn đến hàng phần trăm).
+\end{baitoan}
+
+\begin{loigiai}
+Gọi $B$: ``toa nào cũng có ít nhất 2 hành khách''. Ta đếm $n(B)$:
+
+\textbf{TH1:} 1 toa có 5 người, 2 toa mỗi toa 2 người: $3 \cdot C_9^5 \cdot C_4^2 \cdot C_2^2 = 2268$.
+
+\textbf{TH2:} 1 toa có 4, 1 toa có 3, 1 toa có 2: $3! \cdot C_9^4 \cdot C_5^3 \cdot C_2^2 = 7560$.
+
+\textbf{TH3:} Mỗi toa có 3 người: $C_9^3 \cdot C_6^3 \cdot C_3^3 = 1680$.
+
+$\Rightarrow n(B) = 2268 + 7560 + 1680 = 11508$.
+
+\[ P = \frac{1680}{11508} \approx \boxed{0{,}15}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 2 =====
+\begin{baitoan}{2 \hfill \tagNguon{THPT Yên Mô B -- Ninh Bình}}
+Một hộp có 15 thẻ đánh số từ 1 đến 15. Chọn ngẫu nhiên 3 thẻ. Tính xác suất để tổng 3 số trên thẻ chia hết cho 3. (Làm tròn đến hàng phần trăm).
+\end{baitoan}
+
+\begin{loigiai}
+Chia 15 số thành 3 nhóm theo dư khi chia cho 3:
+\begin{itemize}
+  \item $A$: chia hết cho 3: $\{3, 6, 9, 12, 15\}$ — 5 số.
+  \item $B$: dư 1: $\{1, 4, 7, 10, 13\}$ — 5 số.
+  \item $C$: dư 2: $\{2, 5, 8, 11, 14\}$ — 5 số.
+\end{itemize}
+
+Tổng 3 số chia hết cho 3 khi:
+\begin{itemize}
+  \item 3 thẻ cùng nhóm $A$, $B$ hoặc $C$: $3 \cdot C_5^3 = 30$ cách.
+  \item Mỗi nhóm 1 thẻ: $5^3 = 125$ cách.
+\end{itemize}
+
+\[ P = \frac{30 + 125}{C_{15}^3} = \frac{155}{455} = \frac{31}{91} \approx \boxed{0{,}34}. \]
+\end{loigiai}
+
+\separator
 
 \section{Xác suất qua nhiều giai đoạn}
 
-% Bài toán bốc mẫu chéo: chuồng dê A, B, v.v.
+% ===== CÂU 3 =====
+\begin{baitoan}{3 \hfill \tagNguon{THPT Thuận Thành 1 -- Bắc Ninh}}
+Ba bạn An, Bình, Nam chơi phi tiêu, ai trúng trước thắng. Thứ tự: An, Bình, Nam lặp lại. Xác suất trúng của An, Bình, Nam lần lượt là 0,2;\; 0,4;\; 0,6. Tính xác suất Bình thắng. (Làm tròn đến hàng phần trăm).
+\end{baitoan}
 
-\section{Tổ hợp trên ma trận}
+\begin{loigiai}
+Bình thắng ở lần thứ $n$ khi ở $n-1$ vòng trước không ai trúng, rồi An trượt, Bình trúng.
 
-% Bài toán điền −1, 0, 1 vào bảng 3×3, v.v.
+XS Bình thắng lần 1: $P(\overline{A}_1) \cdot P(B_1) = 0{,}8 \times 0{,}4 = 0{,}32$.
+
+XS Bình thắng lần $n$: $(0{,}8 \times 0{,}6 \times 0{,}4)^{n-1} \times 0{,}32 = 0{,}192^{n-1} \times 0{,}32$.
+
+Đây là cấp số nhân: $u_1 = 0{,}32$, $q = 0{,}192$.
+
+\[ P_2 = \frac{u_1}{1-q} = \frac{0{,}32}{1 - 0{,}192} = \frac{0{,}32}{0{,}808} \approx \boxed{0{,}40}. \]
+\end{loigiai}
+
+\begin{meobotui}{XS trong trò chơi lặp}
+Khi trò chơi lặp vô hạn, xác suất Player $k$ thắng là tổng cấp số nhân lùi vô hạn $S = \frac{u_1}{1-q}$, với $q$ = xác suất ``không ai thắng trong 1 vòng''.
+\end{meobotui}
+
+\separator
+
+% ===== CÂU 4 =====
+\begin{baitoan}{4 \hfill \tagNguon{THPT NK -- LTT -- TP.HCM}}
+Trong buổi ôn tập lớp 12, ba bạn mỗi người viết ngẫu nhiên một số tự nhiên thuộc $[101;\,200]$, lấy số đó trừ tổng chữ số, lặp lại cho đến khi ra 0. Tìm xác suất để có đúng 2 bạn viết được dãy số giống nhau, đồng thời tổng tất cả số hạng của cả 3 dãy chia hết cho 18. (Làm tròn đến hàng phần trăm).
+\end{baitoan}
+
+\begin{loigiai}
+Với $\overline{abc} \in [101;\,200]$:
+\[ \overline{abc} - (a+b+c) = 99a + 9b = 9(11a+b) \;\vdots\; 9. \]
+
+Mọi số sinh ra đều $\vdots\; 9$, nên tổng mỗi dãy luôn $\vdots\; 9$. Để tổng 3 dãy $\vdots\; 18$ thì cần tổng đó chẵn.
+
+Phân tích theo dãy ``tốt'' (xuất phát từ số $\vdots\; 9$, tổng chẵn) và ``xấu'' (tổng lẻ):
+\begin{itemize}
+  \item Trong $[101;\,200]$: có 11 số $\vdots\; 9$ $\to$ 11 dãy ``tốt'', 89 dãy ``xấu''.
+\end{itemize}
+
+Qua phân tích tổ hợp các trường hợp (3 dãy tốt hoặc 1 tốt + 2 xấu giống nhau):
+
+\[ P \approx \boxed{0{,}16}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 5 =====
+\begin{baitoan}{5 \hfill \tagNguon{THPT Thọ Xuân 5 -- Thanh Hóa}}
+Một hộp chứa 5 bi đỏ, 3 bi xanh và $n$ bi vàng ($n \in \mathbb{N}^*$). Lấy ngẫu nhiên 3 viên bi. Biết xác suất lấy được đủ 3 màu là $\dfrac{45}{182}$. Tính xác suất lấy được nhiều nhất 2 bi đỏ.
+\end{baitoan}
+
+\begin{loigiai}
+\[ \frac{C_5^1 \cdot C_3^1 \cdot C_n^1}{C_{8+n}^3} = \frac{45}{182} \Rightarrow n = 6. \]
+
+Hộp có 5 đỏ, 3 xanh, 6 vàng (tổng 14 bi).
+
+Nhiều nhất 2 bi đỏ:
+\begin{itemize}
+  \item 0 bi đỏ: $C_9^3 = 84$.
+  \item 1 bi đỏ: $C_5^1 \cdot C_9^2 = 180$.
+  \item 2 bi đỏ: $C_5^2 \cdot C_9^1 = 90$.
+\end{itemize}
+
+\[ P = \frac{84 + 180 + 90}{C_{14}^3} = \frac{354}{364} = \boxed{\frac{177}{182}}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 6 =====
+\begin{baitoan}{6 \hfill \tagNguon{Cụm liên trường Nghệ An}}
+Bạn Tiến làm bài kiểm tra 20 câu trắc nghiệm (4 phương án, 0,5 điểm/câu đúng). Đã làm đúng 15 câu. Trong 5 câu còn lại, 2 câu đã loại được 1 phương án sai, 3 câu chưa loại được. Do hết giờ, bạn chọn ngẫu nhiên. Tính xác suất để Tiến được 9 điểm. (Làm tròn đến hàng phần trăm).
+\end{baitoan}
+
+\begin{loigiai}
+Đã có $15 \times 0{,}5 = 7{,}5$ điểm. Cần đúng thêm 3 câu (= 1,5 điểm).
+
+\textbf{TH1}: Đúng 3 câu chưa loại, sai 2 câu đã loại: $\left(\dfrac{1}{4}\right)^3 \cdot \left(\dfrac{2}{3}\right)^2 = \dfrac{1}{144}$.
+
+\textbf{TH2}: Đúng 2/3 câu chưa loại + 1/2 câu đã loại: $C_3^2 \left(\dfrac{1}{4}\right)^2 \dfrac{3}{4} \cdot C_2^1 \cdot \dfrac{1}{3} \cdot \dfrac{2}{3} = \dfrac{1}{16}$.
+
+\textbf{TH3}: Đúng 1/3 câu chưa loại + 2 câu đã loại: $C_3^1 \cdot \dfrac{1}{4} \cdot \left(\dfrac{3}{4}\right)^2 \cdot \left(\dfrac{1}{3}\right)^2 = \dfrac{3}{64}$.
+
+\[ P = \frac{1}{144} + \frac{1}{16} + \frac{3}{64} \approx \boxed{0{,}12}. \]
+\end{loigiai}
+
+\separator
+
+\section{Xác suất có điều kiện}
+
+% ===== CÂU 7 =====
+\begin{baitoan}{7 \hfill \tagNguon{THPT Nguyễn Trung Thiên -- Hà Tĩnh}}
+Người môi giới bất động sản có 8 chìa khóa mở 8 nhà, mỗi chìa mở đúng 1 nhà. Biết 3 nhà thường không khóa cửa. Người này chọn ngẫu nhiên 3 chìa mang theo, rồi chọn ngẫu nhiên 1 nhà để vào. Xác suất để người này vào được nhà? (Làm tròn đến hàng phần trăm).
+\end{baitoan}
+
+\begin{loigiai}
+\textbf{TH1}: 3 chìa đều là nhà không khóa $\to$ vào được 3 nhà. \\
+XS: $\dfrac{C_3^3}{C_8^3} \cdot \dfrac{3}{8}$.
+
+\textbf{TH2}: 2 chìa nhà không khóa, 1 chìa nhà khóa $\to$ vào được 4 nhà. \\
+XS: $\dfrac{C_3^2 \cdot C_5^1}{C_8^3} \cdot \dfrac{4}{8}$.
+
+\textbf{TH3}: 1 chìa nhà không khóa, 2 chìa nhà khóa $\to$ vào được 5 nhà. \\
+XS: $\dfrac{C_3^1 \cdot C_5^2}{C_8^3} \cdot \dfrac{5}{8}$.
+
+\textbf{TH4}: 3 chìa đều nhà khóa $\to$ vào được 6 nhà. \\
+XS: $\dfrac{C_5^3}{C_8^3} \cdot \dfrac{6}{8}$.
+
+\[ P = \frac{C_3^3 \cdot 3 + C_3^2 C_5^1 \cdot 4 + C_3^1 C_5^2 \cdot 5 + C_5^3 \cdot 6}{C_8^3 \cdot 8} = \frac{39}{64} \approx \boxed{0{,}61}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 8 =====
+\begin{baitoan}{8 \hfill \tagNguon{THPT Đồng Hỷ -- Thái Nguyên}}
+Ba hộp chứa bi: hộp I có $a$ đỏ, 2 xanh; hộp II có $b$ đỏ, 3 xanh; hộp III có 6 đỏ, 4 xanh. Từ mỗi hộp lấy 1 bi. Biết XS lấy ít nhất 1 bi đỏ là 0,976 và XS lấy cả 3 bi đỏ là 0,336. Tính XS lấy đúng 2 bi đỏ. (Làm tròn đến hàng phần trăm).
+\end{baitoan}
+
+\begin{loigiai}
+$P(A) = \dfrac{a}{a+2}$, $P(B) = \dfrac{b}{b+3}$, $P(C) = \dfrac{6}{10} = 0{,}6$.
+
+$P(\text{ít nhất 1 đỏ}) = 0{,}976 \Rightarrow P(\text{3 xanh}) = 0{,}024$:
+\[ \frac{2}{a+2} \cdot \frac{3}{b+3} \cdot \frac{4}{10} = 0{,}024 \Leftrightarrow (a+2)(b+3) = 100. \quad (1) \]
+
+$P(\text{3 đỏ}) = 0{,}336$:
+\[ \frac{a}{a+2} \cdot \frac{b}{b+3} \cdot 0{,}6 = 0{,}336 \Leftrightarrow ab = 56. \quad (2) \]
+
+Từ (1), (2): $a = 8$, $b = 7$.
+
+$P(A) = 0{,}8$, $P(B) = 0{,}7$, $P(C) = 0{,}6$.
+
+XS đúng 2 bi đỏ:
+\begin{align*}
+P &= P(A)P(B)\overline{P(C)} + P(A)\overline{P(B)}P(C) + \overline{P(A)}P(B)P(C) \\
+  &= 0{,}8 \times 0{,}7 \times 0{,}4 + 0{,}8 \times 0{,}3 \times 0{,}6 + 0{,}2 \times 0{,}7 \times 0{,}6 \\
+  &= 0{,}224 + 0{,}144 + 0{,}084 = \boxed{0{,}45}.
+\end{align*}
+\end{loigiai}

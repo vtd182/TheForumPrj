@@ -117,7 +117,6 @@ xelatex -interaction=nonstopmode -output-directory=build main.tex
 | `\dapanhai{...}` / `\dapanbon{...}` | 2 cột / 4 cột |
 | `\dung{text}` | Đánh dấu đáp án đúng (xanh) |
 | `\tagNguon{text}` | Tag nguồn inline |
-| `\mucDoTB` / `\mucDoKho` / `\mucDoRatKho` | Tag mức độ |
 | `\separator` | Đường kẻ phân cách |
 
 ### TikZ Drawing Kit
@@ -166,6 +165,7 @@ xelatex -interaction=nonstopmode -output-directory=build main.tex
 | 2026-04-13 | Đổi 6 chương cũ → 5 chương mới theo chủ đề đề thi | Phù hợp nguồn đề thực tế |
 | 2026-04-13 | `chotdang` → `meobotui` ("Mẹo nhỏ bỏ túi") | Tên gần gũi, văn phong hơn |
 | 2026-04-13 | Bỏ tất cả icon (`$\star$`, `$\blacktriangleright$`...) khỏi title box | Gọn, sạch hơn |
+| 2026-04-15 | Xóa tag mức độ (`mucDoTB`, `mucDoKho`, `mucDoRatKho`) | Không cần phân loại |
 
 ---
 

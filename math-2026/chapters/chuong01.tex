@@ -7,49 +7,204 @@
   \textit{\color{ForumDarkGray}Kinh tế — Sản xuất — Chi phí — Tài chính}
 \end{center}
 
-\section{Tối ưu chi phí sản xuất \& vận chuyển}
+\section{Tối ưu lợi nhuận}
 
-% ---- Bài mẫu ----
-\begin{baitoan}{1.1 \hfill \tagNguon{Sở GD\&ĐT Hà Nội} \mucDoKho}
-Một xưởng mộc cần nhập $1200$ thanh gỗ mỗi năm. Chi phí mỗi lần đặt hàng là $500\,000$ đồng. Chi phí lưu trữ mỗi thanh gỗ trong một năm là $10\,000$ đồng. Mỗi lần đặt hàng, xưởng nhập về cùng một số lượng thanh gỗ. Hỏi mỗi lần đặt hàng, xưởng nên nhập bao nhiêu thanh gỗ để tổng chi phí (đặt hàng và lưu trữ) là nhỏ nhất?
+% ===== CÂU 1 =====
+\begin{baitoan}{1 \hfill \tagNguon{THPT Nguyễn Khuyến -- TP.HCM}}
+Một nhà máy sản xuất $x$ sản phẩm trong mỗi tháng. Chi phí sản xuất $x$ sản phẩm được cho bởi hàm chi phí
+\[ C(x) = 18000 + 500x - 1{,}6x^2 + 0{,}005x^3 \quad (\text{nghìn đồng}). \]
+Biết giá bán của mỗi sản phẩm là một hàm số phụ thuộc vào số lượng sản phẩm $x$ và được cho bởi công thức $p(x) = 2012 - 7x$ (nghìn đồng). Hỏi mỗi tháng nhà máy nên sản xuất bao nhiêu sản phẩm để lợi nhuận thu được là lớn nhất? Biết rằng kết quả khảo sát thị trường cho thấy sản phẩm sản xuất ra sẽ được tiêu thụ hết.
 \end{baitoan}
 
 \begin{loigiai}
-Gọi $x$ là số thanh gỗ nhập mỗi lần ($x > 0$, $x$ là ước của $1200$).
+Tổng doanh thu khi bán hết $x$ sản phẩm:
+\[ T(x) = x \cdot p(x) = x(2012 - 7x) = 2012x - 7x^2. \]
 
-\textbf{Bước 1:} Số lần đặt hàng trong năm: $n = \dfrac{1200}{x}$.
+Lợi nhuận khi bán hết sản phẩm:
+\begin{align*}
+L(x) &= T(x) - C(x) \\
+      &= (2012x - 7x^2) - (18000 + 500x - 1{,}6x^2 + 0{,}005x^3) \\
+      &= -0{,}005x^3 - 5{,}4x^2 + 1512x - 18000.
+\end{align*}
 
-\textbf{Bước 2:} Tổng chi phí:
-\begin{itemize}
-  \item Chi phí đặt hàng: $C_1 = \dfrac{1200}{x} \cdot 500\,000 = \dfrac{600\,000\,000}{x}$
-  \item Chi phí lưu trữ (trung bình $\frac{x}{2}$ thanh): $C_2 = \dfrac{x}{2} \cdot 10\,000 = 5000x$
-\end{itemize}
+Điều kiện: $\begin{cases} x > 0 \\ 2012 - 7x > 0 \end{cases} \Leftrightarrow 0 < x < \dfrac{2012}{7}$.
 
-\textbf{Bước 3:} Tổng chi phí:
-\[ C(x) = \frac{600\,000\,000}{x} + 5000x \]
+Đạo hàm:
+\[ L'(x) = -0{,}015x^2 - 10{,}8x + 1512. \]
+\[ L'(x) = 0 \Leftrightarrow \begin{bmatrix} x = 120 \text{ (nhận)} \\ x = -840 \text{ (loại)} \end{bmatrix}. \]
 
-Áp dụng BĐT AM-GM:
-\[ C(x) \geq 2\sqrt{\frac{600\,000\,000}{x} \cdot 5000x} = 2\sqrt{3 \cdot 10^{12}} \]
-
-Dấu "$=$" xảy ra khi $\dfrac{600\,000\,000}{x} = 5000x \Leftrightarrow x^2 = 120\,000 \Leftrightarrow x \approx 346$.
-
-Kiểm tra $x = 300$ hoặc $x = 400$ (ước của $1200$) để chọn giá trị tối ưu thực tế.
+Dựa vào bảng biến thiên, $L(x)$ đạt giá trị lớn nhất tại $\boxed{x = 120}$ sản phẩm.
 \end{loigiai}
 
-\begin{meobotui}{Mô hình EOQ}
-Bài toán tối ưu lô hàng (Economic Order Quantity): Tổng chi phí = Chi phí đặt hàng + Chi phí lưu trữ $= \frac{aD}{x} + \frac{bx}{2}$. Dùng AM-GM hoặc đạo hàm để tìm cực tiểu.
+\separator
+
+% ===== CÂU 3 =====
+\begin{baitoan}{2 \hfill \tagNguon{Chuyên ĐH KHTN Hà Nội}}
+Một nhà máy sản xuất và bán $x$ sản phẩm trong mỗi tháng. Chi phí sản xuất $x$ sản phẩm được cho bởi công thức $C(x) = 10000 + 600x - 0{,}6x^2 + 0{,}004x^3$. Biết giá bán của mỗi sản phẩm là $p(x) = 1800 - 6x$. Hỏi mỗi tháng nhà máy nên sản xuất bao nhiêu sản phẩm để lợi nhuận thu được là lớn nhất?
+\end{baitoan}
+
+\begin{loigiai}
+Lợi nhuận của nhà máy:
+\begin{align*}
+L(x) &= x(1800 - 6x) - (10000 + 600x - 0{,}6x^2 + 0{,}004x^3) \\
+      &= -0{,}004x^3 - 5{,}4x^2 + 1200x - 10000.
+\end{align*}
+
+Đạo hàm:
+\[ L'(x) = -0{,}012x^2 - 10{,}8x + 1200. \]
+\[ L'(x) = 0 \Leftrightarrow \begin{bmatrix} x = 100 \\ x = -1000 \text{ (loại)} \end{bmatrix}. \]
+
+Mỗi tháng nhà máy nên sản xuất $\boxed{100}$ sản phẩm.
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 4 =====
+\begin{baitoan}{3 \hfill \tagNguon{Sở GD\&ĐT Bắc Ninh}}
+Giả sử nhu cầu tiêu thụ một loại sản phẩm mới của doanh nghiệp A được mô hình hóa bởi hàm số $p = \dfrac{1500}{\sqrt{x}}$, trong đó $p$ là đơn giá (nghìn đồng) và $x$ là số lượng đơn vị sản phẩm. Chi phí để sản xuất $x$ đơn vị sản phẩm là $C(x) = 12x + 500$ (nghìn đồng). Tìm mức giá để mang lại lợi nhuận tối đa.
+\end{baitoan}
+
+\begin{loigiai}
+Doanh thu khi doanh nghiệp bán $x$ sản phẩm:
+\[ D(x) = x \cdot p = x \cdot \frac{1500}{\sqrt{x}} = 1500\sqrt{x}. \]
+
+Lợi nhuận thu được:
+\[ L(x) = D(x) - C(x) = 1500\sqrt{x} - (12x + 500) = -12x + 1500\sqrt{x} - 500. \]
+
+Đạo hàm:
+\[ L'(x) = \frac{750}{\sqrt{x}} - 12 = 0 \Leftrightarrow \sqrt{x} = \frac{125}{2} \Rightarrow x = \frac{15625}{4}. \]
+
+Mức giá để lợi nhuận tối đa:
+\[ p = \frac{1500}{\sqrt{x}} = \frac{1500}{\frac{125}{2}} = \boxed{24} \text{ (nghìn đồng)}. \]
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 5 =====
+\begin{baitoan}{4 \hfill \tagNguon{Sở GD\&ĐT Hưng Yên}}
+Nhà máy A chuyên sản xuất một loại sản phẩm cho nhà máy B. Hai nhà máy thỏa thuận rằng, hằng tháng A cung cấp cho B số lượng sản phẩm theo đơn đặt hàng (tối đa 100 tấn). Nếu số lượng đặt hàng là $x$ tấn thì giá bán cho mỗi tấn là $P(x) = 90 - 0{,}01x^2$ (triệu đồng). Chi phí sản xuất $x$ tấn trong một tháng là $C(x) = 100 + 15x$ (triệu đồng). Hỏi A bán cho B bao nhiêu tấn mỗi tháng thì thu được lợi nhuận cao nhất?
+\end{baitoan}
+
+\begin{loigiai}
+Lợi nhuận mà A thu được khi bán $x$ tấn ($0 \le x \le 100$):
+\begin{align*}
+H(x) &= xP(x) - C(x) = x(90 - 0{,}01x^2) - (100 + 15x) \\
+      &= -0{,}01x^3 + 75x - 100.
+\end{align*}
+
+Đạo hàm:
+\[ H'(x) = -0{,}03x^2 + 75. \]
+\[ H'(x) = 0 \Leftrightarrow \begin{bmatrix} x = 50 \\ x = -50 \text{ (loại)} \end{bmatrix}. \]
+
+Từ bảng biến thiên, A bán cho B $\boxed{50}$ tấn sản phẩm thì lợi nhuận cao nhất.
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 6 =====
+\begin{baitoan}{5 \hfill \tagNguon{THPT Nguyễn Trãi -- Hà Nội}}
+Một nông trại dâu tây tại Đà Lạt (Bên A) ký hợp đồng cung cấp độc quyền cho một chuỗi cửa hàng tại TP.HCM (Bên B). Bên B dự tính rằng nếu mỗi ngày nhập và bán hết $x$ kg dâu tây ($0 < x < 150$), thì tổng doanh thu bán lẻ là $R(x) = 300x - x^2$ (nghìn đồng). Chi phí vận hành (không gồm tiền nhập hàng) là $C(x) = x^2 + 20x + 500$ (nghìn đồng). Bên A quyết định mức giá bán sỉ $p$ cho Bên B. Giả sử Bên B luôn chọn lượng nhập hàng $x$ sao cho lợi nhuận thu được là cao nhất ứng với mức giá $p$. Hãy xác định mức giá sỉ $p$ mà nông trại nên thiết lập để tổng doanh thu của nông trại là lớn nhất.
+\end{baitoan}
+
+\begin{loigiai}
+Lợi nhuận của Bên B:
+\begin{align*}
+L(x) &= R(x) - [p \cdot x + C(x)] \\
+      &= (300x - x^2) - [px + (x^2 + 20x + 500)] \\
+      &= -2x^2 + (280 - p)x - 500.
+\end{align*}
+
+Bên B đạt lợi nhuận cao nhất tại:
+\[ x = \frac{280 - p}{4} = 70 - \frac{p}{4}. \]
+
+Tổng doanh thu của nông trại (Bên A):
+\[ T(p) = p \cdot x = p\left(70 - \frac{p}{4}\right) = 70p - \frac{p^2}{4}. \]
+
+Để doanh thu cực đại:
+\[ T'(p) = 70 - \frac{p}{2} = 0 \Rightarrow p = 140. \]
+
+Với $p = 140$: $x = 70 - \dfrac{140}{4} = 35$ (thỏa mãn $0 < x < 150$).
+
+Vậy mức giá sỉ là $\boxed{p = 140}$ (nghìn đồng).
+\end{loigiai}
+
+\begin{meobotui}{Bài toán tối ưu 2 tầng}
+Khi đề bài có 2 bên (A bán cho B), ta giải theo 2 bước: (1) Tối ưu cho B trước $\to$ tìm $x$ theo $p$; (2) Thế ngược vào doanh thu A $\to$ tối ưu theo $p$.
 \end{meobotui}
 
 \separator
 
-\section{Tối ưu lợi nhuận}
+% ===== CÂU 7 =====
+\begin{baitoan}{6 \hfill \tagNguon{THPT Thọ Xuân 5 -- Thanh Hóa}}
+Một gia đình đan lưới đánh cá, mỗi ngày đan được $x$ mét lưới ($1 \le x \le 18$). Tổng chi phí sản xuất $x$ mét lưới (nghìn đồng):
+\[ C(x) = x^3 - 3x^2 - 20x + 500. \]
+Giả sử gia đình bán hết sản phẩm mỗi ngày với giá 220 nghìn đồng/mét. Hỏi lợi nhuận tối đa trong một ngày?
+\end{baitoan}
 
-% Thêm bài toán ở đây...
+\begin{loigiai}
+Doanh thu khi bán $x$ mét lưới: $220x$ (nghìn đồng).
 
-\section{Tối ưu chi phí nguyên vật liệu}
+Hàm lợi nhuận:
+\begin{align*}
+L(x) &= 220x - C(x) = 220x - (x^3 - 3x^2 - 20x + 500) \\
+      &= -x^3 + 3x^2 + 240x - 500.
+\end{align*}
 
-% Thêm bài toán ở đây...
+Đạo hàm:
+\[ L'(x) = -3x^2 + 6x + 240. \]
+\[ L'(x) = 0 \Leftrightarrow \begin{bmatrix} x = 10 \\ x = -8 \text{ (loại)} \end{bmatrix}. \]
 
-\section{Bài toán tài chính phức tạp}
+Lợi nhuận tối đa trong một ngày là $\boxed{1200}$ (nghìn đồng).
+\end{loigiai}
 
-% Thêm bài toán ở đây...
+\separator
+
+\section{Tối ưu chi phí sản xuất \& vận chuyển}
+
+% ===== CÂU 2 =====
+\begin{baitoan}{7 \hfill \tagNguon{THPT Nguyễn Khuyến -- Lê Thánh Tông}}
+Năm 2025, một cửa hàng cần nhập tổng cộng 600 chiếc điện thoại. Cửa hàng nhập theo nhiều lô, mỗi lô chứa số lượng bằng nhau. Chi phí vận chuyển là 50 USD cho mỗi lô hàng, cộng thêm 3 USD cho mỗi chiếc điện thoại và phí này cả năm chỉ tính cho lần vận chuyển đầu tiên. Hỏi nên nhập mỗi lô bao nhiêu chiếc để chi phí vận chuyển cả năm thấp nhất?
+\end{baitoan}
+
+\begin{loigiai}
+Gọi $x$ là số chiếc điện thoại trong mỗi lô ($x \in \mathbb{N}^*$, $600 \vdots x$).
+
+Số lô cần nhập: $\dfrac{600}{x}$.
+
+Tổng chi phí vận chuyển:
+\begin{itemize}
+  \item Phí theo lô: $\dfrac{600}{x} \times 50 = \dfrac{30000}{x}$ (USD).
+  \item Phí cho lần đầu (3 USD/chiếc, chỉ lô đầu): $3x$ (USD).
+\end{itemize}
+\[ C(x) = \frac{30000}{x} + 3x. \]
+
+Đạo hàm:
+\[ C'(x) = -\frac{30000}{x^2} + 3 = 0 \Leftrightarrow x^2 = 10000 \Rightarrow x = 100. \]
+
+Dựa vào bảng biến thiên, chi phí nhỏ nhất khi nhập mỗi lô $\boxed{100}$ chiếc.
+\end{loigiai}
+
+\separator
+
+% ===== CÂU 8 =====
+\begin{baitoan}{8 \hfill \tagNguon{Nhóm Toán Trong Tâm / Nguyễn Khuyến}}
+Một công ty sản xuất dụng cụ thể thao nhận đơn đặt hàng 8000 quả bóng tennis. Công ty sở hữu một số máy, mỗi máy sản xuất 30 quả bóng/giờ. Chi phí thiết lập là 200 nghìn đồng/máy. Tiền trả cho người giám sát là 192 nghìn đồng/giờ. Hỏi nên sử dụng bao nhiêu máy để chi phí hoạt động thấp nhất?
+\end{baitoan}
+
+\begin{loigiai}
+Gọi $x$ là số máy sử dụng ($x > 0$, $x \in \mathbb{N}$).
+
+Một giờ, $x$ máy sản xuất được $30x$ quả bóng. Thời gian sản xuất: $\dfrac{8000}{30x}$ giờ.
+
+Chi phí hoạt động:
+\[ C(x) = 200x + 192 \cdot \frac{8000}{30x} = 200x + \frac{51200}{x}. \]
+
+Đạo hàm:
+\[ C'(x) = 200 - \frac{51200}{x^2} = 0 \Rightarrow x^2 = 256 \Rightarrow x = 16. \]
+
+Dựa vào bảng biến thiên, chi phí nhỏ nhất là $6400$ nghìn đồng khi sử dụng $\boxed{16}$ máy.
+\end{loigiai}
+
+\begin{meobotui}{Dạng $C(x) = ax + \frac{b}{x}$}
+Gặp bài tối ưu chi phí có dạng $C(x) = ax + \frac{b}{x}$, dùng AM-GM: $C(x) \ge 2\sqrt{ab}$, đạt được khi $ax = \frac{b}{x} \Leftrightarrow x = \sqrt{\frac{b}{a}}$.
+\end{meobotui}
