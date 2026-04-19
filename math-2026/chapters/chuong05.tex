@@ -98,10 +98,174 @@ Lấy $\vec{v} = 2\vec{u}_2 = (5;\,-10;\,-6)$.
 % ===== CÂU 6 =====
 \begin{baitoan}{5 \hfill \tagNguon{THPT Nguyễn Trãi -- Hà Nội}}
 Tòa nhà đồ chơi hình hộp chữ nhật $ABCD.A'B'C'D'$, đáy hình vuông cạnh 20\,cm, cao 80\,cm. Mặt $A'B'C'D'$ là mặt dưới, $ABCD$ là mặt trên. Kiến bò từ $A'$ trên bề mặt xung quanh đến $A$, đường gấp khúc cắt các cạnh theo thứ tự $BB'$, $CC'$, $BB'$, $CC'$, $DD'$. Biết kiến chạm $BB'$ cách $B'$ không nhỏ hơn 16\,cm và chạm $CC'$ cách $C$ không lớn hơn 16\,cm. Tính độ dài ngắn nhất. (Làm tròn đến hàng đơn vị, cm).
+
+\begin{center}
+\begin{tikzpicture}[line join=round, line cap=round, scale=1.3]
+
+% --- Cấu hình thông số hình hộp ---
+\def\W{4}      % Chiều rộng mặt trước (tương ứng 20cm)
+\def\H{8}      % Chiều cao (tương ứng 80cm)
+\def\Dx{2.2}   % Độ nghiêng X để tạo chiều sâu 3D
+\def\Dy{1.5}   % Độ nghiêng Y để tạo chiều sâu 3D
+
+% --- Tọa độ các đỉnh của tòa nhà ---
+\coordinate (A') at (0,0);
+\coordinate (B') at (\W,0);
+\coordinate (C') at (\W+\Dx,\Dy);
+\coordinate (D') at (\Dx,\Dy);
+
+\coordinate (A) at (0,\H);
+\coordinate (B) at (\W,\H);
+\coordinate (C) at (\W+\Dx,\H+\Dy);
+\coordinate (D) at (\Dx,\H+\Dy);
+
+% --- Tọa độ các điểm con kiến chạm vào cạnh (Ước lượng theo tỷ lệ để đẹp mắt) ---
+% 1. Chạm BB' lần 1 (M1)
+\coordinate (M1) at ($(B')!0.2!(B)$); 
+% 2. Chạm CC' lần 1 (N1)
+\coordinate (N1) at ($(C')!0.4!(C)$); 
+% 3. Quay lại chạm BB' lần 2 (M2) - Đây là điểm bạn nhắc tôi bị thiếu
+\coordinate (M2) at ($(B')!0.55!(B)$); 
+% 4. Quay lại chạm CC' lần 2 (N2)
+\coordinate (N2) at ($(C')!0.7!(C)$); 
+% 5. Chạm DD' (P) - Bắt đầu đi vào mặt khuất
+\coordinate (P) at ($(D')!0.85!(D)$); 
+
+% --- Đổ màu mặt trước và mặt bên phải (Màu cam nhạt đặc trưng của đề bài) ---
+\fill[orange!15] (A') -- (B') -- (B) -- (A) -- cycle;
+\fill[orange!15] (B') -- (C') -- (C) -- (B) -- cycle;
+
+% --- 1. Vẽ các cạnh khuất của hình hộp (Nét đứt) ---
+\draw[thick, dashed] (A') -- (D');
+\draw[thick, dashed] (D') -- (C');
+\draw[thick, dashed] (D') -- (D);
+
+% --- 2. Vẽ đường đi của con kiến ---
+% Các đoạn nằm trên mặt thấy (Mặt trước và mặt bên phải)
+\draw[thick] (A') -- (M1); % A' -> BB'
+\draw[thick] (M1) -- (N1); % BB' -> CC'
+\draw[thick] (N1) -- (M2); % CC' -> BB' (Đoạn zig-zag quay lại)
+\draw[thick] (M2) -- (N2); % BB' -> CC' (Đoạn zig-zag đi tiếp)
+
+% Các đoạn nằm trên mặt khuất (Mặt sau và mặt bên trái)
+\draw[thick, dashed] (N2) -- (P); % CC' -> DD'
+\draw[thick, dashed] (P) -- (A);  % DD' -> A
+
+% --- 3. Vẽ các cạnh thấy của hình hộp (Nét liền) ---
+\draw[thick] (A) -- (B) -- (C) -- (D) -- cycle; % Mặt trên
+\draw[thick] (A') -- (B') -- (C');             % Đáy dưới
+\draw[thick] (A') -- (A);                      % Cạnh đứng trái
+\draw[thick] (B') -- (B);                      % Cạnh đứng giữa
+\draw[thick] (C') -- (C);                      % Cạnh đứng phải
+
+% --- 4. Ghi chú ký hiệu ---
+% Các đỉnh phía trên
+\node[left] at (A) {$A$};
+\node[below left] at (B) {$B$};
+\node[above right] at (C) {$C$};
+\node[above left] at (D) {$D$};
+
+% Các đỉnh phía dưới
+\node[left] at (A') {$A'$};
+\node[below right] at (B') {$B'$};
+\node[right] at (C') {$C'$};
+\node[above left, yshift=-1mm] at (D') {$D'$};
+
+% Thông số kích thước
+\node[left] at ($(A)!0.5!(A')$) {$80\text{ cm}$};
+\node[below] at ($(A')!0.5!(B')$) {$20\text{ cm}$};
+
+\end{tikzpicture}
+\end{center}
 \end{baitoan}
 
 \begin{loigiai}
 Áp dụng phương pháp trải hình.
+
+\begin{center}
+\begin{tikzpicture}[x=0.12cm,y=0.12cm,line cap=round,line join=round]
+
+%======================
+% Parameters
+%======================
+\def\W{20}
+\def\H{80}
+
+% Vertical boundaries
+\foreach \x in {0,20,40,60,80,100,120}
+  \draw[line width=0.9pt] (\x,0) -- (\x,\H);
+
+% Top and bottom
+\draw[line width=0.9pt] (0,0) -- (120,0);
+\draw[line width=0.9pt] (0,\H) -- (120,\H);
+
+%======================
+% Labels top
+%======================
+\node[above] at (0,\H) {$A$};
+\node[above] at (20,\H) {$B$};
+\node[above] at (40,\H) {$C$};
+\node[above] at (60,\H) {$B$};
+\node[above] at (80,\H) {$C$};
+\node[above] at (100,\H) {$D$};
+\node[above] at (120,\H) {$A$};
+
+%======================
+% Labels bottom
+%======================
+\node[below] at (0,0) {$A'$};
+\node[below] at (20,0) {$B'$};
+\node[below] at (40,0) {$C'$};
+\node[below] at (60,0) {$B'$};
+\node[below] at (80,0) {$C'$};
+\node[below] at (100,0) {$D'$};
+\node[below] at (120,0) {$A'$};
+
+%======================
+% Chosen path points
+%======================
+% Example matching the style in your screenshot:
+\coordinate (A0) at (0,0);
+\coordinate (F)  at (40,62);  % on CC'
+\coordinate (A1) at (120,80); % final A
+
+% Intersections with repeated edges
+% segment A0--F hits x=20 at E
+\path[name path=line1] (A0) -- (F);
+\path[name path=bb1] (20,0) -- (20,80);
+\path[name intersections={of=line1 and bb1, by=E}];
+
+% segment F--A1 hits x=60,80,100 at G,H,I
+\path[name path=line2] (F) -- (A1);
+\path[name path=bb2] (60,0) -- (60,80);
+\path[name path=cc2] (80,0) -- (80,80);
+\path[name path=dd ] (100,0) -- (100,80);
+\path[name intersections={of=line2 and bb2, by=G}];
+\path[name intersections={of=line2 and cc2, by=H}];
+\path[name intersections={of=line2 and dd,  by=I}];
+
+%======================
+% Dashed ant path
+%======================
+\draw[blue,dashed,line width=1pt] (A0) -- (F) -- (A1);
+
+% Point labels
+\node[left]  at (E) {$E$};
+\node[left]  at (F) {$F$};
+\node[right] at (G) {$G$};
+\node[right] at (H) {$H$};
+\node[right] at (I) {$I$};
+
+% Mark x = CF
+\draw (40,80) -- (40,62);
+\node[right] at (40,71) {$x$};
+
+% Dimensions
+\node[left=10pt] at (0,40) {80 cm};
+\node[below=6pt] at (10,0) {20 cm};
+
+\end{tikzpicture}
+\end{center}
 
 Đặt $CF = x$ ($x \le 16$), $B'E = \dfrac{80 - x}{2} \ge 32$ (thỏa mãn).
 
@@ -109,6 +273,25 @@ Sau khi trải, đường đi:
 \[ f(x) = \sqrt{40^2 + (80-x)^2} + \sqrt{80^2 + x^2}, \quad x \le 16. \]
 
 $f'(x) = 0 \Rightarrow x = \dfrac{160}{3} > 16$, nên $f$ nghịch biến trên $[0;\,16]$.
+
+% BBT: f nghịch biến trên [0,16]
+\begin{center}
+\begin{tikzpicture}[scale=1, every node/.style={inner sep=3pt}]
+  \draw[bbt] (0,0) rectangle (7,-3.6);
+  \draw[bbt] (0,-1) -- (7,-1);
+  \draw[bbt] (0,-2) -- (7,-2);
+  \draw[bbt] (1.4,0) -- (1.4,-3.6);
+  \node[bbt header] at (0.7,-0.5) {$x$};
+  \node[bbt header] at (0.7,-1.5) {$f'$};
+  \node[bbt header] at (0.7,-2.8) {$f$};
+  \node[bbt val] at (2.5,-0.5) {$0$};
+  \node[bbt val] at (5.5,-0.5) {$16$};
+  \node[bbt sign] at (4,-1.5) {$-$};
+  \node[bbt val] at (2.5,-2.4) {$f(0)$};
+  \node[bbt val] at (5.5,-3.2) {$f(16)$};
+  \draw[bbt arrow] (2.8,-2.5) -- (5.2,-3.1);
+\end{tikzpicture}
+\end{center}
 
 \[ f_{\min} = f(16) = \sqrt{1600 + 4096} + \sqrt{6400 + 256} = \sqrt{5696} + \sqrt{6656} \approx \boxed{157\;\text{cm}}. \]
 \end{loigiai}
@@ -172,6 +355,43 @@ Nồi lẩu hình hai trụ đồng trục: bán kính ngoài $R = 15$\,cm, bán
 
 \begin{loigiai}
 Đũa tụt sâu nhất khi đầu đũa chạm đáy, tiếp xúc trụ giữa.
+
+% Hình minh họa nồi lẩu hai trụ đồng trục
+\begin{center}
+\begin{tikzpicture}[line cap=round,line join=round]
+  \def\a{3.2}   \def\b{0.9}   \def\h{5.0}
+  \def\ai{1.05} \def\bi{0.45}
+  \coordinate (Otop) at (0,\h); \coordinate (Obot) at (0,0);
+  \def\tA{35} \def\tB{215}
+  \coordinate (A) at ({\a*cos(\tA)}, {\h+\b*sin(\tA)});
+  \coordinate (C) at ({\a*cos(\tA)}, {\b*sin(\tA)});
+  \coordinate (B) at ({\a*cos(\tB)}, {\b*sin(\tB)});
+  % Outer cylinder
+  \draw[line width=1pt] (Otop) ellipse[x radius=\a, y radius=\b];
+  \draw[line width=1pt] (-\a,\h) -- (-\a,0);
+  \draw[line width=1pt] (\a,\h) -- (\a,0);
+  \draw[line width=1pt] ({-\a},0) arc[start angle=180,end angle=360,x radius=\a,y radius=\b];
+  \draw[line width=1pt] ({\a},0) arc[start angle=0,end angle=180,x radius=\a,y radius=\b];
+  % Inner hole
+  \draw[line width=1pt] (Otop) ellipse[x radius=\ai, y radius=\bi];
+  \draw[ForumGreen!70!black,dashed,line width=1pt] (-\ai,\h) -- (-\ai,0);
+  \draw[ForumGreen!70!black,dashed,line width=1pt] (\ai,\h) -- (\ai,0);
+  \draw[dashed,line width=1pt] (Obot) ellipse[x radius=\ai, y radius=\bi];
+  % Triangle B-A-C
+  \draw[red,dashed,line width=1pt] (B) -- (A) -- (C) -- cycle;
+  % I and H
+  \coordinate (I) at (0,0); \coordinate (H) at (0,{-\bi});
+  \draw[dashed,line width=1pt] (I) -- (H);
+  \draw[dashed,line width=1pt] (I) -- (C);
+  % Labels
+  \node[above right=1pt] at (A) {$A$};
+  \node[below left=1pt]  at (B) {$B$};
+  \node[below right=1pt] at (C) {$C$};
+  \node[above left=1pt]  at (I) {$I$};
+  \node[below=2pt]       at (H) {$H$};
+\end{tikzpicture}
+\end{center}
+
 
 Dây cung dài nhất qua tiết diện (tránh trụ giữa):
 \[ BC_{\max} = 2\sqrt{R^2 - r^2} = 2\sqrt{225 - 12{,}25} = \sqrt{851}. \]

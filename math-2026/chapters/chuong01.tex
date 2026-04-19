@@ -33,6 +33,8 @@ L(x) &= T(x) - C(x) \\
 \[ L'(x) = -0{,}015x^2 - 10{,}8x + 1512. \]
 \[ L'(x) = 0 \Leftrightarrow \begin{bmatrix} x = 120 \text{ (nhận)} \\ x = -840 \text{ (loại)} \end{bmatrix}. \]
 
+\bbtOptim{0}{120}{\frac{2012}{7}}{}{L_{\max}}{}{L}{max}
+
 Dựa vào bảng biến thiên, $L(x)$ đạt giá trị lớn nhất tại $\boxed{x = 120}$ sản phẩm.
 \end{loigiai}
 
@@ -53,6 +55,8 @@ L(x) &= x(1800 - 6x) - (10000 + 600x - 0{,}6x^2 + 0{,}004x^3) \\
 Đạo hàm:
 \[ L'(x) = -0{,}012x^2 - 10{,}8x + 1200. \]
 \[ L'(x) = 0 \Leftrightarrow \begin{bmatrix} x = 100 \\ x = -1000 \text{ (loại)} \end{bmatrix}. \]
+
+\bbtOptim{0}{100}{+\infty}{}{L_{\max}}{}{L}{max}
 
 Mỗi tháng nhà máy nên sản xuất $\boxed{100}$ sản phẩm.
 \end{loigiai}
@@ -95,6 +99,8 @@ H(x) &= xP(x) - C(x) = x(90 - 0{,}01x^2) - (100 + 15x) \\
 Đạo hàm:
 \[ H'(x) = -0{,}03x^2 + 75. \]
 \[ H'(x) = 0 \Leftrightarrow \begin{bmatrix} x = 50 \\ x = -50 \text{ (loại)} \end{bmatrix}. \]
+
+\bbtOptim{0}{50}{100}{H(0)}{H_{\max}}{H(100)}{H}{max}
 
 Từ bảng biến thiên, A bán cho B $\boxed{50}$ tấn sản phẩm thì lợi nhuận cao nhất.
 \end{loigiai}
@@ -154,6 +160,8 @@ L(x) &= 220x - C(x) = 220x - (x^3 - 3x^2 - 20x + 500) \\
 \[ L'(x) = -3x^2 + 6x + 240. \]
 \[ L'(x) = 0 \Leftrightarrow \begin{bmatrix} x = 10 \\ x = -8 \text{ (loại)} \end{bmatrix}. \]
 
+\bbtOptim{1}{10}{18}{L(1)}{1200}{L(18)}{L}{max}
+
 Lợi nhuận tối đa trong một ngày là $\boxed{1200}$ (nghìn đồng).
 \end{loigiai}
 
@@ -181,6 +189,8 @@ Tổng chi phí vận chuyển:
 Đạo hàm:
 \[ C'(x) = -\frac{30000}{x^2} + 3 = 0 \Leftrightarrow x^2 = 10000 \Rightarrow x = 100. \]
 
+\bbtOptim{0^+}{100}{600}{+\infty}{C_{\min}}{+\infty}{C}{min}
+
 Dựa vào bảng biến thiên, chi phí nhỏ nhất khi nhập mỗi lô $\boxed{100}$ chiếc.
 \end{loigiai}
 
@@ -201,6 +211,8 @@ Chi phí hoạt động:
 
 Đạo hàm:
 \[ C'(x) = 200 - \frac{51200}{x^2} = 0 \Rightarrow x^2 = 256 \Rightarrow x = 16. \]
+
+\bbtOptim{0^+}{16}{+\infty}{+\infty}{6400}{+\infty}{C}{min}
 
 Dựa vào bảng biến thiên, chi phí nhỏ nhất là $6400$ nghìn đồng khi sử dụng $\boxed{16}$ máy.
 \end{loigiai}

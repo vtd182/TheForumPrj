@@ -158,6 +158,61 @@
   \end{center}
 }
 
+% --- BBT tối ưu: 1 điểm cực trị trên miền ---
+% \bbtOptim[var]{a}{x0}{b}{f(a)}{f(x0)}{f(b)}{fname}{type}
+%   var   = tên biến (mặc định x)
+%   a, b  = biên miền (có thể dùng -\infty, +\infty)
+%   x0    = điểm cực trị
+%   type  = max hoặc min
+\newcommand{\bbtOptim}[9][x]{%
+\begin{center}
+\begin{tikzpicture}[scale=1, every node/.style={inner sep=3pt}]
+  % Frame
+  \draw[bbt] (0,0) rectangle (9,-4.2);
+  \draw[bbt] (0,-1) -- (9,-1);
+  \draw[bbt] (0,-2.2) -- (9,-2.2);
+  \draw[bbt] (1.4,0) -- (1.4,-4.2);
+  % Headers
+  \node[bbt header] at (0.7,-0.5) {$#1$};
+  \node[bbt header] at (0.7,-1.6) {$#8'$};
+  \node[bbt header] at (0.7,-3.2) {$#8$};
+  % x values
+  \node[bbt val] at (2.3,-0.5) {$#2$};
+  \node[bbt val] at (5,-0.5) {$#3$};
+  \draw[bbt,dashed,opacity=0.4] (5,-1) -- (5,-4.2);
+  \node[bbt val] at (7.8,-0.5) {$#4$};
+  % Choose max or min layout
+  \def\bbttype{#9}%
+  \def\bbtmax{max}%
+  \ifx\bbttype\bbtmax
+    % f' : + 0 -
+    \node[bbt sign] at (3.5,-1.6) {$+$};
+    \node[bbt sign] at (5,-1.6) {$0$};
+    \node[bbt sign] at (6.5,-1.6) {$-$};
+    % f values: low → high → low
+    \node[bbt val] at (2.3,-3.8) {$#5$};
+    \node[bbt val] at (5,-2.6) {$#6$};
+    \node[bbt val] at (7.8,-3.8) {$#7$};
+    % arrows up then down
+    \draw[bbt arrow] (2.6,-3.6) -- (4.7,-2.8);
+    \draw[bbt arrow] (5.3,-2.8) -- (7.5,-3.6);
+  \else
+    % f' : - 0 +
+    \node[bbt sign] at (3.5,-1.6) {$-$};
+    \node[bbt sign] at (5,-1.6) {$0$};
+    \node[bbt sign] at (6.5,-1.6) {$+$};
+    % f values: high → low → high
+    \node[bbt val] at (2.3,-2.6) {$#5$};
+    \node[bbt val] at (5,-3.8) {$#6$};
+    \node[bbt val] at (7.8,-2.6) {$#7$};
+    % arrows down then up
+    \draw[bbt arrow] (2.6,-2.8) -- (4.7,-3.6);
+    \draw[bbt arrow] (5.3,-3.6) -- (7.5,-2.8);
+  \fi
+\end{tikzpicture}
+\end{center}
+}
+
 
 % ============================================================
 % PHẦN 2: ĐỒ THỊ HÀM SỐ
