@@ -15,13 +15,11 @@ Trong không gian với hệ trục tọa độ cho trước (đơn vị: km), r
 \end{baitoan}
 
 \begin{loigiai}
-Máy bay bay thẳng đều từ $A$ đến $B$ mất 10 phút, rồi bay tiếp 5 phút nữa đến $C$. Vì vận tốc không đổi, quãng đường trong 5 phút bằng đúng một nửa quãng đường trong 10 phút, tức là
+Máy bay bay thẳng đều, nên trong 5 phút nó đi được đúng nửa quãng đường so với 10 phút:
 \[ \overrightarrow{BC} = \frac{1}{2}\,\overrightarrow{AB}. \]
 
-Ta có $\overrightarrow{AB} = (140;\,50;\,2)$, suy ra $\overrightarrow{BC} = (70;\,25;\,1)$.
-
-Từ $B(940;\,550;\,9)$:
-\[ C = B + \overrightarrow{BC} = (940 + 70;\; 550 + 25;\; 9 + 1) = (1010;\,575;\,10). \]
+Với $\overrightarrow{AB} = (140;\,50;\,2)$, suy ra $\overrightarrow{BC} = (70;\,25;\,1)$, từ đó
+\[ C = B + \overrightarrow{BC} = (1010;\,575;\,10). \]
 
 Vậy $x + yz = 1010 + 575 \cdot 10 = \boxed{6760}$.
 \end{loigiai}
@@ -63,18 +61,16 @@ Một sân bóng đá tiêu chuẩn có dạng hình chữ nhật, kích thướ
 \end{tikzpicture}
 \end{center}
 
-Bóng bay thẳng từ $P(6;\,22;\,0)$ theo hướng $\vec{v} = (15;\,-11;\,1)$. Phương trình đường bay (tham số $t$):
-\[ d:\; \begin{cases} x = 6 + 15t \\ y = 22 - 11t \\ z = t \end{cases}. \]
+Bóng bay thẳng từ $P(6;\,22;\,0)$ theo hướng $\vec{v} = (15;\,-11;\,1)$. Phương trình đường bay:
+\[ d:\; \begin{cases} x = 6 + 15t \\ y = 22 - 11t \\ z = t \end{cases} \qquad (t\text{ là tham số đường thẳng, chưa phải thời gian}). \]
 
-Lưu ý: ở đây $t$ là tham số đường thẳng, chưa phải thời gian.
-
-Khung thành nằm trên mặt phẳng $(Oxz)$, tức $y = 0$. Bóng chạm khung thành khi $y = 0$:
+Khung thành nằm trên mặt phẳng $(Oxz)$, tức $y = 0$:
 \[ 22 - 11t = 0 \Rightarrow t = 2 \Rightarrow M(36;\,0;\,2). \]
 
-Quãng đường bóng bay từ $P$ đến $M$:
-\[ PM = \sqrt{(36-6)^2 + (0-22)^2 + (2-0)^2} = \sqrt{900 + 484 + 4} = \sqrt{1388} = 2\sqrt{347}. \]
+Quãng đường:
+\[ PM = \sqrt{30^2 + 22^2 + 2^2} = \sqrt{1388} = 2\sqrt{347}. \]
 
-Thời gian thực (bóng bay với vận tốc 28\,m/s):
+Thời gian thực:
 \[ \tau = \frac{PM}{v} = \frac{2\sqrt{347}}{28} = \frac{\sqrt{347}}{14} \approx \boxed{1{,}33 \text{ giây}}. \]
 \end{loigiai}
 
@@ -267,29 +263,23 @@ Cho hình hộp chữ nhật $ABCD.A'B'C'D'$ có đáy $ABCD$ là hình vuông c
 
 Đặt hệ trục: $A(0,0,0)$, $B(20,0,0)$, $D(0,20,0)$, $D'(0,20,20)$.
 
-Kiến vàng đi từ $A$ đến $D'$: $AD' = \sqrt{0 + 400 + 400} = 20\sqrt{2}$, vận tốc 2\,cm/s. Véctơ vận tốc:
-\[ \vec{v}_1 = \frac{2}{20\sqrt{2}}\,(0;\,20;\,20) = \left(0;\;\frac{1}{\sqrt{2}};\;\frac{1}{\sqrt{2}}\right) = (0;\,\sqrt{2}/{\sqrt{2}};\,\sqrt{2}/{\sqrt{2}}). \]
+Kiến vàng: từ $A$ đến $D'$, $AD' = 20\sqrt{2}$, tốc độ 2\,cm/s. Véctơ vận tốc:
+\[ \vec{v}_1 = \frac{2}{20\sqrt{2}}\,(0;\,20;\,20) = \left(0;\;\sqrt{2};\;\sqrt{2}\right). \]
 
-Kiến đen đi từ $D(0,20,0)$ đến $B(20,0,0)$: $DB = 20\sqrt{2}$, vận tốc 3\,cm/s. Véctơ vận tốc:
+Kiến đen: từ $D(0,20,0)$ đến $B(20,0,0)$, $DB = 20\sqrt{2}$, tốc độ 3\,cm/s. Véctơ vận tốc:
 \[ \vec{v}_2 = \frac{3}{20\sqrt{2}}\,(20;\,-20;\,0) = \left(\frac{3}{\sqrt{2}};\;-\frac{3}{\sqrt{2}};\;0\right). \]
 
-Tại thời điểm $t$, vị trí hai con kiến:
+Tại thời điểm $t$:
 \begin{align*}
 M(t) &= (0;\;\sqrt{2}\,t;\;\sqrt{2}\,t), \\
 N(t) &= \left(\frac{3t}{\sqrt{2}};\; 20 - \frac{3t}{\sqrt{2}};\; 0\right).
 \end{align*}
 
-Khoảng cách bình phương:
-\begin{align*}
-MN^2(t) &= \frac{9t^2}{2} + \left(20 - \frac{3t}{\sqrt{2}} - \sqrt{2}\,t\right)^{\!2} + 2t^2.
-\end{align*}
-
-Khai triển và rút gọn (chú ý $\frac{3}{\sqrt{2}} + \sqrt{2} = \frac{5}{\sqrt{2}} = \frac{5\sqrt{2}}{2}$):
+Khai triển $MN^2(t)$ rồi rút gọn (lưu ý $\frac{3}{\sqrt{2}} + \sqrt{2} = \frac{5\sqrt{2}}{2}$):
 \[ MN^2(t) = 19t^2 - 100\sqrt{2}\,t + 400. \]
 
-Đây là hàm bậc hai ẩn $t$ mở lên, đạt min tại $t_0 = \dfrac{100\sqrt{2}}{2 \cdot 19} = \dfrac{50\sqrt{2}}{19}$.
-
-\[ MN_{\min}^2 = 400 - \frac{(100\sqrt{2})^2}{4 \cdot 19} = 400 - \frac{20000}{76} = \frac{10400}{76} = \frac{2600}{19}. \]
+Hàm bậc hai mở lên, đạt min tại $t_0 = \dfrac{100\sqrt{2}}{38} = \dfrac{50\sqrt{2}}{19}$:
+\[ MN_{\min}^2 = 400 - \frac{(100\sqrt{2})^2}{4 \cdot 19} = 400 - \frac{20000}{76} = \frac{2600}{19}. \]
 
 \[ MN_{\min} = \sqrt{\frac{2600}{19}} \approx \boxed{11{,}7\;\text{cm}}. \]
 \end{loigiai}
@@ -388,22 +378,12 @@ $\overrightarrow{AH} = (1+t;\,-t-1;\,2t-3)$. Điều kiện $\overrightarrow{AH}
 
 Vậy $x_H = 1 + \frac{2}{3} = \frac{5}{3}$, \textit{không phải} $\frac{2}{3}$.
 
-\textbf{d) Sai.} Tìm giao của $d$ với mặt cầu: thay $(1+t;\,-t;\,2t)$ vào phương trình mặt cầu:
+\textbf{d) Đúng.} Thay tham số $(1+t;\,-t;\,2t)$ vào phương trình mặt cầu:
 \[ (1+t)^2 + (-t-1)^2 + (2t-3)^2 = 25. \]
-\[ 1 + 2t + t^2 + t^2 + 2t + 1 + 4t^2 - 12t + 9 = 25. \]
-\[ 6t^2 - 8t + 11 = 25 \Rightarrow 6t^2 - 8t - 14 = 0 \Rightarrow 3t^2 - 4t - 7 = 0. \]
+Khai triển:
+\[ 6t^2 - 8t + 11 = 25 \Rightarrow 3t^2 - 4t - 7 = 0. \]
 \[ t = \frac{4 \pm \sqrt{16 + 84}}{6} = \frac{4 \pm 10}{6} \Rightarrow t_1 = -1, \quad t_2 = \frac{7}{3}. \]
 
-Hai giao điểm: $B(0;\,1;\,-2)$ và $C\!\left(\frac{10}{3};\,-\frac{7}{3};\,\frac{14}{3}\right)$.
-
-Khoảng cách:
-\[ BC = |t_2 - t_1| \cdot |\vec{a}| = \left(\frac{7}{3} + 1\right) \cdot \sqrt{6} = \frac{10}{3}\sqrt{6} \approx 8{,}16\;\text{km}. \]
-
-Nhưng khoan — đề nói $8{,}16$ thì mệnh đề phải \textbf{đúng}? Ta kiểm tra lại: $\frac{10\sqrt{6}}{3} = \frac{10 \times 2{,}449}{3} \approx \frac{24{,}49}{3} \approx 8{,}16$. Vậy đoạn đường trong vùng phủ sóng dài khoảng $8{,}16$\,km.
-
-Tuy nhiên, đề cho đáp án câu d) là ``8,16\,km'' — ta cần xem lại ngữ cảnh đề gốc. Với phép tính:
-
-$BC = \frac{10\sqrt{6}}{3} \approx 8{,}16$.
-
-Nhưng theo đề gốc mệnh đề d) nói ``dài $8{,}16$\,km'' thì mệnh đề này thực ra \textbf{đúng}, chứ không sai. Đáp án ở raw ghi ``Sai'' có thể do nhầm. Kết quả toán học cho $BC \approx \boxed{8{,}16\;\text{km}}$.
+Đoạn đường nằm trong vùng phủ sóng:
+\[ BC = |t_2 - t_1| \cdot |\vec{a}| = \frac{10}{3}\,\sqrt{6} \approx \boxed{8{,}16\;\text{km}}. \]
 \end{loigiai}
