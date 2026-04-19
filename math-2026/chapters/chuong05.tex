@@ -75,12 +75,155 @@ Khảo sát $V'(x) = 0 \Rightarrow x \approx \boxed{14{,}8\;\text{cm}}$.
 % ===== CÂU 4 =====
 \begin{baitoan}{4 \hfill \tagNguon{Chuyên Lê Thánh Tông -- Đà Nẵng}}
 Phòng hình hộp chữ nhật $ABCD.A'B'C'D'$ kích thước $5\times 5\times 6$\,(m). Nhện thứ nhất ($E$) bò trên dây từ $A$ đến trung điểm $M$ của $CC'$. Nhện thứ hai ($F$) bò trên dây từ $D'$ đến tâm $I$ của mặt $ABB'A'$. Khoảng cách ngắn nhất giữa 2 nhện? (Làm tròn đến hàng phần trăm).
+\usetikzlibrary{calc}
+
+\begin{tikzpicture}[line join=round, line cap=round, scale=1.3]
+
+% --- Định nghĩa tọa độ các đỉnh (Phối cảnh xiên 2D) ---
+\coordinate (B) at (0,0);
+\coordinate (C) at (4.5,0);
+\coordinate (A) at (1.8, 2.2); % Đỉnh A lùi về sau để tạo chiều sâu
+\coordinate (D) at ($(A)+(C)-(B)$);
+
+\coordinate (B') at ($(B)+(0,5)$);
+\coordinate (C') at ($(C)+(0,5)$);
+\coordinate (A') at ($(A)+(0,5)$);
+\coordinate (D') at ($(D)+(0,5)$);
+
+% --- Tọa độ các điểm phụ ---
+\coordinate (M) at ($(C)!0.5!(C')$);
+\coordinate (I) at ($(A)!0.5!(B')$); % Tâm hình chữ nhật ABB'A'
+
+% Vị trí tương đối của hai con nhện E và F
+\coordinate (E) at ($(A)!0.6!(M)$);
+\coordinate (F) at ($(D')!0.4!(I)$);
+
+% --- Vẽ các đường khuất (Nét đứt) ---
+\draw[thick, dashed, black!75] (A) -- (B);
+\draw[thick, dashed, black!75] (A) -- (D);
+\draw[thick, dashed, black!75] (A) -- (A');
+\draw[thick, dashed, black!75] (A) -- (B'); % Đường chéo 1 mặt trái
+\draw[thick, dashed, black!75] (A') -- (B); % Đường chéo 2 mặt trái
+\draw[thick, dashed, black!75] (A) -- (M);  % Dây tơ của nhện E
+\draw[thick, dashed, black!75] (D') -- (I); % Dây tơ của nhện F
+
+% --- Vẽ các đường thấy (Nét liền) ---
+\draw[thick, black!75] (B) -- (C) -- (D);
+\draw[thick, black!75] (B) -- (B');
+\draw[thick, black!75] (C) -- (C');
+\draw[thick, black!75] (D) -- (D');
+\draw[thick, black!75] (A') -- (B') -- (C') -- (D') -- cycle;
+
+% --- Cài đặt style và vẽ các điểm (Dots) ---
+\tikzset{mypoint/.style={circle, fill=gray!30, draw=black!80, inner sep=1.2pt}}
+\foreach \p in {A,B,C,D,A',B',C',D',M,I,E,F} {
+    \node[mypoint] at (\p) {};
+}
+
+% --- Gắn nhãn Text ---
+% Các đỉnh nền và trần (Màu xanh dương)
+\node[below, text=blue!80!white] at (B) {B};
+\node[below, text=blue!80!white] at (C) {C};
+\node[below right, text=blue!80!white] at (D) {D};
+\node[below, text=blue!80!white] at (A) {A};
+
+\node[left, text=blue!80!white] at (B') {B'};
+\node[right, text=blue!80!white] at (C') {C'};
+\node[above right, text=blue!80!white] at (D') {D'};
+\node[above, text=blue!80!white] at (A') {A'};
+
+% Các nhãn con nhện (Màu xanh dương)
+\node[above, text=blue!80!white, xshift=3pt] at (E) {E};
+\node[above left, text=blue!80!white, yshift=-1pt] at (F) {F};
+
+% Nhãn trung điểm (Màu đen)
+\node[right, text=black] at (M) {M};
+\node[left, text=black, xshift=-2pt] at (I) {I};
+
+\end{tikzpicture}
 \end{baitoan}
 
 \begin{loigiai}
 Chọn $A \equiv O$, trục theo $AB$, $AD$, $AA'$:
 
 $A(0,0,0)$, $M(5,5,3)$, $D'(0,5,6)$, $I(2{,}5;\,0;\,3)$.
+
+\usetikzlibrary{calc}
+
+\begin{tikzpicture}[line join=round, line cap=round, scale=1.3]
+
+% --- Định nghĩa tọa độ các đỉnh (Phối cảnh xiên 2D) ---
+\coordinate (B) at (0,0);
+\coordinate (C) at (4.5,0);
+\coordinate (A) at (1.8, 2.2); % Đỉnh A lùi về sau để tạo chiều sâu
+\coordinate (D) at ($(A)+(C)-(B)$);
+
+\coordinate (B') at ($(B)+(0,5)$);
+\coordinate (C') at ($(C)+(0,5)$);
+\coordinate (A') at ($(A)+(0,5)$);
+\coordinate (D') at ($(D)+(0,5)$);
+
+% --- Tọa độ các điểm phụ ---
+\coordinate (M) at ($(C)!0.5!(C')$);
+\coordinate (I) at ($(A)!0.5!(B')$); % Tâm hình chữ nhật ABB'A'
+
+% Vị trí tương đối của hai con nhện E và F
+\coordinate (E) at ($(A)!0.6!(M)$);
+\coordinate (F) at ($(D')!0.4!(I)$);
+
+% --- Vẽ các đường khuất (Nét đứt) ---
+\draw[thick, dashed, black!75] (A) -- (B);
+\draw[thick, dashed, black!75] (A) -- (D);
+\draw[thick, dashed, black!75] (A) -- (A');
+\draw[thick, dashed, black!75] (A) -- (B'); % Đường chéo 1 mặt trái
+\draw[thick, dashed, black!75] (A') -- (B); % Đường chéo 2 mặt trái
+\draw[thick, dashed, black!75] (A) -- (M);  % Dây tơ của nhện E
+\draw[thick, dashed, black!75] (D') -- (I); % Dây tơ của nhện F
+
+% --- Vẽ các đường thấy (Nét liền) ---
+\draw[thick, black!75] (B) -- (C) -- (D);
+\draw[thick, black!75] (B) -- (B');
+\draw[thick, black!75] (C) -- (C');
+\draw[thick, black!75] (D) -- (D');
+\draw[thick, black!75] (A') -- (B') -- (C') -- (D') -- cycle;
+
+% --- BỔ SUNG: Vẽ các trục tọa độ Ox, Oy, Oz ---
+% Trục Ox (kéo dài từ đường AB ra ngoài điểm B)
+\draw[-latex, thick, black!75] (B) -- ($(A)!1.25!(B)$) node[left, font=\large, xshift=-1mm] {$x$};
+
+% Trục Oy (kéo dài từ đường AD ra ngoài điểm D)
+\draw[-latex, thick, black!75] (D) -- ($(A)!1.25!(D)$) node[below right, font=\large] {$y$};
+
+% Trục Oz (kéo dài từ đường AA' ra ngoài điểm A')
+\draw[-latex, thick, black!75] (A') -- ($(A)!1.2!(A')$) node[right, font=\large, yshift=1mm] {$z$};
+
+% --- Cài đặt style và vẽ các điểm (Dots) ---
+\tikzset{mypoint/.style={circle, fill=gray!30, draw=black!80, inner sep=1.2pt}}
+\foreach \p in {A,B,C,D,A',B',C',D',M,I,E,F} {
+    \node[mypoint] at (\p) {};
+}
+
+% --- Gắn nhãn Text ---
+% Các đỉnh nền và trần (Màu xanh dương)
+\node[below, text=blue!80!white, yshift=-1mm] at (B) {B}; % Đẩy B xuống 1 chút để không chạm trục Ox
+\node[below, text=blue!80!white] at (C) {C};
+\node[below right, text=blue!80!white] at (D) {D};
+\node[below, text=blue!80!white] at (A) {A};
+
+\node[left, text=blue!80!white] at (B') {B'};
+\node[right, text=blue!80!white] at (C') {C'};
+\node[above right, text=blue!80!white] at (D') {D'};
+\node[above right, text=blue!80!white, xshift=1mm] at (A') {A'}; % Đẩy A' sang phải 1 chút để không chạm trục Oz
+
+% Các nhãn con nhện (Màu xanh dương)
+\node[above, text=blue!80!white, xshift=3pt] at (E) {E};
+\node[above left, text=blue!80!white, yshift=-1pt] at (F) {F};
+
+% Nhãn trung điểm (Màu đen)
+\node[right, text=black] at (M) {M};
+\node[left, text=black, xshift=-2pt] at (I) {I};
+
+\end{tikzpicture}
 
 VTCP: $\vec{u}_1 = \overrightarrow{AM} = (5;\,5;\,3)$, $\vec{u}_2 = \overrightarrow{D'I} = (2{,}5;\,-5;\,-3)$.
 
