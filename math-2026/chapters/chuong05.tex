@@ -8,6 +8,7 @@
 \end{center}
 
 \section{Tối ưu hình khối \& Kích thước}
+\usetikzlibrary{calc}
 
 % ===== CÂU 1 =====
 \begin{baitoan}{1 \hfill \tagNguon{THPT Nguyễn Khuyến -- TP.HCM}}
@@ -86,6 +87,68 @@ Do đó từ mặt nước đến miệng ly là $9-6=3$ cm. Đây chính là ch
 SO=3\text{ cm}.
 \]
 
+{\centering
+\begin{tikzpicture}[scale=0.8, line cap=round, line join=round]
+% --- Hình 1: Mặt cắt ly nước ---
+\begin{scope}
+  % Mặt cắt dọc của ly (2D): dùng nét liền hoàn toàn để tránh nhầm nét khuất
+  \draw[line width=1pt] (-1.8,0) rectangle (1.8,6);
+
+  % Mặt nước ở mức 2/3 chiều cao
+  \draw[draw=blue!70!black, line width=1pt] (-1.8,4) -- (1.8,4);
+  \node[text=blue!70!black, above, fill=white, inner sep=1pt] at (-0.7,4) {mặt nước};
+
+  % Trục ly
+  \draw[dashed] (0,0) -- (0,6);
+
+  % Điểm S chạm mặt nước
+  \fill[red] (0,4) circle (1.4pt);
+  \node[above right, xshift=1pt, yshift=1pt, fill=white, inner sep=1pt] at (0,4) {$S$};
+
+  % Kích thước
+  \draw[<->] (2.75,0) -- (2.75,6);
+  \node[right] at (2.75,3) {$9$ cm};
+  \draw[<->] (2.15,0) -- (2.15,4);
+  \node[left, fill=white, inner sep=1pt] at (2.15,2) {$6$ cm};
+  \draw[<->] (-2.45,4) -- (-2.45,6);
+  \node[left, fill=white, inner sep=1pt] at (-2.45,3.72) {$SO=3$ cm};
+\end{scope}
+
+% --- Hình 2: Tứ diện đều S.ABC (phần chìm) ---
+\begin{scope}[xshift=8.2cm]
+  \coordinate (A) at (-2.0,0);
+  \coordinate (B) at (1.9,0);
+  \coordinate (C) at (0.6,1.25);
+  \coordinate (O) at (0.17,0.42);
+  \coordinate (S) at (0.2,3.1);
+
+  % Cạnh thấy / khuất của tứ diện
+  \draw[line width=1pt] (A)--(B);
+  \draw[dashed,line width=1pt] (B)--(C);
+  \draw[dashed,line width=1pt] (C)--(A);
+  \draw[line width=1pt] (S)--(A);
+  \draw[line width=1pt] (S)--(B);
+  \draw[dashed,line width=1pt] (S)--(C);
+  \draw[dashed] (S)--(O);
+
+  % Ký hiệu vuông góc tại O
+  \draw (0.2,0.58) -- (0.34,0.58) -- (0.34,0.44);
+
+  \fill (S) circle (1.3pt);
+  \fill (A) circle (1.3pt);
+  \fill (B) circle (1.3pt);
+  \fill (C) circle (1.3pt);
+  \fill (O) circle (1.3pt);
+
+  \node[above, yshift=2pt, fill=white, inner sep=1pt] at (S) {$S$};
+  \node[below left, xshift=-1pt, yshift=-1pt, fill=white, inner sep=1pt] at (A) {$A$};
+  \node[below right, xshift=1pt, yshift=-1pt, fill=white, inner sep=1pt] at (B) {$B$};
+  \node[right, xshift=2pt, fill=white, inner sep=1pt] at (C) {$C$};
+  \node[below, yshift=-1pt, fill=white, inner sep=1pt] at (O) {$O$};
+  \node[below, yshift=-10pt, fill=white, inner sep=1pt] at (0.15,-0.15) {$SO=\dfrac{x\sqrt6}{6}=3$};
+\end{scope}
+\end{tikzpicture}\par}
+
 Với cách đặt đối xứng theo trục ly, phần chìm là một hình chóp tam giác đều $S.ABC$ (thực chất là một tứ diện đều ở góc của lập phương).  
 Gọi cạnh của tứ diện đều là $x$. Khi đó chiều cao tứ diện đều là
 \[
@@ -131,6 +194,40 @@ Vì đáy là ngũ giác đều nên
 \angle EOD=\frac{360^\circ}{5}=72^\circ.
 \]
 Gọi $I$ là trung điểm $ED$.
+
+{\centering
+\begin{tikzpicture}[scale=0.95, line cap=round, line join=round]
+% Ngũ giác đều với tâm O
+\def\R{2.4}
+\coordinate (O) at (0,0);
+\coordinate (E) at ({\R*cos(126)},{\R*sin(126)});
+\coordinate (D) at ({\R*cos(54)},{\R*sin(54)});
+\coordinate (P) at ({\R*cos(-18)},{\R*sin(-18)});
+\coordinate (Q) at ({\R*cos(-90)},{\R*sin(-90)});
+\coordinate (T) at ({\R*cos(198)},{\R*sin(198)});
+\coordinate (I) at ($(E)!0.5!(D)$);
+
+\draw[line width=1pt] (E)--(D)--(P)--(Q)--(T)--cycle;
+\draw[line width=0.9pt] (O)--(E) (O)--(D) (O)--(I);
+\draw[line width=0.9pt] (E)--(D);
+
+% Dấu vuông góc tại I
+\draw ($(I)+(-0.12,0)$) -- ($(I)+(-0.12,-0.12)$) -- ($(I)+(0,-0.12)$);
+
+% Chỉ giữ nhãn 36 độ theo yêu cầu
+\node[fill=white, inner sep=1pt] at (0.48,0.72) {$36^\circ$};
+
+\fill (O) circle (1.3pt);
+\fill (E) circle (1.3pt);
+\fill (D) circle (1.3pt);
+\fill (I) circle (1.3pt);
+\node[below, fill=white, inner sep=1pt] at (O) {$O$};
+\node[above left, xshift=-1pt, fill=white, inner sep=1pt] at (E) {$E$};
+\node[above right, xshift=1pt, fill=white, inner sep=1pt] at (D) {$D$};
+\node[above, yshift=6pt, fill=white, inner sep=1pt] at (I) {$I$};
+
+\node[above, yshift=14pt, fill=white, inner sep=1pt] at ($(E)!0.5!(D)$) {$ED=x$};
+\end{tikzpicture}\par}
 
 Trong tam giác vuông $OIE$:
 \[
@@ -725,6 +822,39 @@ Ta có:
 \overrightarrow{DB}=(0,-4,0),\quad
 \overrightarrow{DC}=(0,0,-5).
 \]
+
+{\centering
+\begin{tikzpicture}[scale=0.9, x={(1cm,0cm)}, y={(-0.55cm,0.45cm)}, z={(0cm,1cm)}, line cap=round, line join=round]
+ % Hệ trục Oxyz
+ \coordinate (O) at (0,0,0);
+ \draw[-latex, thick] (O) -- (4.2,0,0) node[below] {$x$};
+ \draw[-latex, thick] (O) -- (0,4.6,0) node[left] {$y$};
+ \draw[-latex, thick] (O) -- (0,0,5.6) node[left] {$z$};
+ \node[below left, fill=white, inner sep=1pt] at (O) {$O$};
+
+ % Các điểm đúng tọa độ đề
+ \coordinate (A) at (0,4,5);
+ \coordinate (B) at (3,0,5);
+ \coordinate (C) at (3,4,0);
+ \coordinate (D) at (3,4,5);
+ \coordinate (M) at ($(A)!0.36!(B)$);
+
+ % Các đoạn trong hình
+ \draw[line width=0.9pt] (A)--(B);      % AB
+ \draw[line width=0.9pt] (A)--(D)--(B); % tam giác DAB
+ \draw[dashed] (D)--(C);                % cạnh theo trục z xuống C
+ \draw[red, line width=1pt] (M)--(D);   % MD
+
+ % Điểm và nhãn (đặt lệch để tránh chồng)
+ \foreach \P in {A,B,C,D,M} {\fill (\P) circle (1.2pt);}
+ \node[above left, xshift=-2pt, yshift=2pt, fill=white, inner sep=1pt] at (A) {$A(0,4,5)$};
+ \node[below left, xshift=-2pt, yshift=-2pt, fill=white, inner sep=1pt] at (B) {$B(3,0,5)$};
+ \node[right, xshift=3pt, fill=white, inner sep=1pt] at (C) {$C(3,4,0)$};
+ \node[above right, xshift=2pt, yshift=1pt, fill=white, inner sep=1pt] at (D) {$D(3,4,5)$};
+ \node[left, xshift=-6pt, yshift=1pt, fill=white, inner sep=1pt] at (M) {$M\in AB$};
+ \node[right, xshift=2pt, red!80!black, fill=white, inner sep=1pt] at ($(M)!0.55!(D)$) {$MD$};
+\end{tikzpicture}\par}
+
 Ba vectơ này đôi một vuông góc, nên tại $D$ là ``ba cạnh vuông góc'' với độ dài:
 \[
 DA=3,\quad DB=4,\quad DC=5.
