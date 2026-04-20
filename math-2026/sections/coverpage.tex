@@ -5,58 +5,122 @@
 \begin{titlepage}
   \begin{tikzpicture}[remember picture, overlay]
     % Background
-    \fill[ForumDarkBlue] (current page.south west) rectangle (current page.north east);
+    \fill[white] (current page.south west) rectangle (current page.north east);
     
-    % Decorative top band
-    \fill[ForumMidBlue, opacity=0.6] 
-      ([yshift=-3cm]current page.north west) rectangle (current page.north east);
+    % Faint text pattern at the bottom
+    \begin{scope}[opacity=0.03]
+      \foreach \y in {0.5,1.25,...,4.5} {
+        \node[anchor=west, font=\fontsize{14}{14}\selectfont\sffamily\bfseries, text=ForumDarkBlue, text width=30cm] 
+          at ([xshift=-1cm,yshift=\y cm]current page.south west) {
+             GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN
+          };
+        % Alternating offset
+        \node[anchor=west, font=\fontsize{14}{14}\selectfont\sffamily\bfseries, text=ForumDarkBlue, text width=30cm] 
+          at ([xshift=0.5cm,yshift=\y cm + 0.375cm]current page.south west) {
+             GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN \quad GIẢI TOÁN
+          };
+      }
+    \end{scope}
     
-    % Gold accent line
-    \draw[ForumGold, line width=2pt] 
-      ([yshift=-3cm]current page.north west) -- ([yshift=-3cm]current page.north east);
-    
-    % Bottom decorative
-    \fill[ForumMidBlue, opacity=0.3] 
-      (current page.south west) rectangle ([yshift=4cm]current page.south east);
-    \draw[ForumGold, line width=1pt] 
-      ([yshift=4cm]current page.south west) -- ([yshift=4cm]current page.south east);
-    
-    % Title block
-    \node[anchor=center, text width=14cm, align=center] 
-      at ([yshift=4cm]current page.center) {
-        {\fontsize{16}{20}\selectfont\sffamily\bfseries\color{ForumGold}
-          THE FORUM CENTER}\\[12pt]
-        {\fontsize{14}{18}\selectfont\sffamily\color{ForumSkyBlue}
-          Tổ Toán}\\[30pt]
-        {\fontsize{32}{38}\selectfont\sffamily\bfseries\color{white}
-          TUYỂN TẬP}\\[8pt]
-        {\fontsize{28}{34}\selectfont\sffamily\bfseries\color{ForumGold}
-          CÁC CÂU HAY \& KHÓ}\\[20pt]
-        {\fontsize{16}{20}\selectfont\sffamily\color{ForumSkyBlue}
-          Từ các đề thi thử THPT Quốc Gia 2026}\\[6pt]
-        {\fontsize{14}{18}\selectfont\sffamily\color{ForumGray}
-          Các trường \& Sở GD\&ĐT trên cả nước}
-      };
+    % Faint 2026 watermark
+    \node[anchor=south east, font=\fontsize{120}{120}\selectfont\sffamily\bfseries, text=ForumGray!80!white, opacity=0.15] 
+      at ([xshift=-1.5cm, yshift=0.5cm]current page.south east) {2026};
 
-    % Decorative math symbols (subtle)
-    \node[opacity=0.08, font=\fontsize{120}{120}\selectfont, text=white, rotate=15] 
-      at ([xshift=-4cm, yshift=-5cm]current page.center) {$\displaystyle\int$};
-    \node[opacity=0.08, font=\fontsize{80}{80}\selectfont, text=white, rotate=-10]
-      at ([xshift=5cm, yshift=-4cm]current page.center) {$\displaystyle\sum$};
-    \node[opacity=0.06, font=\fontsize{60}{60}\selectfont, text=white, rotate=20]
-      at ([xshift=3cm, yshift=-6cm]current page.center) {$\displaystyle\pi$};
-    \node[opacity=0.06, font=\fontsize{70}{70}\selectfont, text=white, rotate=-5]
-      at ([xshift=-5cm, yshift=-3cm]current page.center) {$\displaystyle\infty$};
+    % Bottom Left: Corner bracket exactly matching the image
+    \draw[ForumDarkGray, line width=1.5pt] ([xshift=2cm, yshift=3cm]current page.south west) -- ([xshift=2cm, yshift=1cm]current page.south west) -- ([xshift=3.5cm, yshift=1cm]current page.south west);
 
-    % Bottom info
-    \node[anchor=south, text width=14cm, align=center] 
-      at ([yshift=1.5cm]current page.south) {
-        {\fontsize{11}{14}\selectfont\sffamily\color{ForumGray}
-          Biên soạn \& Tổng hợp bởi \textbf{\color{ForumGold}The Forum Center}}\\[4pt]
-        {\fontsize{11}{14}\selectfont\sffamily\color{ForumGray}
-          Năm học 2025 -- 2026}\\[4pt]
-        {\fontsize{10}{13}\selectfont\sffamily\color{ForumGray!70}
-          Phiên bản: v1.0 — Cập nhật: \today}
-      };
+    % Top Left: THE FORUM CENTER
+    \draw[ForumOrange, line width=3pt] ([xshift=2cm, yshift=-2cm]current page.north west) -- ++(0,-0.6);
+    \node[anchor=north west, font=\fontsize{12}{15}\selectfont\sffamily\bfseries\color{ForumDarkGray}] 
+      at ([xshift=2.3cm, yshift=-2.15cm]current page.north west) {THE FORUM CENTER};
+
+    % Top Right: AUTHOR & Corner bracket
+    \node[anchor=north east, font=\fontsize{12}{15}\selectfont\sffamily\bfseries\color{ForumDarkGray}] 
+      at ([xshift=-2.5cm, yshift=-2.15cm]current page.north east) {NGUYỄN HOÀNG HUY};
+    \draw[ForumDarkGray, line width=1pt] ([xshift=-2.2cm, yshift=-1.5cm]current page.north east) -- ([xshift=-1.5cm, yshift=-1.5cm]current page.north east) -- ([xshift=-1.5cm, yshift=-2.8cm]current page.north east);
+
+    % Upper Middle Texts
+    \node[anchor=west, font=\fontsize{18}{22}\selectfont\sffamily\bfseries\color{ForumGreen}] 
+      at ([xshift=2cm, yshift=8.5cm]current page.west) {THPTQG 2026};
+      
+    \node[anchor=west, font=\fontsize{90}{90}\selectfont\sffamily\bfseries\color{ForumOrange}] 
+      at ([xshift=1.7cm, yshift=6.5cm]current page.west) {GIẢI TOÁN};
+
+    % Center Box with flat shadow (Brutalist style)
+    % Base shadow layer
+    \fill[ForumDarkBlue] ([xshift=1.3cm, yshift=-5.3cm]current page.west) rectangle ([xshift=-0.7cm, yshift=2.7cm]current page.east);
+    
+    % White box top layer
+    \fill[white, draw=ForumDarkBlue, line width=2pt] ([xshift=1cm, yshift=-5cm]current page.west) rectangle ([xshift=-1cm, yshift=3cm]current page.east);
+    
+    % Decorative Yarn ball string on top
+    \draw[ForumOrange, line width=1.5pt] ([xshift=2.5cm, yshift=3.03cm]current page.west) .. controls ([xshift=4.5cm, yshift=2.7cm]current page.west) and ([xshift=7cm, yshift=3.7cm]current page.west) .. ([xshift=10cm, yshift=3.03cm]current page.west);
+    
+    % Yarn Ball
+    \fill[ForumOrange] ([xshift=2cm, yshift=3.3cm]current page.west) circle (0.4cm);
+    \draw[white, line width=1pt] ([xshift=1.6cm, yshift=3.3cm]current page.west) .. controls ([xshift=2cm, yshift=3.6cm]current page.west) .. ([xshift=2.4cm, yshift=3.3cm]current page.west);
+    \draw[white, line width=1pt] ([xshift=1.6cm, yshift=3.3cm]current page.west) .. controls ([xshift=2cm, yshift=3.0cm]current page.west) .. ([xshift=2.4cm, yshift=3.3cm]current page.west);
+    \draw[white, line width=1pt] ([xshift=1.8cm, yshift=3.6cm]current page.west) -- ([xshift=2.2cm, yshift=3.0cm]current page.west);
+
+    % TikZ Cat over the box edge (lounging)
+    \begin{scope}[shift={([xshift=11cm, yshift=3cm]current page.west)}, scale=0.9]
+      % Body (lounging half ellipse)
+      \fill[gray] (-1.5, 0) arc (180:0:1.8cm and 1cm) -- cycle;
+      
+      % Tail
+      \fill[gray] (2.1, 0) .. controls (2.6, 0) and (3.1, 0.4) .. (3.1, 0.8) .. controls (3.1, 1.2) and (2.5, 1.2) .. (2.5, 0.8) .. controls (2.5, 0.5) and (2.2, 0.4) .. (2.1, 0.4) -- cycle;
+      
+      % Stripes on body
+      \fill[darkgray] (-0.8, 0) arc (180:0:0.2cm and 0.8cm) -- cycle;
+      \fill[darkgray] (-0.1, 0) arc (180:0:0.2cm and 0.9cm) -- cycle;
+      \fill[darkgray] (0.6, 0) arc (180:0:0.2cm and 0.7cm) -- cycle;
+      \fill[darkgray] (1.3, 0) arc (180:0:0.15cm and 0.4cm) -- cycle;
+      
+      % Head
+      \fill[gray] (-1.8, 0.7) ellipse (0.8cm and 0.6cm);
+      
+      % Ears
+      \fill[gray] (-2.5, 1.0) -- (-2.3, 1.7) -- (-1.8, 1.2) -- cycle;
+      \fill[gray] (-1.8, 1.2) -- (-1.3, 1.7) -- (-1.1, 1.0) -- cycle;
+      
+      \fill[pink!70!white] (-2.35, 1.15) -- (-2.2, 1.5) -- (-1.9, 1.2) -- cycle;
+      \fill[pink!70!white] (-1.7, 1.2) -- (-1.4, 1.5) -- (-1.25, 1.15) -- cycle;
+
+      % White face patch
+      \fill[white] (-1.8, 0.45) ellipse (0.75cm and 0.4cm);
+
+      % Eyes (Sleepy)
+      \draw[thick, ForumDarkBlue] (-2.1, 0.6) arc (150:30:0.2cm and 0.1cm);
+      \draw[thick, ForumDarkBlue] (-1.5, 0.6) arc (150:30:0.2cm and 0.1cm);
+
+      % Mouth (w)
+      \draw[thick, ForumDarkBlue] (-1.9, 0.3) .. controls (-1.85, 0.2) .. (-1.8, 0.3) .. controls (-1.75, 0.2) .. (-1.7, 0.3);
+
+      % Whiskers
+      \draw[ForumDarkGray, thin] (-2.6, 0.5) -- (-3.1, 0.55);
+      \draw[ForumDarkGray, thin] (-2.6, 0.4) -- (-3.1, 0.4);
+      \draw[ForumDarkGray, thin] (-2.6, 0.3) -- (-3.1, 0.25);
+      
+      \draw[ForumDarkGray, thin] (-1.0, 0.5) -- (-0.5, 0.55);
+      \draw[ForumDarkGray, thin] (-1.0, 0.4) -- (-0.5, 0.4);
+      \draw[ForumDarkGray, thin] (-1.0, 0.3) -- (-0.5, 0.25);
+    \end{scope}
+
+    % Contents within the white box (Căn giữa hoàn hảo, không overlap)
+    \node[anchor=center, font=\fontsize{14}{16}\selectfont\sffamily\bfseries\color{ForumGreen}] 
+      at ([yshift=1.5cm]current page.center) {LESSON};
+      
+    \node[anchor=center, font=\fontsize{32}{38}\selectfont\sffamily\bfseries\color{ForumDarkBlue}] 
+      at ([yshift=0.2cm]current page.center) {TUYỂN TẬP CÁC BÀI TOÁN};
+      
+    \node[anchor=center, font=\fontsize{32}{38}\selectfont\sffamily\bfseries\color{ForumDarkBlue}] 
+      at ([yshift=-1.2cm]current page.center) {HAY \& KHÓ};
+      
+    \draw[ForumOrange, line width=5pt] ([xshift=-1.5cm, yshift=-2.6cm]current page.center) -- ++(3,0);
+
+    % Subtitle OUTSIDE the white box (Dạng huy hiệu bắt mắt đè lên mép dưới)
+    \node[anchor=center, fill=white, draw=ForumOrange, line width=2pt, inner sep=10pt, rounded corners=10pt, drop shadow={opacity=0.15, shadow xshift=0pt, shadow yshift=-4pt}, font=\fontsize{14}{18}\selectfont\sffamily\bfseries\color{ForumDarkBlue}] 
+      at ([yshift=-5cm]current page.center) {Trích xuất từ đề thi các Trường \& Sở GD\&ĐT trên toàn quốc 2026};
+
   \end{tikzpicture}
 \end{titlepage}
