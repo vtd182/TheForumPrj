@@ -6,7 +6,7 @@
 % KHÔNG định nghĩa trực tiếp environments/commands ở đây.
 % ============================================================
 
-\documentclass[12pt, a4paper]{book}
+\documentclass[12pt, a4paper, openany]{book}
 
 % --- Encoding & Vietnamese ---
 \usepackage[utf8]{inputenc}
@@ -112,6 +112,9 @@
   \fancyfoot[C]{\thepage}
   \renewcommand{\headrulewidth}{0pt}
 }
+
+% Xoá triệt để trang trắng chẵn thừa phát sinh từ cleardoublepage của frontmatter/mainmatter
+\let\cleardoublepage\clearpage
 
 % Tcolorbox environments
 \input{styles/environments}
