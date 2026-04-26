@@ -12,6 +12,7 @@ PROJECT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$PROJECT_DIR"
 
 echo "🔨 Pass 1/2: Compiling main.tex..."
+mkdir -p build
 xelatex -interaction=nonstopmode -output-directory=build main.tex > /dev/null 2>&1
 
 echo "🔨 Pass 2/2: Resolving TOC & cross-references..."

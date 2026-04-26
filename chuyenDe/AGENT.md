@@ -591,14 +591,13 @@ Dự án Forecast V2 nằm tại thư mục `Forecast-v2/` dùng để tạo cá
 1. **Raw Markdown:** Cung cấp file raw `.md` (VD: `forecastQ2-26.md`) vào `Forecast-v2/Raw/`. File raw chứa các Heading Topic Part 1 và các khối Cue Cards Part 2 & 3.
 2. **Markdown to LaTeX:** Chạy script bằng Python:
    ```bash
-   cd Forecast-v2/Latex/python
-   python3 pipeline.py
+   cd Forecast-v2
+   python3 Scripts/pipeline.py Raw/forecastQ2-26.md
    ```
-   Script sẽ tự động bóc tách từng phần và tạo ra các file `.tex` cho Part 1 và Part 2/3, tự động xử lý escape LaTeX (VD: `\&`) và box `ieltsprompt`.
-3. **AI Generate Answers (Theo Rule):** Hệ thống áp dụng quy tắc đặt tại `Forecast-v2/Rule/`:
-   - Part 1: 2-3 câu, giao tiếp tự nhiên.
-   - Part 2: 150-200 từ cấu trúc chặt chẽ.
-   - Part 3: 4-5 câu, phát triển luận điểm nghị luận sâu sắc.
-4. **Compile PDF:** Chạy `./compile.sh` tại `Forecast-v2/Latex/` để biên dịch thành file PDF hoàn thiện thông qua `xelatex`.
+   Script sẽ tự động tạo folder `Output/forecastQ2-26/`, copy template, tạo ra các file `.tex` cho Part 1 và Part 2/3, tự động xử lý escape LaTeX và biên dịch luôn thành file `Output/forecastQ2-26/build/main.pdf`.
+3. **AI Generate Answers (Theo Rule):** Hệ thống áp dụng quy tắc đặt tại `Forecast-v2/Rule/speaking-rule.md`:
+   - Part 1: 2-4 câu, giao tiếp tự nhiên.
+   - Part 2: 90-120 giây (spoken).
+   - Part 3: 4-7 câu, phát triển luận điểm nghị luận sâu sắc.
 
 > Chi tiết kỹ thuật hơn vui lòng xem `Forecast-v2/pipeline.md`.
