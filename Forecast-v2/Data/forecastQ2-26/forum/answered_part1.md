@@ -1,0 +1,4680 @@
+## Work or Studies
+
+### What work do you do?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What subjects are you studying?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like your subject?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like your job?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Why did you choose to study that subject?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Why did you choose to do that type of work (or that job)?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What requirements did you need to meet to get your current job?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you think that your subject is popular in your country?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you have any plans for your studies in the next five years?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you have any plans for your work in the next five years?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer to study in the mornings or in the afternoons?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### How much time do you spend on your studies each week?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you want to change your major?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you want to change to another job?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are you looking forward to working?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you miss being a student?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What technology do you use when you study?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What technology do you use at work?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What changes would you like to see in your school?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Who helps you the most? And how?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you think is the most important at the moment?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What are the benefits of being your age?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Hometown
+
+### Where is your hometown?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Is that a big city or a small place?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Please describe your hometown a little.
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like your hometown?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you like (most) about your hometown?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Is there anything you dislike about it?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### How long have you been living there?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like living there?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you think you will continue living there for a long time?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What's your hometown famous for?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Did you learn about the culture of your hometown in your childhood?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Did you learn about the history of your hometown at school?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Have you learned anything about the history of your hometown?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are there many young people in your hometown?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Is your hometown a good place for young people to pursue their careers?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Home and Accommodation
+
+### Who do you live with?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you live in an apartment or a house?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer living in a house or an apartment?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What kinds of accommodation do you live in?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Can you describe the place where you live?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Please describe the room you live in.
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What part of your home do you like the most?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What's your favorite room in your apartment or house?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What room does your family spend most of the time in?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you usually do in your apartment?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What makes you feel pleasant in your home?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### How long have you lived there?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you plan to live there for a long time?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are the transport facilities to your home very good?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What's the difference between where you are living now and where you have lived in the past?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What kind of house or apartment do you want to live in in the future?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you think it is important to live in a comfortable environment?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## The City You Live In
+
+### What city do you live in?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like this city? Why?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Is this city your permanent residence?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### How long have you lived in this city?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are there big changes in this city?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What's the weather like where you live?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are the people friendly in the city?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Is the city friendly to children and old people?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are there people of different ages living in this city?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you often see your neighbors?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Would you recommend your city to others?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## The Area You Live In
+
+### Do you live in a noisy or a quiet area?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like the area that you live in?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Where do you like to go in that area?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are the people in your neighborhood nice and friendly?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you know any of your neighbours?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you know any famous people in your area?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What are some changes in the area recently?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Morning Time
+
+### Do you like getting up early in the morning?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you usually do in the morning?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What did you do in the morning when you were little? Why?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are there any differences between what you do in the morning now and what you did in the past?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you spend your mornings doing the same things on both weekends and weekdays? Why?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Spare Time
+
+### Do you often have free time?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you usually do in your spare time?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you have more free time on weekdays or at weekends?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Which day do you have more free time on, Saturday or Sunday?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Would you like to have more free time in the future?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Day Off
+
+### When was the last time you had a few days off?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you usually do when you have days off?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What would you like to do if you had a day off tomorrow?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you usually spend your days off with your parents or with your friends?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Having a Break
+
+### How often do you take a rest or a break?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you usually do when you are resting?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you take a nap when you are taking your rest?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### How do you feel after taking a nap?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Going Out
+
+### Do you always take your mobile phone with you when going out?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you often bring cash with you?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### How often do you use cash?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you bring food or snacks with you when going out?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Walking
+
+### Do you walk a lot?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Where did you go for a walk lately?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Did you often go outside to have a walk when you were a child?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Why do people like to walk in parks?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Where would you like to take a long walk if you had the chance?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Hobby
+
+### Do you have any hobbies?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Did you have any hobbies when you were a child?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you have a hobby that you've had since childhood?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you have the same hobbies as your family members?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Childhood Activities
+
+### What were your favourite activities when you were a child?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What are your favourite activities?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Did you prefer to do activities alone or with a group of people when you were a child?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are there any differences between the activities you liked when you were a child and those you like now?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Sports Team
+
+### Have you ever been part of a sports team?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like watching team games? Why?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are team sports popular in your culture?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What are the differences between team sports and individual sports?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Reading
+
+### Do you like reading?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer to read on paper or on a screen?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer scanning or detailed reading?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### When do you need to read carefully, and when not?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Typing
+
+### Do you prefer typing or handwriting?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### When did you learn how to type on a keyboard?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you type on a desktop or laptop keyboard every day?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### How do you improve your typing?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Views
+
+### Have you seen an unforgettable and beautiful view or scenery?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like taking pictures of different views?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer views in urban areas or rural areas?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer views in your own country or in other countries?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Scenery
+
+### Do you look out the window at the scenery when travelling by bus or car?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What are the most beautiful sights you have seen while travelling?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer the mountains or the sea?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like to take scenery pictures?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Building
+
+### Are there tall buildings near your home?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you take photos of buildings?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Is there a building that you would like to visit?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you want to live in a tall building?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Museum
+
+### Do you think museums are important?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are there many museums in your hometown?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you often visit a museum?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### When was the last time you visited a museum?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Public Places
+
+### Do you often go to public places with your friends?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Have you ever talked with someone you don't know in public places?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you wear headphones in public places?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Would you like to see more public places near where you live?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Crowded Place
+
+### Is the city where you live crowded?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Is there a crowded place near where you live?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like crowded places?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### When was the last time you were in a crowded place?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do most people like crowded places?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Chatting / Conversation
+
+### Do you like chatting with friends?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you usually chat about with friends?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer to chat with a group of people or with only one friend?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer to communicate face-to-face or via social media?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you argue with friends?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Sharing
+
+### Did your parents teach you to share when you were a child?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What kind of things do you like to share with others?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What kind of things are not suitable for sharing?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you have anything to share with others recently?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Who is the first person you would like to share good news with?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer to share news with your friends or your parents?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Happy Things
+
+### Is there anything that has made you feel happy lately?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What made you happy when you were little?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you think will make you feel happy in the future?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### When do you feel happy at work? Why?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you feel happy when buying new things?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you think people are happy when buying new things?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer to watch happy or sad movies?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Doing Something Well
+
+### Do you have an experience when you did something well?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you have an experience when your teacher thought you did a good job?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you often tell your friends when they do something well?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Staying with Old People
+
+### Do you enjoy spending time with old people?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Have you ever worked with old people?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Are you happy to work with people who are older than you?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What are the benefits of being friends with or working with old people?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Life Stages
+
+### Do you enjoy being the age you are now?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### At what age do you think people are the happiest?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### How do people remember each stage of their lives?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What did you often do with your friends in your childhood?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you have any plans for the next five years?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you think is the most important at the moment?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Gifts
+
+### What gift have you received recently?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Have you ever received a great gift?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Have you ever sent handmade gifts to others?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you consider when choosing a gift?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you think you are good at choosing gifts?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Shoes
+
+### Do you like buying shoes? How often?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Have you ever bought shoes online?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### How much money do you usually spend on shoes?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Which do you prefer, fashionable shoes or comfortable shoes?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Advertisement
+
+### Do you like advertisements?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What kind of advertising do you like?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you often see advertisements when you are on your phone or computer?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you see a lot of advertising on trains or other transport?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Is there an advertisement that made an impression on you when you were a child?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Borrowing / Lending
+
+### Have you ever borrowed money from others?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Have you borrowed books from others?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like to lend things to others?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you mind if others borrow money from you?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### How do you feel when people don't return things they borrowed from you?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Memory
+
+### Are you good at memorising things?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Have you ever forgotten something important?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What do you need to remember in your daily life?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### How do you remember important things?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Dreams
+
+### Can you remember the dreams you had?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you share your dreams with others?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you think dreams have special meanings?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you want to make your dreams come true?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Taking Photos
+
+### Do you like taking photos?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like taking selfies?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What is your favourite family photo?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you want to improve your photography skills?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you like to print out your photos or just keep them on your phone or camera?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Food
+
+### What is your favourite food?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What kind of food did you like when you were young?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Has your favourite food changed since you were a child?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you eat different foods at different times of the year?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Plants
+
+### Do you keep plants at home?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What plant did you grow when you were young?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you know anything about growing a plant?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do Chinese people send plants as gifts?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Growing Vegetables / Fruits
+
+### Are you interested in growing vegetables and fruits?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you think it's easy to grow vegetables?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Is growing vegetables popular in your country?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do many people grow vegetables in your city?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Should schools teach students how to grow vegetables?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Pets and Animals
+
+### Have you ever had a pet before?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What's your favourite animal? Why?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Where do you prefer to keep your pet, indoors or outdoors?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### What is the most popular animal in China?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+## Rules
+
+### Are there any rules for students at your school?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you prefer to have more or fewer rules at school?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Do you think students would benefit more from more rules?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Have you ever had a really strict teacher?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Have you ever had a really dedicated teacher?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+### Would you like to work as a teacher in a rule-free school?
+
+**Sample 1: Học sinh / Sinh viên**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
+**Sample 2: Người đi làm**
+
+This is an auto-generated sample answer to test the rendering string capabilities. Testing testing 123.
+
+**Vocabulary:**
+- **hello** (/həˈləʊ/): xin chào
+- **goodbye** (/ɡʊdˈbaɪ/): tạm biệt
+- **thanks** (/θæŋks/): cảm ơn
+
