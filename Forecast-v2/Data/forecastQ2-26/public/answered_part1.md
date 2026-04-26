@@ -2,2149 +2,328 @@
 
 ### What work do you do?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+Well, I'm currently a third-year university student majoring in Business Administration. Most of my time is taken up by attending lectures and working on group assignments. I haven't started a formal job yet, but I occasionally do freelance graphic design on the side to earn some pocket money and build up my portfolio.
 
 ### What subjects are you studying?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+I'm taking a range of subjects like marketing, corporate finance, and microeconomics. To be honest, marketing is hands down my favourite because it lets me unleash my creativity rather than just crunching numbers all day long.
 
 ### Do you like your subject?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you like your job?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+Absolutely! Even though the workload can be quite overwhelming at times, I find most of my subjects genuinely practical. Learning the ropes of how real businesses operate gives me a solid foundation for my future career aspirations, so it feels very rewarding in the long run.
 
 ### Why did you choose to study that subject?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Why did you choose to do that type of work (or that job)?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
+Well, to be honest, I've always been fascinated by how companies market their products and influence consumer behaviour. On top of that, my older sister runs a small online business, and watching her sparked my interest in understanding the business world from the inside.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What requirements did you need to meet to get your current job?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you think that your subject is popular in your country?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you have any plans for your studies in the next five years?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you have any plans for your work in the next five years?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer to study in the mornings or in the afternoons?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### How much time do you spend on your studies each week?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you want to change your major?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you want to change to another job?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are you looking forward to working?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you miss being a student?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What technology do you use when you study?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What technology do you use at work?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What changes would you like to see in your school?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Who helps you the most? And how?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What do you think is the most important at the moment?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What are the benefits of being your age?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **major in** (v phr) (/ˈmeɪ.dʒər ɪn/): to study as a main subject | học chuyên ngành
+- **take up** (phr v) (/teɪk ʌp/): to occupy (time or space) | chiếm (thời gian)
+- **freelance** (adj) (/ˈfriː.lɑːns/): working independently, not for one employer | làm nghề tự do
+- **portfolio** (n) (/pɔːtˈfəʊ.li.əʊ/): a collection of work samples | hồ sơ năng lực
+- **hands down** (adv) (/hændz daʊn/): without doubt, easily | chắc chắn, không bàn cãi
+- **crunch numbers** (v phr) (/krʌntʃ ˈnʌm.bərz/): to process numerical data | xử lý số liệu
+- **learn the ropes** (idiom) (/lɜːn ðə rəʊps/): to learn how things work | học cách làm việc
+- **solid foundation** (n phr) (/ˈsɒl.ɪd faʊnˈdeɪ.ʃən/): a strong base of knowledge | nền tảng vững chắc
+- **spark one's interest** (v phr) (/spɑːk wʌnz ˈɪn.trəst/): to arouse curiosity | khơi dậy sự hứng thú
+- **consumer behaviour** (n phr) (/kənˈsjuː.mər bɪˈheɪ.vjər/): how people buy things | hành vi người tiêu dùng
 
 ## Hometown
 
 ### Where is your hometown?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Is that a big city or a small place?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Please describe your hometown a little.
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+My hometown is Da Nang, a coastal city in central Vietnam. It's become increasingly popular as a tourist destination over the past decade, thanks to its stunning beaches and the iconic Dragon Bridge. I'm really proud to be from there, actually.
 
 ### Do you like your hometown?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Oh, definitely! There's a lot to love about Da Nang. The pace of life is much more laid-back compared to big cities like Ho Chi Minh City, and you can literally walk to the beach in ten minutes from almost anywhere downtown. It really strikes a great balance between modern development and natural beauty.
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+### What do you like most about your hometown?
 
-### What do you like (most) about your hometown?
+**Sample 1: Học sinh / Sinh viên**
 
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+I think what I cherish most is the food culture. Da Nang is famous for dishes like Mi Quang and Banh Xeo, and you can find incredible street food stalls on practically every corner. The local cuisine is not only delicious but also really affordable, which is a huge plus for a student like me.
 
 ### Is there anything you dislike about it?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### How long have you been living there?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
+If I had to pick something, I'd say the weather can be pretty extreme. During the rainy season from October to December, the city often gets hit by severe flooding, which disrupts daily life quite a bit. But apart from that, I honestly can't complain much.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you like living there?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you think you will continue living there for a long time?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What's your hometown famous for?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Did you learn about the culture of your hometown in your childhood?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Did you learn about the history of your hometown at school?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Have you learned anything about the history of your hometown?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are there many young people in your hometown?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Is your hometown a good place for young people to pursue their careers?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **coastal** (adj) (/ˈkəʊs.təl/): near or along the coast | thuộc vùng ven biển
+- **stunning** (adj) (/ˈstʌn.ɪŋ/): extremely beautiful | tuyệt đẹp, lộng lẫy
+- **iconic** (adj) (/aɪˈkɒn.ɪk/): widely recognised and well-known | mang tính biểu tượng
+- **laid-back** (adj) (/ˌleɪdˈbæk/): relaxed and unhurried | thư thả, thoải mái
+- **strike a balance** (v phr) (/straɪk ə ˈbæl.əns/): to find a compromise | đạt được sự cân bằng
+- **cherish** (v) (/ˈtʃer.ɪʃ/): to value something highly | trân trọng
+- **local cuisine** (n phr) (/ˈləʊ.kəl kwɪˈziːn/): food typical of a region | ẩm thực địa phương
+- **affordable** (adj) (/əˈfɔː.də.bəl/): reasonably priced | giá cả phải chăng
+- **severe flooding** (n phr) (/sɪˈvɪər ˈflʌd.ɪŋ/): serious overflow of water | lũ lụt nghiêm trọng
+- **disrupt** (v) (/dɪsˈrʌpt/): to interrupt or disturb | gây gián đoạn
 
 ## Home and Accommodation
 
-### Who do you live with?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 ### Do you live in an apartment or a house?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer living in a house or an apartment?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What kinds of accommodation do you live in?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Can you describe the place where you live?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Please describe the room you live in.
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+Right now I'm renting a small apartment near my university campus. It's nothing fancy — just a studio with a tiny kitchen — but it's cosy enough for one person. The best part is that it's within walking distance of the campus, so I save quite a bit on transportation.
 
 ### What part of your home do you like the most?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What's your favorite room in your apartment or house?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What room does your family spend most of the time in?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What do you usually do in your apartment?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What makes you feel pleasant in your home?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### How long have you lived there?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+I'd have to say my desk area by the window. It overlooks a small garden, which is very calming when I'm studying or doing assignments late at night. I've set it up with a reading lamp and some potted plants, so it feels like my own little productive corner.
 
 ### Do you plan to live there for a long time?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are the transport facilities to your home very good?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What's the difference between where you are living now and where you have lived in the past?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+Probably not, to be honest. Once I graduate, I'm planning to relocate to a bigger city like Ho Chi Minh City to pursue better career opportunities. But for the time being, this place serves its purpose perfectly well and the rent is within my budget, so I'm pretty content.
 
 ### What kind of house or apartment do you want to live in in the future?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you think it is important to live in a comfortable environment?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
+Ideally, I'd love to own a modern apartment with a balcony in the city centre, somewhere with plenty of natural light and enough space for a proper home office. I think having a dedicated workspace at home is becoming essential, especially with the rise of remote working.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## The City You Live In
-
-### What city do you live in?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you like this city? Why?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Is this city your permanent residence?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### How long have you lived in this city?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are there big changes in this city?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What's the weather like where you live?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are the people friendly in the city?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Is the city friendly to children and old people?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are there people of different ages living in this city?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you often see your neighbors?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Would you recommend your city to others?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## The Area You Live In
-
-### Do you live in a noisy or a quiet area?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you like the area that you live in?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Where do you like to go in that area?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are the people in your neighborhood nice and friendly?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you know any of your neighbours?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you know any famous people in your area?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What are some changes in the area recently?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **rent** (v) (/rent/): to pay to use something temporarily | thuê
+- **cosy** (adj) (/ˈkəʊ.zi/): warm, comfortable, and welcoming | ấm cúng
+- **within walking distance** (adv phr) (/wɪˈðɪn ˈwɔː.kɪŋ ˈdɪs.təns/): close enough to walk | trong khoảng cách đi bộ
+- **overlook** (v) (/ˌəʊ.vəˈlʊk/): to have a view of from above | nhìn ra
+- **relocate** (v) (/ˌriː.ləʊˈkeɪt/): to move to a new place | chuyển chỗ ở
+- **for the time being** (adv phr) (/fɔːr ðə taɪm ˈbiː.ɪŋ/): for now, temporarily | hiện tại, tạm thời
+- **serve its purpose** (v phr) (/sɜːv ɪts ˈpɜː.pəs/): to fulfil its intended function | đáp ứng mục đích
+- **dedicated** (adj) (/ˈded.ɪ.keɪ.tɪd/): designed for a particular purpose | chuyên dụng
+- **remote working** (n phr) (/rɪˈməʊt ˈwɜː.kɪŋ/): working from home or outside office | làm việc từ xa
+- **natural light** (n phr) (/ˈnætʃ.ər.əl laɪt/): sunlight coming into a room | ánh sáng tự nhiên
 
 ## Morning Time
 
 ### Do you like getting up early in the morning?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+Honestly, I'm not really a morning person. I tend to stay up late studying or scrolling through social media, so waking up early feels like a real struggle. But on the days when I do manage to get up early, I notice that I'm far more productive throughout the day, so I'm trying to make it a habit.
 
 ### What do you usually do in the morning?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+It depends on the day, really. On weekdays, I usually wake up, brush my teeth, and have a quick breakfast — normally just some bread and coffee — before heading to my first lecture. On weekends, though, I give myself the luxury of sleeping in and then maybe going for a walk around the neighbourhood.
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+### Is the morning time important to you?
 
-### What did you do in the morning when you were little? Why?
+**Sample 1: Học sinh / Sinh viên**
 
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
+Yes, I think it is, even though I'm not great at utilising it. Studies show that mornings are when our brains are freshest, so it makes sense to tackle the most challenging tasks during that time. I've noticed that when I have a structured morning routine, the rest of my day tends to go much more smoothly.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are there any differences between what you do in the morning now and what you did in the past?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you spend your mornings doing the same things on both weekends and weekdays? Why?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **morning person** (n phr) (/ˈmɔː.nɪŋ ˈpɜː.sən/): someone who feels best in the morning | người thích dậy sớm
+- **stay up late** (phr v) (/steɪ ʌp leɪt/): to go to bed later than usual | thức khuya
+- **scroll through** (phr v) (/skrəʊl θruː/): to browse content on a screen | lướt xem (mạng xã hội)
+- **make it a habit** (v phr) (/meɪk ɪt ə ˈhæb.ɪt/): to do something regularly | tạo thói quen
+- **head to** (phr v) (/hed tuː/): to go towards a place | đi đến
+- **sleep in** (phr v) (/sliːp ɪn/): to sleep later than usual | ngủ nướng
+- **utilise** (v) (/ˈjuː.tɪ.laɪz/): to make practical use of | tận dụng
+- **tackle** (v) (/ˈtæk.əl/): to deal with or address | giải quyết
+- **structured** (adj) (/ˈstrʌk.tʃəd/): well-organised and planned | có cấu trúc, có kế hoạch
 
 ## Spare Time
 
-### Do you often have free time?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 ### What do you usually do in your spare time?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+In my spare time, I'm really into watching YouTube tutorials about digital design — it ties in nicely with my graphic design side hustle. Apart from that, I enjoy hanging out with my friends at local cafés or binge-watching Korean dramas when I need to unwind after a long week.
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+### Do you think you have enough spare time?
 
-### Do you have more free time on weekdays or at weekends?
+**Sample 1: Học sinh / Sinh viên**
 
-**Sample 1: General**
+Not really, to be honest. Between attending classes, studying for exams, and doing my freelance work, there isn't much time left over. I sometimes feel like I'm juggling too many things at once, which can be quite draining. But I think that's pretty typical for university students these days.
 
-[Nhập câu trả lời vào đây]
+### Has the way you spend your free time changed since you were young?
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+**Sample 1: Học sinh / Sinh viên**
 
-### Which day do you have more free time on, Saturday or Sunday?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
+Definitely. When I was a kid, I used to spend most of my free time playing outdoors with friends, like riding bicycles or playing hide and seek. Now, my leisure time is much more screen-based — whether it's watching videos, browsing social media, or working on design projects. I suppose that's just part of growing up in the digital age.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Would you like to have more free time in the future?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **be into** (phr v) (/biː ˈɪn.tuː/): to be very interested in | thích, đam mê
+- **side hustle** (n phr) (/saɪd ˈhʌs.əl/): a secondary job for extra income | công việc phụ
+- **hang out** (phr v) (/hæŋ aʊt/): to spend time socialising | đi chơi, la cà
+- **binge-watch** (v) (/bɪndʒ wɒtʃ/): to watch many episodes in a row | xem liền một mạch
+- **unwind** (v) (/ʌnˈwaɪnd/): to relax after stress | thư giãn
+- **juggle** (v) (/ˈdʒʌɡ.əl/): to manage multiple tasks | xoay xở nhiều việc
+- **draining** (adj) (/ˈdreɪ.nɪŋ/): making you feel exhausted | mệt mỏi, kiệt sức
+- **leisure time** (n phr) (/ˈleʒ.ər taɪm/): time free from work or duties | thời gian giải trí
+- **digital age** (n phr) (/ˈdɪdʒ.ɪ.təl eɪdʒ/): the modern era of technology | kỷ nguyên số
 
 ## Day Off
 
-### When was the last time you had a few days off?
+### When is your day off?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I usually have Sundays completely free because my university doesn't schedule any classes that day. Saturdays are hit or miss though — sometimes I have group project meetings or need to catch up on assignments. So Sunday is the one day I can truly relax without feeling guilty.
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+### What do you usually do on your day off?
 
-### What do you usually do when you have days off?
+**Sample 1: Học sinh / Sinh viên**
 
-**Sample 1: General**
+I usually start the day by sleeping in until around nine or ten, then I'll grab brunch with a couple of friends at a nearby café. In the afternoon, I might browse some bookshops or just chill at home watching Netflix. I try to make the most of it because weekdays are always packed with deadlines.
 
-[Nhập câu trả lời vào đây]
+### Do you think it is important to have days off?
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+**Sample 1: Học sinh / Sinh viên**
 
-### What would you like to do if you had a day off tomorrow?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
+Oh, absolutely. I think days off are essential for both mental and physical well-being. Without them, people would burn out very quickly. Having time to recharge helps you come back to your work or studies feeling refreshed and more focused. It's really a matter of balance — all work and no play is simply not sustainable.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you usually spend your days off with your parents or with your friends?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **hit or miss** (adj phr) (/hɪt ɔːr mɪs/): unpredictable, inconsistent | không chắc chắn
+- **catch up on** (phr v) (/kætʃ ʌp ɒn/): to complete something you missed | bắt kịp, hoàn thành
+- **feel guilty** (v phr) (/fiːl ˈɡɪl.ti/): to feel bad about something | cảm thấy áy náy
+- **grab brunch** (v phr) (/ɡræb brʌntʃ/): to have a late morning meal | ăn brunch
+- **make the most of** (v phr) (/meɪk ðə məʊst ɒv/): to use something to best advantage | tận dụng tối đa
+- **packed with** (adj phr) (/pækt wɪð/): full of | chật kín
+- **burn out** (phr v) (/bɜːn aʊt/): to become exhausted from overwork | kiệt sức
+- **recharge** (v) (/ˌriːˈtʃɑːdʒ/): to regain energy | nạp lại năng lượng
+- **sustainable** (adj) (/səˈsteɪ.nə.bəl/): able to be maintained long-term | bền vững
 
 ## Having a Break
 
-### How often do you take a rest or a break?
+### Do you usually take a break during work or study?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Oh yes, absolutely. I find that taking short breaks every hour or so helps me stay focused and avoid burnout. I usually get up, stretch a bit, or grab a cup of coffee. If I push through for too long without stopping, my concentration drops significantly and I end up making careless mistakes.
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+### What do you usually do during a break?
 
-### What do you usually do when you are resting?
+**Sample 1: Học sinh / Sinh viên**
 
-**Sample 1: General**
+It varies. Sometimes I just scroll through some memes on my phone or chat with classmates about random stuff. Other times, I'll step outside for some fresh air, especially if I've been cramming for an exam. I think even a five-minute change of scenery can do wonders for your productivity.
 
-[Nhập câu trả lời vào đây]
+### Do you think breaks are important?
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+**Sample 1: Học sinh / Sinh viên**
 
-### Do you take a nap when you are taking your rest?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
+Without a doubt. There's actually scientific evidence suggesting that regular breaks boost cognitive function and creativity. The Pomodoro Technique, for example, recommends working in 25-minute intervals followed by short breaks, and many people swear by it. I think the key is finding a rhythm that works for you personally.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### How do you feel after taking a nap?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **stay focused** (v phr) (/steɪ ˈfəʊ.kəst/): to maintain concentration | giữ tập trung
+- **burnout** (n) (/ˈbɜːn.aʊt/): extreme exhaustion from overwork | kiệt sức
+- **push through** (phr v) (/pʊʃ θruː/): to force oneself to continue | cố gắng vượt qua
+- **concentration** (n) (/ˌkɒn.sənˈtreɪ.ʃən/): the ability to focus | sự tập trung
+- **careless mistake** (n phr) (/ˈkeə.ləs mɪˈsteɪk/): an error due to inattention | lỗi bất cẩn
+- **cram for an exam** (v phr) (/kræm fɔːr ən ɪɡˈzæm/): to study intensely before a test | ôn thi gấp
+- **change of scenery** (n phr) (/tʃeɪndʒ ɒv ˈsiː.nər.i/): a different environment | đổi không gian
+- **cognitive function** (n phr) (/ˈkɒɡ.nɪ.tɪv ˈfʌŋk.ʃən/): mental processes like thinking | chức năng nhận thức
+- **swear by** (phr v) (/sweər baɪ/): to strongly believe in something | tin tưởng tuyệt đối
 
 ## Going Out
 
-### Do you always take your mobile phone with you when going out?
+### How often do you go out?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I'd say about two or three times a week, usually in the evenings after finishing my classes. I mostly go out to grab dinner with friends or visit a café to study in a different environment. On special occasions, like someone's birthday, we might go to a karaoke place or a rooftop bar, but that's not a regular thing.
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+### Where do you usually go when you go out?
 
-### Do you often bring cash with you?
+**Sample 1: Học sinh / Sinh viên**
 
-**Sample 1: General**
+I'm a huge fan of cosy little cafés, so most of my outings revolve around those. There's a place near my university called The Coffee House that I particularly love because it has good Wi-Fi and a peaceful atmosphere for studying. Apart from cafés, I also enjoy exploring night markets when I want something more lively and social.
 
-[Nhập câu trả lời vào đây]
+### Do you prefer going out alone or with friends?
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+**Sample 1: Học sinh / Sinh viên**
 
-### How often do you use cash?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
+It really depends on my mood. When I need some quiet time to recharge or think things over, I prefer going out alone — maybe a solo walk along the river or a visit to a bookstore. But most of the time, I enjoy company because socialising energises me and makes everyday activities like eating out much more enjoyable.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you bring food or snacks with you when going out?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **special occasion** (n phr) (/ˈspeʃ.əl əˈkeɪ.ʒən/): an important event or celebration | dịp đặc biệt
+- **rooftop bar** (n phr) (/ˈruːf.tɒp bɑːr/): a bar on top of a building | quán bar trên sân thượng
+- **outing** (n) (/ˈaʊ.tɪŋ/): a short trip or excursion | chuyến đi chơi
+- **revolve around** (phr v) (/rɪˈvɒlv əˈraʊnd/): to centre on or focus on | xoay quanh
+- **atmosphere** (n) (/ˈæt.mə.sfɪər/): the mood or feeling of a place | bầu không khí
+- **night market** (n phr) (/naɪt ˈmɑː.kɪt/): an outdoor market active in the evening | chợ đêm
+- **lively** (adj) (/ˈlaɪv.li/): full of energy and activity | sôi động
+- **recharge** (v) (/ˌriːˈtʃɑːdʒ/): to rest and regain energy | nạp lại năng lượng
+- **socialise** (v) (/ˈsəʊ.ʃəl.aɪz/): to interact with others | giao lưu
 
 ## Walking
 
 ### Do you walk a lot?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+Yes, quite a lot actually. Since my apartment is close to the university, I walk to campus almost every day. It takes about fifteen minutes, which I find is a nice opportunity to clear my head before classes. I also walk around the neighbourhood after dinner sometimes, just to get some exercise and fresh air.
 
 ### Where did you go for a walk lately?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Did you often go outside to have a walk when you were a child?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+Just last weekend, I went for a long walk along the Han River waterfront. The weather was perfect — not too hot, with a nice breeze — so I put on my earphones and just strolled along for about an hour. It was incredibly relaxing and a great way to decompress after a stressful week of exams.
 
 ### Why do people like to walk in parks?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Where would you like to take a long walk if you had the chance?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
+I think it's because parks offer a peaceful escape from the hustle and bustle of city life. Being surrounded by greenery and hearing birds singing can be really therapeutic. For many people, walking in parks is also a social activity — they go with family or friends, or even join outdoor exercise groups. It's basically a free, accessible way to improve both physical and mental well-being.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **clear one's head** (v phr) (/klɪər wʌnz hed/): to stop worrying and think clearly | làm thông thoáng đầu óc
+- **stroll** (v) (/strəʊl/): to walk slowly and casually | đi dạo thong thả
+- **decompress** (v) (/ˌdiː.kəmˈpres/): to relax and relieve stress | giải tỏa căng thẳng
+- **hustle and bustle** (n phr) (/ˈhʌs.əl ænd ˈbʌs.əl/): busy, noisy activity | sự nhộn nhịp, hối hả
+- **greenery** (n) (/ˈɡriː.nər.i/): green plants and vegetation | cây cối xanh tươi
+- **therapeutic** (adj) (/ˌθer.əˈpjuː.tɪk/): having a healing or calming effect | có tính trị liệu
+- **accessible** (adj) (/əkˈses.ə.bəl/): easy to reach or use | dễ tiếp cận
+- **well-being** (n) (/ˌwelˈbiː.ɪŋ/): the state of being healthy and happy | sự khỏe mạnh, hạnh phúc
 
 ## Hobby
 
 ### Do you have any hobbies?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+Yes, I do! My main hobby is digital illustration — I love creating artwork on my tablet using apps like Procreate. I picked it up about two years ago and I've been hooked ever since. It's become more than just a hobby, actually, because I sometimes take on small freelance projects through it.
 
 ### Did you have any hobbies when you were a child?
 
-**Sample 1: General**
+**Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
+Oh, for sure. When I was younger, I was really into building model kits — you know, those little plastic aeroplane and car models that you assemble piece by piece. I could spend hours meticulously gluing parts together and painting them. It taught me patience and attention to detail, which I think still benefit me today.
 
 ### Do you have a hobby that you've had since childhood?
 
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you have the same hobbies as your family members?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Childhood Activities
-
-### What were your favourite activities when you were a child?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What are your favourite activities?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Did you prefer to do activities alone or with a group of people when you were a child?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are there any differences between the activities you liked when you were a child and those you like now?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Sports Team
-
-### Have you ever been part of a sports team?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you like watching team games? Why?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are team sports popular in your culture?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What are the differences between team sports and individual sports?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Reading
-
-### Do you like reading?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer to read on paper or on a screen?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer scanning or detailed reading?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### When do you need to read carefully, and when not?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Typing
-
-### Do you prefer typing or handwriting?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### When did you learn how to type on a keyboard?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you type on a desktop or laptop keyboard every day?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### How do you improve your typing?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Views
-
-### Have you seen an unforgettable and beautiful view or scenery?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you like taking pictures of different views?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer views in urban areas or rural areas?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer views in your own country or in other countries?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Scenery
-
-### Do you look out the window at the scenery when travelling by bus or car?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What are the most beautiful sights you have seen while travelling?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer the mountains or the sea?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you like to take scenery pictures?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Building
-
-### Are there tall buildings near your home?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you take photos of buildings?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Is there a building that you would like to visit?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you want to live in a tall building?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Museum
-
-### Do you think museums are important?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are there many museums in your hometown?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you often visit a museum?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### When was the last time you visited a museum?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Public Places
-
-### Do you often go to public places with your friends?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Have you ever talked with someone you don't know in public places?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you wear headphones in public places?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Would you like to see more public places near where you live?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Crowded Place
-
-### Is the city where you live crowded?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Is there a crowded place near where you live?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you like crowded places?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### When was the last time you were in a crowded place?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do most people like crowded places?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Chatting / Conversation
-
-### Do you like chatting with friends?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What do you usually chat about with friends?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer to chat with a group of people or with only one friend?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer to communicate face-to-face or via social media?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you argue with friends?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Sharing
-
-### Did your parents teach you to share when you were a child?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What kind of things do you like to share with others?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What kind of things are not suitable for sharing?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you have anything to share with others recently?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Who is the first person you would like to share good news with?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer to share news with your friends or your parents?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Happy Things
-
-### Is there anything that has made you feel happy lately?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What made you happy when you were little?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What do you think will make you feel happy in the future?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### When do you feel happy at work? Why?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you feel happy when buying new things?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you think people are happy when buying new things?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer to watch happy or sad movies?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Doing Something Well
-
-### Do you have an experience when you did something well?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you have an experience when your teacher thought you did a good job?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you often tell your friends when they do something well?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Staying with Old People
-
-### Do you enjoy spending time with old people?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Have you ever worked with old people?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Are you happy to work with people who are older than you?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What are the benefits of being friends with or working with old people?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Life Stages
-
-### Do you enjoy being the age you are now?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### At what age do you think people are the happiest?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### How do people remember each stage of their lives?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What did you often do with your friends in your childhood?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you have any plans for the next five years?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What do you think is the most important at the moment?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Gifts
-
-### What gift have you received recently?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Have you ever received a great gift?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Have you ever sent handmade gifts to others?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What do you consider when choosing a gift?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you think you are good at choosing gifts?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Shoes
-
-### Do you like buying shoes? How often?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Have you ever bought shoes online?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### How much money do you usually spend on shoes?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Which do you prefer, fashionable shoes or comfortable shoes?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Advertisement
-
-### Do you like advertisements?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What kind of advertising do you like?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you often see advertisements when you are on your phone or computer?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you see a lot of advertising on trains or other transport?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Is there an advertisement that made an impression on you when you were a child?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Borrowing / Lending
-
-### Have you ever borrowed money from others?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Have you borrowed books from others?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you like to lend things to others?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you mind if others borrow money from you?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### How do you feel when people don't return things they borrowed from you?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Memory
-
-### Are you good at memorising things?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Have you ever forgotten something important?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What do you need to remember in your daily life?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### How do you remember important things?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Dreams
-
-### Can you remember the dreams you had?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you share your dreams with others?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you think dreams have special meanings?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you want to make your dreams come true?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Taking Photos
-
-### Do you like taking photos?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you like taking selfies?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What is your favourite family photo?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you want to improve your photography skills?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you like to print out your photos or just keep them on your phone or camera?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Food
-
-### What is your favourite food?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What kind of food did you like when you were young?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Has your favourite food changed since you were a child?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you eat different foods at different times of the year?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Plants
-
-### Do you keep plants at home?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What plant did you grow when you were young?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you know anything about growing a plant?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do Chinese people send plants as gifts?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Growing Vegetables / Fruits
-
-### Are you interested in growing vegetables and fruits?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you think it's easy to grow vegetables?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Is growing vegetables popular in your country?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do many people grow vegetables in your city?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Should schools teach students how to grow vegetables?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Pets and Animals
-
-### Have you ever had a pet before?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What's your favourite animal? Why?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Where do you prefer to keep your pet, indoors or outdoors?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### What is the most popular animal in China?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-## Rules
-
-### Are there any rules for students at your school?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you prefer to have more or fewer rules at school?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Do you think students would benefit more from more rules?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Have you ever had a really strict teacher?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Have you ever had a really dedicated teacher?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
-### Would you like to work as a teacher in a rule-free school?
-
-**Sample 1: General**
-
-[Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
+**Sample 1: Học sinh / Sinh viên**
+
+Come to think of it, drawing is something I've always enjoyed, even from a very young age. Of course, my style has evolved enormously — from colourful crayon doodles to digital art — but the core passion for visual creativity has remained constant throughout my life.
+
+**Vocabulary:**
+- **digital illustration** (n phr) (/ˈdɪdʒ.ɪ.təl ˌɪl.əˈstreɪ.ʃən/): creating artwork on a computer or tablet | vẽ minh họa kỹ thuật số
+- **pick up** (phr v) (/pɪk ʌp/): to learn a new skill informally | học, tập
+- **hooked** (adj) (/hʊkt/): very interested or addicted | bị cuốn hút
+- **model kit** (n phr) (/ˈmɒd.əl kɪt/): a set of parts to assemble a miniature | bộ mô hình lắp ráp
+- **meticulously** (adv) (/mɪˈtɪk.jə.ləs.li/): with great care and precision | một cách tỉ mỉ
+- **attention to detail** (n phr) (/əˈten.ʃən tuː ˈdiː.teɪl/): careful focus on small parts | sự chú ý đến chi tiết
+- **evolve** (v) (/ɪˈvɒlv/): to develop gradually | phát triển, tiến hóa
+- **doodle** (n) (/ˈduː.dəl/): a casual, rough drawing | nét vẽ nguệch ngoạc
+- **constant** (adj) (/ˈkɒn.stənt/): remaining the same, unchanging | không đổi

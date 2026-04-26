@@ -11,7 +11,6 @@ def parse_markdown(filepath):
     part2_3_raw = parts[1] if len(parts) > 1 else ""
 
     part1_sections = []
-    
     p1_chunks = re.split(r'\n##\s+', '\n' + part1_raw)
     for chunk in p1_chunks:
         if not chunk.strip() or chunk.strip().startswith('# PART 1'): 
@@ -36,45 +35,80 @@ def parse_markdown(filepath):
     part2_3_sections = []
     p2_3_chunks = re.split(r'\n##\s+', '\n' + part2_3_raw)
     for chunk in p2_3_chunks:
-        if not chunk.strip():
+        if not chunk.strip() or chunk.strip().startswith('# PART 2'):
             continue
             
         lines = chunk.strip().split('\n')
         topic_name = lines[0].strip()
         
-        # We just grab all > - and > 1. lines as prompts/questions
-        prompts = []
+        cue_card_lines = []
+        discussion_qs = []
+        
+        mode = "none"
         for line in lines[1:]:
-            line = line.strip()
-            # P2 specific
-            if line.startswith('> - ') or line.startswith('>- '):
-                prompts.append(re.sub(r'^>\s*', '', line))
-            # P3 specific 
-            m = re.match(r'^>\s*\d+\.\s*(.+)', line)
-            if m:
-                prompts.append(m.group(1).strip())
+            clean_line = line.strip()
+            if "[!prompt]" in clean_line or "Cue Card" in clean_line:
+                mode = "cuecard"
+                continue
+            elif "[!question]" in clean_line or "Discussion" in clean_line:
+                mode = "discussion"
+                continue
                 
-        if prompts:
+            if mode == "cuecard":
+                if clean_line.startswith('>'):
+                    cue_card_lines.append(clean_line.lstrip('>').strip())
+            elif mode == "discussion":
+                if clean_line.startswith('>'):
+                    d_line = clean_line.lstrip('>').strip()
+                    if d_line:
+                        discussion_qs.append(d_line)
+        
+        questions = []
+        if cue_card_lines:
+            questions.append({
+                "type": "cuecard",
+                "title": "Part 2: Cue Card",
+                "body": "\n".join(cue_card_lines)
+            })
+            
+        for dq in discussion_qs:
+            questions.append({
+                "type": "discussion",
+                "title": dq,
+                "body": ""
+            })
+                
+        if questions:
             part2_3_sections.append({
                 'topic': topic_name,
-                'questions': prompts
+                'questions': questions
             })
             
     return part1_sections, part2_3_sections
 
-def generate_template(data, outpath, version="forum"):
+def generate_template(data, outpath, version="forum", is_part23=False):
     with open(outpath, 'w', encoding='utf-8') as f:
         for sec in data:
             f.write(f"## {sec['topic']}\n\n")
             for q in sec['questions']:
-                f.write(f"### {q}\n\n")
+                if isinstance(q, dict):
+                    # It's Part 2/3
+                    f.write(f"### {q['title']}\n")
+                    if q['body']:
+                        f.write(f"{q['body']}\n\n")
+                    else:
+                        f.write("\n")
+                else:
+                    # It's Part 1 string
+                    f.write(f"### {q}\n\n")
+                    
                 if version == "forum":
                     f.write("**Sample 1: Học sinh / Sinh viên**\n\n[Nhập câu trả lời vào đây]\n\n")
                     f.write("**Vocabulary:**\n- **word** (/pron/): Nghĩa\n\n")
                     f.write("**Sample 2: Người đi làm**\n\n[Nhập câu trả lời vào đây]\n\n")
                     f.write("**Vocabulary:**\n- **word** (/pron/): Nghĩa\n\n")
                 elif version == "public":
-                    f.write("**Sample 1: General**\n\n[Nhập câu trả lời vào đây]\n\n")
+                    f.write("**Sample 1: Học sinh / Sinh viên**\n\n[Nhập câu trả lời vào đây]\n\n")
                     f.write("**Vocabulary:**\n- **word** (/pron/): Nghĩa\n\n")
 
 if __name__ == "__main__":
