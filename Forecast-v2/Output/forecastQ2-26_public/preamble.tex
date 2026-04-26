@@ -5,9 +5,9 @@
 \documentclass[12pt, a4paper, openany]{book}
 
 % --- Encoding & Vietnamese ---
-\usepackage[utf8]{inputenc}
-\usepackage[vietnamese]{babel}
 \usepackage{fontspec}
+\newfontfamily\ipafont{Helvetica} % Specific font for IPA symbols
+\usepackage[vietnamese]{babel}
 
 % --- Page Geometry ---
 \usepackage[
@@ -47,6 +47,14 @@
 % --- Tables ---
 \usepackage{tabularx, booktabs, array, multirow, multicol}
 \usepackage{colortbl}
+
+% --- Custom Columns ---
+\newcolumntype{V}[1]{>{\raggedright\arraybackslash\small}m{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash\small}m{#1}}
+\newcolumntype{I}[1]{>{\centering\arraybackslash\ipafont\small}m{#1}}
+\newcolumntype{Y}{>{\raggedright\arraybackslash\small}X}
+
+\raggedbottom
 
 % --- Lists ---
 \usepackage{enumitem}
@@ -127,7 +135,9 @@
   borderline west={3pt}{0pt}{ForumDarkBlue},
   colback=ForumDarkBlue!4,
   arc=0pt,
-  top=6pt, bottom=6pt, left=10pt, right=8pt
+  top=6pt, bottom=6pt, left=10pt, right=8pt,
+  before skip=10pt,
+  after skip=6pt
 }
 
 % Part 2: Cue Card prompt — matches reference image with title tab
@@ -149,7 +159,9 @@
     arc=2pt,
     boxrule=0pt,
     left=6pt, right=6pt, top=3pt, bottom=3pt
-  }
+  },
+  before skip=12pt,
+  after skip=8pt
 }
 
 % Part 3: Discussion Questions header

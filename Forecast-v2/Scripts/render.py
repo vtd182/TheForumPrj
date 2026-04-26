@@ -15,7 +15,7 @@ def escape_latex(text):
 
 def build_vocab_table(raw_vocab_lines):
     """Convert raw markdown vocab lines into a 5-column LaTeX tabularx table.
-    Format: - **word** (part_of_speech) (/IPA/): English meaning | Vietnamese meaning
+    Format: - **word** (part_of_speech) (IPA): English meaning | Vietnamese meaning
     """
     rows = []
     for v in raw_vocab_lines:
@@ -23,7 +23,7 @@ def build_vocab_table(raw_vocab_lines):
         if not v.startswith('- '):
             continue
         v = v[2:].strip()
-        # Pattern: "**word** (pos) (/IPA/): English meaning | Vietnamese meaning"
+        # Pattern: "**word** (pos) (IPA): English meaning | Vietnamese meaning"
         m = re.match(
             r'\*\*(.*?)\*\*\s*\((.*?)\)\s*\((.*?)\)\s*:\s*(.*?)\s*\|\s*(.*)',
             v
@@ -31,21 +31,21 @@ def build_vocab_table(raw_vocab_lines):
         if m:
             word = escape_latex(m.group(1))
             pos = escape_latex(m.group(2))
-            ipa = m.group(3)
+            ipa = m.group(3)  # Don't italics, xelatex handles symbols
             eng = escape_latex(m.group(4).strip())
             vie = escape_latex(m.group(5).strip())
             rows.append(
-                f"\\textbf{{{word}}} & {pos} & \\textit{{{ipa}}} & {eng} & {vie} \\\\"
+                f"\\textbf{{{word}}} & {pos} & {ipa} & {eng} & {vie} \\\\ \\hline"
             )
         else:
-            # Fallback: 3-field format "**word** (/IPA/): Vietnamese meaning"
+            # Fallback 1: 3-field format "**word** (/IPA/): Vietnamese meaning"
             m2 = re.match(r'\*\*(.*?)\*\*\s*\((.*?)\)\s*:\s*(.*)', v)
             if m2:
                 word = escape_latex(m2.group(1))
                 ipa = m2.group(2)
                 vie = escape_latex(m2.group(3).strip())
                 rows.append(
-                    f"\\textbf{{{word}}} & & \\textit{{{ipa}}} & & {vie} \\\\"
+                    f"\\textbf{{{word}}} & & {ipa} & & {vie} \\\\ \\hline"
                 )
 
     if not rows:
@@ -54,19 +54,15 @@ def build_vocab_table(raw_vocab_lines):
     header = (
         "\n\\vspace{0.8em}\n"
         "\\begin{center}\n"
-        "\\renewcommand{\\arraystretch}{1.35}\n"
-        "\\begin{tabularx}{\\textwidth}{|>{\\raggedright\\arraybackslash}p{0.14\\textwidth}"
-        "|>{\\centering\\arraybackslash}p{0.07\\textwidth}"
-        "|>{\\centering\\arraybackslash}p{0.14\\textwidth}"
-        "|>{\\raggedright\\arraybackslash}X"
-        "|>{\\raggedright\\arraybackslash}p{0.20\\textwidth}|}\n"
+        "\\renewcommand{\\arraystretch}{1.65}\n"
+        "\\begin{tabularx}{\\textwidth}{|V{0.22\\textwidth}|C{0.07\\textwidth}|I{0.20\\textwidth}|Y|V{0.18\\textwidth}|}\n"
         "\\hline\n"
-        "\\rowcolor{ForumDarkBlue!10}\n"
-        "\\textbf{Từ} & \\textbf{Từ loại} & \\textbf{IPA} & "
-        "\\textbf{Nghĩa trong tiếng Anh} & \\textbf{Dịch nghĩa} \\\\\n"
+        "\\rowcolor{ForumDarkBlue!15}\n"
+        "\\textbf{Từ} & \\textbf{Loại} & \\textbf{IPA} & "
+        "\\textbf{Nghĩa tiếng Anh} & \\textbf{Dịch nghĩa} \\\\\n"
         "\\hline\n"
     )
-    footer = "\\hline\n\\end{tabularx}\n\\end{center}\n"
+    footer = "\\end{tabularx}\n\\end{center}\n"
     return header + "\n".join(rows) + "\n" + footer
 
 
@@ -225,7 +221,7 @@ def generate_part2_3_tex(parsed_data, outpath):
                     f.write("\\begin{ieltsprompt}\n")
                     if q['prompt_text']:
                         f.write(f"{q['prompt_text']}\n")
-                    f.write("\\end{ieltsprompt}\n\n")
+                    f.write("\\end{ieltsprompt}\n")
                     if q['answer_text']:
                         f.write(q['answer_text'])
                         f.write("\n\n")
