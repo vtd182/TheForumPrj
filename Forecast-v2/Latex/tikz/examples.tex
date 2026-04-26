@@ -1,0 +1,259 @@
+% ============================================================
+% TikZ EXAMPLES — Ví dụ minh họa cách dùng tikz-math.tex
+% ============================================================
+% File này KHÔNG được \input vào main.tex
+% Dùng để tham khảo khi cần vẽ cho bài toán cụ thể
+% ============================================================
+
+% ==========================================
+% VÍ DỤ 1: BẢNG BIẾN THIÊN — HÀM BẬC 3
+% ==========================================
+%
+% Hàm y = x^3 - 3x^2 + 2, CĐ tại x=0, CT tại x=2
+%
+% \bbtBacBa{0}{2}{2}{-2}{-\infty}{+\infty}
+%
+% Tham số:
+%   #1 = x cực đại     (0)
+%   #2 = x cực tiểu     (2)
+%   #3 = f(x1) cực đại  (2)
+%   #4 = f(x2) cực tiểu (-2)
+%   #5 = lim x→-∞       (-\infty)
+%   #6 = lim x→+∞       (+\infty)
+
+
+% ==========================================
+% VÍ DỤ 2: BẢNG BIẾN THIÊN — HÀM BẬC 4
+% ==========================================
+%
+% Hàm y = x^4 - 2x^2 + 1
+%   CT tại x=-1 và x=1 → f = 0
+%   CĐ tại x=0 → f = 1
+%
+% \bbtBacBon{-1}{0}{1}{0}{1}{0}{+\infty}{+\infty}
+%
+% Tham số:
+%   #1 = x cực tiểu trái  (-1)
+%   #2 = x cực đại         (0)
+%   #3 = x cực tiểu phải   (1)
+%   #4 = f(x1)             (0)
+%   #5 = f(x2)             (1)
+%   #6 = f(x3)             (0)
+%   #7 = lim x→-∞          (+\infty)
+%   #8 = lim x→+∞          (+\infty)
+
+
+% ==========================================
+% VÍ DỤ 3: BBT TỰ DO (custom)
+% ==========================================
+%
+% Dùng khi hàm có nhiều hơn 3 cực trị hoặc dạng đặc biệt
+%
+% \begin{bangBT}{12}{-5}
+%   % Tự vẽ theo ý muốn, dùng các style: bbt, bbt header, bbt arrow, bbt val, bbt sign
+%   \draw[bbt] (0,-1) -- (12,-1);   % đường kẻ ngang
+%   \draw[bbt] (1.5,0) -- (1.5,-5); % đường kẻ dọc
+%   \node[bbt header] at (0.75, -0.5) {$x$};
+%   % ... thêm nội dung tùy ý
+% \end{bangBT}
+
+
+% ==========================================
+% VÍ DỤ 4: ĐỒ THỊ HÀM SỐ (pgfplots)
+% ==========================================
+%
+% \begin{center}
+% \begin{tikzpicture}
+%   \begin{axis}[
+%     forum graph,             % hoặc forum graph small
+%     xmin=-3, xmax=5,
+%     ymin=-5, ymax=5,
+%     xtick={-2,-1,...,4},
+%     ytick={-4,-2,...,4},
+%   ]
+%     % Vẽ hàm số
+%     \addplot[TikzCurve1, domain=-2:4] {x^3 - 3*x^2 + 2};
+%
+%     % Tiệm cận đứng
+%     \tiemcanDung{2}{-5}{5}
+%
+%     % Tiệm cận ngang
+%     \tiemcanNgang{1}{-3}{5}
+%
+%     % Điểm đặc biệt (đặc, fill)
+%     \diemDB{0}{2}{$(0;2)$}{above right}
+%
+%     % Điểm rỗng (hở)
+%     \diemHo{2}{-2}{$(2;-2)$}{below}
+%
+%     % Đường thẳng y = m
+%     \addplot[TikzCurve2, dashed, domain=-2:4] {1};
+%
+%     % Legend
+%     \legend{$y=f(x)$, $y=m$}
+%   \end{axis}
+% \end{tikzpicture}
+% \end{center}
+
+
+% ==========================================
+% VÍ DỤ 5: ĐỒ THỊ HÀM PHÂN THỨC
+% ==========================================
+%
+% y = (2x+1)/(x-1), TCĐ: x=1, TCN: y=2
+%
+% \begin{center}
+% \begin{tikzpicture}
+%   \begin{axis}[
+%     forum graph small,
+%     xmin=-5, xmax=7,
+%     ymin=-6, ymax=10,
+%   ]
+%     % Nhánh trái
+%     \addplot[TikzCurve1, domain=-5:0.85] {(2*x+1)/(x-1)};
+%     % Nhánh phải
+%     \addplot[TikzCurve1, domain=1.15:7] {(2*x+1)/(x-1)};
+%
+%     % Tiệm cận
+%     \tiemcanDung{1}{-6}{10}
+%     \tiemcanNgang{2}{-5}{7}
+%
+%     % Giao trục
+%     \diemDB{-0.5}{0}{$(-\frac{1}{2};0)$}{above left}
+%     \diemDB{0}{-1}{$(0;-1)$}{below right}
+%   \end{axis}
+% \end{tikzpicture}
+% \end{center}
+
+
+% ==========================================
+% VÍ DỤ 6: VÙNG TÍCH PHÂN
+% ==========================================
+%
+% Tô vùng giữa đồ thị f(x) = x^2 và trục Ox, từ x=0 đến x=2
+%
+% \begin{center}
+% \begin{tikzpicture}
+%   \begin{axis}[
+%     forum graph small,
+%     xmin=-1, xmax=3,
+%     ymin=-0.5, ymax=5,
+%   ]
+%     % Tô vùng
+%     \addplot[TikzFill, opacity=0.3, domain=0:2] {x^2} \closedcycle;
+%
+%     % Vẽ đường cong phía trên
+%     \addplot[TikzCurve1, domain=-0.5:2.5] {x^2};
+%
+%     \diemDB{0}{0}{$O$}{below left}
+%     \diemDB{2}{0}{$2$}{below}
+%   \end{axis}
+% \end{tikzpicture}
+% \end{center}
+
+
+% ==========================================
+% VÍ DỤ 7: HÌNH HỌC KHÔNG GIAN — HÌNH CHÓP
+% ==========================================
+%
+% Hình chóp S.ABCD
+%
+% \begin{center}
+% \begin{tikzpicture}[scale=1.2]
+%   % Đáy ABCD (hình bình hành, phối cảnh)
+%   \dinh{A}{(-2, 0)}{below left}
+%   \dinh{B}{(1.5, -0.5)}{below right}
+%   \dinh{C}{(3, 1)}{right}
+%   \dinh{D}{(-0.5, 1.5)}{above left}
+%   \dinh{S}{(0.5, 4)}{above}
+%
+%   % Cạnh đáy
+%   \draw[solid edge] (A) -- (B) -- (C);
+%   \draw[hidden edge] (C) -- (D) -- (A);
+%
+%   % Cạnh bên
+%   \draw[solid edge] (S) -- (A);
+%   \draw[solid edge] (S) -- (B);
+%   \draw[solid edge] (S) -- (C);
+%   \draw[hidden edge] (S) -- (D);
+%
+%   % Chiều cao
+%   \coordinate (H) at (0.5, 0.3); % chân đường cao
+%   \draw[height line] (S) -- (H);
+%   \node[font=\footnotesize, color=ForumRed] at (0.1, 2) {$h$};
+%   \gocVuong{H}{A}{B}{0.25cm}
+% \end{tikzpicture}
+% \end{center}
+
+
+% ==========================================
+% VÍ DỤ 8: MẶT PHẲNG PHỨC
+% ==========================================
+%
+% Biểu diễn z = 2 + 3i và |z - (1+i)| = 2
+%
+% \begin{center}
+% \begin{tikzpicture}
+%   \begin{axis}[
+%     forum graph small,
+%     axis equal,
+%     xlabel={Re}, ylabel={Im},
+%     xmin=-2, xmax=5,
+%     ymin=-2, ymax=5,
+%   ]
+%     % Đường tròn |z-(1+i)|=2
+%     \addplot[complex circle, domain=0:360, samples=100]
+%       ({1 + 2*cos(x)}, {1 + 2*sin(x)});
+%
+%     % Vùng tô bên trong
+%     \addplot[complex region, domain=0:360, samples=100]
+%       ({1 + 2*cos(x)}, {1 + 2*sin(x)}) \closedcycle;
+%
+%     % Điểm z = 2+3i
+%     \diemDB{2}{3}{$z=2+3i$}{above right}
+%
+%     % Tâm
+%     \diemDB{1}{1}{$I(1;1)$}{below right}
+%   \end{axis}
+% \end{tikzpicture}
+% \end{center}
+
+
+% ==========================================
+% VÍ DỤ 9: CÂY XÁC SUẤT
+% ==========================================
+%
+% P(A) = 0.3, P(B|A) = 0.5, P(B|Ac) = 0.2
+%
+% \begin{center}
+% \begin{tikzpicture}[
+%   level 1/.style={sibling distance=4cm, level distance=2.5cm},
+%   level 2/.style={sibling distance=2cm, level distance=2.5cm},
+% ]
+%   \node[prob node] {Start}
+%     child {
+%       node[prob node] {$A$}
+%         child {
+%           node[prob result] {$A \cap B$}
+%           edge from parent node[prob label, left] {$0{,}5$}
+%         }
+%         child {
+%           node[prob result] {$A \cap \bar{B}$}
+%           edge from parent node[prob label, right] {$0{,}5$}
+%         }
+%       edge from parent node[prob label, left] {$0{,}3$}
+%     }
+%     child {
+%       node[prob node] {$\bar{A}$}
+%         child {
+%           node[prob result] {$\bar{A} \cap B$}
+%           edge from parent node[prob label, left] {$0{,}2$}
+%         }
+%         child {
+%           node[prob result] {$\bar{A} \cap \bar{B}$}
+%           edge from parent node[prob label, right] {$0{,}8$}
+%         }
+%       edge from parent node[prob label, right] {$0{,}7$}
+%     };
+% \end{tikzpicture}
+% \end{center}

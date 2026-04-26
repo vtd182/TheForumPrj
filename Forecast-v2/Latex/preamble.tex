@@ -1,0 +1,142 @@
+% ============================================================
+% PREAMBLE — FORECAST 2026
+% ============================================================
+
+\documentclass[12pt, a4paper, openany]{book}
+
+% --- Encoding & Vietnamese ---
+\usepackage[utf8]{inputenc}
+\usepackage[vietnamese]{babel}
+\usepackage{fontspec}
+
+% --- Page Geometry ---
+\usepackage[
+  top=2cm,
+  bottom=2cm,
+  left=2.5cm,
+  right=2cm,
+  headheight=16pt
+]{geometry}
+
+% --- Math ---
+\usepackage{amsmath, amssymb, amsfonts, mathtools}
+
+% --- Graphics & Colors ---
+\usepackage{graphicx}
+\graphicspath{{images/}}
+\usepackage[dvipsnames, svgnames, x11names]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{
+  calc,
+  positioning,
+  shadows,
+  decorations.pathreplacing,
+  decorations.markings,
+  arrows.meta,
+  patterns,
+  intersections,
+  through,
+  angles,
+  quotes,
+  3d,
+  perspective
+}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+% --- Tables ---
+\usepackage{tabularx, booktabs, array, multirow, multicol}
+\usepackage{colortbl}
+
+% --- Lists ---
+\usepackage{enumitem}
+
+% --- tcolorbox (for styled boxes) ---
+\usepackage[most, skins, breakable]{tcolorbox}
+
+% --- Header & Footer ---
+\usepackage{fancyhdr}
+
+% --- Hyperlinks ---
+\usepackage[
+  colorlinks=true,
+  linkcolor=ForumDarkBlue,
+  urlcolor=ForumOrange,
+  citecolor=ForumGreen
+]{hyperref}
+
+% --- Misc ---
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{etoolbox}
+\usepackage{pgffor}
+\usepackage{calc}
+
+% ============================================================
+% IMPORT MODULES
+% ============================================================
+
+% Bảng màu
+\input{styles/colors}
+
+% Chapter & Section styling
+\titleformat{\chapter}[display]
+  {\normalfont\Huge\bfseries\color{ForumDarkBlue}}
+  {\chaptertitlename\ \thechapter}
+  {20pt}
+  {\Huge}
+\titlespacing*{\chapter}{0pt}{-30pt}{20pt}
+
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{ForumDarkBlue}}
+  {\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries\color{ForumMidBlue}}
+  {\thesubsection}{1em}{}
+
+% Header & Footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\textit{\leftmark}}
+\fancyhead[RO]{\small\textit{The Forum Center}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+\let\cleardoublepage\clearpage
+
+% Tcolorbox environments
+\input{styles/environments}
+
+% Custom commands
+\input{styles/commands}
+
+% TikZ drawing library
+\input{tikz/lib/tikz-math}
+
+% --- IELTS Speaking Custom Environments ---
+\newtcolorbox{ieltsprompt}[1][]{
+  enhanced,
+  breakable,
+  boxrule=1.5pt,
+  colframe=ForumDarkBlue,
+  colback=ForumMidBlue!5,
+  colbacktitle=ForumDarkBlue,
+  coltitle=white,
+  fonttitle=\bfseries\sffamily,
+  title=#1,
+  attach boxed title to top left={yshift=-2mm,xshift=5mm},
+  boxed title style={sharp corners, size=small, colback=ForumDarkBlue},
+  arc=3mm,
+  top=4mm, 
+  bottom=4mm, 
+  left=4mm, 
+  right=4mm,
+  shadow={2mm}{-2mm}{0mm}{black!30}
+}
