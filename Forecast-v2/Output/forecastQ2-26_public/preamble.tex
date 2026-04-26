@@ -24,7 +24,7 @@
 % --- Graphics & Colors ---
 \usepackage{graphicx}
 \graphicspath{{images/}}
-\usepackage[dvipsnames, svgnames, x11names]{xcolor}
+\usepackage[table, dvipsnames, svgnames, x11names]{xcolor}
 \usepackage{tikz}
 \usetikzlibrary{
   calc,
@@ -89,17 +89,17 @@
 
 % Chapter & Section styling
 \titleformat{\chapter}[display]
-  {\normalfont\Huge\bfseries\color{ForumDarkBlue}}
+  {\normalfont\Huge\bfseries\color{ForumFreshBlue}}
   {\chaptertitlename\ \thechapter}
   {20pt}
   {\Huge}
 \titlespacing*{\chapter}{0pt}{-30pt}{20pt}
 
 \titleformat{\section}
-  {\normalfont\Large\bfseries\color{ForumDarkBlue}}
+  {\normalfont\Large\bfseries\color{ForumFreshBlue}}
   {\thesection}{1em}{}
 \titleformat{\subsection}
-  {\normalfont\large\bfseries\color{ForumMidBlue}}
+  {\normalfont\large\bfseries\color{ForumFreshMid}}
   {\thesubsection}{1em}{}
 
 % Header & Footer
@@ -132,11 +132,11 @@
   enhanced,
   breakable,
   frame hidden,
-  borderline west={3pt}{0pt}{ForumDarkBlue},
-  colback=ForumDarkBlue!4,
+  borderline west={3pt}{0pt}{ForumFreshBlue},
+  colback=ForumFreshLight,
   arc=0pt,
   top=6pt, bottom=6pt, left=10pt, right=8pt,
-  before skip=10pt,
+  before skip=8pt,
   after skip=6pt
 }
 
@@ -144,14 +144,14 @@
 \newtcolorbox{ieltsprompt}[1][]{
   enhanced,
   breakable,
-  boxrule=1pt,
-  colframe=ForumDarkBlue!60,
-  colback=ForumMidBlue!3,
-  arc=4mm,
+  boxrule=0.8pt,
+  colframe=ForumFreshBlue!80,
+  colback=ForumFreshLight,
+  arc=3mm,
   top=8pt, bottom=8pt, left=10pt, right=10pt,
   fonttitle=\bfseries\sffamily\small,
   coltitle=white,
-  colbacktitle=ForumDarkBlue,
+  colbacktitle=ForumFreshBlue!80,
   title={IELTS Part 2 — Cue Card},
   attach boxed title to top left={yshift=-2mm, xshift=6mm},
   boxed title style={
@@ -164,19 +164,33 @@
   after skip=8pt
 }
 
+% Box for Model Answers (specifically Part 2)
+\newtcolorbox{ieltsanswer}{
+  enhanced,
+  breakable,
+  colframe=ForumFreshBlue!25,
+  colback=white,
+  boxrule=0.6pt,
+  arc=2pt,
+  left=12pt, right=12pt, top=10pt, bottom=10pt,
+  before skip=4pt,
+  after skip=12pt,
+  borderline west={2pt}{0pt}{ForumFreshBlue!50}
+}
+
 % Part 3: Discussion Questions header
 \newcommand{\partthreeheader}{%
   \vspace{10pt}%
-  \noindent\textcolor{ForumDarkBlue}{\rule{\linewidth}{1pt}}%
+  \noindent\textcolor{ForumFreshBlue}{\rule{\linewidth}{1.2pt}}%
   \vspace{4pt}%
-  \noindent{\large\bfseries\sffamily\textcolor{ForumDarkBlue}{IELTS Part 3 — Discussion Questions}}%
+  \noindent{\large\bfseries\sffamily\textcolor{ForumFreshBlue}{IELTS Part 3 — Discussion Questions}}%
   \vspace{6pt}%
 }
 
 % Separator between Q&A blocks
 \renewcommand{\separator}{%
   \vspace{6pt}%
-  \noindent\makebox[\linewidth]{\textcolor{ForumDarkBlue!20}{\rule{0.6\linewidth}{0.4pt}}}%
+  \noindent\makebox[\linewidth]{\textcolor{ForumFreshBlue!20}{\rule{0.6\linewidth}{0.6pt}}}%
   \vspace{6pt}%
 }
 

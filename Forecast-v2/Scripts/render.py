@@ -10,6 +10,15 @@ def escape_latex(text):
     text = text.replace('&', r'\&')
     text = text.replace('%', r'\%')
     text = text.replace('#', r'\#')
+    
+    # User requested to replace -- with -
+    text = text.replace('--', '-')
+    
+    # Translate Sample headers to English
+    text = text.replace('Học sinh / Sinh viên', 'Student Persona (Band 7-8)')
+    text = text.replace('Học sinh/Sinh viên', 'Student Persona (Band 7-8)')
+    text = text.replace('Người đi làm', 'Working Professional Persona (Band 7-8)')
+    
     return text
 
 
@@ -55,11 +64,12 @@ def build_vocab_table(raw_vocab_lines):
         "\n\\vspace{0.8em}\n"
         "\\begin{center}\n"
         "\\renewcommand{\\arraystretch}{1.65}\n"
+        "\\rowcolors{2}{ForumFreshLight}{white}\n"
         "\\begin{tabularx}{\\textwidth}{|V{0.22\\textwidth}|C{0.07\\textwidth}|I{0.20\\textwidth}|Y|V{0.18\\textwidth}|}\n"
         "\\hline\n"
-        "\\rowcolor{ForumDarkBlue!15}\n"
+        "\\rowcolor{ForumFreshBlue!20}\n"
         "\\textbf{Từ} & \\textbf{Loại} & \\textbf{IPA} & "
-        "\\textbf{Nghĩa tiếng Anh} & \\textbf{Dịch nghĩa} \\\\\n"
+        "\\textbf{English Meaning} & \\textbf{Dịch nghĩa} \\\\\n"
         "\\hline\n"
     )
     footer = "\\end{tabularx}\n\\end{center}\n"
@@ -112,6 +122,9 @@ def process_topic_block(topic_chunk):
             lambda m: '\\textbf{' + escape_latex(m.group(1)) + '}',
             q_body
         )
+        
+        # Finally escape the remaining body
+        q_body = escape_latex(q_body)
 
         # Convert bullets for cue card prompt
         prompt_text = ""
@@ -137,7 +150,7 @@ def process_topic_block(topic_chunk):
                     if not in_list:
                         p_clean.append("\\begin{itemize}[leftmargin=2em, itemsep=2pt]")
                         in_list = True
-                    p_clean.append("\\item " + escape_latex(p.strip()[2:]))
+                    p_clean.append("\\item " + p.strip()[2:])
                 else:
                     if in_list:
                         p_clean.append("\\end{itemize}")
@@ -192,7 +205,7 @@ def generate_part1_tex(parsed_data, outpath):
             for q in sec['questions']:
                 f.write("\\begin{ieltsquestion}\n")
                 f.write(f"\\textbf{{{q['q_title']}}}\n")
-                f.write("\\end{ieltsquestion}\n\n")
+                f.write("\\end{ieltsquestion}\n")
                 if q['answer_text']:
                     f.write(q['answer_text'])
                     f.write("\n\n")
@@ -216,15 +229,16 @@ def generate_part2_3_tex(parsed_data, outpath):
             vocab_idx = 0
 
             for q in sec['questions']:
-                is_cuecard = q['q_title'].startswith("Part 2")
+                is_cuecard = q['q_title'].upper().startswith("PART 2")
                 if is_cuecard:
                     f.write("\\begin{ieltsprompt}\n")
                     if q['prompt_text']:
                         f.write(f"{q['prompt_text']}\n")
                     f.write("\\end{ieltsprompt}\n")
                     if q['answer_text']:
+                        f.write("\\begin{ieltsanswer}\n")
                         f.write(q['answer_text'])
-                        f.write("\n\n")
+                        f.write("\n\\end{ieltsanswer}\n\n")
                     # Vocab table after cue card answer
                     if vocab_idx < len(sec['vocab_tables']):
                         f.write(sec['vocab_tables'][vocab_idx])
@@ -236,7 +250,7 @@ def generate_part2_3_tex(parsed_data, outpath):
                         part3_header_written = True
                     f.write("\\begin{ieltsquestion}\n")
                     f.write(f"\\textbf{{{q['q_title']}}}\n")
-                    f.write("\\end{ieltsquestion}\n\n")
+                    f.write("\\end{ieltsquestion}\n")
                     if q['answer_text']:
                         f.write(q['answer_text'])
                         f.write("\n\n")
