@@ -11,26 +11,42 @@ def parse_markdown(filepath):
     part2_3_raw = parts[1] if len(parts) > 1 else ""
 
     part1_sections = []
-    p1_chunks = re.split(r'\n##\s+', '\n' + part1_raw)
-    for chunk in p1_chunks:
-        if not chunk.strip() or chunk.strip().startswith('# PART 1'): 
-            continue
-            
-        lines = chunk.strip().split('\n')
-        topic_name = lines[0].strip()
-        
-        questions = []
-        for line in lines[1:]:
-            line = line.strip()
-            if line.startswith('> -') or line.startswith('>-'):
-                q = re.sub(r'^>\s*-\s*', '', line).strip()
-                questions.append(q)
-                
-        if questions:
+    current_topic = None
+    current_questions = []
+
+    def flush_part1_topic():
+        nonlocal current_topic, current_questions
+        if current_topic and current_questions:
             part1_sections.append({
-                'topic': topic_name,
-                'questions': questions
+                'topic': current_topic,
+                'questions': current_questions
             })
+        current_topic = None
+        current_questions = []
+
+    for raw_line in part1_raw.splitlines():
+        line = raw_line.strip()
+
+        category_match = re.match(r'^#\s+(PART 1:\s+.+)$', line, re.IGNORECASE)
+        if category_match:
+            flush_part1_topic()
+            part1_sections.append({
+                'type': 'category',
+                'title': category_match.group(1).strip()
+            })
+            continue
+
+        topic_match = re.match(r'^##\s+(.+)$', line)
+        if topic_match:
+            flush_part1_topic()
+            current_topic = topic_match.group(1).strip()
+            continue
+
+        if current_topic and (line.startswith('> -') or line.startswith('>-')):
+            q = re.sub(r'^>\s*-\s*', '', line).strip()
+            current_questions.append(q)
+
+    flush_part1_topic()
 
     part2_3_sections = []
     p2_3_chunks = re.split(r'\n##\s+', '\n' + part2_3_raw)
@@ -89,6 +105,10 @@ def parse_markdown(filepath):
 def generate_template(data, outpath, version="forum", is_part23=False):
     with open(outpath, 'w', encoding='utf-8') as f:
         for sec in data:
+            if sec.get('type') == 'category':
+                f.write(f"# {sec['title']}\n\n")
+                continue
+
             f.write(f"## {sec['topic']}\n\n")
             for q in sec['questions']:
                 if isinstance(q, dict):

@@ -18,14 +18,12 @@ xelatex -interaction=nonstopmode -output-directory=build main.tex > /dev/null 2>
 echo "🔨 Pass 2/2: Resolving TOC & cross-references..."
 xelatex -interaction=nonstopmode -output-directory=build main.tex > /dev/null 2>&1
 
-# Count pages
-PAGES=$(grep -c "Output written" build/main.log 2>/dev/null || echo "?")
 echo ""
 echo "✅ Done! PDF: build/main.pdf"
 echo "📄 Pages: check build/main.pdf"
 
 # Check for errors
-ERRORS=$(grep -c "^!" build/main.log 2>/dev/null || echo "0")
+ERRORS=$(awk 'BEGIN { count=0 } /^!/ { count++ } END { print count }' build/main.log 2>/dev/null || printf "0")
 if [ "$ERRORS" -gt 0 ]; then
   echo "⚠️  $ERRORS error(s) found. Check build/main.log"
 else

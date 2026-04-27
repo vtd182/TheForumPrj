@@ -92,21 +92,64 @@ Với các nội dung ghi chú bình thường (chiến thuật, tip), dùng bul
 
 ### 3. Heading level map → màu sắc trong Word
 
-| Markdown | Word Style | Màu |
+| Markdown | Word Style | Màu | Khi nào dùng |
+|---|---|---|---|
+| `##` | CD Section | Navy (`#1F4E79`), nền xanh nhạt | Phần chính (Phần 1, 2, 3, 4) |
+| `###` | CD Step | Steel Blue (`#2E5D8E`) | Sub-section, từng câu hỏi |
+| `####` | CD Green Heading | Xanh lá (`#5AA244`) | **CHỈ cho đáp án đúng** — không dùng nội dung thông thường |
+| `>` blockquote | CD Note | Tím (`#7A1FA2`) | **CHỈ cho trap/cảnh báo critical** — không dùng cho tips thông thường |
+
+**Nguyên tắc:** Dùng `##` cho phần chính, `###` cho câu hỏi, `####` hạn chế tối đa.
+
+---
+
+## 🎨 CHÍNH SÁCH MÀU SẮC (Style Restraint Policy)
+
+> **Mục tiêu:** Tài liệu nhìn chuyên nghiệp, không loè loẹt. Chỉ highlight khi thực sự cần thiết.
+
+### Bảng màu cho phép
+
+| Màu | Hex | Dùng cho |
 |---|---|---|
-| `##` | CD Section | Đỏ (`#E52B20`), nền xám nhạt |
-| `###` | CD Step | Xanh dương (`#1F4E79`), nền xanh nhạt |
-| `####` | CD Green Heading | **Xanh lá** (`#5AA244`) ← tránh dùng quá nhiều |
-| `>` blockquote | CD Note | **Tím** (`#7A1FA2`), nền tím nhạt |
+| Navy Blue | `#1F4E79` | Heading `##` — Phần chính |
+| Steel Blue | `#2E5D8E` | Heading `###` — Sub-section |
+| Forest Green | `#2D6A4F` | Chỉ đáp án đúng (`####`) |
+| Slate Gray | `#546E7A` | Nội dung phụ, ghi chú nhẹ |
 
-**Nguyên tắc:** Dùng `##` cho các phần chính (I, II, III, IV), dùng `###` cho câu hỏi và sub-section, dùng `####` chỉ khi thực sự cần nhấn mạnh một sub-sub-section.
+### ❌ Màu hạn chế trong nội dung thông thường
 
+| Màu | Lí do hạn chế |
+|---|---|
+| Đỏ tươi `#E52B20` | Quá nổi bật, gây phân tâm — chỉ dùng cho tiêu đề trang |
+| Xanh lá tươi `#5AA244` | Chỉ dùng cho đáp án đúng, không dùng cho heading nội dung |
+| Tím `#7A1FA2` | Chỉ dùng cho trap warning, không dùng cho tips/chiến lược thông thường |
 
+### Quy tắc highlight khi phân tích
 
-Cả hai bộ đều có đủ Level 1, 2, 3 và bao gồm đầy đủ các dạng:
-- **Section 1:** Form completion (dialogue 2 người → `cdtranscripttable`)
-- **Section 2:** Monologue + Multiple Choice/Matching (plain text)
-- **Section 3:** Dialogue học thuật 2-3 người → `cdtranscripttable`
+- ✅ **In đậm** (`**...**`) để highlight từ khóa — tiết kiệm, OK
+- ✅ `> blockquote` chỉ cho: "⚠️ BẪY", "❗ CẢnh báo" — không dùng cho ghi chú chiến lược
+- ✅ `####` chỉ dùng cho label đáp án đúng
+- ❌ Không dùng `.cdred`, `.cdgreen`, `.cdblue` inline cho văn xuôi giải thích thông thường
+
+---
+
+## 📋 Transcript Decision Table — Bảng hay Plain Text?
+
+| Section | Đặc điểm | Format |
+|---|---|---|
+| Section 1 | Luôn là dialogue (2 người) | `cdtranscripttable` |
+| Section 2 | Thường là monologue 1 người | Plain text |
+| Section 3 | **Thường là dialogue (tutor + sinh viên)** | `cdtranscripttable` |
+| Section 4 | Monologue học thuật | Plain text |
+
+> **Kiểm tra nhanh:** Đếm số speaker. ≥ 2 speaker → dùng bảng.
+
+---
+
+Cả hai bộ đều có đủ Level 1, 2, 3:
+- **Section 1:** Form completion (dialogue → `cdtranscripttable`)
+- **Section 2:** Monologue + MCQ/Matching (plain text)
+- **Section 3:** Dialogue học thuật → `cdtranscripttable`
 - **Section 4:** Monologue học thuật (plain text)
 
 > **Quy tắc:** Mọi file Listening mới đều phải match cấu trúc của W8/W12 trước khi gen DOCX.

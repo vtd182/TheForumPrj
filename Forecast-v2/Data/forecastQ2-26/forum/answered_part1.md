@@ -1,3 +1,5 @@
+# PART 1: PERSONAL & LIFESTYLE TOPICS
+
 ## Work or Studies
 
 ### What work do you do?
@@ -1160,6 +1162,8 @@
 **Vocabulary:**
 - **word** (/pron/): Nghĩa
 
+# PART 1: DAILY LIFE & HABITS
+
 ## Morning Time
 
 ### Do you like getting up early in the morning?
@@ -1604,6 +1608,8 @@
 **Vocabulary:**
 - **word** (/pron/): Nghĩa
 
+# PART 1: PERSONAL PREFERENCES & ACTIVITIES
+
 ## Hobby
 
 ### Do you have any hobbies?
@@ -1933,6 +1939,8 @@
 
 **Vocabulary:**
 - **word** (/pron/): Nghĩa
+
+# PART 1: VIEWS, PLACES & TRAVEL
 
 ## Views
 
@@ -2345,6 +2353,8 @@
 
 **Vocabulary:**
 - **word** (/pron/): Nghĩa
+
+# PART 1: SOCIAL & EMOTIONAL TOPICS
 
 ## Chatting / Conversation
 
@@ -2854,6 +2864,8 @@
 **Vocabulary:**
 - **word** (/pron/): Nghĩa
 
+# PART 1: OBJECTS, SHOPPING & CONSUMPTION
+
 ## Gifts
 
 ### What gift have you received recently?
@@ -3166,6 +3178,8 @@
 **Vocabulary:**
 - **word** (/pron/): Nghĩa
 
+# PART 1: MEMORY, DREAMS & IMAGINATION
+
 ## Memory
 
 ### Are you good at memorising things?
@@ -3379,6 +3393,8 @@
 
 **Vocabulary:**
 - **word** (/pron/): Nghĩa
+
+# PART 1: NATURE, FOOD & SCHOOL LIFE
 
 ## Food
 
@@ -3757,4 +3773,3 @@
 
 **Vocabulary:**
 - **word** (/pron/): Nghĩa
-

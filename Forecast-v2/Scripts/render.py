@@ -186,12 +186,36 @@ def parse_answered_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    topics = re.split(r'\n##\s+', '\n' + content)
     parsed = []
-    for chunk in topics:
-        if not chunk.strip():
+    current_topic_lines = []
+
+    def flush_topic():
+        nonlocal current_topic_lines
+        if current_topic_lines:
+            parsed.append(process_topic_block("\n".join(current_topic_lines)))
+            current_topic_lines = []
+
+    for raw_line in content.splitlines():
+        line = raw_line.rstrip()
+
+        category_match = re.match(r'^#\s+(PART 1:\s+.+)$', line.strip(), re.IGNORECASE)
+        if category_match:
+            flush_topic()
+            parsed.append({
+                'type': 'category',
+                'title': escape_latex(category_match.group(1).strip()),
+            })
             continue
-        parsed.append(process_topic_block(chunk))
+
+        if re.match(r'^##\s+', line):
+            flush_topic()
+            current_topic_lines = [re.sub(r'^##\s+', '', line).strip()]
+            continue
+
+        if current_topic_lines:
+            current_topic_lines.append(line)
+
+    flush_topic()
     return parsed
 
 
@@ -201,6 +225,11 @@ def generate_part1_tex(parsed_data, outpath):
         f.write("\\chapter{Part 1: Personal \\& General Topics}\n\n")
 
         for sec in parsed_data:
+            if sec.get('type') == 'category':
+                f.write(f"\\section*{{{sec['title']}}}\n")
+                f.write(f"\\addcontentsline{{toc}}{{section}}{{{sec['title']}}}\n\n")
+                continue
+
             f.write(f"\\section{{{sec['topic']}}}\n")
             for q in sec['questions']:
                 f.write("\\begin{ieltsquestion}\n")
@@ -224,6 +253,9 @@ def generate_part2_3_tex(parsed_data, outpath):
         f.write("\\chapter{Part 2 \\& 3: Cue Cards \\& Discussion Topics}\n\n")
 
         for sec in parsed_data:
+            if sec.get('type') == 'category':
+                continue
+
             f.write(f"\\section{{{sec['topic']}}}\n")
             part3_header_written = False
             vocab_idx = 0

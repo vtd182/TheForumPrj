@@ -1,3 +1,5 @@
+# PART 1: PERSONAL & LIFESTYLE TOPICS
+
 ## Work or Studies
 
 ### What work do you do?
@@ -111,6 +113,8 @@ Ideally, I'd love to own a modern apartment with a balcony in the city centre, s
 - **dedicated** (adj) (/ˈded.ɪ.keɪ.tɪd/): designed for a particular purpose | chuyên dụng
 - **remote working** (n phr) (/rɪˈməʊt ˈwɜː.kɪŋ/): working from home or outside office | làm việc từ xa
 - **natural light** (n phr) (/ˈnætʃ.ər.əl laɪt/): sunlight coming into a room | ánh sáng tự nhiên
+
+# PART 1: DAILY LIFE & HABITS
 
 ## Morning Time
 
@@ -296,6 +300,8 @@ I think it's because parks offer a peaceful escape from the hustle and bustle of
 - **therapeutic** (adj) (/ˌθer.əˈpjuː.tɪk/): having a healing or calming effect | có tính trị liệu
 - **accessible** (adj) (/əkˈses.ə.bəl/): easy to reach or use | dễ tiếp cận
 - **well-being** (n) (/ˌwelˈbiː.ɪŋ/): the state of being healthy and happy | sự khỏe mạnh, hạnh phúc
+
+# PART 1: PERSONAL PREFERENCES & ACTIVITIES
 
 ## Hobby
 

@@ -490,14 +490,61 @@ bash ~/Desktop/TheForumPrj/chuyenDe/scripts/wr_md_to_word.sh \
 
 Chi tiết đầy đủ tại `chuyenDe/word/README.md` (section 3).
 
-| Markdown | Word Style | Màu |
+| Markdown | Word Style | Màu | Khi nào dùng |
+|---|---|---|---|
+| `## ...` | CD Section | Navy `#1F4E79`, nền xanh nhạt | Phần chính (Phần 1, 2, 3, 4) |
+| `### ...` | CD Step | Steel Blue `#2E5D8E` | Sub-section, từng câu hỏi |
+| `#### ...` | CD Green Heading | Xanh lá `#5AA244` | **CHỈ cho đáp án đúng** — hạn chế tối đa |
+| `> blockquote` | CD Note | Tím `#7A1FA2` | **CHỈ cho trap/cảnh báo critical** |
+| `::: prompt :::` | Prompt Box | Viền nổi bật | Đề bài Writing/Bài đọc Reading |
+| `::: collectiontitle :::` | Collection Title | Tiêu đề trang | Đầu mọi file |
+
+---
+
+## 🎨 CHÍNH SÁCH MÀU SẮC — Style Restraint Policy
+
+> **Mục tiêu:** Tài liệu chuyên nghiệp, không loè loẹt. Highlight chỉ khi thực sự cần thiết.
+
+### Bảng màu được phép sử dụng
+
+| Màu | Hex | Dùng cho |
 |---|---|---|
-| `## ...` | CD Section | Đỏ `#E52B20`, nền xám nhạt |
-| `### ...` | CD Step | Xanh dương `#1F4E79`, nền xanh nhạt |
-| `#### ...` | CD Green Heading | Xanh lá `#5AA244` — hạn chế dùng |
-| `> blockquote` | CD Note | Tím `#7A1FA2` — chỉ dùng cho lưu ý quan trọng |
-| `::: prompt :::` | Prompt Box | Viền nổi bật |
-| `::: collectiontitle :::` | Collection Title | Tiêu đề trang |
+| Navy Blue | `#1F4E79` | Heading `##` — Phần chính |
+| Steel Blue | `#2E5D8E` | Heading `###` — Sub-section |
+| Forest Green | `#2D6A4F` | Chỉ đáp án đúng (`####`) |
+| Slate Gray | `#546E7A` | Nội dung phụ, ghi chú nhẹ |
+
+### ❌ Màu HẠN CHẾ trong nội dung thông thường
+
+| Màu | Lý do |
+|---|---|
+| Đỏ tươi `#E52B20` | Quá nổi bật — chỉ dùng cho tiêu đề trang (collectiontitle) |
+| Xanh lá tươi `#5AA244` | Chỉ dùng cho đáp án đúng, không dùng cho heading nội dung |
+| Tím `#7A1FA2` (`>`) | Chỉ dùng cho trap/cảnh báo, không dùng cho tips thông thường |
+
+### Quy tắc highlight khi viết nội dung
+
+- ✅ **In đậm** (`**...**`) để highlight từ khóa — dùng tiết kiệm
+- ✅ `> blockquote` chỉ cho: "⚠️ BẪY", "❗ Cảnh báo" — **không** dùng cho chiến lược thông thường
+- ✅ `####` chỉ dùng cho label đáp án đúng
+- ❌ Không dùng `.cdred`, `.cdgreen`, `.cdblue` inline cho văn xuôi giải thích
+
+> **Áp dụng cho tất cả 4 skills: Listening, Speaking, Reading, Writing.**
+
+---
+
+## 📋 Transcript Decision Table — Bảng hay Plain Text?
+
+| Section | Đặc điểm | Format đúng |
+|---|---|---|
+| Section 1 | Luôn là dialogue (2 người) | `::: cdtranscripttable :::` |
+| Section 2 | Thường là monologue 1 người | Plain text |
+| Section 3 | **Thường là dialogue (tutor + sinh viên)** | `::: cdtranscripttable :::` |
+| Section 4 | Monologue học thuật | Plain text |
+
+> **Kiểm tra nhanh:** Đếm số speaker trong transcript. **≥ 2 speaker → dùng bảng.**
+> Sai format transcript là lỗi phổ biến nhất — kiểm tra kỹ trước khi gen DOCX.
+
 
 ## 📦 Containers đặc biệt
 
