@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  26 APR 2026 23:22
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  26 APR 2026 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -64,17 +64,29 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 
 Package fontspec Info: 
-(fontspec)             Font family 'Helvetica(0)' created for font 'Helvetica'
-(fontspec)             with options [].
+(fontspec)             Could not resolve font "Arial Unicode MS/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Arial Unicode MS/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Arial Unicode MS/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'ArialUnicodeMS(0)' created for font 'Arial
+(fontspec)             Unicode MS' with options [].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Helvetica/AAT"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Helvetica/B/AAT"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Helvetica/I/AAT"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"Helvetica/BI/AAT"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Arial Unicode
+(fontspec)             MS/OT:language=dflt;"
 
 
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
@@ -1586,15 +1598,19 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 822--823
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: BB4B6004A982317F9AD9E611A0A65891;5058.
  ) 
 Here is how much of TeX's memory you used:
- 45835 strings out of 473832
- 1102465 string characters out of 5729481
- 1748739 words of memory out of 5000000
- 68106 multiletter control sequences out of 15000+600000
- 564202 words of font info for 100 fonts, out of 8000000 for 9000
+ 45812 strings out of 473832
+ 1102142 string characters out of 5729481
+ 1748221 words of memory out of 5000000
+ 68088 multiletter control sequences out of 15000+600000
+ 564154 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,13n,96p,1001b,1446s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
