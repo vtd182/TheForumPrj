@@ -20,9 +20,14 @@ Make the answer relatable to a general young adult audience.
 ---
 
 ## 2. VOCABULARY REQUIREMENT
-For **EACH** individual answer you generate, you MUST immediately follow the answer with a Vocabulary List containing **8-10 words/phrases**. 
-- Select the best C1/C2 words, idioms, or collocations from your answer.
-- Provide the English term in **bold**, followed by phonetic transcription and Vietnamese meaning.
+Vocabulary must follow the same grouped structure in both `PUBLIC` and `FORUM` versions.
+
+- **Part 1:** After all questions in one `## Topic` are answered, add **ONE (1)** grouped `Vocabulary` list for that topic.
+- **Part 2:** After the Part 2 cue-card answer(s), add **ONE (1)** grouped `Vocabulary` list.
+- **Part 3:** After all Part 3 discussion questions in the same `## Topic` are answered, add **ONE (1)** grouped `Vocabulary` list.
+- Each `Vocabulary` list should contain **8-10 words/phrases** selected from the answer block immediately above it.
+- Select the best C1/C2 words, idioms, or collocations from the answers.
+- Use this format: **English term** (part of speech) (phonetic transcription): English meaning | Vietnamese meaning.
 
 ---
 
@@ -32,35 +37,43 @@ You MUST output pure Markdown text. Do NOT use any LaTeX code. Our system will p
 ### Output Structure Example (FORUM VERSION):
 
 ```markdown
+## Work or Studies
+
 ### What work do you do?
 
 **Sample 1: Học sinh / Sinh viên**
 Well, to be honest, I'm currently not working. I'm a full-time sophomore majoring in computer science at uni. Most of my time is caught up with grueling assignments and coding projects, so getting a part-time job isn't really on my radar right now.
 
-**Vocabulary:**
-- **sophomore** (/ˈsɒf.ə.mɔːr/): sinh viên năm hai
-- **major in** (/ˈmeɪ.dʒər ɪn/): học chuyên ngành
-- **caught up with** (/kɔːt ʌp wɪð/): bận rộn với
-- **grueling** (/ˈɡruː.ə.lɪŋ/): khó khăn, mệt mỏi
-- **on my radar** (/ɒn maɪ ˈreɪ.dɑːr/): nằm trong dự định
-
 **Sample 2: Người đi làm**
 Actually, I've been working as a digital marketer for a mid-sized tech firm for the past three years. My daily grind involves analyzing consumer data and launching ad campaigns. It's quite high-pressure, but I find the fast-paced environment incredibly rewarding.
 
+### What subjects are you studying?
+
+**Sample 1: Học sinh / Sinh viên**
+I'm taking a range of subjects like marketing, corporate finance, and microeconomics. To be honest, marketing is hands down my favourite because it lets me unleash my creativity rather than just crunching numbers all day long.
+
+**Sample 2: Người đi làm**
+I studied business administration at university, and these days I still take short online courses related to analytics and brand strategy. They help me stay relevant in a competitive workplace.
+
 **Vocabulary:**
-- **digital marketer** (/ˈdɪdʒ.ɪ.təl ˈmɑː.kɪ.tər/): chuyên viên tiếp thị số
-- **daily grind** (/ˈdeɪ.li ɡraɪnd/): công việc khó khăn hằng ngày
-- **consumer data** (/kənˈsjuː.mər ˈdeɪ.tə/): dữ liệu người tiêu dùng
-- **fast-paced** (/ˌfɑːstˈpeɪst/): nhịp độ nhanh
-- **rewarding** (/rɪˈwɔː.dɪŋ/): đáng giá, thỏa mãn
+- **sophomore** (n) (/ˈsɒf.ə.mɔːr/): a second-year university student | sinh viên năm hai
+- **major in** (v phr) (/ˈmeɪ.dʒər ɪn/): to study something as a main subject | học chuyên ngành
+- **caught up with** (phr v) (/kɔːt ʌp wɪð/): busy or occupied with something | bận rộn với
+- **on my radar** (idiom) (/ɒn maɪ ˈreɪ.dɑːr/): being considered or planned | nằm trong dự định
+- **digital marketer** (n phr) (/ˈdɪdʒ.ɪ.təl ˈmɑː.kɪ.tər/): a person who promotes products online | chuyên viên tiếp thị số
+- **daily grind** (n phr) (/ˈdeɪ.li ɡraɪnd/): routine work that feels tiring | công việc thường nhật vất vả
+- **consumer data** (n phr) (/kənˈsjuː.mər ˈdeɪ.tə/): information about customers | dữ liệu người tiêu dùng
+- **fast-paced** (adj) (/ˌfɑːstˈpeɪst/): moving or changing quickly | nhịp độ nhanh
 ```
 
 ### Important Generation Rules:
-1. Always start the question with `### ` (Header 3).
+1. Preserve `# PART 1: ...`, `## Topic`, and `### Question` headers exactly when provided.
 2. Always name the sample with `**Sample ...:**`.
-3. Always name the vocabulary section `**Vocabulary:**`.
-4. Use standard bullet points (`- `) for the vocabulary list and bold the target word.
-5. Do NOT bold vocabulary words inside the sample answer text.
-6. For Part 2, the format is identical, except the answer will be 150-200 words long.
+3. In `FORUM`, every question must contain both `**Sample 1: Học sinh / Sinh viên**` and `**Sample 2: Người đi làm**`.
+4. In `PUBLIC`, every question must contain only one sample answer.
+5. Always name the vocabulary section `**Vocabulary:**`.
+6. Use standard bullet points (`- `) for the vocabulary list and bold the target word.
+7. Do NOT bold vocabulary words inside the sample answer text.
+8. For Part 2, the answer will be 150-200 words long.
 
 **DO NOT output any conversation filler. Output ONLY the valid Markdown block.**

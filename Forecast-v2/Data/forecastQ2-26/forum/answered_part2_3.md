@@ -13,9 +13,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -29,15 +26,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Do you think modern cities are suitable for young people or old people?
 
@@ -45,15 +36,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Before you travel to a city, what factors would you consider?
 
@@ -61,15 +46,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What are the disadvantages of living in a very famous city?
 
@@ -77,15 +56,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you prefer to visit well-developed cities or cities with a long history?
 
@@ -93,24 +66,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. For those who live in cities, is it because they want to or have to?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -134,9 +98,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -150,15 +111,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What laws about the environment are effective in your country?
 
@@ -166,15 +121,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Which do you think people prefer, rewards or punishment, when it comes to government intervention in environmental protection?
 
@@ -182,15 +131,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Is it easy for children in cities to get close to the natural world?
 
@@ -198,15 +141,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What can people do to protect the natural world?
 
@@ -214,24 +151,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Is it important to teach students environmental protection at school?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -254,9 +182,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -270,15 +195,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What challenges do young people face when working abroad?
 
@@ -286,15 +205,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What are the benefits of working for an international company?
 
@@ -302,15 +215,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What personal skills are required to work in an international company?
 
@@ -318,15 +225,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What kind of work can young people do in foreign countries?
 
@@ -334,24 +235,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Why are some people unwilling to work in other countries?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -374,9 +266,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -390,15 +279,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Is it good to ask advice from strangers online?
 
@@ -406,15 +289,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What are the personalities of people whose job is to give advice to others?
 
@@ -422,15 +299,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What are the problems if you ask too many people for advice?
 
@@ -438,15 +309,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Why do some people think it is better to ask for advice from friends than from parents?
 
@@ -454,24 +319,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. When would old people ask young people for advice?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -494,9 +350,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -510,15 +363,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Should children help their parents with household chores?
 
@@ -526,15 +373,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What kind of help do people need when looking for a new job?
 
@@ -542,15 +383,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Who should people ask for help, colleagues or family members?
 
@@ -558,15 +393,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you think schools should teach children to do household chores?
 
@@ -574,24 +403,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Why are employees reluctant to ask their managers for help?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -614,9 +434,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -630,15 +447,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Do you think children should receive some musical education?
 
@@ -646,15 +457,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What are the differences between old and young people's music preferences?
 
@@ -662,15 +467,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What kind of music events are there in your country?
 
@@ -678,15 +477,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Why do many people like listening to music while doing sports?
 
@@ -694,24 +487,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What are the differences between listening to music at home and at a live concert?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -734,9 +518,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -750,15 +531,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Should teachers make learning in their classes fun?
 
@@ -766,15 +541,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think there are too many subjects for students to learn?
 
@@ -782,15 +551,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Is it better to focus on a few subjects or to learn many subjects?
 
@@ -798,15 +561,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you think enterprises should provide training for their employees?
 
@@ -814,24 +571,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Do you think it is good for older adults to continue learning?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -854,9 +602,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -870,15 +615,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What technology do young people like to use?
 
@@ -886,15 +625,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What are the differences between online and face-to-face communication?
 
@@ -902,15 +635,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think technology has changed the way people communicate?
 
@@ -918,15 +645,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What negative effects does technology have on people's relationships?
 
@@ -934,24 +655,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What are the differences between making friends in real life and online?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -974,9 +686,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -990,15 +699,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What jobs do children want to do when they grow up?
 
@@ -1006,15 +709,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do people's ideal jobs change as they grow up?
 
@@ -1022,15 +719,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What should people consider when choosing jobs?
 
@@ -1038,15 +729,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Is salary the main reason why people choose a certain job?
 
@@ -1054,24 +739,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What kind of jobs are the most popular in your country?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1094,9 +770,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -1110,15 +783,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Why do most children draw more often than adults do?
 
@@ -1126,15 +793,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Why do some people visit galleries or museums instead of viewing artworks online?
 
@@ -1142,15 +803,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think galleries and museums should be free of charge?
 
@@ -1158,15 +813,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. How do artworks inspire people?
 
@@ -1174,24 +823,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What are the differences between reading a book and visiting a museum?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1215,9 +855,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -1231,15 +868,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Why do some people not like using apps?
 
@@ -1247,15 +878,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What apps are popular in your country? Why?
 
@@ -1263,15 +888,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Should parents limit their children's use of computer programs and computer games? Why and how?
 
@@ -1279,15 +898,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you think young people are more and more reliant on these programs?
 
@@ -1295,24 +908,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What do you think about some countries banning children from using social media?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1335,9 +939,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -1351,15 +952,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Do you think children should plan their future careers?
 
@@ -1367,15 +962,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Is making study plans popular among young people?
 
@@ -1383,15 +972,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think choosing a college major is closely related to a person's future career?
 
@@ -1399,15 +982,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What activities do we need to plan ahead?
 
@@ -1415,24 +992,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Should children ask their teachers and parents for advice when making plans?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1455,9 +1023,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -1471,15 +1036,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What can today's children do to become famous?
 
@@ -1487,15 +1046,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What can children do with their fame?
 
@@ -1503,15 +1056,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do people become famous because of their talent?
 
@@ -1519,15 +1066,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Is it easy to become famous in your country?
 
@@ -1535,24 +1076,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Do you want to be a famous person?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1575,9 +1107,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -1591,15 +1120,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Is it worth spending a lot of money on the exterior appearance of a building?
 
@@ -1607,15 +1130,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Is it more important for a building to look good on the outside or on the inside?
 
@@ -1623,15 +1140,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Why do people like to visit historical sites?
 
@@ -1639,15 +1150,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you think it's reasonable to charge an entry fee for visiting interesting buildings?
 
@@ -1655,24 +1160,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Is it better to live in a new building or an old one?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1695,9 +1191,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -1711,15 +1204,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What are the factors that make a successful movie?
 
@@ -1727,15 +1214,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do Chinese people prefer to watch domestic movies or foreign movies?
 
@@ -1743,15 +1224,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think only well-known directors can create the best movies?
 
@@ -1759,15 +1234,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you think successful movies should have well-known actors or actresses in leading roles?
 
@@ -1775,24 +1244,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Why do people prefer to watch movies in the cinema?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1815,9 +1275,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -1831,15 +1288,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Why do some grown-ups hate to throw out old things (such as clothes)?
 
@@ -1847,15 +1298,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Is the way people buy things affected? How?
 
@@ -1863,15 +1308,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What do you think influences people to buy new things?
 
@@ -1879,15 +1318,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Why do all children like toys?
 
@@ -1895,24 +1328,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Do you think it is good for a child to always take his or her favourite toy with them all the time?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1935,9 +1359,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -1951,15 +1372,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Why do some young people like to live in cities?
 
@@ -1967,15 +1382,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do most elderly people live in the city or in the countryside?
 
@@ -1983,15 +1392,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think well-developed tourism will have negative effects on local people?
 
@@ -1999,15 +1402,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What are the benefits of urbanization?
 
@@ -2015,24 +1412,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Do you think the big cities in China today will become even larger in the future?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2055,9 +1443,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -2071,15 +1456,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What do you think young people spend most of their money on?
 
@@ -2087,15 +1466,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think it is important to save money? Why?
 
@@ -2103,15 +1476,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do people buy things they don't need?
 
@@ -2119,15 +1486,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you think it is the rich people's responsibility to donate money to people in need?
 
@@ -2135,24 +1496,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What kind of things are people happy to pay a high price for?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2175,9 +1527,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -2191,15 +1540,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Should parents reward children? Why and how?
 
@@ -2207,15 +1550,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Is it good to reward children too often? Why?
 
@@ -2223,15 +1560,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. On what occasions would adults be proud of themselves?
 
@@ -2239,15 +1570,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do rewards help a child become better?
 
@@ -2255,24 +1580,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What do you think about children working hard just for grades?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2295,9 +1611,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -2311,15 +1624,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Do you think air pollution comes mostly from mobile vehicles?
 
@@ -2327,15 +1634,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think people need to change the way of transportation drastically to protect the environment?
 
@@ -2343,15 +1644,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. How are the transportation systems in urban areas and rural areas different?
 
@@ -2359,15 +1654,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Why do more people own and drive private cars now?
 
@@ -2375,24 +1664,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What do you think of the future of electric cars?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2415,9 +1695,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -2431,15 +1708,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. How do children become smart at school?
 
@@ -2447,15 +1718,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Why are some people well-rounded and others only good at one thing?
 
@@ -2463,15 +1728,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Why does modern society need talents of all kinds?
 
@@ -2479,15 +1738,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you think smart children are happier than other children?
 
@@ -2495,24 +1748,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Is it important for schools to identify and develop each student's talents?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2535,9 +1779,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -2551,15 +1792,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Why do most people smile in photographs?
 
@@ -2567,15 +1802,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do women smile more than men? Why?
 
@@ -2583,15 +1812,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do people smile more when they are younger or older?
 
@@ -2599,15 +1822,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Is smiling important in your culture?
 
@@ -2615,24 +1832,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Are there any occasions when people need to pretend to smile?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2655,9 +1863,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -2671,15 +1876,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What positive and negative impact do mobile phones have on friendship?
 
@@ -2687,15 +1886,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Is it a waste of time to take pictures with mobile phones?
 
@@ -2703,15 +1896,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think it is necessary to have laws on the use of mobile phones?
 
@@ -2719,15 +1906,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What are examples of good and poor phone manners?
 
@@ -2735,24 +1916,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. How does the internet benefit people?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2775,9 +1947,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -2791,15 +1960,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. When should parents encourage their children?
 
@@ -2807,15 +1970,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What kind of encouragement should parents give?
 
@@ -2823,15 +1980,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think some people are better than others at persuading?
 
@@ -2839,15 +1990,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Should children do everything their parents ask them to do?
 
@@ -2855,24 +2000,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. How can employers encourage their staff?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2895,9 +2031,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -2911,15 +2044,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What's the difference between things valued by people in the past and today?
 
@@ -2927,15 +2054,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What kinds of things are kept in museums?
 
@@ -2943,15 +2064,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What's the influence of technology on museums?
 
@@ -2959,15 +2074,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What are the benefits of technology for learning history?
 
@@ -2975,24 +2084,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Why do people visit museums?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3015,9 +2115,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -3031,15 +2128,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Do you think imagination is essential for scientists?
 
@@ -3047,15 +2138,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What kinds of jobs need imagination?
 
@@ -3063,15 +2148,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What subjects are helpful for children's imagination?
 
@@ -3079,15 +2158,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What games help develop children's imagination?
 
@@ -3095,24 +2168,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. How important is imagination to children?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3135,9 +2199,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -3151,15 +2212,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What should the government do to make libraries better?
 
@@ -3167,15 +2222,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think old people spend more time reading than young people?
 
@@ -3183,15 +2232,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Which one is better, paper books or e-books?
 
@@ -3199,15 +2242,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Have libraries changed a lot with the development of the internet?
 
@@ -3215,24 +2252,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What should we do to prevent modern libraries from closing down?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3255,9 +2283,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -3271,15 +2296,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. How do artists acquire inspiration?
 
@@ -3287,15 +2306,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think pictures and videos in news reports are important?
 
@@ -3303,15 +2316,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What can we do to help children stay creative?
 
@@ -3319,15 +2326,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. How does drawing help to enhance children's creativity?
 
@@ -3335,24 +2336,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What kind of jobs require creativity?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3375,9 +2367,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -3391,15 +2380,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What are the differences between group travelling and travelling alone?
 
@@ -3407,15 +2390,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What do we need to prepare for a long journey?
 
@@ -3423,15 +2400,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Why do some people like making long journeys?
 
@@ -3439,15 +2410,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Why do some people prefer to travel in their own country?
 
@@ -3455,24 +2420,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Why do some people prefer to travel abroad?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3495,9 +2451,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -3511,15 +2464,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Would you like to work for a family business?
 
@@ -3527,15 +2474,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Why do some people choose to start their own company?
 
@@ -3543,15 +2484,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What are the advantages and disadvantages of family businesses?
 
@@ -3559,15 +2494,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What family businesses do you know in your local area?
 
@@ -3575,24 +2504,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What makes a successful family business?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3615,9 +2535,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -3631,15 +2548,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Why are some people more willing to protect wild animals than others?
 
@@ -3647,15 +2558,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think it's important to take children to the zoo to see animals?
 
@@ -3663,15 +2568,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Why do some people attach more importance to protecting rare animals?
 
@@ -3679,15 +2578,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Should people educate children to protect wild animals?
 
@@ -3695,24 +2588,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Is it more important to protect wild animals or the environment?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3735,9 +2619,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -3751,15 +2632,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What kind of people like to fix things by themselves?
 
@@ -3767,15 +2642,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think clothes produced in the factory are of better quality than those made by hand?
 
@@ -3783,15 +2652,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think handmade clothes are more valuable?
 
@@ -3799,15 +2662,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Is the older generation better at fixing things?
 
@@ -3815,24 +2672,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Do you think elderly people should teach young people how to fix things?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3855,9 +2703,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -3871,15 +2716,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Why do people keep old things?
 
@@ -3887,15 +2726,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What are the differences between the things old people keep and those young people keep?
 
@@ -3903,15 +2736,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What are the differences between the things that people keep today and the things that people kept in the past?
 
@@ -3919,15 +2746,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What can we see in a museum?
 
@@ -3935,24 +2756,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What can we learn from a museum?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3975,9 +2787,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -3991,15 +2800,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. How do children make friends when they are not at school?
 
@@ -4007,15 +2810,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think it is better for children to have a few close friends or many casual friends?
 
@@ -4023,15 +2820,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think a child's relationship with friends can be replaced by that with other people, like parents or other family members?
 
@@ -4039,15 +2830,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What are the differences between friends made inside and outside the workplace?
 
@@ -4055,24 +2840,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Do you think it's possible for bosses and their employees to become friends?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -4095,9 +2871,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -4111,15 +2884,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What kind of music do young people like?
 
@@ -4127,15 +2894,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What are the differences between young people's and old people's preferences in music?
 
@@ -4143,15 +2904,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What are the benefits of children learning a musical instrument?
 
@@ -4159,15 +2914,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you know what kind of music children like today?
 
@@ -4175,24 +2924,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Do you think the government should invest more money in concerts?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -4215,9 +2955,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -4231,15 +2968,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What food do you eat on special occasions, like during the Spring Festival or the Mid-autumn Festival?
 
@@ -4247,15 +2978,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Why do people like to have meals together during important festivals?
 
@@ -4263,15 +2988,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Is it a hassle to prepare a meal at home?
 
@@ -4279,15 +2998,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What do people often talk about during meals?
 
@@ -4295,24 +3008,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. People are spending less and less time having meals with their families these days. Is this good or bad?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -4335,9 +3039,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -4351,15 +3052,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What important decisions should be made by teenagers themselves?
 
@@ -4367,15 +3062,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Why are some people unwilling to make quick decisions?
 
@@ -4383,15 +3072,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do people like to ask for advice more for their personal life or their work?
 
@@ -4399,24 +3082,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Why do some people like to ask others for advice?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -4439,9 +3113,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -4455,15 +3126,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Do you think electric bicycles will replace ordinary bicycles in the future?
 
@@ -4471,15 +3136,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Which is better, electric cars or petrol cars?
 
@@ -4487,15 +3146,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. How did people manage to live without electricity in the ancient world?
 
@@ -4503,15 +3156,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Is it difficult for the government to replace all the petrol cars with electric cars?
 
@@ -4519,24 +3166,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Do people use more electricity now than before?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -4559,9 +3197,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -4575,15 +3210,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Do you think fear stops people from trying new things?
 
@@ -4591,15 +3220,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Why are some people keen on doing dangerous activities?
 
@@ -4607,15 +3230,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think that children adapt to new things more easily than adults?
 
@@ -4623,15 +3240,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What can people learn from doing dangerous activities?
 
@@ -4639,24 +3250,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What are the benefits of trying new things?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -4679,9 +3281,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -4695,15 +3294,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What are the benefits of listening to stories before bed?
 
@@ -4711,15 +3304,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Why do most children like listening to stories before bedtime?
 
@@ -4727,15 +3314,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What can children learn from stories?
 
@@ -4743,15 +3324,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do all stories for children have happy endings?
 
@@ -4759,24 +3334,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Is a good storyline important for a movie?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -4799,9 +3365,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -4815,15 +3378,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Some people say large cities are suitable for old people. What do you think?
 
@@ -4831,15 +3388,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think it is possible that all of the population move to cities?
 
@@ -4847,15 +3398,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think people in the countryside are friendlier than people in the city?
 
@@ -4863,15 +3408,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Are there any changes in your city?
 
@@ -4879,24 +3418,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What should the government do to improve citizens' safety?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -4919,9 +3449,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -4935,15 +3462,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. How have people's shopping habits changed in recent decades?
 
@@ -4951,15 +3472,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think shops and shopping malls will disappear in the future?
 
@@ -4967,15 +3482,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What are the differences between shopping in street markets and big shopping malls?
 
@@ -4983,15 +3492,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What are the differences in the shopping habits of different age groups?
 
@@ -4999,24 +3502,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What are the differences between shopping online and in-store?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -5039,9 +3533,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -5055,15 +3546,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What are the advantages and disadvantages of shopping in small shops?
 
@@ -5071,15 +3556,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Why do some people not like shopping in small shops?
 
@@ -5087,15 +3566,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What are the differences between online shopping and in-store shopping?
 
@@ -5103,15 +3576,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What are the advantages and disadvantages of shopping online?
 
@@ -5119,24 +3586,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Can consumption drive economic growth?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -5159,9 +3617,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -5175,15 +3630,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What are the differences between a natural place and a city?
 
@@ -5191,15 +3640,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think that going to the park is the only way to get close to nature?
 
@@ -5207,15 +3650,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What can people gain from going to natural places?
 
@@ -5223,15 +3660,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Are there any wild animals in the city?
 
@@ -5239,24 +3670,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Do you think it is a good idea to let animals stay in local parks for people to see?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -5280,9 +3702,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -5296,15 +3715,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What qualities should an athlete have?
 
@@ -5312,15 +3725,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Is talent important in sports?
 
@@ -5328,15 +3735,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Is it easy to identify children's talents?
 
@@ -5344,15 +3745,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What is the most popular sport in your country?
 
@@ -5360,24 +3755,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Why are there so few top athletes?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -5400,9 +3786,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -5416,15 +3799,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Is it important to study science at school?
 
@@ -5432,15 +3809,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Which science subject is the most important for children to learn?
 
@@ -5448,15 +3819,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Should people continue to study science after graduating from school?
 
@@ -5464,15 +3829,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. How do you get to know about scientific news?
 
@@ -5480,24 +3839,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Should scientists explain the research process to the public?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -5520,9 +3870,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -5536,15 +3883,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Do people in your country like to watch foreign TV programs?
 
@@ -5552,15 +3893,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What's the benefit of letting kids watch animal videos than visiting zoos?
 
@@ -5568,15 +3903,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do teachers play videos in class in your country?
 
@@ -5584,15 +3913,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you think watching talk shows is a waste of time?
 
@@ -5600,24 +3923,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Do you think we can acquire knowledge from watching TV programs?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -5641,9 +3955,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -5657,15 +3968,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. How do people spend their leisure time in your country?
 
@@ -5673,15 +3978,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. How does technology affect the way people spend their leisure time?
 
@@ -5689,15 +3988,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think only old people have time for leisure?
 
@@ -5705,15 +3998,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Why do old people prefer to live in quiet places?
 
@@ -5721,24 +4008,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Why are there more noises made at home now than in the past?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -5761,9 +4039,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -5777,15 +4052,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What should parents do to teach their children good habits?
 
@@ -5793,15 +4062,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What influences do children with bad habits have on other children?
 
@@ -5809,15 +4072,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Why do some habits change when people get older?
 
@@ -5825,15 +4082,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. How do we develop bad habits?
 
@@ -5841,24 +4092,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What can we do to get rid of bad habits?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -5881,9 +4123,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -5897,15 +4136,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Who behave better when waiting, children or adults?
 
@@ -5913,15 +4146,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Compared to the past, are people less patient now? Why?
 
@@ -5929,15 +4156,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What are the positive and negative effects of waiting on society?
 
@@ -5945,15 +4166,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Why are some people unwilling to wait?
 
@@ -5961,24 +4176,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Where do children learn to be patient, at home or at school?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -6001,9 +4207,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -6017,15 +4220,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. What kinds of things are popular on social media?
 
@@ -6033,15 +4230,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What are the advantages and disadvantages of using social media?
 
@@ -6049,15 +4240,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. What do you think of making friends on social network?
 
@@ -6065,15 +4250,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Are there any people who shouldn't use social media?
 
@@ -6081,24 +4260,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Do you think people spend too much time on social media?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -6121,9 +4291,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -6137,15 +4304,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Is it possible for us to know whether children who are 3 or 4 years old will become musicians and painters when they grow up?
 
@@ -6153,15 +4314,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Why do people like to watch talent shows?
 
@@ -6169,15 +4324,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think it is more interesting to watch famous people's or ordinary people's shows?
 
@@ -6185,15 +4334,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you think it's important to develop children's talents?
 
@@ -6201,24 +4344,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Why do some people like to show their talents online?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -6241,9 +4375,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -6257,15 +4388,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Should advertising aimed at kids be prohibited?
 
@@ -6273,15 +4398,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. What's the difference between the toys kids play now and those they played in the past?
 
@@ -6289,15 +4408,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think parents should buy more toys for their kids or spend more time with them?
 
@@ -6305,15 +4418,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. What's the difference between the toys boys play with and girls play with?
 
@@ -6321,24 +4428,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. What are the advantages and disadvantages of modern toys?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -6361,9 +4459,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -6377,15 +4472,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Which skill is more important, speaking or writing?
 
@@ -6393,15 +4482,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Does a person still need to learn other languages, if he or she is good at English?
 
@@ -6409,15 +4492,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. Do you think minority languages will disappear?
 
@@ -6425,15 +4502,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Does learning a foreign language help in finding a job?
 
@@ -6441,24 +4512,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Which stage of life do you think is the best for learning a foreign language?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -6481,9 +4543,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -6497,15 +4556,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Do you think it is important to be able to read a map?
 
@@ -6513,15 +4566,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do you think it is important to do some preparation before you travel to new places?
 
@@ -6529,15 +4576,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. How can people find their way when they are lost?
 
@@ -6545,15 +4586,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Is a paper map still necessary?
 
@@ -6561,24 +4596,15 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. How do people react when they get lost?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -6601,9 +4627,6 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
@@ -6617,15 +4640,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 2. Do you think people should apologize for anything wrong they do?
 
@@ -6633,15 +4650,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 3. Do people in your country like to say "sorry"?
 
@@ -6649,15 +4660,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 4. On what occasion do people usually apologize to others?
 
@@ -6665,15 +4670,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 5. Do you think every "sorry" is from the bottom of the heart?
 
@@ -6681,15 +4680,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### 6. Are women better than men at recognizing emotions?
 
@@ -6697,13 +4690,9 @@ You should say:
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
 
 **Vocabulary:**
 - **word** (/pron/): Nghĩa
-

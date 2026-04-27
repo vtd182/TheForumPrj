@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  27 APR 2026 14:58
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  27 APR 2026 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1467,6 +1467,11 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 [23]
 
 [24]
+Overfull \hbox (3.39673pt too wide) in paragraph at lines 1484--1484
+|\TU/lmr/bx/n/17.28 PART 1: PERSONAL PREFERENCES & ACTIVITIES| 
+ []
+
+
 
 [25]
 
@@ -1503,11 +1508,6 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 [41]
 
 [42]
-Overfull \hbox (3.39673pt too wide) in paragraph at lines 4025--4025
-|\TU/lmr/bx/n/17.28 PART 1: PERSONAL PREFERENCES & ACTIVITIES| 
- []
-
-
 
 [43]
 
@@ -1541,118 +1541,259 @@ Overfull \hbox (3.39673pt too wide) in paragraph at lines 4025--4025
 
 [58]
 
-[59]
-
-[60]
-
-[61]
-
-[62]
-
-[63]
-
-[64]
-
-[65]
-
-[66]
-
-[67]
-
-[68]
-
-[69]
-
-[70]
-
-[71]
-
-[72]
-
-[73]
-
-[74]
-
-[75]
-
-[76]
-
-[77]
-
-[78]
-
-[79]
-
-[80]
-
-[81]
-
-[82]
-
-[83]
-
-[84]
-
-[85]
-
-[86]
-
-[87]
-
-[88]
-
-[89]
-
-[90]
-
-[91]
-
-[92]
-
-[93]
-
-[94]
-
-[95]
-
-[96]
-
-[97]
-
-[98]
-
-[99]
-
-[100]
-
-[101]
-
-[102]
-
-[103]
-
-[104]) (./chapters/part2_3.tex
+[59]) (./chapters/part2_3.tex
 Chương 2.
 
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 41--42
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 40--41
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
-[105
+[60
 
 ]
 
-[106]
-
-[107]
-Overfull \hbox (4.05344pt too wide) in paragraph at lines 299--299
+[61]
+Overfull \hbox (4.05344pt too wide) in paragraph at lines 136--136
 |[]\TU/lmr/bx/n/17.28 Describe a person who likes to look after the natural
  []
 
 
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 336--337
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 172--173
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[62]
+
+[63]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 303--304
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[64]
+
+[65]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 434--435
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[66]
+
+[67]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 565--566
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[68]
+
+[69]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 696--697
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 725--726
+[]\TU/lmr/bx/n/12 3. What are the differences between old and young people’s mu
+sic
+ []
+
+
+
+[70]
+
+[71]
+Overfull \hbox (0.75293pt too wide) in paragraph at lines 792--792
+|[]\TU/lmr/bx/n/17.28 Describe one of your friends who learned something
+ []
+
+
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 827--828
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[72]
+
+[73]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 958--959
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[74]
+
+[75]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 1089--1090
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[76]
+
+[77]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 1220--1221
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[78]
+
+[79]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 1352--1353
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[80]
+
+[81]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 1483--1484
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[82]
+
+[83]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 1614--1615
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[84]
+
+[85]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 1745--1746
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[86]
+
+[87]
+Overfull \hbox (8.09691pt too wide) in paragraph at lines 1841--1841
+|[]\TU/lmr/bx/n/17.28 Describe a movie you watched and enjoyed recently| 
+ []
+
+
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 1876--1877
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[88]
+
+[89]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2007--2008
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[90]
+
+[91]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2138--2139
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[92]
+
+[93]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2269--2270
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[94]
+
+[95]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2400--2401
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[96]
+
+[97]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2531--2532
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[98]
+
+[99]
+Overfull \hbox (0.68382pt too wide) in paragraph at lines 2627--2627
+|[]\TU/lmr/bx/n/17.28 Describe a person who solved a problem in a smart
+ []
+
+
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2662--2663
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[100]
+
+[101]
+Overfull \hbox (22.66396pt too wide) in paragraph at lines 2758--2758
+|[]\TU/lmr/bx/n/17.28 Describe an occasion when many people were smiling| 
+ []
+
+
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2793--2794
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[102]
+
+[103]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2924--2925
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[104]
+
+[105]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3055--3056
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[106]
+
+[107]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3186--3187
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
@@ -1661,20 +1802,30 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 336--337
 [108]
 
 [109]
+Overfull \hbox (10.15326pt too wide) in paragraph at lines 3282--3282
+|[]\TU/lmr/bx/n/17.28 Describe a time you needed to use your imagination| 
+ []
 
-[110]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 630--631
+
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3317--3318
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
+[110]
+
 [111]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3448--3449
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [112]
 
 [113]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 924--925
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3579--3580
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
@@ -1683,27 +1834,26 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 924--925
 [114]
 
 [115]
-
-[116]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 1218--1219
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3710--3711
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
+[116]
+
 [117]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3841--3842
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [118]
 
 [119]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 1512--1513
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3972--3973
 [][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-Underfull \hbox (badness 1210) in paragraph at lines 1539--1540
-[]\TU/lmr/bx/n/12 3. What are the differences between old and young people’s mu
-sic
  []
 
 
@@ -1711,25 +1861,25 @@ sic
 [120]
 
 [121]
-
-[122]
-Overfull \hbox (0.75293pt too wide) in paragraph at lines 1770--1770
-|[]\TU/lmr/bx/n/17.28 Describe one of your friends who learned something
- []
-
-
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 1806--1807
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4103--4104
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
+[122]
+
 [123]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4234--4235
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [124]
 
 [125]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 2100--2101
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4365--4366
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
@@ -1738,20 +1888,25 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 2100--2101
 [126]
 
 [127]
-
-[128]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 2394--2395
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4496--4497
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
+[128]
+
 [129]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4627--4628
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [130]
 
 [131]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 2688--2689
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4758--4759
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
@@ -1760,20 +1915,30 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 2688--2689
 [132]
 
 [133]
+Overfull \hbox (4.65819pt too wide) in paragraph at lines 4841--4841
+|[]\TU/lmr/bx/n/17.28 Describe a time when the electricity suddenly went
+ []
 
-[134]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 2983--2984
+
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4876--4877
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
+[134]
+
 [135]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5007--5008
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [136]
 
 [137]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 3277--3278
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5138--5139
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
@@ -1782,20 +1947,25 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 3277--3278
 [138]
 
 [139]
-
-[140]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 3571--3572
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5269--5270
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
+[140]
+
 [141]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5400--5401
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [142]
 
 [143]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 3865--3866
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5531--5532
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
@@ -1804,25 +1974,25 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 3865--3866
 [144]
 
 [145]
-
-[146]
-Overfull \hbox (8.09691pt too wide) in paragraph at lines 4123--4123
-|[]\TU/lmr/bx/n/17.28 Describe a movie you watched and enjoyed recently| 
- []
-
-
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 4159--4160
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5662--5663
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
+[146]
+
 [147]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5794--5795
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [148]
 
 [149]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 4453--4454
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5925--5926
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
@@ -1831,20 +2001,25 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 4453--4454
 [150]
 
 [151]
-
-[152]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 4747--4748
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6056--6057
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
+[152]
+
 [153]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6188--6189
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [154]
 
 [155]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 5041--5042
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6319--6320
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
@@ -1853,20 +2028,25 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 5041--5042
 [156]
 
 [157]
-
-[158]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 5335--5336
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6450--6451
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
+[158]
+
 [159]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6581--6582
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [160]
 
 [161]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 5629--5630
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6712--6713
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
@@ -1875,30 +2055,30 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 5629--5630
 [162]
 
 [163]
-
-[164]
-Overfull \hbox (0.68382pt too wide) in paragraph at lines 5887--5887
-|[]\TU/lmr/bx/n/17.28 Describe a person who solved a problem in a smart
- []
-
-
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 5923--5924
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6843--6844
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
+[164]
+
 [165]
+Overfull \hbox (4.86557pt too wide) in paragraph at lines 6939--6939
+|[]\TU/lmr/bx/n/17.28 Describe the time when you first talked in a foreign
+ []
+
+
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6974--6975
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [166]
 
 [167]
-Overfull \hbox (22.66396pt too wide) in paragraph at lines 6181--6181
-|[]\TU/lmr/bx/n/17.28 Describe an occasion when many people were smiling| 
- []
-
-
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 6217--6218
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 7105--7106
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
@@ -1907,397 +2087,15 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 6217--6218
 [168]
 
 [169]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 7236--7237
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [170]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 6511--6512
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
 
-
-
-[171]
-
-[172]
-
-[173]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 6805--6806
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[174]
-
-[175]
-
-[176]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7099--7100
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[177]
-
-[178]
-
-[179]
-Overfull \hbox (10.15326pt too wide) in paragraph at lines 7357--7357
-|[]\TU/lmr/bx/n/17.28 Describe a time you needed to use your imagination| 
- []
-
-
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7393--7394
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[180]
-
-[181]
-
-[182]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7687--7688
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[183]
-
-[184]
-
-[185]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7981--7982
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[186]
-
-[187]
-
-[188]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 8275--8276
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[189]
-
-[190]
-
-[191]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 8569--8570
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[192]
-
-[193]
-
-[194]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 8863--8864
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[195]
-
-[196]
-
-[197]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 9157--9158
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[198]
-
-[199]
-
-[200]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 9451--9452
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[201]
-
-[202]
-
-[203]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 9745--9746
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[204]
-
-[205]
-
-[206]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 10039--10040
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[207]
-
-[208]
-
-[209]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 10333--10334
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[210]
-
-[211]
-
-[212]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 10627--10628
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[213]
-
-[214]
-
-[215]
-Overfull \hbox (4.65819pt too wide) in paragraph at lines 10845--10845
-|[]\TU/lmr/bx/n/17.28 Describe a time when the electricity suddenly went
- []
-
-
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 10881--10882
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[216]
-
-[217]
-
-[218]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 11175--11176
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[219]
-
-[220]
-
-[221]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 11469--11470
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[222]
-
-[223]
-
-[224]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 11763--11764
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[225]
-
-[226]
-
-[227]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 12057--12058
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[228]
-
-[229]
-
-[230]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 12351--12352
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[231]
-
-[232]
-
-[233]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 12645--12646
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[234]
-
-[235]
-
-[236]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 12940--12941
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[237]
-
-[238]
-
-[239]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 13234--13235
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[240]
-
-[241]
-
-[242]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 13528--13529
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[243]
-
-[244]
-
-[245]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 13823--13824
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[246]
-
-[247]
-
-[248]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 14117--14118
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[249]
-
-[250]
-
-[251]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 14411--14412
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[252]
-
-[253]
-
-[254]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 14705--14706
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[255]
-
-[256]
-
-[257]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 14999--15000
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[258]
-
-[259]
-
-[260]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 15293--15294
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[261]
-
-[262]
-
-[263]
-Overfull \hbox (4.86557pt too wide) in paragraph at lines 15551--15551
-|[]\TU/lmr/bx/n/17.28 Describe the time when you first talked in a foreign
- []
-
-
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 15587--15588
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[264]
-
-[265]
-
-[266]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 15881--15882
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[267]
-
-[268]
-
-[269]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 16175--16176
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[270]
-
-[271]
-
-[272]) (build/main.aux)
+[171]) (build/main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -2312,10 +2110,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  46468 strings out of 473832
  1113271 string characters out of 5729481
- 1777889 words of memory out of 5000000
+ 1774889 words of memory out of 5000000
  68744 multiletter control sequences out of 15000+600000
  564154 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,13n,96p,1001b,1446s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on build/main.pdf (278 pages).
+Output written on build/main.pdf (177 pages).

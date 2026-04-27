@@ -102,6 +102,18 @@ def parse_markdown(filepath):
             
     return part1_sections, part2_3_sections
 
+def write_sample_placeholders(f, version):
+    if version == "forum":
+        f.write("**Sample 1: Học sinh / Sinh viên**\n\n[Nhập câu trả lời vào đây]\n\n")
+        f.write("**Sample 2: Người đi làm**\n\n[Nhập câu trả lời vào đây]\n\n")
+    elif version == "public":
+        f.write("**Sample 1: Học sinh / Sinh viên**\n\n[Nhập câu trả lời vào đây]\n\n")
+
+
+def write_vocab_placeholder(f):
+    f.write("**Vocabulary:**\n- **word** (/pron/): Nghĩa\n\n")
+
+
 def generate_template(data, outpath, version="forum", is_part23=False):
     with open(outpath, 'w', encoding='utf-8') as f:
         for sec in data:
@@ -121,15 +133,13 @@ def generate_template(data, outpath, version="forum", is_part23=False):
                 else:
                     # It's Part 1 string
                     f.write(f"### {q}\n\n")
-                    
-                if version == "forum":
-                    f.write("**Sample 1: Học sinh / Sinh viên**\n\n[Nhập câu trả lời vào đây]\n\n")
-                    f.write("**Vocabulary:**\n- **word** (/pron/): Nghĩa\n\n")
-                    f.write("**Sample 2: Người đi làm**\n\n[Nhập câu trả lời vào đây]\n\n")
-                    f.write("**Vocabulary:**\n- **word** (/pron/): Nghĩa\n\n")
-                elif version == "public":
-                    f.write("**Sample 1: Học sinh / Sinh viên**\n\n[Nhập câu trả lời vào đây]\n\n")
-                    f.write("**Vocabulary:**\n- **word** (/pron/): Nghĩa\n\n")
+
+                write_sample_placeholders(f, version)
+
+                if is_part23 and isinstance(q, dict) and q.get("type") == "cuecard":
+                    write_vocab_placeholder(f)
+
+            write_vocab_placeholder(f)
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
@@ -166,7 +176,7 @@ if __name__ == "__main__":
             print(f"Skipped {part1_out} (already exists)")
             
         if not os.path.exists(part2_3_out):
-            generate_template(p23, part2_3_out, version=v)
+            generate_template(p23, part2_3_out, version=v, is_part23=True)
             print(f"Created {part2_3_out}")
         else:
             print(f"Skipped {part2_3_out} (already exists)")

@@ -8,15 +8,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What subjects are you studying?
 
@@ -24,15 +18,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like your subject?
 
@@ -40,15 +28,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like your job?
 
@@ -56,15 +38,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Why did you choose to study that subject?
 
@@ -72,15 +48,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Why did you choose to do that type of work (or that job)?
 
@@ -88,15 +58,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What requirements did you need to meet to get your current job?
 
@@ -104,15 +68,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you think that your subject is popular in your country?
 
@@ -120,15 +78,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you have any plans for your studies in the next five years?
 
@@ -136,15 +88,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you have any plans for your work in the next five years?
 
@@ -152,15 +98,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer to study in the mornings or in the afternoons?
 
@@ -168,15 +108,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### How much time do you spend on your studies each week?
 
@@ -184,15 +118,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you want to change your major?
 
@@ -200,15 +128,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you want to change to another job?
 
@@ -216,15 +138,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are you looking forward to working?
 
@@ -232,15 +148,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you miss being a student?
 
@@ -248,15 +158,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What technology do you use when you study?
 
@@ -264,15 +168,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What technology do you use at work?
 
@@ -280,15 +178,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What changes would you like to see in your school?
 
@@ -296,15 +188,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Who helps you the most? And how?
 
@@ -312,15 +198,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you think is the most important at the moment?
 
@@ -328,24 +208,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What are the benefits of being your age?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -362,15 +233,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Is that a big city or a small place?
 
@@ -378,15 +243,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Please describe your hometown a little.
 
@@ -394,15 +253,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like your hometown?
 
@@ -410,15 +263,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you like (most) about your hometown?
 
@@ -426,15 +273,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Is there anything you dislike about it?
 
@@ -442,15 +283,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### How long have you been living there?
 
@@ -458,15 +293,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like living there?
 
@@ -474,15 +303,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you think you will continue living there for a long time?
 
@@ -490,15 +313,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What's your hometown famous for?
 
@@ -506,15 +323,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Did you learn about the culture of your hometown in your childhood?
 
@@ -522,15 +333,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Did you learn about the history of your hometown at school?
 
@@ -538,15 +343,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Have you learned anything about the history of your hometown?
 
@@ -554,15 +353,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are there many young people in your hometown?
 
@@ -570,24 +363,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Is your hometown a good place for young people to pursue their careers?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -604,15 +388,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you live in an apartment or a house?
 
@@ -620,15 +398,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer living in a house or an apartment?
 
@@ -636,15 +408,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What kinds of accommodation do you live in?
 
@@ -652,15 +418,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Can you describe the place where you live?
 
@@ -668,15 +428,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Please describe the room you live in.
 
@@ -684,15 +438,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What part of your home do you like the most?
 
@@ -700,15 +448,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What's your favorite room in your apartment or house?
 
@@ -716,15 +458,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What room does your family spend most of the time in?
 
@@ -732,15 +468,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you usually do in your apartment?
 
@@ -748,15 +478,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What makes you feel pleasant in your home?
 
@@ -764,15 +488,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### How long have you lived there?
 
@@ -780,15 +498,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you plan to live there for a long time?
 
@@ -796,15 +508,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are the transport facilities to your home very good?
 
@@ -812,15 +518,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What's the difference between where you are living now and where you have lived in the past?
 
@@ -828,15 +528,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What kind of house or apartment do you want to live in in the future?
 
@@ -844,24 +538,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you think it is important to live in a comfortable environment?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -878,15 +563,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like this city? Why?
 
@@ -894,15 +573,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Is this city your permanent residence?
 
@@ -910,15 +583,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### How long have you lived in this city?
 
@@ -926,15 +593,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are there big changes in this city?
 
@@ -942,15 +603,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What's the weather like where you live?
 
@@ -958,15 +613,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are the people friendly in the city?
 
@@ -974,15 +623,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Is the city friendly to children and old people?
 
@@ -990,15 +633,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are there people of different ages living in this city?
 
@@ -1006,15 +643,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you often see your neighbors?
 
@@ -1022,24 +653,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Would you recommend your city to others?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1056,15 +678,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like the area that you live in?
 
@@ -1072,15 +688,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Where do you like to go in that area?
 
@@ -1088,15 +698,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are the people in your neighborhood nice and friendly?
 
@@ -1104,15 +708,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you know any of your neighbours?
 
@@ -1120,15 +718,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you know any famous people in your area?
 
@@ -1136,24 +728,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What are some changes in the area recently?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1172,15 +755,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you usually do in the morning?
 
@@ -1188,15 +765,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What did you do in the morning when you were little? Why?
 
@@ -1204,15 +775,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are there any differences between what you do in the morning now and what you did in the past?
 
@@ -1220,24 +785,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you spend your mornings doing the same things on both weekends and weekdays? Why?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1254,15 +810,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you usually do in your spare time?
 
@@ -1270,15 +820,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you have more free time on weekdays or at weekends?
 
@@ -1286,15 +830,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Which day do you have more free time on, Saturday or Sunday?
 
@@ -1302,24 +840,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Would you like to have more free time in the future?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1336,15 +865,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you usually do when you have days off?
 
@@ -1352,15 +875,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What would you like to do if you had a day off tomorrow?
 
@@ -1368,24 +885,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you usually spend your days off with your parents or with your friends?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1402,15 +910,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you usually do when you are resting?
 
@@ -1418,15 +920,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you take a nap when you are taking your rest?
 
@@ -1434,24 +930,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### How do you feel after taking a nap?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1468,15 +955,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you often bring cash with you?
 
@@ -1484,15 +965,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### How often do you use cash?
 
@@ -1500,24 +975,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you bring food or snacks with you when going out?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1534,15 +1000,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Where did you go for a walk lately?
 
@@ -1550,15 +1010,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Did you often go outside to have a walk when you were a child?
 
@@ -1566,15 +1020,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Why do people like to walk in parks?
 
@@ -1582,24 +1030,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Where would you like to take a long walk if you had the chance?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1618,15 +1057,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Did you have any hobbies when you were a child?
 
@@ -1634,15 +1067,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you have a hobby that you've had since childhood?
 
@@ -1650,24 +1077,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you have the same hobbies as your family members?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1684,15 +1102,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What are your favourite activities?
 
@@ -1700,15 +1112,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Did you prefer to do activities alone or with a group of people when you were a child?
 
@@ -1716,24 +1122,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are there any differences between the activities you liked when you were a child and those you like now?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1750,15 +1147,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like watching team games? Why?
 
@@ -1766,15 +1157,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are team sports popular in your culture?
 
@@ -1782,24 +1167,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What are the differences between team sports and individual sports?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1816,15 +1192,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer to read on paper or on a screen?
 
@@ -1832,15 +1202,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer scanning or detailed reading?
 
@@ -1848,24 +1212,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### When do you need to read carefully, and when not?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1882,15 +1237,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### When did you learn how to type on a keyboard?
 
@@ -1898,15 +1247,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you type on a desktop or laptop keyboard every day?
 
@@ -1914,24 +1257,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### How do you improve your typing?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -1950,15 +1284,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like taking pictures of different views?
 
@@ -1966,15 +1294,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer views in urban areas or rural areas?
 
@@ -1982,24 +1304,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer views in your own country or in other countries?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2016,15 +1329,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What are the most beautiful sights you have seen while travelling?
 
@@ -2032,15 +1339,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer the mountains or the sea?
 
@@ -2048,24 +1349,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like to take scenery pictures?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2082,15 +1374,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you take photos of buildings?
 
@@ -2098,15 +1384,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Is there a building that you would like to visit?
 
@@ -2114,24 +1394,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you want to live in a tall building?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2148,15 +1419,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are there many museums in your hometown?
 
@@ -2164,15 +1429,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you often visit a museum?
 
@@ -2180,24 +1439,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### When was the last time you visited a museum?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2214,15 +1464,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Have you ever talked with someone you don't know in public places?
 
@@ -2230,15 +1474,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you wear headphones in public places?
 
@@ -2246,24 +1484,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Would you like to see more public places near where you live?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2280,15 +1509,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Is there a crowded place near where you live?
 
@@ -2296,15 +1519,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like crowded places?
 
@@ -2312,15 +1529,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### When was the last time you were in a crowded place?
 
@@ -2328,24 +1539,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do most people like crowded places?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2364,15 +1566,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you usually chat about with friends?
 
@@ -2380,15 +1576,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer to chat with a group of people or with only one friend?
 
@@ -2396,15 +1586,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer to communicate face-to-face or via social media?
 
@@ -2412,24 +1596,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you argue with friends?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2446,15 +1621,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What kind of things do you like to share with others?
 
@@ -2462,15 +1631,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What kind of things are not suitable for sharing?
 
@@ -2478,15 +1641,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you have anything to share with others recently?
 
@@ -2494,15 +1651,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Who is the first person you would like to share good news with?
 
@@ -2510,24 +1661,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer to share news with your friends or your parents?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2544,15 +1686,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What made you happy when you were little?
 
@@ -2560,15 +1696,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you think will make you feel happy in the future?
 
@@ -2576,15 +1706,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### When do you feel happy at work? Why?
 
@@ -2592,15 +1716,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you feel happy when buying new things?
 
@@ -2608,15 +1726,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you think people are happy when buying new things?
 
@@ -2624,24 +1736,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer to watch happy or sad movies?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2658,15 +1761,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you have an experience when your teacher thought you did a good job?
 
@@ -2674,24 +1771,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you often tell your friends when they do something well?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2708,15 +1796,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Have you ever worked with old people?
 
@@ -2724,15 +1806,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Are you happy to work with people who are older than you?
 
@@ -2740,24 +1816,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What are the benefits of being friends with or working with old people?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2774,15 +1841,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### At what age do you think people are the happiest?
 
@@ -2790,15 +1851,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### How do people remember each stage of their lives?
 
@@ -2806,15 +1861,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What did you often do with your friends in your childhood?
 
@@ -2822,15 +1871,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you have any plans for the next five years?
 
@@ -2838,24 +1881,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you think is the most important at the moment?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2874,15 +1908,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Have you ever received a great gift?
 
@@ -2890,15 +1918,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Have you ever sent handmade gifts to others?
 
@@ -2906,15 +1928,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you consider when choosing a gift?
 
@@ -2922,24 +1938,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you think you are good at choosing gifts?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -2956,15 +1963,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Have you ever bought shoes online?
 
@@ -2972,15 +1973,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### How much money do you usually spend on shoes?
 
@@ -2988,24 +1983,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Which do you prefer, fashionable shoes or comfortable shoes?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3022,15 +2008,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What kind of advertising do you like?
 
@@ -3038,15 +2018,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you often see advertisements when you are on your phone or computer?
 
@@ -3054,15 +2028,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you see a lot of advertising on trains or other transport?
 
@@ -3070,24 +2038,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Is there an advertisement that made an impression on you when you were a child?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3104,15 +2063,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Have you borrowed books from others?
 
@@ -3120,15 +2073,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like to lend things to others?
 
@@ -3136,15 +2083,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you mind if others borrow money from you?
 
@@ -3152,24 +2093,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### How do you feel when people don't return things they borrowed from you?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3188,15 +2120,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Have you ever forgotten something important?
 
@@ -3204,15 +2130,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What do you need to remember in your daily life?
 
@@ -3220,24 +2140,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### How do you remember important things?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3254,15 +2165,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you share your dreams with others?
 
@@ -3270,15 +2175,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you think dreams have special meanings?
 
@@ -3286,24 +2185,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you want to make your dreams come true?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3320,15 +2210,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like taking selfies?
 
@@ -3336,15 +2220,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What is your favourite family photo?
 
@@ -3352,15 +2230,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you want to improve your photography skills?
 
@@ -3368,24 +2240,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you like to print out your photos or just keep them on your phone or camera?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3404,15 +2267,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What kind of food did you like when you were young?
 
@@ -3420,15 +2277,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Has your favourite food changed since you were a child?
 
@@ -3436,24 +2287,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you eat different foods at different times of the year?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3470,15 +2312,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What plant did you grow when you were young?
 
@@ -3486,15 +2322,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you know anything about growing a plant?
 
@@ -3502,24 +2332,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do Chinese people send plants as gifts?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3536,15 +2357,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you think it's easy to grow vegetables?
 
@@ -3552,15 +2367,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Is growing vegetables popular in your country?
 
@@ -3568,15 +2377,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do many people grow vegetables in your city?
 
@@ -3584,24 +2387,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Should schools teach students how to grow vegetables?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3618,15 +2412,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What's your favourite animal? Why?
 
@@ -3634,15 +2422,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Where do you prefer to keep your pet, indoors or outdoors?
 
@@ -3650,24 +2432,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### What is the most popular animal in China?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
@@ -3684,15 +2457,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you prefer to have more or fewer rules at school?
 
@@ -3700,15 +2467,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Do you think students would benefit more from more rules?
 
@@ -3716,15 +2477,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Have you ever had a really strict teacher?
 
@@ -3732,15 +2487,9 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Have you ever had a really dedicated teacher?
 
@@ -3748,24 +2497,15 @@
 
 [Nhập câu trả lời vào đây]
 
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
-
 **Sample 2: Người đi làm**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 ### Would you like to work as a teacher in a rule-free school?
 
 **Sample 1: Học sinh / Sinh viên**
 
 [Nhập câu trả lời vào đây]
-
-**Vocabulary:**
-- **word** (/pron/): Nghĩa
 
 **Sample 2: Người đi làm**
 
