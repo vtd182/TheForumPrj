@@ -404,174 +404,183 @@ I think it is becoming a better place for young professionals. The market is not
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+At the moment, I live with two classmates in a small rented apartment near our university. It is not luxurious, but sharing the place helps us cut down on living costs.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I live by myself in a rented apartment, although my family visits me from time to time. Living alone gives me more privacy, which I really appreciate after a long day at work.
 
 ### Do you live in an apartment or a house?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I live in an apartment. It is quite compact, but it has everything I need as a student, like a desk, a small kitchen, and a decent internet connection.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I live in an apartment building close to my office. It is convenient because there is security, parking, and a small grocery store downstairs.
 
 ### Do you prefer living in a house or an apartment?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+For now, I prefer an apartment because it is easier to maintain and usually closer to campus. In the future, though, I might prefer a house if I have a family.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+At this stage of my life, I prefer an apartment. It suits my busy schedule because I do not have to spend much time on repairs, cleaning, or looking after a garden.
 
 ### What kinds of accommodation do you live in?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I live in a shared student apartment. Each of us has a small bedroom, and we share the kitchen and living area, so it feels both affordable and sociable.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I live in a one-bedroom serviced apartment. It is fairly modern and low-maintenance, which is exactly what I need because my work schedule can be unpredictable.
 
 ### Can you describe the place where you live?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+It is a modest apartment on the fourth floor of an older building. The furniture is simple, but the place gets plenty of natural light, so it feels more comfortable than it looks at first.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+My apartment is small but well-organised. It has a bedroom, a living room, and a little balcony where I keep a few plants, which makes the place feel less boxed in.
 
 ### Please describe the room you live in.
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+My room is quite small, but I have tried to make it practical. There is a study desk by the window, a single bed, and a shelf where I keep my books and class materials.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+My bedroom is simple and tidy, with a queen-sized bed and a small work corner. I try not to clutter it because I want it to be a place where I can properly relax.
 
 ### What part of your home do you like the most?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I like the desk area in my room the most. It is where I study, watch lectures, and sometimes have video calls with my family, so it feels like my own little corner.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+My favourite part is the balcony. It is not very big, but I can sit there with a cup of coffee in the morning and get some fresh air before work.
 
 ### What's your favorite room in your apartment or house?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+My favourite room is probably my bedroom because it gives me privacy. Since I share the apartment with others, having a quiet personal space is really important.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I would say the living room. It is where I unwind after work, watch a film, or call my friends, so it is the most relaxing part of the apartment.
 
 ### What room does your family spend most of the time in?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Back at my family home, we spend most of our time in the living room. My parents usually watch the news there, and I sit with them whenever I am home during the holidays.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+When my family comes over, we usually gather in the living room. It is the most comfortable space for chatting, eating snacks, and catching up with each other.
 
 ### What do you usually do in your apartment?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I usually study, cook simple meals, and rest there. On weekends, my roommates and I sometimes watch movies together or order food when we are too lazy to go out.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I mostly relax, prepare meals, and do a bit of housework. Occasionally, I also work from home, so I need the apartment to be quiet enough for online meetings.
 
 ### What makes you feel pleasant in your home?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Small things make it pleasant, like clean bedding, enough sunlight, and a tidy desk. When the apartment is organised, I feel much less stressed about my studies.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+For me, it is the sense of calm. After dealing with traffic and deadlines, coming back to a clean, quiet space helps me mentally switch off.
 
 ### How long have you lived there?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I have lived there for almost a year. I moved in at the beginning of my second year because it was much closer to campus than my previous place.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I have lived in my current apartment for about two years. I chose it mainly because it is close to work and the rent was reasonable when I first moved in.
 
 ### Do you plan to live there for a long time?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Probably not for a very long time. It is suitable while I am studying, but after graduation I may move to another area depending on where I find a job.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I may stay there for another year or two, but not permanently. If my income increases, I would like to move to a slightly bigger place with a proper home office.
 
 ### Are the transport facilities to your home very good?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, they are fairly good. There are bus stops nearby, and I can also ride my motorbike to university in about ten minutes, which is very convenient.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+They are decent, but traffic can still be frustrating during rush hour. The good thing is that my apartment is close enough to the office, so my commute is usually manageable.
 
 ### What's the difference between where you are living now and where you have lived in the past?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+In the past, I lived with my family in a bigger house, so there was more space and less responsibility. Now, I live in a smaller shared apartment, but it has taught me to be more independent.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I used to live with my parents, where everything felt more spacious and familiar. Now my apartment is smaller, but it is closer to work and gives me more freedom over my daily routine.
 
 ### What kind of house or apartment do you want to live in in the future?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+In the future, I would like to live in a bright apartment with a balcony and a separate study area. It does not need to be huge, but it should feel peaceful and practical.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I would love to own a modern apartment with two bedrooms, good soundproofing, and enough space for a home office. Since remote work is becoming more common, that would be extremely useful.
 
 ### Do you think it is important to live in a comfortable environment?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, definitely. A comfortable living environment affects my mood and concentration, so it can make a real difference to how well I study.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Absolutely. If your home is noisy, cramped, or messy, it is hard to recharge properly, and that can eventually affect your performance at work.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **rented apartment** (n phr) (/ˈren.tɪd əˈpɑːt.mənt/): a flat paid for monthly by a tenant | căn hộ thuê
+- **compact** (adj) (/kəmˈpækt/): small but arranged efficiently | nhỏ gọn
+- **low-maintenance** (adj) (/ˌləʊ ˈmeɪn.tən.əns/): requiring little time or effort to look after | ít tốn công chăm sóc
+- **natural light** (n phr) (/ˈnætʃ.ər.əl laɪt/): sunlight that enters a room | ánh sáng tự nhiên
+- **clutter** (v) (/ˈklʌt.ər/): to fill a space with too many things | làm bừa bộn
+- **unwind** (v) (/ʌnˈwaɪnd/): to relax after stress or work | thư giãn
+- **switch off** (phr v) (/swɪtʃ ɒf/): to stop thinking about work or stress | ngừng nghĩ về công việc/căng thẳng
+- **commute** (n) (/kəˈmjuːt/): the journey between home and work or school | quãng đường đi học/đi làm
+- **soundproofing** (n) (/ˈsaʊndˌpruː.fɪŋ/): material or design that blocks noise | khả năng cách âm
+- **recharge** (v) (/ˌriːˈtʃɑːdʒ/): to regain energy after being tired | nạp lại năng lượng
 
 ## The City You Live In
 
@@ -579,114 +588,123 @@ I think it is becoming a better place for young professionals. The market is not
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I currently live in Da Nang because my university is there. It is a coastal city, so life feels a bit more relaxed than in the really crowded urban centres.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I live in Ho Chi Minh City at the moment. It is the biggest business hub in Vietnam, and I moved here mainly because there are more career opportunities in my field.
 
 ### Do you like this city? Why?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I like it a lot. It is lively enough for students, with cafes, beaches, and shopping areas, but it is still not too chaotic, so I can focus on my studies.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I do, although it can be exhausting. The city is energetic and full of opportunities, so if you are ambitious and willing to work hard, it can be a very rewarding place to live.
 
 ### Is this city your permanent residence?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Not necessarily. I live here for university now, but I may move after graduation depending on where I can find a suitable job.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+For now, yes, but I am not sure whether it will be permanent. My career is here at the moment, but in the long run I might move somewhere quieter.
 
 ### How long have you lived in this city?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I have lived here for nearly two years. I moved here when I started university, and it took me a few months to get used to living away from home.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I have lived in Ho Chi Minh City for about three years. At first, the traffic and pace of life were a bit overwhelming, but now I have adapted to them.
 
 ### Are there big changes in this city?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, there are. New apartment buildings, cafes, and tourist services are appearing quite quickly, so the city feels more modern every year.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Definitely. There are new office towers, shopping malls, and metro lines under development, although the rapid growth also brings problems like congestion and higher living costs.
 
 ### What's the weather like where you live?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+It is usually warm and sunny, which is nice for going to the beach. However, the rainy season can be quite intense, and storms sometimes make travelling around difficult.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Ho Chi Minh City is hot most of the year, with a clear rainy season. I do not mind the heat too much, but sudden downpours during rush hour can be really inconvenient.
 
 ### Are the people friendly in the city?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, generally speaking. People in Da Nang are quite approachable, and I have found that shop owners, neighbours, and even strangers are usually willing to help.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I would say people are friendly but also very busy. They may not stop for long conversations, but in everyday situations they are usually open, direct, and helpful.
 
 ### Is the city friendly to children and old people?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+To some extent, yes. There are parks, beaches, and safe public spaces, but some roads are still quite busy, so parents and older people need to be careful when crossing streets.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Not completely. There are good hospitals and services, but the traffic, noise, and crowded pavements can be difficult for children and elderly people.
 
 ### Are there people of different ages living in this city?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, definitely. There are students, young workers, families, and retired people, especially because Da Nang is both a university city and a comfortable place to settle down.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, Ho Chi Minh City has people of all ages. You can see young professionals rushing to work, students hanging out after class, and older residents running small shops in local neighbourhoods.
 
 ### Do you often see your neighbors?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, but mostly in passing. I see them in the hallway or near the entrance of the apartment building, and we usually just smile or say a quick hello.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Not very often. I live in an apartment building where people keep to themselves, so I might see my neighbours in the lift, but we rarely have proper conversations.
 
 ### Would you recommend your city to others?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, especially to students or people who want a balanced lifestyle. Da Nang is affordable, scenic, and not too stressful, which makes it a pleasant place to live.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I would recommend Ho Chi Minh City to people who are career-oriented and enjoy a fast-paced lifestyle. It is not the easiest city to live in, but it offers a lot of room to grow.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **urban centre** (n phr) (/ˈɜː.bən ˈsen.tər/): a busy central city area | trung tâm đô thị
+- **business hub** (n phr) (/ˈbɪz.nəs hʌb/): an important centre for business activity | trung tâm kinh doanh
+- **chaotic** (adj) (/keɪˈɒt.ɪk/): confused, busy, and lacking order | hỗn loạn
+- **rewarding** (adj) (/rɪˈwɔː.dɪŋ/): giving satisfaction or benefits | đáng giá, thỏa mãn
+- **overwhelming** (adj) (/ˌəʊ.vəˈwel.mɪŋ/): too intense or difficult to deal with | choáng ngợp
+- **congestion** (n) (/kənˈdʒes.tʃən/): overcrowding, especially traffic | sự tắc nghẽn
+- **downpour** (n) (/ˈdaʊn.pɔːr/): a heavy fall of rain | trận mưa lớn
+- **approachable** (adj) (/əˈprəʊ.tʃə.bəl/): friendly and easy to talk to | dễ gần
+- **keep to oneself** (idiom) (/kiːp tuː wʌnˈself/): to avoid much social interaction | sống khép kín, ít giao tiếp
+- **career-oriented** (adj) (/kəˈrɪə ˌɔː.ri.en.tɪd/): focused on career development | định hướng sự nghiệp
 
 ## The Area You Live In
 
