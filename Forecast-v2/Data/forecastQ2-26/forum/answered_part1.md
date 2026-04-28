@@ -1687,54 +1687,62 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+It can be crowded in certain areas, especially near schools, markets, and tourist spots. But compared with larger cities like Ho Chi Minh City, Da Nang still feels quite manageable. I think the crowd is noticeable, but it is not overwhelming most of the time.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, Ho Chi Minh City is definitely crowded. During rush hour, the roads are packed with motorbikes, cars, and buses, so even a short trip can take longer than expected. I have got used to it, but it can still be tiring.
 
 ### Is there a crowded place near where you live?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, there is a small food street near my apartment that gets crowded in the evening. A lot of students go there for cheap meals and milk tea after class. It is lively, but sometimes it is hard to find a seat.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, there is a shopping mall and a busy intersection near my building. It is convenient because there are many shops and restaurants, but the area becomes quite congested after office hours.
 
 ### Do you like crowded places?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+It depends on the situation. I enjoy crowded places when I am with friends and the atmosphere is exciting, like at a festival or night market. But if I am tired or need to study, crowds make me feel distracted and uncomfortable.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Not really, especially after work. I deal with enough noise and traffic during the day, so I prefer quieter places in my free time. That said, I do not mind crowds if I am attending a concert or a special event.
 
 ### When was the last time you were in a crowded place?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The last time was probably last weekend when I went to a night market with my classmates. It was packed with people, food stalls, and music, but the atmosphere was fun. We had to move slowly, but we still enjoyed trying different snacks.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The last time was a few days ago during my commute home. The road near my office was extremely crowded because it was raining, and everyone seemed to leave work at the same time. It was not enjoyable, but it was a typical city experience.
 
 ### Do most people like crowded places?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I think many young people like crowded places when they are lively and entertaining. Crowds can make events feel more energetic. However, most people would probably dislike crowds when they cause long queues, noise, or stress.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I do not think people like crowds in general; they like the activities that happen in crowded places. For example, they may enjoy concerts, festivals, or shopping streets, but not the pushing, waiting, or traffic that comes with them.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **tourist spot** (n phr) (/ˈtʊə.rɪst spɒt/): a place popular with visitors | điểm du lịch
+- **manageable** (adj) (/ˈmæn.ɪ.dʒə.bəl/): possible to deal with | có thể kiểm soát được
+- **rush hour** (n phr) (/ˈrʌʃ aʊər/): the busiest travel time of the day | giờ cao điểm
+- **packed with** (adj phr) (/pækt wɪð/): full of people or things | chật kín
+- **intersection** (n) (/ˌɪn.təˈsek.ʃən/): a place where roads cross | giao lộ
+- **congested** (adj) (/kənˈdʒes.tɪd/): blocked or overcrowded | tắc nghẽn, đông đúc
+- **distracted** (adj) (/dɪˈstræk.tɪd/): unable to focus | mất tập trung
+- **night market** (n phr) (/naɪt ˈmɑː.kɪt/): an evening market with food and goods | chợ đêm
+- **long queue** (n phr) (/lɒŋ kjuː/): a long line of people waiting | hàng dài chờ đợi
 
 # PART 1: SOCIAL & EMOTIONAL TOPICS
 
@@ -1744,54 +1752,63 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I really enjoy chatting with friends because it helps me relax after classes. Sometimes we talk for hours about university life, relationships, or small problems that happened during the day. Those conversations make me feel less stressed and more connected.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I do, although I have less time for it than before. After work, chatting with close friends helps me switch off from deadlines and office pressure. Even a short conversation can make the day feel lighter.
 
 ### What do you usually chat about with friends?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+We usually chat about classes, exams, part-time jobs, and weekend plans. We also talk about movies, music, and funny things we see online. The topics are not always serious, but they help us stay close.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+With my friends, I usually talk about work, travel plans, food, and personal goals. Sometimes we complain a little about stress, but we also encourage each other. I think adult conversations are more practical, but still very comforting.
 
 ### Do you prefer to chat with a group of people or with only one friend?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+It depends on my mood. Group chats are fun when I want jokes and quick updates, but one-on-one conversations feel more meaningful. If I need advice, I definitely prefer talking to just one close friend.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I prefer one-on-one conversations most of the time. Group conversations can be lively, but they are sometimes noisy and surface-level. With one friend, I can talk more honestly and listen properly.
 
 ### Do you prefer to communicate face-to-face or via social media?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I prefer face-to-face communication when the topic is important because I can read the other person's expression and tone. But for everyday updates, social media is more convenient. It lets me keep in touch with friends even when we are busy.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+For serious conversations, I prefer meeting face-to-face because it feels more sincere and avoids misunderstandings. However, for quick messages or arranging plans, social media is obviously faster. I think both have their place.
 
 ### Do you argue with friends?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, but not very often. Most arguments are about group assignments or different opinions, and they usually cool down quickly. I think a little disagreement is normal as long as people apologise and do not take things personally.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Occasionally, yes. With close friends, disagreements happen because everyone has different values and experiences. I try to talk things through calmly because I do not want a small issue to damage a long friendship.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **switch off** (phr v) (/swɪtʃ ɒf/): to stop thinking about work or stress | ngừng nghĩ về áp lực/công việc
+- **stay close** (v phr) (/steɪ kləʊs/): to maintain a close relationship | giữ thân thiết
+- **personal goal** (n phr) (/ˈpɜː.sən.əl ɡəʊl/): an aim in one's personal life | mục tiêu cá nhân
+- **comforting** (adj) (/ˈkʌm.fə.tɪŋ/): making someone feel better | an ủi, dễ chịu
+- **one-on-one conversation** (n phr) (/ˌwʌn ɒn ˈwʌn ˌkɒn.vəˈseɪ.ʃən/): a conversation between two people | cuộc trò chuyện riêng hai người
+- **surface-level** (adj) (/ˈsɜː.fɪs ˌlev.əl/): not deep or personal | hời hợt, không sâu
+- **keep in touch** (v phr) (/kiːp ɪn tʌtʃ/): to continue communicating | giữ liên lạc
+- **misunderstanding** (n) (/ˌmɪs.ʌn.dəˈstæn.dɪŋ/): a failure to understand correctly | sự hiểu nhầm
+- **cool down** (phr v) (/kuːl daʊn/): to become calmer after anger | bình tĩnh lại
+- **talk things through** (v phr) (/tɔːk θɪŋz θruː/): to discuss a problem carefully | nói chuyện để giải quyết vấn đề
 
 ## Sharing
 
@@ -1799,64 +1816,73 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, they did, mostly through small everyday situations. For example, if I had snacks or toys, my parents encouraged me to share them with my cousins instead of keeping everything to myself. At the time, I did not think much about it, but it helped me become less selfish.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, my parents taught me that sharing is part of being considerate. They did not give long lectures, but they showed it through actions, like sharing food with neighbours or helping relatives when they were in difficulty. I think that influenced the way I treat people now.
 
 ### What kind of things do you like to share with others?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I like sharing study materials, useful websites, and small tips about assignments with my classmates. I also enjoy sharing food when we study together because it makes the atmosphere more relaxed. It is a simple way to support each other.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I like sharing practical information, such as good restaurants, useful apps, or work-related resources. At work, I also share templates or lessons I have learned from past projects. It saves other people time and creates a more cooperative environment.
 
 ### What kind of things are not suitable for sharing?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I think personal passwords, private messages, and other people's secrets are definitely not suitable for sharing. Even among close friends, there should be clear boundaries. Sharing too much can easily damage trust.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Confidential work information should not be shared, especially client data or internal plans. Personal problems also need care; not everything should be discussed with everyone. I think mature sharing means knowing what to say and what to keep private.
 
 ### Do you have anything to share with others recently?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Recently, I shared my revision notes with a classmate who missed a few lessons because she was sick. They were not perfect, but they helped her catch up before a quiz. It felt good because I knew I would appreciate the same help if I were in her situation.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Recently, I shared a project checklist with a newer colleague. She was preparing her first campaign and seemed a bit overwhelmed, so I sent her the template I usually use. It was a small thing, but it made her work much easier.
 
 ### Who is the first person you would like to share good news with?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The first person would probably be my mother. Whenever something good happens, like getting a high score or being accepted into an activity, I want to tell her first because she always sounds genuinely happy for me.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I would usually share good news with my family first, especially my parents. They have supported me through stressful periods, so when something positive happens at work, I want them to feel proud too.
 
 ### Do you prefer to share news with your friends or your parents?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+It depends on the kind of news. If it is about school or personal worries, I often tell my friends first because they understand my daily life better. But for important achievements, I prefer sharing them with my parents.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+For casual updates, I prefer telling friends because the conversation feels lighter. For major decisions or meaningful news, I usually talk to my parents because their advice is more grounded and thoughtful.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **keep something to oneself** (idiom) (/kiːp ˈsʌm.θɪŋ tuː wʌnˈself/): to not share something with others | giữ cho riêng mình
+- **selfish** (adj) (/ˈsel.fɪʃ/): caring only about oneself | ích kỷ
+- **considerate** (adj) (/kənˈsɪd.ər.ət/): thoughtful about other people's feelings | biết nghĩ cho người khác
+- **study materials** (n phr) (/ˈstʌd.i məˈtɪə.ri.əlz/): resources used for learning | tài liệu học tập
+- **cooperative environment** (n phr) (/kəʊˈɒp.ər.ə.tɪv ɪnˈvaɪ.rən.mənt/): a place where people work together well | môi trường hợp tác
+- **boundary** (n) (/ˈbaʊn.dər.i/): a limit in relationships or behaviour | ranh giới
+- **confidential** (adj) (/ˌkɒn.fɪˈden.ʃəl/): private and not to be shared | bảo mật, riêng tư
+- **catch up** (phr v) (/kætʃ ʌp/): to reach the same level after falling behind | bắt kịp
+- **overwhelmed** (adj) (/ˌəʊ.vəˈwelmd/): feeling unable to deal with too much | quá tải, choáng ngợp
+- **grounded** (adj) (/ˈɡraʊn.dɪd/): sensible and realistic | thực tế, chín chắn
 
 ## Happy Things
 
@@ -1864,74 +1890,83 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I recently got a good result on a presentation that I had worked really hard on. My group spent several nights preparing the slides and practising, so hearing positive feedback from the teacher made me feel relieved and proud.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, a small thing actually. My team finished a campaign ahead of schedule, and the client gave us very positive feedback. It was not a huge achievement, but it made the whole week feel more worthwhile.
 
 ### What made you happy when you were little?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+When I was little, simple things made me happy, like getting a new comic book or going out for ice cream with my parents. I did not need anything expensive. What mattered most was the feeling of being cared for.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+As a child, I was happiest when my family spent time together on weekends. Even a short trip to the park or a simple meal outside felt exciting. Looking back, I think attention mattered more than gifts.
 
 ### What do you think will make you feel happy in the future?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+In the future, I think I will feel happy if I can find a job that suits my strengths and gives me room to grow. I also hope to stay close to my family and maintain a few genuine friendships. For me, happiness is not only about success but also stability.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I think a balanced life will make me happy in the future. I want to keep developing professionally, but I also want enough time for health, family, and travel. If I can avoid burning out while still moving forward, I will consider that a good life.
 
 ### When do you feel happy at work? Why?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I do not work full-time yet, but when I do freelance design, I feel happy when a client likes my work. It is encouraging because it shows that my skills are improving. It also makes me feel more confident about future jobs.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I feel happy at work when a project runs smoothly and the team communicates well. It is satisfying to see everyone's effort come together into a real result. I also feel happy when my manager recognises my contribution.
 
 ### Do you feel happy when buying new things?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, sometimes, especially if it is something useful like a good notebook, a new backpack, or a device that helps me study. But the happiness does not last long if I buy things impulsively. I try to think carefully before spending money.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, but only when the item has real value for my life. For example, buying a comfortable chair for my home office made me genuinely happy because I use it every day. Random shopping, though, usually gives only a short burst of excitement.
 
 ### Do you think people are happy when buying new things?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I think many people feel happy at first because buying something new gives them a sense of reward. However, that feeling can fade quickly if the item is not meaningful or useful. So shopping can create temporary happiness, but not deep happiness.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, to some extent. New things can make people feel refreshed or successful, especially after hard work. But if someone depends on shopping to feel happy all the time, it can become unhealthy and expensive.
 
 ### Do you prefer to watch happy or sad movies?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I usually prefer happy or heartwarming movies because they help me relax after studying. That said, I do watch sad films sometimes if the story is meaningful. I just need to be in the right mood for them.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I prefer happy movies most of the time. After a stressful week, I want something light, funny, or uplifting rather than a film that makes me emotionally drained. But a well-made sad movie can still be powerful.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **positive feedback** (n phr) (/ˈpɒz.ə.tɪv ˈfiːd.bæk/): encouraging comments about someone's work | phản hồi tích cực
+- **worthwhile** (adj) (/ˌwɜːθˈwaɪl/): worth the time or effort | đáng công, xứng đáng
+- **being cared for** (n phr) (/ˈbiː.ɪŋ keəd fɔːr/): receiving care and attention | được quan tâm chăm sóc
+- **genuine friendship** (n phr) (/ˈdʒen.ju.ɪn ˈfrend.ʃɪp/): sincere friendship | tình bạn chân thành
+- **burn out** (phr v) (/bɜːn aʊt/): to become exhausted from too much work | kiệt sức
+- **recognise someone's contribution** (v phr) (/ˈrek.əɡ.naɪz ˈsʌm.wʌnz ˌkɒn.trɪˈbjuː.ʃən/): to notice and value someone's effort | ghi nhận đóng góp của ai
+- **impulsively** (adv) (/ɪmˈpʌl.sɪv.li/): suddenly, without careful thought | một cách bốc đồng
+- **short burst of excitement** (n phr) (/ʃɔːt bɜːst əv ɪkˈsaɪt.mənt/): a brief feeling of pleasure | cảm giác hào hứng ngắn ngủi
+- **temporary happiness** (n phr) (/ˈtem.pər.ər.i ˈhæp.i.nəs/): happiness that does not last long | niềm vui tạm thời
+- **heartwarming** (adj) (/ˈhɑːtˌwɔː.mɪŋ/): making someone feel happy and touched | ấm áp, cảm động
 
 ## Doing Something Well
 
@@ -1939,34 +1974,42 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I once did really well in a group presentation for my marketing class. I was responsible for the visual design and part of the speaking, so I spent several evenings preparing the slides and practising. In the end, our group got one of the highest scores, which made me feel that the effort had paid off.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, recently I helped organise a small marketing campaign that performed better than expected. I coordinated the content schedule, checked the data every day, and made quick adjustments when something was not working. When the final results came in, I felt genuinely proud because my decisions had made a visible difference.
 
 ### Do you have an experience when your teacher thought you did a good job?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, my English teacher once praised me for writing a clear and well-structured essay. I had rewritten it several times, so hearing that feedback was very encouraging. It also gave me more confidence in my writing, which used to be one of my weaker skills.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Back when I was at university, one lecturer complimented my research project because I used real survey data instead of only relying on theory. That comment stayed with me because it taught me the value of practical evidence. I still try to use that approach in my work now.
 
 ### Do you often tell your friends when they do something well?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I try to. If my friends give a good presentation or handle a difficult assignment well, I usually tell them directly. A simple compliment can boost someone's confidence, especially when they have put in a lot of effort.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I think it is important. At work and in friendships, people often notice mistakes more than achievements, so I try to acknowledge good effort when I see it. It makes relationships more positive and supportive.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **visual design** (n phr) (/ˈvɪʒ.u.əl dɪˈzaɪn/): the appearance and layout of visual materials | thiết kế hình ảnh
+- **pay off** (phr v) (/peɪ ɒf/): to produce a successful result | đem lại kết quả xứng đáng
+- **coordinate** (v) (/kəʊˈɔː.dɪ.neɪt/): to organise different parts of an activity | phối hợp, điều phối
+- **visible difference** (n phr) (/ˈvɪz.ə.bəl ˈdɪf.ər.əns/): a clear and noticeable change | sự khác biệt rõ ràng
+- **well-structured** (adj) (/ˌwel ˈstrʌk.tʃəd/): organised clearly and logically | có cấu trúc tốt
+- **practical evidence** (n phr) (/ˈpræk.tɪ.kəl ˈev.ɪ.dəns/): real information used to support an idea | bằng chứng thực tế
+- **boost someone's confidence** (v phr) (/buːst ˈsʌm.wʌnz ˈkɒn.fɪ.dəns/): to make someone feel more confident | nâng cao sự tự tin
+- **acknowledge** (v) (/əkˈnɒl.ɪdʒ/): to recognise or show appreciation for something | ghi nhận
+- **supportive** (adj) (/səˈpɔː.tɪv/): giving help or encouragement | mang tính hỗ trợ
 
 ## Staying with Old People
 
@@ -1974,44 +2017,53 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, especially with my grandparents. They tell stories about the past that I would never learn from school, and their way of looking at life is very different from mine. Sometimes the conversations are slow, but they feel warm and meaningful.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I do. Older people often have a calmer perspective, and talking with them reminds me not to rush through everything. I especially enjoy conversations with older relatives because they give advice without trying to compete or show off.
 
 ### Have you ever worked with old people?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Not in a formal job, but I once volunteered at a community event where we helped elderly people use smartphones. It was a bit challenging at first because we had to explain things very patiently. But it was rewarding when they managed to make video calls by themselves.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I have worked with older colleagues in several projects. Some of them were not as quick with new digital tools, but they had strong judgment and a lot of professional experience. I learned that different generations can complement each other well.
 
 ### Are you happy to work with people who are older than you?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I think I would be happy to. Older people may have more experience and patience, so I could learn a lot from them. Of course, communication styles might be different, but that is also a good chance to become more adaptable.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, definitely. Working with older people can be very useful because they often understand workplace politics, client expectations, and long-term planning better than younger employees. As long as both sides respect each other, the cooperation can be very effective.
 
 ### What are the benefits of being friends with or working with old people?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The biggest benefit is learning from their life experience. Older people can help young people avoid careless mistakes because they have already gone through similar situations. They also tend to be more patient listeners, which is valuable when you need honest advice.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I think older people bring stability and perspective. They may not always follow trends quickly, but they often make decisions more carefully. Being around them can help younger people become more mature, responsible, and less impulsive.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **perspective** (n) (/pəˈspek.tɪv/): a way of seeing or thinking about something | góc nhìn
+- **meaningful** (adj) (/ˈmiː.nɪŋ.fəl/): important or emotionally valuable | có ý nghĩa
+- **show off** (phr v) (/ʃəʊ ɒf/): to try to impress others | khoe khoang
+- **elderly people** (n phr) (/ˈel.dəl.i ˈpiː.pəl/): old people, used politely | người cao tuổi
+- **rewarding** (adj) (/rɪˈwɔː.dɪŋ/): satisfying and worthwhile | đáng giá, thỏa mãn
+- **judgment** (n) (/ˈdʒʌdʒ.mənt/): the ability to make sensible decisions | khả năng phán đoán
+- **complement each other** (v phr) (/ˈkɒm.plɪ.ment iːtʃ ˈʌð.ər/): to work well together by balancing strengths | bổ trợ cho nhau
+- **adaptable** (adj) (/əˈdæp.tə.bəl/): able to adjust to new situations | dễ thích nghi
+- **workplace politics** (n phr) (/ˈwɜːk.pleɪs ˈpɒl.ə.tɪks/): informal power relationships at work | quan hệ/quyền lực nơi công sở
+- **impulsive** (adj) (/ɪmˈpʌl.sɪv/): acting suddenly without careful thought | bốc đồng
 
 ## Life Stages
 
@@ -2019,64 +2071,73 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I do. Being a university student gives me a lot of freedom to explore different interests, meet new people, and make mistakes without feeling that everything is too serious. Of course, there is pressure about exams and the future, but overall I think this is an exciting stage of life.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I quite enjoy my current age. I am old enough to be independent and make my own decisions, but still young enough to learn quickly and take professional risks. It feels like a period where I can build the foundation for the life I want later.
 
 ### At what age do you think people are the happiest?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I do not think there is one perfect age for everyone. Some people are happiest as children because they have fewer worries, while others feel happiest in their twenties or thirties when they have more independence. For me, happiness depends more on relationships and health than on age itself.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I would say people may be happiest when they have both stability and freedom, maybe in their thirties or forties. By then, many people understand themselves better and have more control over their choices. But honestly, any age can be happy if someone has a meaningful life.
 
 ### How do people remember each stage of their lives?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+People usually remember life stages through major events, photos, and the people they spent time with. For example, I remember childhood through family trips and school activities, while my university years are linked to friends, exams, and living away from home. Small details can bring back a whole period of life.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I think people remember different stages through turning points, such as graduating, getting their first job, moving cities, or starting a family. Music, places, and even certain smells can also trigger memories. That is why ordinary moments sometimes become meaningful later.
 
 ### What did you often do with your friends in your childhood?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+When I was a child, I often played outdoor games with friends after school. We rode bicycles, played hide-and-seek, and sometimes invented silly games in the neighbourhood. Looking back, those activities were simple but full of energy and imagination.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I used to spend a lot of time outside with neighbourhood friends. We played football, cycled around, and bought cheap snacks from small shops. It was a very social childhood, and I think those memories are warmer because we were not glued to screens all day.
 
 ### Do you have any plans for the next five years?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I have a few plans. I want to graduate with a good degree, improve my English, and gain real work experience through internships. If possible, I would also like to study abroad or at least travel more before settling into a full-time job.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I want to develop my career and move into a more senior position. I also hope to save more money, improve my health, and maybe buy my own apartment. I do not have every detail figured out, but I want my next five years to be more intentional.
 
 ### What do you think is the most important at the moment?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+At the moment, the most important thing is building a strong base for the future. That means studying seriously, developing useful skills, and keeping good relationships with people around me. I do not want to focus only on grades and forget about personal growth.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+For me, the most important thing right now is balance. I want to perform well at work, but I also need to protect my health and relationships. If I only chase career progress and ignore everything else, I think I will regret it later.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **stage of life** (n phr) (/steɪdʒ əv laɪf/): a period in someone's life | giai đoạn cuộc đời
+- **professional risk** (n phr) (/prəˈfeʃ.ən.əl rɪsk/): a risk related to work or career | rủi ro nghề nghiệp
+- **stability** (n) (/stəˈbɪl.ə.ti/): a state of being steady and secure | sự ổn định
+- **turning point** (n phr) (/ˈtɜː.nɪŋ pɔɪnt/): an event that causes an important change | bước ngoặt
+- **trigger memories** (v phr) (/ˈtrɪɡ.ər ˈmem.ər.iz/): to cause memories to return | gợi lại ký ức
+- **hide-and-seek** (n) (/ˌhaɪd ən ˈsiːk/): a children's game of hiding and finding | trò trốn tìm
+- **glued to screens** (adj phr) (/ɡluːd tuː skriːnz/): spending too much time on devices | dán mắt vào màn hình
+- **internship** (n) (/ˈɪn.tɜːn.ʃɪp/): short-term work experience for students | kỳ thực tập
+- **intentional** (adj) (/ɪnˈten.ʃən.əl/): done with clear purpose | có chủ đích
+- **personal growth** (n phr) (/ˈpɜː.sən.əl ɡrəʊθ/): development of character and abilities | sự phát triển cá nhân
 
 # PART 1: OBJECTS, SHOPPING & CONSUMPTION
 
@@ -2086,54 +2147,63 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Recently, I received a new backpack from my older sister. It was not a luxury item, but it was very practical because my old one was almost falling apart. I use it every day for university, so it feels like a thoughtful gift.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The most recent gift I received was a coffee mug from a colleague. It was a small birthday gift, but I liked it because she remembered that I drink coffee every morning. Sometimes simple gifts feel more personal than expensive ones.
 
 ### Have you ever received a great gift?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, one of the best gifts I have received was a drawing tablet. My parents gave it to me when they noticed I was interested in digital design. It was meaningful because it showed that they supported my hobby, not just my academic studies.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, my parents once gave me a good office chair when I started working from home more often. It may not sound exciting, but it made my daily life much more comfortable. I appreciated it because it was both useful and caring.
 
 ### Have you ever sent handmade gifts to others?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I have made handmade cards for my friends on their birthdays. I usually draw something personal on the card and write a short message inside. It takes more time than buying a card, but it feels warmer.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, but not very often. I once baked cookies and packed them nicely for a close friend's birthday. I am not a professional baker, but she appreciated the effort, which made the gift feel special.
 
 ### What do you consider when choosing a gift?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I usually think about the person's interests and daily needs. Since I am a student, I also have to consider my budget, so I prefer gifts that are affordable but still personal. A useful gift with a small personal touch is ideal for me.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I consider practicality, taste, and the relationship I have with the person. For close friends, I might choose something more personal, while for colleagues I prefer safe and professional gifts. I also try to avoid anything that might feel too generic.
 
 ### Do you think you are good at choosing gifts?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I think I am fairly good at it because I pay attention to small details. If a friend mentions something they like, I try to remember it for later. I am not always perfect, but I usually choose gifts that people can actually use.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I would say I am decent at choosing gifts, especially for people I know well. I try not to buy random things at the last minute. Instead, I look for something practical, tasteful, and connected to the person's lifestyle.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **fall apart** (phr v) (/fɔːl əˈpɑːt/): to become broken or unusable | hỏng, rách, xuống cấp
+- **thoughtful gift** (n phr) (/ˈθɔːt.fəl ɡɪft/): a gift chosen with care | món quà chu đáo
+- **luxury item** (n phr) (/ˈlʌk.ʃər.i ˈaɪ.təm/): an expensive non-essential thing | món đồ xa xỉ
+- **drawing tablet** (n phr) (/ˈdrɔː.ɪŋ ˈtæb.lət/): a device used for digital drawing | bảng vẽ điện tử
+- **handmade card** (n phr) (/ˌhændˈmeɪd kɑːd/): a card made by hand | thiệp thủ công
+- **personal touch** (n phr) (/ˈpɜː.sən.əl tʌtʃ/): a detail that makes something feel personal | dấu ấn cá nhân
+- **practicality** (n) (/ˌpræk.tɪˈkæl.ə.ti/): usefulness in real life | tính thực dụng
+- **generic** (adj) (/dʒəˈner.ɪk/): general and not personal or special | chung chung
+- **last minute** (adj phr) (/ˌlɑːst ˈmɪn.ɪt/): done just before the deadline | sát giờ, phút chót
+- **tasteful** (adj) (/ˈteɪst.fəl/): attractive and showing good judgment | tinh tế, có gu
 
 ## Shoes
 
@@ -2141,44 +2211,53 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I like buying shoes, but I do not do it very often because I am still on a student budget. I usually buy a new pair only when my old shoes are worn out or when I really need something for a specific occasion. Comfort and price matter more to me than having the latest style.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I quite like buying shoes, especially practical ones for work. I probably buy a new pair every few months, depending on whether my office shoes or sneakers need replacing. Since I walk and commute a lot, I see good shoes as an investment rather than just a fashion item.
 
 ### Have you ever bought shoes online?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I have bought shoes online a few times, mostly during sales. It is convenient and sometimes cheaper, but the size can be risky because different brands fit differently. I always check reviews carefully before ordering.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I have, especially when I already know the brand and size. Online shopping saves time, but I prefer websites with a clear return policy. Shoes are tricky because they may look good online but feel uncomfortable in real life.
 
 ### How much money do you usually spend on shoes?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I usually spend a moderate amount, maybe enough to get a durable pair but not anything too expensive. As a student, I need shoes that can handle walking around campus every day. I would rather buy one reliable pair than several cheap pairs that fall apart quickly.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I am willing to spend a bit more on shoes now than when I was a student. For work shoes, I look for quality and comfort because I may wear them for long hours. Still, I try to avoid overpriced brands unless the quality really justifies the cost.
 
 ### Which do you prefer, fashionable shoes or comfortable shoes?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I prefer comfortable shoes, although I still want them to look decent. My daily life involves walking between classes, the library, and cafes, so painful shoes would ruin my whole day. If I can find shoes that are both stylish and comfortable, that is ideal.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Comfortable shoes, definitely. Fashion matters to some extent, especially at work, but if the shoes hurt my feet, I will not wear them often. I prefer simple designs that look professional and can still support a long commute.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **student budget** (n phr) (/ˈstjuː.dənt ˈbʌdʒ.ɪt/): limited money available to a student | ngân sách sinh viên
+- **worn out** (adj) (/wɔːn aʊt/): damaged from too much use | bị mòn, cũ hỏng
+- **investment** (n) (/ɪnˈvest.mənt/): something bought for long-term value | khoản đầu tư
+- **return policy** (n phr) (/rɪˈtɜːn ˈpɒl.ə.si/): rules for sending a product back | chính sách đổi trả
+- **durable** (adj) (/ˈdjʊə.rə.bəl/): lasting for a long time | bền
+- **reliable pair** (n phr) (/rɪˈlaɪ.ə.bəl peər/): a pair that works well and lasts | đôi giày đáng tin cậy
+- **overpriced** (adj) (/ˌəʊ.vəˈpraɪst/): more expensive than it should be | bị bán quá đắt
+- **justify the cost** (v phr) (/ˈdʒʌs.tɪ.faɪ ðə kɒst/): to be worth the money paid | xứng đáng với chi phí
+- **stylish** (adj) (/ˈstaɪ.lɪʃ/): fashionable and attractive | thời trang, có phong cách
+- **long commute** (n phr) (/lɒŋ kəˈmjuːt/): a long journey to work or school | quãng đường đi làm/đi học dài
 
 ## Advertisement
 
@@ -2186,54 +2265,63 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+It depends on the advertisement. I like ads that are creative, funny, or useful, but I get annoyed when the same ad interrupts my videos again and again. As a student, I also pay attention to ads for courses, apps, or student discounts.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I do not mind advertisements if they are relevant and well-made. Since I work in marketing, I sometimes look at ads professionally and notice the message, design, and target audience. But intrusive ads still bother me, especially when they interrupt something I am trying to read.
 
 ### What kind of advertising do you like?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I like advertising that tells a short story or has a clever idea. For example, some university or technology ads are memorable because they show real problems and simple solutions. I prefer that to ads that only shout about discounts.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I like ads that feel authentic and emotionally engaging. A good advertisement does not just push a product; it connects the product with a real need or feeling. I also appreciate clean visuals and messages that do not waste the viewer's time.
 
 ### Do you often see advertisements when you are on your phone or computer?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, all the time. I see ads on YouTube, social media, websites, and even inside some study apps. Sometimes they are useful, but most of the time I scroll past them without thinking.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, constantly. Online ads appear on almost every platform I use, from news websites to social media feeds. Some are surprisingly accurate because they are based on my search history, which is convenient but also a little uncomfortable.
 
 ### Do you see a lot of advertising on trains or other transport?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I do not take trains often, but I see many ads on buses, taxis, and ride-hailing apps. They are usually for drinks, phone plans, or shopping platforms. I notice them more when I am bored during a long ride.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I see quite a lot of transport advertising, especially on buses and inside ride-hailing cars. Some of it is easy to ignore, but large posters or digital screens can be quite eye-catching. It is a smart way for brands to reach commuters.
 
 ### Is there an advertisement that made an impression on you when you were a child?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I still remember some old milk advertisements on TV. They often showed children growing taller, playing sports, and making their parents proud. Looking back, the message was simple, but the music and images were very memorable.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I remember a few emotional Tet advertisements from my childhood. They usually showed family reunions, home-cooked meals, and people returning home after a long year. Even now, those kinds of ads still make me feel nostalgic.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **student discount** (n phr) (/ˈstjuː.dənt ˈdɪs.kaʊnt/): a lower price for students | ưu đãi sinh viên
+- **relevant** (adj) (/ˈrel.ə.vənt/): closely connected to what someone needs or cares about | phù hợp, liên quan
+- **intrusive** (adj) (/ɪnˈtruː.sɪv/): annoying because it interrupts private space or attention | gây phiền, xâm phạm
+- **target audience** (n phr) (/ˈtɑː.ɡɪt ˈɔː.di.əns/): the group an ad is aimed at | đối tượng mục tiêu
+- **authentic** (adj) (/ɔːˈθen.tɪk/): real and sincere | chân thật
+- **emotionally engaging** (adj phr) (/ɪˈməʊ.ʃən.əl.i ɪnˈɡeɪ.dʒɪŋ/): able to attract feelings and attention | thu hút về mặt cảm xúc
+- **search history** (n phr) (/sɜːtʃ ˈhɪs.tər.i/): records of what someone searched online | lịch sử tìm kiếm
+- **eye-catching** (adj) (/ˈaɪˌkætʃ.ɪŋ/): visually attractive and noticeable | bắt mắt
+- **commuter** (n) (/kəˈmjuː.tər/): someone who travels regularly to work or school | người đi làm/đi học hằng ngày
+- **nostalgic** (adj) (/nɒsˈtæl.dʒɪk/): feeling warm sadness about the past | hoài niệm
 
 ## Borrowing / Lending
 
@@ -2241,54 +2329,63 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, but only small amounts. For example, I have borrowed money from friends when I forgot my wallet or needed to pay for lunch quickly. I always try to pay it back as soon as possible because I do not want money to affect friendships.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, a few times, mostly from family rather than friends. When I first moved to the city for work, I borrowed some money from my parents to cover the deposit for my apartment. I paid them back gradually once my salary became more stable.
 
 ### Have you borrowed books from others?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, quite often. I have borrowed textbooks from seniors because some course books are expensive and only needed for one semester. I also borrow novels from friends when they recommend something interesting.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, although less often nowadays. In the past, I borrowed business books from colleagues, especially when I wanted to read something before deciding whether to buy it. These days, I usually read e-books, so borrowing physical books happens less frequently.
 
 ### Do you like to lend things to others?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I do not mind lending small things like stationery, chargers, or books to people I trust. However, I am more careful with expensive items because students can be forgetful. I think lending is fine as long as both people are responsible.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, within reason. I am happy to lend tools, books, or office items to colleagues, but I prefer not to lend anything too personal or costly. Clear communication is important so there is no awkwardness later.
 
 ### Do you mind if others borrow money from you?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+It depends on the amount and the person. If it is a close friend who needs a small amount urgently, I am willing to help. But since I do not have much spare money as a student, I would feel uncomfortable lending large sums.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I do not mind helping close friends or family, but I am cautious. Money can easily create tension in relationships, so I only lend what I can afford to lose. For larger amounts, I would rather discuss the situation carefully first.
 
 ### How do you feel when people don't return things they borrowed from you?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I feel disappointed, especially if I have to remind them several times. It is not always about the value of the item; it is more about respect. If someone keeps forgetting, I become less willing to lend them things again.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I find it frustrating because it shows a lack of responsibility. If someone borrows something, they should return it without being chased. I may not get angry immediately, but I would definitely trust that person less.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **pay back** (phr v) (/peɪ bæk/): to return money owed | trả lại tiền đã vay
+- **deposit** (n) (/dɪˈpɒz.ɪt/): money paid in advance as security | tiền đặt cọc
+- **gradually** (adv) (/ˈɡrædʒ.u.əl.i/): slowly over time | dần dần
+- **textbook** (n) (/ˈtekst.bʊk/): a book used for studying a subject | sách giáo trình
+- **stationery** (n) (/ˈsteɪ.ʃən.ər.i/): pens, paper, and office supplies | văn phòng phẩm
+- **within reason** (adv phr) (/wɪˈðɪn ˈriː.zən/): within sensible limits | trong giới hạn hợp lý
+- **awkwardness** (n) (/ˈɔː.kwəd.nəs/): an uncomfortable social feeling | sự ngượng ngùng, khó xử
+- **large sum** (n phr) (/lɑːdʒ sʌm/): a large amount of money | khoản tiền lớn
+- **chase someone** (v phr) (/tʃeɪs ˈsʌm.wʌn/): to repeatedly ask someone to do something | nhắc nhở/đòi nhiều lần
+- **lack of responsibility** (n phr) (/læk əv rɪˌspɒn.səˈbɪl.ə.ti/): not being responsible enough | sự thiếu trách nhiệm
 
 # PART 1: MEMORY, DREAMS & IMAGINATION
 
@@ -2298,44 +2395,53 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I am fairly good at memorising ideas, but not exact words. For exams, I remember information better when I understand the logic behind it rather than just repeating it. If I only memorise mechanically, I forget everything quite quickly.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I would say my memory is decent, especially for work-related patterns and people's preferences. However, I am not great at remembering random details like phone numbers or passwords. That is why I rely heavily on notes and digital reminders.
 
 ### Have you ever forgotten something important?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I once forgot the deadline for an online assignment. I realised it only a few hours before the submission closed, so I had to rush and finish it under pressure. Since then, I have become more careful about checking my academic calendar.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I once forgot to reply to an important client email because it got buried under other messages. Nothing terrible happened, but it made me look less professional than I wanted. After that, I started flagging important emails immediately.
 
 ### What do you need to remember in your daily life?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I need to remember class schedules, assignment deadlines, exam dates, and small personal tasks like paying rent or buying groceries. Student life looks flexible, but there are actually many details to manage. If I do not write things down, I can easily miss something.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I need to remember meetings, deadlines, client requests, and personal errands. Workdays can change quickly, so relying only on memory is risky. I also need to remember birthdays and family plans because those relationships matter outside work.
 
 ### How do you remember important things?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I usually use a combination of phone reminders and handwritten to-do lists. For study content, I make short summaries and review them several times instead of trying to memorise everything at once. Repetition helps a lot.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I use a digital calendar, task apps, and sometimes sticky notes on my desk. For very important tasks, I set more than one reminder because I do not want to rely on memory alone. It may sound excessive, but it keeps me organised.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **memorise mechanically** (v phr) (/ˈmem.ə.raɪz məˈkæn.ɪ.kəl.i/): to memorise without real understanding | học thuộc máy móc
+- **decent** (adj) (/ˈdiː.sənt/): fairly good | khá ổn
+- **digital reminder** (n phr) (/ˈdɪdʒ.ɪ.təl rɪˈmaɪn.dər/): an electronic alert for a task | lời nhắc điện tử
+- **submission** (n) (/səbˈmɪʃ.ən/): the act of handing in work | việc nộp bài
+- **academic calendar** (n phr) (/ˌæk.əˈdem.ɪk ˈkæl.ən.dər/): a school or university schedule | lịch học vụ
+- **buried under messages** (adj phr) (/ˈber.id ˈʌn.dər ˈmes.ɪ.dʒɪz/): hidden among many messages | bị trôi/lẫn trong nhiều tin nhắn
+- **flag an email** (v phr) (/flæɡ ən ˈiː.meɪl/): to mark an email as important | đánh dấu email quan trọng
+- **to-do list** (n phr) (/təˈduː lɪst/): a list of tasks to complete | danh sách việc cần làm
+- **repetition** (n) (/ˌrep.əˈtɪʃ.ən/): doing or reviewing something again | sự lặp lại
+- **excessive** (adj) (/ɪkˈses.ɪv/): more than necessary | quá mức
 
 ## Dreams
 
@@ -2343,44 +2449,52 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Sometimes I can, but not always. I usually remember dreams clearly only when they are strange or connected to something I am worried about, like exams or missing a deadline. After a few minutes, though, the details often fade away.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I remember some dreams, especially when I wake up suddenly in the middle of one. They are often related to work stress, such as being late for a meeting or forgetting an important task. Most of the time, I forget them after breakfast.
 
 ### Do you share your dreams with others?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, but only if the dream is funny or unusual. I sometimes tell my roommates in the morning, and we laugh about how random dreams can be. I would not share very personal or scary dreams with everyone, though.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Occasionally, yes. If I have a dream that feels amusing or oddly realistic, I might mention it to a close friend or colleague. But I do not treat dreams too seriously, so I usually just talk about them briefly.
 
 ### Do you think dreams have special meanings?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I am not completely sure. I do not believe every dream predicts something, but I do think dreams can reflect our emotions. For example, when I am stressed, my dreams tend to become more chaotic.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I think some dreams may reveal what we are thinking about subconsciously. They do not necessarily have magical meanings, but they can show stress, fear, or hopes that we have not fully processed. So I find them interesting, but I would not base decisions on them.
 
 ### Do you want to make your dreams come true?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+If you mean life dreams, then yes, definitely. I want to build a stable career, support my family, and travel more in the future. I know those goals will take time, but having them gives me direction.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, of course. My dreams are not unrealistic; I mainly want a meaningful career, good health, and enough financial freedom to live comfortably. I try to turn those dreams into practical plans rather than just wishing for them.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **fade away** (phr v) (/feɪd əˈweɪ/): to slowly disappear | phai dần, mất dần
+- **work stress** (n phr) (/wɜːk stres/): pressure caused by work | căng thẳng công việc
+- **random** (adj) (/ˈræn.dəm/): without clear order or reason | ngẫu nhiên
+- **amusing** (adj) (/əˈmjuː.zɪŋ/): funny or entertaining | buồn cười, thú vị
+- **predict** (v) (/prɪˈdɪkt/): to say what will happen in the future | dự đoán
+- **chaotic** (adj) (/keɪˈɒt.ɪk/): confused and disorganised | hỗn loạn
+- **subconsciously** (adv) (/ˌsʌbˈkɒn.ʃəs.li/): without being fully aware | trong tiềm thức
+- **financial freedom** (n phr) (/faɪˈnæn.ʃəl ˈfriː.dəm/): enough money to make life choices freely | tự do tài chính
+- **practical plan** (n phr) (/ˈpræk.tɪ.kəl plæn/): a realistic plan that can be followed | kế hoạch thực tế
 
 ## Taking Photos
 
@@ -2388,54 +2502,63 @@ Yes, definitely. I think cities need more parks, benches, and pedestrian-friendl
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I do, especially when I hang out with friends or travel somewhere new. I like taking photos because they help me keep memories of ordinary student life, not just big events. Sometimes a simple cafe picture can remind me of a whole afternoon.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, but I take photos more selectively now. I usually photograph food, city views, or moments with friends and family. Since work life can be repetitive, photos help me notice small enjoyable moments.
 
 ### Do you like taking selfies?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, occasionally, especially when I am with friends. I do not take selfies every day, but they are fun when we want to capture a mood or remember a trip. I prefer natural selfies rather than heavily edited ones.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Not very much, to be honest. I take selfies when I travel or attend a special event, but I feel awkward doing it too often. I usually prefer taking photos of places or other people.
 
 ### What is your favourite family photo?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+My favourite family photo is one from a beach trip when I was in secondary school. Everyone looked a bit messy because of the wind, but we were all smiling naturally. It feels special because it captures a time when my whole family was together and relaxed.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+My favourite family photo was taken during Tet a few years ago. We were all standing in front of my grandparents' house, wearing simple but neat clothes. It is not a professional photo, but it reminds me of family warmth and tradition.
 
 ### Do you want to improve your photography skills?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I would like to improve them, especially composition and lighting. Since I enjoy design, better photography skills would help me create nicer posters and social media content. I do not need to become professional, but I want my photos to look more intentional.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I do. Good photography is useful for travel, personal branding, and even work presentations sometimes. I would like to learn how to frame shots better instead of just pointing my phone and hoping for the best.
 
 ### Do you like to print out your photos or just keep them on your phone or camera?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Most of the time, I keep photos on my phone because it is convenient and easy to share. However, I would like to print a few meaningful ones for my desk or scrapbook. Printed photos feel more personal.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I mostly keep photos digitally because it saves space and is easier to organise. But for important family photos, I think printing them is worth it. A framed photo at home feels warmer than an image hidden in a phone gallery.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **ordinary student life** (n phr) (/ˈɔː.dən.ər.i ˈstjuː.dənt laɪf/): normal daily life as a student | đời sống sinh viên thường ngày
+- **selectively** (adv) (/sɪˈlek.tɪv.li/): carefully choosing only some things | một cách có chọn lọc
+- **repetitive** (adj) (/rɪˈpet.ə.tɪv/): happening again and again | lặp đi lặp lại
+- **capture a mood** (v phr) (/ˈkæp.tʃər ə muːd/): to record a feeling or atmosphere | ghi lại tâm trạng/bầu không khí
+- **heavily edited** (adj phr) (/ˈhev.ɪ.li ˈed.ɪ.tɪd/): changed a lot using editing tools | chỉnh sửa quá nhiều
+- **composition** (n) (/ˌkɒm.pəˈzɪʃ.ən/): the arrangement of elements in a photo | bố cục
+- **intentional** (adj) (/ɪnˈten.ʃən.əl/): done with a clear purpose | có chủ đích
+- **personal branding** (n phr) (/ˈpɜː.sən.əl ˈbræn.dɪŋ/): how someone presents their image professionally | xây dựng thương hiệu cá nhân
+- **frame a shot** (v phr) (/freɪm ə ʃɒt/): to compose a photo before taking it | căn khung hình
+- **scrapbook** (n) (/ˈskræp.bʊk/): a book for keeping photos and memories | sổ lưu niệm
 
 # PART 1: NATURE, FOOD & SCHOOL LIFE
 

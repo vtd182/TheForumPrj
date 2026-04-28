@@ -1824,77 +1824,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The city I find most fascinating — and that I've spent a disproportionate amount of time reading about relative to my direct experience of it — is Kyoto, in Japan's Kansai region, which I first encountered through a documentary series about Japanese craft traditions that I watched during a school holiday about three years ago. Kyoto was Japan's imperial capital for over a millennium and retains an architectural and cultural density unusual even by Japanese standards: more than seventeen hundred Buddhist temples, several hundred Shinto shrines, and an urban fabric in which traditional wooden machiya townhouses sit beside modern infrastructure in a combination that feels less like a heritage zone than like a genuinely inhabited city that has never fully modernised. What makes it most interesting to me — beyond the visual quality, which is striking in itself — is the relationship between its preserved surface and its active living culture: the tea ceremony traditions, the weaving arts of Nishijin, the seasonal festival calendar that continues to structure civic life across centuries without feeling like performance tourism. It's a city that has maintained identity through an unusually deliberate kind of cultural continuity, which is interesting in itself as a model of how cities relate to their own histories.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The city that has occupied my professional imagination most persistently over the past few years is Singapore — partly for reasons directly connected to work, since several of our international partnerships involve Singapore-based counterparts, and partly because the city-state represents such an unusual configuration of policy, urban design, and economic development that it functions as a kind of ongoing experiment in urban governance that is consistently interesting to observe from a professional distance. Singapore's fame rests on several things simultaneously: its position as a global financial centre, its unusually efficient physical infrastructure, its deliberate multilingualism and multiculturalism as official state policies, and its reputation for effective and somewhat stringent governance. What I find most genuinely interesting about it professionally is the tension — which the city makes visible in an unusually articulated way — between economic openness and social control: Singapore maintains extraordinarily permeable economic borders while maintaining substantially tighter social and political borders, and the combination produces a city that is simultaneously one of the world's most internationally connected and one of the most carefully managed.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **machiya** (n) (/mɑːˈtʃiː.jɑː/): traditional Japanese wooden townhouse | nhà phố gỗ truyền thống Nhật Bản
+- **heritage zone** (n phr): an officially designated area preserved for its historical significance | khu vực di sản được bảo tồn
+- **civic life** (n phr): the activities and institutions that constitute community and public life | đời sống công dân, sinh hoạt cộng đồng
+- **city-state** (n) (/ˈsɪt.i.steɪt/): an independent state consisting of a city and its surrounding territory | thành bang
+- **multilingualism** (n) (/ˌmʌl.tiˈlɪŋ.ɡwə.lɪ.zəm/): the use of more than two languages | đa ngôn ngữ
+- **urban governance** (n phr): the way cities are managed and administered | quản trị đô thị
+- **cultural continuity** (n phr): the preservation and transmission of cultural practices across generations | sự liên tục văn hoá
+- **disproportionate** (adj) (/ˌdɪs.prəˈpɔː.ʃən.ət/): not in proportion; larger or smaller than expected | không tương xứng
+- **permeable** (adj) (/ˈpɜː.mi.ə.bəl/): allowing passage through; open | có thể thẩm thấu, thông thoáng
+- **imperial capital** (n phr): a city that serves as the seat of an empire's government | thủ đô đế chế
 
 ### 1. What advantages can tourism bring to a city?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Tourism's economic contribution to cities operates through several channels that tend to aggregate into substantial aggregate demand effects: direct spending by visitors on accommodation, food, transport, entertainment, and retail creates income for businesses across a range of sectors, and that income generates further local economic activity through the multiplier effect as business revenues circulate through local supply chains and wages. The urban infrastructure benefit is the second major advantage — tourism generates the revenue and political support for investment in cultural facilities, transport networks, public spaces, and environmental quality improvements that improve city quality for residents as well as visitors. The less commonly discussed advantage is the reputational effect: cities with strong tourism profiles benefit from international visibility that attracts foreign direct investment, international talent, and institutional partnerships beyond the tourism sector itself.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional urban economics analysis of tourism benefits identifies economic diversification as the most structurally significant long-term advantage for cities that successfully develop tourism as a major sector. Tourism distributes economic activity across a wider range of business types — hospitality, entertainment, craft, food production, transportation, cultural institutions — than most industrial or financial service concentrations, which creates a more resilient urban economy less vulnerable to single-sector downturns. The employment benefit is particularly significant for cities in developing economies: tourism generates substantial employment in sectors accessible to workers without highly specialised qualifications, which makes it an unusually effective inclusion mechanism for urban populations whose educational and skill profiles limit access to higher-barrier employment sectors.
 
 ### 2. Why do some young people like to live in cities?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Young people's preference for urban residence reflects a coherent set of calculations about where the conditions for the most important aspects of early adulthood — career development, social connection, cultural participation, and romantic partnership — are most reliably available. The labour market argument is the most straightforwardly economic: the density of employers, industries, and professional networks in cities creates substantially more diverse and higher-value employment opportunities than non-urban areas, and the option value of that density — the ability to switch jobs, change industries, and develop careers through proximity to multiple employers — is particularly valuable during the career-formation phase of early adulthood. The social density argument is equally powerful: cities provide the critical mass of young people with diverse interests and backgrounds that makes the formation of the social networks, friendships, and romantic partnerships that early adulthood prioritises substantially easier than in lower-density environments.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional urban sociology analysis of young people's residential preferences identifies the agglomeration of opportunity as the primary structural driver and the experience economy as the secondary cultural driver. Young adults in contemporary societies are extending the exploratory phase of early adulthood — the period of career experimentation, lifestyle diversification, and identity formation before the settling commitments of partnership, home ownership, and family — and cities are the environments that best support this extended exploration by providing the widest range of professional, social, cultural, and experiential options within a geographically accessible area. The tolerance and diversity argument is also significant: cities — particularly major urban centres — offer social environments characterised by greater acceptance of lifestyle diversity, identity experimentation, and non-conformity than more homogeneous suburban or rural environments, which makes them disproportionately attractive to young people whose identities or interests locate them outside mainstream cultural norms.
 
 ### 3. Do most elderly people live in the city or in the countryside?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The residential distribution of elderly populations varies substantially across countries and reflects the specific migration histories, welfare system structures, and housing market dynamics of each context rather than a universal pattern. In Vietnam, the pattern reflects the historical rural-urban migration dynamic: the parental generation of current urban migrants often remained in rural areas while their children moved to cities for work, which means that rural elderly populations are disproportionately concentrated and often without proximate family support — a demographic and welfare challenge that is increasingly recognised by policy makers but incompletely addressed by existing support structures. The urban elderly population is typically smaller as a share of the elderly total but has its own challenges: high accommodation costs, physical environments that are often poorly adapted to the needs of older people, and social isolation in high-density environments without the community structures that rural settings historically provided.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional urban planning and ageing policy perspective identifies the city/countryside distribution of elderly people as a function of three interacting factors: the original settlement patterns of cohorts now entering old age, the migration decisions made during their working-age years, and the residential decisions made specifically in response to retirement and ageing. In most developed economies, the pattern is increasingly urban: improved urban healthcare access, the concentration of specialist medical services in cities, and the proximity to adult children who have themselves urbanised draws elderly populations toward cities even as health and mobility decline makes urban living more physically challenging. The policy challenge this creates — designing urban environments that are genuinely liveable for people with reduced mobility, visual acuity, and social networks — is increasingly central to urban planning in rapidly ageing societies.
 
 ### 4. Do you think well-developed tourism will have negative effects on local people?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Well-developed tourism's negative effects on local populations are well-documented and include a cluster of impacts that tend to intensify as tourism volume increases beyond a threshold that the host environment and community can absorb without significant quality-of-life degradation. The most immediately visible effect is accommodation market displacement: high tourist demand for short-term rental properties in desirable urban areas drives housing costs upward and reduces the supply of long-term rental accommodation, displacing local residents from central areas they have historically occupied — a process documented across major tourist cities from Barcelona to Amsterdam to Hội An. The cultural commodification effect is equally significant if less economically measurable: the pressure to present local culture as consumable product for tourism audiences reshapes cultural practices in ways that gradually hollows out the authentic living character that originally attracted tourists, producing a feedback loop in which tourism success progressively undermines the quality it depends on.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional tourism impact analysis identifies the distribution of tourism benefits and costs between local communities and tourism industry operators as the central policy variable: tourism's negative effects on local populations are substantially reduced when local communities capture a significant share of tourism revenues and maintain meaningful agency over tourism development decisions in their areas. The overtourism phenomenon — where tourist volume exceeds the carrying capacity of a destination across dimensions including infrastructure, environmental quality, and social tolerance — has been identified across dozens of major global destinations and has produced a growing policy response including visitor caps, tourism taxes directed toward infrastructure and community benefit, and zoning restrictions on short-term rental accommodation. The professional consensus is that tourism's costs to local populations are not inherent to tourism development but are a consequence of governance failures that allow tourism revenues to be captured by external operators while distributing costs to local communities.
 
 ### 5. What are the benefits of urbanization?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Urbanisation's economic and social benefits are among the most consistently documented relationships in development economics: the correlation between urbanisation rates and economic growth, educational attainment, health outcomes, and access to public services is robust across development contexts and reflects the genuine productivity advantages that urban density creates. The agglomeration economy — the productivity gains that arise from the density of workers, firms, and knowledge in urban areas — is the primary economic mechanism: urban workers are substantially more productive than rural workers in equivalent occupations, partly because urban density facilitates knowledge transfer, specialisation, and the matching of workers' skills to firms' needs that diffuse rural environments cannot support at equivalent scale. The public services efficiency argument is equally important: the delivery of health, education, sanitation, and transport infrastructure is substantially more cost-effective per capita in dense urban environments than in dispersed rural ones, which means urbanisation creates the conditions for welfare improvements that rural populations at equivalent incomes cannot access.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional urban development analysis of urbanisation benefits places the human capital accumulation effect — urbanisation's role in expanding educational access, skill development, and social capital formation — alongside the more commonly cited economic productivity benefit. Urban educational institutions, professional networks, and exposure to diverse populations and employment models accelerate human capital development in ways that rural environments structurally cannot replicate at equivalent scale, and these human capital gains compound over generations to produce significant cross-generational welfare improvements. The gender equity dimension of urbanisation is particularly significant in developing country contexts: urbanisation is consistently associated with improvements in women's educational attainment, labour market participation, and autonomy — because urban labour markets value women's skills more equally than rural economic structures, urban social environments are more tolerant of women's independence, and urban geography provides greater physical separation from the family and community structures that enforce traditional gender constraints.
 
 ### 6. Do you think the big cities in China today will become even larger in the future?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+China's major cities are likely to continue growing over the next two to three decades, though the pace and pattern of that growth will be shaped by a set of policy and demographic forces that make simple extrapolation from current trends unreliable. The structural driver of continued growth is the urbanisation transition that China is still completing: despite already having some of the world's largest cities, China's urbanisation rate remains significantly below the levels typical of high-income economies, and the demographic pressure of rural-to-urban migration is likely to continue generating urban growth in major centres for at least another generation. The countervailing forces — including the government's explicit policy preference for directing urbanisation toward smaller and mid-sized cities rather than allowing further concentration in mega-cities, and the demographic headwind of China's declining birth rate — will moderate but are unlikely to reverse the trend toward continued growth in the largest cities.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional urban economics analysis of Chinese mega-city growth trajectories identifies the government's active spatial planning policy as the most distinctive and uncertain variable in any projection. China's urbanisation has been unusually shaped by deliberate policy intervention — including hukou registration systems that historically restricted rural-to-urban migration, special economic zone designations that channelled development into specific locations, and more recent infrastructure investment strategies like the cluster and corridor development model — in ways that make Chinese urban growth substantially more policy-sensitive than urbanisation in more market-driven economies. The current policy direction — investing heavily in transport infrastructure connecting second-tier cities, developing new urban clusters at distance from existing mega-cities, and restricting population growth in Beijing and Shanghai specifically — suggests that official policy will constrain the growth of the largest existing cities even as total urban population continues to expand.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **agglomeration economy** (n phr): productivity gains arising from clustering of firms and workers | lợi thế kinh tế tập trung
+- **overtourism** (n) (/ˌəʊ.vəˈtʊər.ɪ.zəm/): excessive tourist volumes that damage the host environment and community | hiện tượng du lịch quá tải
+- **carrying capacity** (n phr): the maximum number of visitors a destination can sustain without harm | sức chứa tối đa (của điểm đến)
+- **cultural commodification** (n phr): turning cultural practices into marketable products | thương mại hoá văn hoá
+- **hukou** (n) (/ˈhuː.kəʊ/): China's household registration system that ties social services to place of birth | hệ thống đăng ký hộ khẩu Trung Quốc
+- **human capital** (n phr): the economic value of a worker's skills, education, and experience | vốn con người
+- **spatial planning** (n phr): government policy guiding where development and population are distributed | quy hoạch không gian
+- **multiplier effect** (n phr): the amplified economic impact of initial spending as it circulates through an economy | hiệu ứng số nhân kinh tế
+- **mega-city** (n) (/ˈmeɡ.ə.sɪt.i/): a city with a population of more than ten million | siêu đô thị
+- **tolerance** (n) (/ˈtɒl.ər.əns/): willingness to accept differences and diversity | sự khoan dung, chấp nhận sự khác biệt
 
 ## Describe an item on which you spent more than expected
 
@@ -1908,77 +1926,98 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The purchase I most clearly remember as having exceeded my original budget was a mechanical keyboard — the kind designed for people who type a lot and care about the tactile quality of the keystroke — that I bought about a year and a half ago when I was looking for something to replace a cheap membrane keyboard that had started to give me wrist discomfort. I went into the search expecting to spend around 800,000 to a million đồng, which is what basic laptop-style keyboards cost, but discovered quite quickly that the mechanical keyboard market is stratified in a way I hadn't anticipated: there's a clear quality threshold at around two to three million, and beyond that a premium segment where the quality differences become more subtle but the prices increase substantially. I ended up spending about four million — roughly four times my initial expectation — on a keyboard that I'd been persuaded by a combination of online reviews, hands-on comparison in a store, and the specific ergonomic recommendation of a friend who types professionally. I've never regretted the purchase — it does make a genuine difference to the experience of extended typing — but the process of arriving at that number was essentially a controlled escalation that the keyboard community's culture of enthusiast comparison actively encourages.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The item on which I most substantially overspent relative to my initial expectation was my current laptop — not in the sense of an impulsive or regretted purchase, but in the sense that the specification I actually needed for the work I was doing at the time turned out to be significantly more demanding than the specification I'd budgeted for when I started the research process. I'd budgeted for a mid-range business laptop at around twenty to twenty-five million đồng, based on my understanding of what the work required — primarily document production, occasional video calls, and light data analysis. What the purchase research revealed fairly quickly was that the specific combination of features I genuinely needed — sufficient RAM for running several resource-intensive applications simultaneously, adequate processing power for video editing that I hadn't initially factored in, and a display quality adequate for extended working hours — pointed consistently toward a specification that started at around thirty-five million. The final purchase was thirty-eight million: within a range I could justify, but sixty percent above the original expectation, and a useful reminder that budgeting for major technology purchases based on the cheapest option in a category is rarely an accurate approach.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **mechanical keyboard** (n phr): a keyboard using individual mechanical switches for each key | bàn phím cơ học
+- **membrane keyboard** (n phr): a keyboard using a single pressure pad rather than individual switches | bàn phím màng
+- **tactile** (adj) (/ˈtæk.taɪl/): relating to the sense of touch; perceptible by touch | xúc giác, có thể cảm nhận qua chạm
+- **stratified** (adj) (/ˈstræt.ɪ.faɪd/): arranged in layers or levels according to quality or price | phân tầng, có cấp độ
+- **escalation** (n) (/ˌes.kəˈleɪ.ʃən/): a gradual increase in scope, intensity, or cost | sự leo thang, tăng dần
+- **specification** (n) (/ˌspes.ɪ.fɪˈkeɪ.ʃən/): the detailed description of a product's features and requirements | thông số kỹ thuật
+- **resource-intensive** (adj): requiring a large amount of computing power or memory | tiêu thụ nhiều tài nguyên (máy tính)
+- **ergonomic** (adj) (/ˌɜː.ɡəˈnɒm.ɪk/): designed for comfort and efficiency in use | công thái học, tiện dụng
+- **enthusiast** (n) (/ɪnˈθjuː.zi.æst/): a person with a strong interest in a particular activity or subject | người đam mê, tín đồ
+- **budget** (v) (/ˈbʌdʒ.ɪt/): to plan how much money to spend on something | lên ngân sách, dự trù chi phí
 
 ### 1. Do you often buy more than you expected?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The pattern of purchasing more than planned is widespread enough to have generated substantial research in consumer psychology, and reflects a predictable set of cognitive and environmental influences rather than simple impulsiveness — which means the honest answer for most people, including me, is yes, with the frequency varying substantially by shopping context. The retail environments and online platforms through which most purchasing now occurs are specifically designed to facilitate unplanned purchasing: recommendation algorithms, related product displays, bundle offers, and the frictionless checkout processes of e-commerce reduce the cognitive barriers to purchase addition in ways that systematically shift the planned-versus-unplanned ratio toward the latter. The specific vulnerability in my own purchasing is the research process: going into a purchase with inadequate information typically leads to discovering, in the course of researching the initially budgeted option, that adjacent higher-specification products offer meaningfully better value at a price increase that is easy to rationalise once the research has identified it.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional purchasing management perspective identifies the distinction between planned overspending — where additional expenditure beyond the original budget is a deliberate and justified response to new information discovered during the purchase process — and unplanned overspending driven by marketing influence, social pressure, or in-the-moment rationalisation. My own purchasing pattern leans toward the former: in professional and major personal purchases, the overspending that occurs is typically justified by specification requirements I hadn't fully anticipated, and the original budget was therefore insufficiently informed rather than simply exceeded. In everyday purchasing contexts — particularly food retail and app-store purchases — the pattern is closer to the latter: the accumulated small additions to a basket or subscription that seemed individually trivial add up to a meaningfully larger total than the initial intention.
 
 ### 2. What do you think young people spend most of their money on?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Young people's spending priorities reflect a predictable pattern shaped by life stage: the categories that absorb the largest shares of young adult discretionary income are those that serve the social, experiential, and identity functions that early adulthood prioritises — food and beverage social experiences, fashion and personal care, digital entertainment subscriptions, and technology. The social experience category is particularly significant: research on young adult spending consistently shows that food and dining out — which functions simultaneously as social bonding, experiential consumption, and identity expression — is among the highest-discretionary-spend categories for people in their late teens and twenties. The shift toward experiential spending — allocating discretionary income to travel, concerts, events, and activities rather than to material goods — is a well-documented trend among younger cohorts relative to previous generations, and reflects both the specific social media dynamics that make experiential sharing highly visible and the housing market circumstances that make asset accumulation through property purchase unattractive or inaccessible for many young people.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional consumer market research on young adult spending identifies digital products and services as a category whose share has grown more rapidly among young adults than any other — reflecting both the technological embeddedness of younger cohorts' social and professional lives and the subscription economy's success in converting what were previously one-time purchases into recurring revenue streams. The smartphone and its associated ecosystem of apps, platforms, and services represents a category of infrastructure spending — expenditure on tools that feel obligatory for social and professional participation — that has no real generational precedent, and whose cost when aggregated across subscriptions, hardware upgrades, and data services is substantially larger than most young adults consciously account for. The experiential category remains significant: research consistently shows that young adults prioritise spending on experiences over goods more strongly than older cohorts, which reflects both cultural values and a rational response to the constraints — limited living space, high mobility, uncertain career trajectories — of early adult life.
 
 ### 3. Do you think it is important to save money? Why?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Saving is important, but the degree and method of saving that is appropriate varies substantially with individual circumstances in ways that make universal prescriptions about saving rates misleading. The fundamental case for saving is the insurance argument: liquid savings provide the resource buffer that protects against financial shocks — unexpected medical costs, job loss, urgent home or vehicle repairs — whose probability is non-trivial across a multi-year horizon and whose financial impact, in the absence of savings, can be deeply disruptive to otherwise stable lives. The second argument is the compounding returns argument: savings invested over long time horizons — decades rather than years — benefit from the mathematical effect of compounding that makes early accumulation substantially more valuable than equivalent accumulation later, which means that the person who saves modestly from their early twenties will typically accumulate substantially more than the person who saves the same absolute amount from their thirties.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional personal finance perspective on saving importance identifies the distinction between precautionary saving — the emergency fund maintained as insurance against income disruption and unexpected costs — and goal-directed saving — the accumulation toward specific future expenditures including housing, education, and retirement — as the organisational framework most useful for practical saving behaviour. The professional consensus is that the precautionary fund — typically three to six months of essential expenditure in an accessible liquid form — is the highest priority saving objective because it provides the financial security foundation that makes all other financial planning coherent: without it, any unexpected disruption forces either debt or the liquidation of longer-term savings at potentially disadvantageous times. The retirement saving argument has gained additional urgency in the Vietnamese professional context as the shift from defined-benefit pension systems toward individual retirement saving responsibility — still in progress — transfers the risk and obligation of providing adequate retirement income from state and employer to individual.
 
 ### 4. Do people buy things they don't need?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Consumer psychology's most consistently robust finding is precisely this: people systematically purchase goods whose objective functional value to them is lower than their purchase price, driven by a well-catalogued set of cognitive and emotional mechanisms that marketing practice is specifically designed to exploit. The most powerful of these mechanisms is the gap between anticipated and experienced utility — the tendency to overestimate how much pleasure a good will provide before purchase relative to the pleasure it actually provides after — which produces a systematic bias toward purchasing goods in the belief that they will be more satisfying than they turn out to be. The second major mechanism is social signalling: many purchases are motivated substantially by their communicative function — what they convey about the purchaser's status, taste, and group membership — rather than by their functional utility, which means that the "need" being met is social rather than material and may be met at the price of goods substantially more expensive than their purely functional equivalents.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional behavioural economics analysis of unnecessary purchasing identifies the retail and e-commerce environment as an active participant in producing excess consumption rather than a neutral conduit for pre-existing consumer demand. The architecture of contemporary retail — both physical and digital — is specifically engineered to stimulate purchasing decisions that consumers would not have made without environmental cueing: through placement of high-margin products in high-attention locations, algorithmically personalised recommendations designed to surface goods the consumer is likely to want before the consumer has consciously identified the want, and frictionless payment systems that reduce the psychological resistance that would otherwise moderate impulse purchasing. The most effective individual countermeasures are structural: introducing mandatory delay between the identification of a want and its purchase satisfaction, maintaining a list-based purchasing discipline that routinises pre-commitment to specific goods, and consciously tracking the post-purchase utility of goods purchased on impulse — all of which increase the friction that retail environments are designed to eliminate.
 
 ### 5. Do you think it is the rich people's responsibility to donate money to people in need?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The question of whether wealthy individuals have a responsibility to donate to people in need is contested between positions that differ not primarily in empirical assessment but in foundational ethical commitments about the nature of property rights, social obligation, and the appropriate scope of voluntary versus institutional redistribution. The argument for moral responsibility rests most compellingly on the effective altruism reasoning developed by philosophers including Peter Singer: if a wealthy person could prevent significant suffering at modest personal cost, the failure to do so constitutes a moral choice with consequences comparable to actively causing that suffering — which is a position that is difficult to argue against without claiming that geographical and social distance creates moral distance, which most ethical frameworks reject. The argument for institutional redistribution rather than individual charity rests on the efficiency and reliability arguments: charitable giving is discretionary, arbitrary in its distribution, and subject to donor preferences that may not align with recipient need — whereas a well-administered tax and transfer system distributes resources according to need more reliably and at lower transaction cost than the charitable sector can achieve.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional development economics perspective on private philanthropy versus public redistribution identifies both mechanisms as complementary rather than as alternatives, with each having comparative advantages in different dimensions of poverty and inequality reduction. Private philanthropy — particularly the high-capacity institutional philanthropy characteristic of major foundations — has comparative advantages in funding experimental, risk-tolerant interventions that public budget processes are too politically conservative and accountability-constrained to support, and in addressing specific problem areas that fall outside political priorities at any given moment. Public redistribution — through taxation and social transfer systems — has comparative advantages in scale, reliability, universality, and democratic accountability: it can redistribute at the scale that addresses structural poverty in ways that even the largest private philanthropies cannot match, and it does so through processes that are at least theoretically subject to democratic oversight in ways that private philanthropic decisions are not.
 
 ### 6. What kind of things are people happy to pay a high price for?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The categories of goods and services whose customers are reliably willing to pay substantially above the commodity price for what is ostensibly the same core utility cluster around a set of psychological functions that distinguish them from purely functional purchases. The most significant is the identity-signalling function: goods whose possession communicates something about the owner's status, taste, or group membership — luxury fashion, premium vehicles, high-end technology, certain wines and foods — command substantial premiums over functional equivalents because the social communication value is itself a genuine utility that customers are paying for. The second category is the experience premium: goods and services where the quality of the experience substantially exceeds what cheaper alternatives provide — fine dining, premium travel, high-quality musical instruments, professionally crafted furniture — where the additional spend is justified by genuine qualitative differences in the experience itself rather than purely by signalling.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional consumer behaviour analysis of premium pricing acceptance identifies trust and reliability as the most commercially powerful premium justification across categories: consumers are consistently willing to pay premium prices for goods and services where the consequences of quality failure are high and where premium pricing is associated with credibly lower failure probability. Healthcare is the clearest example — the willingness to pay for higher-quality medical services, premium health insurance, or expensive specialist consultation reflects a combination of genuine quality difference and the high stakes of health outcomes. The same logic applies to professional services — legal advice, financial management, professional education — where the quality differential between premium and commodity providers can have substantial and lasting consequences, and where the cost of the cheaper option's failure substantially exceeds the premium cost of the better option.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **discretionary income** (n phr): income remaining after essential expenses, available for optional spending | thu nhập tùy ý (sau khi trừ chi phí bắt buộc)
+- **impulse purchase** (n phr): a buying decision made without prior planning | mua hàng bốc đồng
+- **compounding returns** (n phr): earnings calculated on both the initial amount and accumulated interest | lợi nhuận kép
+- **precautionary saving** (n phr): money set aside to cover unexpected costs | tiết kiệm phòng ngừa
+- **effective altruism** (n phr): a philosophy advocating using evidence to maximise the good one does with resources | chủ nghĩa vị tha hiệu quả
+- **premium pricing** (n phr): charging a higher price based on perceived quality or exclusivity | định giá cao cấp
+- **identity-signalling** (adj phr): relating to goods used to communicate social status or group membership | phát tín hiệu bản sắc
+- **defined-benefit pension** (n phr): a retirement plan guaranteeing a fixed income regardless of investment performance | lương hưu xác định lợi ích
+- **retail architecture** (n phr): the deliberate design of shopping environments to influence purchasing behaviour | kiến trúc bán lẻ (thiết kế môi trường mua sắm)
+- **liquidity** (n) (/lɪˈkwɪd.ɪ.ti/): the ease with which an asset can be converted into cash | tính thanh khoản
+
+
+
 
 ## Describe a time when you felt proud of a family member
 
@@ -2322,77 +2361,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The occasion that comes to mind most readily is the last session of a ten-week community reading programme that my university's literature club organised in a neighbourhood library — an event that ended in a way none of us had planned.
+
+We had been running weekly sessions for elderly residents, mostly reading aloud from Vietnamese short stories and occasionally discussing them. The final session was supposed to be a simple closing ceremony, but one of the elderly participants — a seventy-eight-year-old woman named Bà Hạnh — had prepared, without telling anyone, a short poem she had written during the programme, inspired by one of the stories we had read together. She stood up and read it with complete composure and evident enjoyment. It was a genuinely accomplished piece, formally attentive and emotionally precise.
+
+When she finished, the room was briefly silent and then everyone smiled — not a polite social smile but one that comes when something unexpected is also unexpectedly good. It was the particular smile of shared recognition: everyone in that room had just witnessed something they had not anticipated and did not have words for, and the smiling was the only adequate response available.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The occasion I think of most readily is the moment during a team debrief meeting — which I was facilitating — when a very junior team member gave a five-minute presentation that was, by a considerable margin, the best piece of analytical work produced by anyone in the project.
+
+The project had been running for four months and had been difficult in the way that complex institutional projects usually are — scope disagreements, resource constraints, interpersonal friction between senior team members. The junior analyst, who had worked primarily in the background throughout, had noticed a data pattern that no one else had identified and had prepared a concise, precise, and clearly communicated summary of its implications in her limited spare time, without being asked.
+
+When she finished, there was a pause, and then I noticed that almost everyone in the room was smiling — including the two senior team members who had been in significant disagreement with each other throughout the project. What that smile expressed, I think, was something like gratitude: gratitude that the work had produced something genuinely good, that the difficulty had been worth it, and that someone in the team had simply done excellent work without requiring recognition as the condition of doing it.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **composure** (n) (/kəmˈpəʊ.ʒər/): calmness and self-control, especially in difficult situations | sự bình thản, điềm tĩnh
+- **debrief** (n) (/ˌdiːˈbriːf/): a meeting to review and discuss what happened during a project or event | buổi tổng kết, báo cáo sau sự kiện
+- **attentive** (adj) (/əˈten.tɪv/): paying close and careful attention | chú tâm, cẩn thận
+- **gratitude** (n) (/ˈɡræt.ɪ.tjuːd/): the feeling of being thankful | lòng biết ơn
+- **interpersonal** (adj) (/ˌɪn.tə.ˈpɜː.sən.əl/): relating to relationships between people | giữa người với người
+- **scope** (n) (/skəʊp/): the range or extent of something | phạm vi
+- **concise** (adj) (/kənˈsaɪs/): expressed clearly and briefly | súc tích
+- **composure** (n): calmness under pressure | sự điềm tĩnh
+- **anticipate** (v) (/ænˈtɪs.ɪ.peɪt/): to expect or predict something in advance | dự đoán, đoán trước
+- **implicit** (adj) (/ɪmˈplɪs.ɪt/): suggested without being directly stated | ngầm hiểu
 
 ### 1. Do you think people who like to smile are more friendly?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The relationship between smiling and friendliness is directionally true but less simply causal than the popular claim implies. Smiling functions as a social signal that reduces the perceived threat or uncertainty of interaction, and people who smile readily do tend to be experienced as more approachable — which in turn generates more social interaction and the relational warmth that sustains it. However, the relationship runs in both directions: friendly people smile more, and smiling more produces more friendly interactions, so the causal arrow is not cleanly unidirectional. Cultures and individuals also differ substantially in how much smiling is appropriate in public contexts, so reading frequent smiling as friendliness — and infrequent smiling as unfriendliness — is a cultural inference that does not generalise globally.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The inference from smiling to friendliness is one that social psychology research examines with considerable nuance: smiling does consistently increase social approval and approach behaviour in others, and people who smile more are rated as warmer and more trustworthy in first impressions. However, the relationship is complicated by the well-documented cultural variation in display rules — the norms governing when and how much emotional expression is appropriate — that mean a Vietnamese professional's relatively infrequent public smiling and an American colleague's near-constant one may both represent equally warm interpersonal orientations expressed in culturally different registers. The practical implication for cross-cultural professional environments is that inferring character from smile frequency is an unreliable heuristic that can generate systematically misleading interpersonal assessments.
 
 ### 2. Why do most people smile in photographs?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The convention of smiling in photographs is a relatively recent historical development that became dominant during the twentieth century as photography shifted from formal portraiture to informal social documentation. The functional explanation is that photographs serve as social artefacts — shared memories, communication tools, identity presentations — and smiling in them signals that the moment captured was positive, that the relationships depicted are warm, and that the person photographed wishes to be remembered as happy and approachable. The convention has also been reinforced by decades of photographic instruction that literally tells subjects to smile, creating a behavioural norm that is now largely automatic. That automaticity means that many photographic smiles are performative rather than expressive — a social compliance signal rather than a genuine emotional readout.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The norm of photographic smiling reflects the social function that photographs serve in contemporary culture more than the emotional states of the people in them. Photographs circulate as social signals — on social media, in family albums, in professional profiles — and the smile functions as a shorthand for the social message the photographer and subject wish to convey: that they are happy, that the occasion was good, and that their relationships are warm. The performative nature of most photographic smiling does not necessarily make it insincere; it is rather a form of social communication that uses the body the way a caption uses words. The interesting exception is in serious photographic portraiture, where the absence of the smile is itself communicative — signalling that the subject is asking to be seen as a full person rather than as a social artefact.
 
 ### 3. Do women smile more than men? Why?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Research does consistently find that women smile more frequently than men in social contexts, and the most compelling explanations are social rather than biological. Women are socialised from early childhood to use smiling as a social-affiliative behaviour — to signal agreement, warmth, and non-threat — and the social costs of violating this expectation are higher for women than for men in most cultural contexts. Men, by contrast, are socialised in many cultures toward expressions that signal competence, authority, and emotional control, for which excessive smiling may be negatively coded. These patterns are culturally variable rather than universal: in more gender-egalitarian cultural contexts, the gender difference in smiling frequency is smaller, which strongly suggests that the pattern is socially constructed rather than biologically determined.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The gender differential in smiling frequency is well-documented across cultures, though its magnitude and expression vary considerably, and the explanation is primarily social rather than innate. Women's higher smiling frequency reflects the convergence of socialisation norms that associate warmth and social attentiveness with femininity, professional contexts in which women may use smiling strategically to manage the social costs of authority and competence, and the genuinely higher social penalties that women face for emotional expressions perceived as cold or unfriendly. The organisational implication deserves attention: in professional contexts, the expectation that women should smile more frequently than men constitutes an asymmetric performance demand that imposes real costs — in terms of emotional labour and the undermining of authoritative positioning — that organisations concerned with gender equity should examine explicitly.
 
 ### 4. Do people smile more when they are younger or older?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The relationship between age and smiling frequency is not as straightforwardly linear as the common assumption — that children smile most and elderly people least — would suggest. Young children do smile frequently, largely because social referencing and the genuine novelty of most experiences produce regular positive affect. Adolescents and young adults typically smile less in public contexts, partly because of increased self-consciousness and the social costs of displaying vulnerability. Research on emotional experience in older adulthood, however, consistently finds that older adults report more positive affect, greater emotional regulation capacity, and a higher proportion of positive to negative emotional experiences than younger adults — a finding that suggests older people may genuinely have more reasons to smile, even if they do so less publicly.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The developmental trajectory of smiling is more complex than simple age-based intuitions suggest. Children's high smiling frequency reflects both genuine positive affect from novel experiences and a less developed understanding of the social management of emotional expression; adolescents and young adults develop more sophisticated social self-monitoring that typically reduces public emotional display. The more counterintuitive finding is from positive psychology research on ageing: older adults — particularly those who have developed what psychologists call socioemotional selectivity — focus more on meaningful relationships and present positive experience than on achieving future goals, which produces a genuine positive affect advantage over younger comparison groups. The implication is that whatever smiling expresses, it may reflect accumulated wisdom about what matters as much as simple good fortune.
 
 ### 5. Is smiling important in your culture?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Smiling holds an ambivalent position in Vietnamese social culture that is somewhat misunderstood by outsiders: it is simultaneously highly valued as a marker of sociability and warmth in specific interpersonal contexts, and subject to significantly more restrictive display norms in formal, professional, and public-facing contexts than smiling conventions in, for instance, American or Australian cultures. The phrase "nụ cười" — literally "the smile bud" — carries poetic and social weight in Vietnamese, and smiling at the right moment in the right relational context is a deeply valued social act. The important cultural specificity is that smiling is primarily relationship-indexed rather than ambient: it is directed at specific people in specific relational contexts rather than deployed as a general social lubricant with strangers, which is the pattern that leads outsiders to perceive Vietnamese public culture as reserved.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+In professional Vietnamese culture, smiling signals are more context-specific and more carefully managed than they are in Western professional cultures, and the underlying social logic is worth articulating clearly. Smiling at a client, a senior colleague, or a service provider in appropriate contexts signals warmth, respect, and relational attentiveness — all highly valued in Vietnamese professional norms. Smiling inappropriately — during a criticism, a formal address, or a moment of institutional gravity — signals a lack of seriousness that is negatively interpreted. The most practically important cultural competence for cross-cultural professionals working with Vietnamese counterparts is therefore not to smile more or less, but to develop the contextual sensitivity to understand when smiling expresses appropriate warmth and when it undermines one's communicative intent.
 
 ### 6. Are there any occasions when people need to pretend to smile?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Performative smiling — what psychologists call a "social smile" or a "Duchenne marker-absent smile" — is both extremely common and socially necessary in most cultural contexts. The occasions that most reliably require it include service interactions where genuine warmth is absent but social smoothness is necessary, formal ceremonies where group positive affect is a social requirement regardless of individual feeling, and professional contexts where displaying genuine emotion would impose costs on the displayer or discomfort on others. The ethical question this raises is not whether performative smiling is deceptive — social life would be considerably more unpleasant if everyone expressed only authentic emotion — but whether the expectation that certain people must smile more than others regardless of how they feel constitutes an unfair emotional labour requirement.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Performative smiling is an unavoidable component of professional and social life, and dismissing it as simply "fake" misses the genuine social function it serves. In service contexts — hospitality, healthcare, education, customer relations — the display of warmth through smiling is a professional skill that enables better interactions for the recipients of the service, regardless of whether the provider is genuinely feeling what they express. The concept of emotional labour, developed by sociologist Arlie Hochschild, captures the real cost of sustained performative emotional display: when required continuously over long time periods without appropriate recovery, it produces genuine psychological wear. The organisational implication is that managing the emotional labour demands on service workers — through adequate recovery time, genuine relational support from managers, and recognition of the skill involved — is a genuine and often underattended component of workplace wellbeing.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **display rules** (n phr): cultural norms about which emotions are appropriate to express | quy tắc biểu đạt cảm xúc
+- **social artefact** (n phr): an object or behaviour that carries social meaning | hiện vật/biểu hiện mang ý nghĩa xã hội
+- **performative** (adj) (/pəˈfɔː.mə.tɪv/): done for social effect rather than genuine expression | mang tính trình diễn
+- **affiliative** (adj) (/əˈfɪl.i.ə.tɪv/): relating to a desire for social connection and belonging | liên kết, gắn kết xã hội
+- **socioemotional selectivity** (n phr): an age-related tendency to prioritise meaningful goals and relationships | tính chọn lọc cảm xúc xã hội
+- **emotional labour** (n phr): the effort of managing one's emotions as part of a job | lao động cảm xúc
+- **self-monitoring** (n phr): the ability to regulate one's own behaviour based on social cues | tự điều chỉnh hành vi
+- **positive affect** (n phr): the experience of positive emotional states | cảm xúc tích cực
+- **gender norms** (n phr): social expectations about how men and women should behave | chuẩn mực giới
+- **cross-cultural** (adj) (/ˌkrɒs.ˈkʌl.tʃər.əl/): involving or comparing different cultures | liên văn hóa
 
 ## Describe an occasion when you were not allowed to use your mobile phone
 
@@ -2406,77 +2471,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The occasion I remember most clearly is a ten-day academic field camp I attended at the end of my second year of university, organised by the faculty of social sciences for students working on research methodology.
+
+The camp was held at a residential centre in the mountains of Lâm Đồng, and the coordinator announced on the first evening that phones were to be surrendered each morning after breakfast and returned each evening after dinner — the rationale being that the value of the programme depended on sustained, uninterrupted attention, and that the presence of phones had historically made that impossible. I was frustrated initially and mildly resentful, which I now recognise as a more significant data point about my own phone dependency than I found comfortable at the time.
+
+What I did not anticipate was how quickly the absence normalised. By the third day I noticed I was not missing it between sessions, and by the fifth day I found the pace of conversation, thinking, and discussion during the phone-free hours qualitatively different from anything I experienced in ordinary university life — slower, more sustained, and more genuinely responsive to what was actually being said. It remains the most intellectually productive ten-day period of my student life.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The situation I would describe is a two-day senior leadership retreat organised by my organisation's executive team, which included an explicit and enforced rule that phones were not permitted in any of the working sessions.
+
+I was attending as a mid-level participant — invited to contribute a perspective rather than to lead — and the no-phone rule was explained in terms I found entirely convincing: senior executives are among the most distracted people in organisations precisely because they are most in demand, and the condition of genuinely strategic thinking requires the kind of sustained attention that continuous availability makes impossible. The rule was enforced not by collection but by the social norm of the room: when one person's phone appeared briefly on the table, the discomfort it produced was immediate and effective.
+
+What I noticed most acutely was the difference in the quality of listening. Without the persistent exit option that a phone provides — the possibility of retreat into a private screen — people were present in the discussion in an unusually full way: they maintained eye contact longer, they followed arguments to their conclusions, and they responded to what had actually been said rather than to a version of it processed through partial attention. The retreat produced more genuinely useful strategic thinking than any meeting I have attended with phones present.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **surrender** (v) (/səˈren.dər/): to hand something over, especially by requirement | nộp lại, giao nộp
+- **resentful** (adj) (/rɪˈzent.fəl/): feeling bitterness or indignation about something | bực bội, cảm thấy bực bội
+- **normalise** (v) (/ˈnɔː.mə.laɪz/): to become or make acceptable and ordinary | trở nên bình thường, quen dần
+- **dependency** (n) (/dɪˈpen.dən.si/): the state of relying too much on something | sự phụ thuộc
+- **rationale** (n) (/ˌræʃ.əˈnɑːl/): the underlying reasons for a decision | cơ sở lý luận, lý do
+- **retreat** (n) (/rɪˈtriːt/): a period spent away from normal work for reflection or training | kỳ rút lui/tĩnh tâm
+- **strategic** (adj) (/strəˈtiː.dʒɪk/): relating to careful planning for long-term goals | mang tính chiến lược
+- **uninterrupted** (adj) (/ˌʌn.ɪn.təˈrʌp.tɪd/): continuing without being stopped | không bị gián đoạn
+- **enforce** (v) (/ɪnˈfɔːs/): to make sure a rule is followed | thực thi (quy tắc)
+- **sustained attention** (n phr): the ability to maintain focus over a long period | sự chú ý bền vững
 
 ### 1. How do young and old people use mobile phones differently?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The generational divide in mobile phone use reflects both different formative relationships to the technology and different functional needs at different life stages. Young people — particularly those who grew up with smartphones — tend to use them as continuous, ambient presences that mediate social life, entertainment, identity construction, and navigation simultaneously; the phone is less a tool that is picked up for specific tasks than an environmental constant that is occasionally put down. Older adults, who typically adopted smartphones as supplementary tools added to existing communication and information habits, tend to use them more instrumentally — for specific tasks like calls, maps, and information lookup — and with greater conscious intentionality. The difference is not simply a matter of digital literacy but of whether the phone was adopted into an already-formed adult life or whether the adult life was formed in a world where the phone was already present.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The functional difference in mobile phone use across age groups reflects the different stage at which each cohort encountered the technology and the different social ecosystems it has been used to access. For young people, the smartphone is the primary infrastructure through which social relationship management, entertainment, identity expression, and information access all occur simultaneously — the boundary between "using the phone" and "living life" is genuinely permeable. For older adults, the phone remains a communication and information tool added onto social and professional lives that were already structured without it, producing a more bounded and purposive usage pattern. The professional implication of this difference — for workplace design, communication norms, and digital wellbeing policy — is that interventions calibrated to the usage patterns of one cohort will be systematically miscalibrated for the other.
 
 ### 2. What positive and negative impact do mobile phones have on friendship?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Mobile phones have both expanded the conditions under which friendship can be maintained and introduced new forms of friction and misunderstanding that are genuinely novel to human social life. The positive impact is primarily relational continuity: phones allow friendships to sustain across distances and time gaps that would previously have caused them to fade, and the availability of low-friction contact means that casual mutual awareness — knowing broadly what a friend is doing without a specific conversation — is now possible in ways that were not previously. The negative impacts are more varied: the availability of the phone as an alternative to present attention creates a persistent temptation toward partial presence in in-person interactions; social media dimensions of phone use introduce new forms of social comparison and status anxiety into friendship dynamics; and the asynchronous nature of text communication removes the paralinguistic cues — tone, timing, body language — that make in-person communication less prone to misinterpretation.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The relationship between mobile phone use and friendship quality is one of the most actively researched areas in contemporary social psychology, and the findings are more nuanced than either "phones destroy friendship" or "phones enhance it" captures. The clearest positive finding is that phones do help maintain geographically dispersed friendships and enable the kind of low-cost, casual contact that sustains emotional connection between people who cannot meet frequently. The clearest negative finding concerns the cost of concurrent phone use during in-person interactions: research consistently shows that the mere presence of a phone on a table between two people reduces the depth and quality of conversation, even when neither person uses it, because both parties are aware of the option to withdraw. The relationship between phones and friendship is therefore best understood as a design problem: the question is not whether to use them in friendship but how to manage their presence and absence to preserve the quality of attention that friendship requires.
 
 ### 3. Is it a waste of time to take pictures with mobile phones?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The claim that mobile photography is a waste of time reflects a particular view of photography as either a high-art practice or a purely instrumental memory-recording function — and on both grounds, casual phone photography falls short. But this framing dismisses the genuine social function that mobile photography serves in contemporary life, which is not primarily archival or artistic but communicative: photos taken on phones are typically shared immediately, used as conversation starters, and experienced as a form of social participation rather than documentation. The more substantive concern is not that phone photography wastes time but that the orientation toward capturing an experience can substitute for living it — the habit of photographing a meal, a view, or an event rather than attending to it directly does carry a real experiential cost that the social benefits do not always compensate for.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The question of whether mobile photography is a waste of time is best approached as a question about what the activity is actually for, which varies considerably across individuals and contexts. At its best, phone photography is a form of attentive looking — noticing what is worth recording, which is a perceptual practice with real value — and a communicative tool that enables the sharing of experience across social networks in ways that sustain connection. At its worst, it is an anxiety-driven performance of experience rather than actual experience: photographing something as a substitute for genuine engagement with it, or as a social positioning gesture rather than an act of genuine attention. The productive question for individuals is not whether to photograph at all but whether their photograph-taking is preceded by genuine attention to the thing being photographed or is itself the mechanism that forecloses that attention.
 
 ### 4. Do you think it is necessary to have laws on the use of mobile phones?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Legal regulation of mobile phone use is clearly justified in the contexts where it already exists — primarily driving, where the evidence on phone-related impairment of driving performance is unambiguous and the risk is borne by third parties — and considerably more contested in other contexts. The case for regulation rests on the well-documented externalities of certain phone use patterns: distracted driving is the clearest case, but the public health effects of sustained social media use on adolescent mental health, and the effects of phone-based distraction in certain professional settings, are emerging as additional areas where voluntary individual behaviour consistently fails to produce socially optimal outcomes. The strongest objection to broader regulation is its difficulty of enforcement and the risk of producing surveillance infrastructure — the mechanisms required to enforce phone use restrictions — that creates greater harms than the phone use it aims to regulate.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The policy case for mobile phone regulation is most clearly established in contexts where the harm of phone use is borne by people other than the user — driving being the paradigm case — and less clear in contexts where the harms are primarily to the user themselves, where paternalism concerns are more weighty. The emerging debate about age restrictions on social media access and smartphone ownership for children reflects a substantive policy question about the appropriate scope of protective regulation: there is growing evidence that unrestricted early smartphone access produces measurable mental health harms in adolescents, and the question of whether parents alone can be trusted to manage this risk is a genuine and important one. The most defensible regulatory approach is targeted and evidence-based: focus regulation on uses where external harm is clear and significant, provide robust public education and institutional support for contexts where harm is primarily to the user, and build the evidentiary basis for broader regulation carefully rather than reactively.
 
 ### 5. What are examples of good and poor phone manners?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Good phone manners are fundamentally a subset of good social manners: they require being aware of how one's phone use affects others and treating that effect as a moral consideration rather than an inconvenience. The clearest examples of good manner are contextual: silencing or storing the phone when in a meeting, a meaningful conversation, or a social occasion; responding to messages at appropriate times rather than mid-conversation; and asking permission before photographing or sharing images of others. Poor manners are the inverse: answering calls or checking notifications during conversations without acknowledgement; using a phone in contexts — funerals, medical consultations, classroom instruction, intimate meals — where the implied disrespect is clear; and using speakerphone in shared public spaces without regard for others.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The norms of phone etiquette in professional contexts are becoming more explicitly codified as organisations respond to the effects of ubiquitous phone presence on meeting quality and professional relationships. In professional settings, the clearest markers of good phone manners are: placing the phone face-down or out of sight during meetings and conversations, notifying others if you must take an urgent call in advance and apologising briefly when you do, and matching your phone use expectations to those of the most senior person in the room unless explicit norms have been established otherwise. Poor manners in professional contexts — checking phones during presentations, texting visibly during conversations, using phones in a way that signals that the current interaction is less important than the phone — are damaging not only to the immediate interaction but to the professional's reputation for attentiveness and respect. The most productive organisational approach is to establish explicit meeting phone norms rather than relying on implicit professional socialisation that produces uneven outcomes.
 
 ### 6. How does the internet benefit people?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The benefits of internet access are so broadly distributed across domains of human activity that cataloguing them risks both understatement and a kind of completeness that obscures what is most important. The most transformative benefits are in information access — the internet has removed geographic and economic barriers to knowledge that previously confined high-quality education and professional information to those with access to specialist libraries and universities — and in communication, where it has made possible forms of social connection across distance that were previously either impossible or prohibitively expensive. The second-order benefit that is perhaps most significant for long-term human welfare is the democratisation of production and publication: the internet allows individuals and small organisations to communicate, create, and distribute content without requiring the institutional gatekeepers that controlled these functions in all prior media systems.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The economic and social benefits of internet access are among the most robustly evidenced development findings of the past two decades: access to reliable, affordable internet is correlated with gains in educational attainment, income, health outcomes, and civic participation across a wide range of country and demographic contexts. The mechanism operates through multiple channels simultaneously — access to information, access to markets, access to financial services, access to social and professional networks — all of which compound in ways that make internet access among the highest-return public infrastructure investments available to governments. The distributional dimension deserves equal attention: the benefits of internet access are not evenly distributed, and the gap between those with high-quality, affordable, reliable access and those with restricted, expensive, or no access represents one of the most significant and fastest-growing dimensions of contemporary inequality.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **ambient** (adj) (/ˈæm.bi.ənt/): present and surrounding in an environment, often unnoticed | xung quanh, hiện diện khắp nơi
+- **paralinguistic** (adj) (/ˌpær.ə.lɪŋˈɡwɪs.tɪk/): relating to vocal and non-verbal cues that accompany speech | cận ngôn ngữ
+- **instrumentally** (adv) (/ɪnˈstrʌ.men.tə.li/): used as a means to an end | mang tính công cụ
+- **paternalism** (n) (/pəˈtɜː.nə.lɪ.zəm/): restricting someone's freedom for their own good | chủ nghĩa bảo hộ (can thiệp vì lợi ích người khác)
+- **externality** (n) (/ˌek.stəˈnæl.ɪ.ti/): a cost or benefit that affects a third party | ngoại ứng (tác động ngoài)
+- **gatekeeping** (n) (/ˈɡeɪt.kiː.pɪŋ/): controlling access to information or resources | kiểm soát quyền truy cập
+- **etiquette** (n) (/ˈet.ɪ.kɪt/): the customary code of polite behaviour | lễ nghi, phép lịch sự
+- **democratisation** (n) (/dɪˌmɒk.rə.taɪˈzeɪ.ʃən/): making something accessible to all | dân chủ hóa
+- **infrastructural** (adj) (/ˌɪn.frə.ˈstrʌk.tʃər.əl/): relating to the basic systems and services | thuộc cơ sở hạ tầng
+- **cognitive impairment** (n phr): a reduction in mental abilities such as attention or memory | suy giảm nhận thức
 
 ## Describe a time when you encouraged someone to do something that he/she didn't want to do
 
@@ -2490,77 +2581,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The person I encouraged was my closest friend at university, Hoàng, who is by temperament thoughtful and reserved and had been working on a research essay for our academic writing course that I genuinely believed was the best thing either of us had produced that semester.
+
+The essay examined the social effects of rapid urban development on traditional neighbourhood networks in Hanoi, and it drew on both original fieldwork and secondary sources in a way that I found intellectually serious and original. When Hoàng said he was going to submit it without entering it in the faculty essay competition — on the grounds that he "didn't think it was ready" and didn't want the attention — I pushed back, not aggressively but persistently over three conversations, and eventually persuaded him to submit it.
+
+He won the competition. His reaction when he was announced as the winner was characteristically understated — a quiet "I suppose you were right" — but what I found more interesting than the outcome was the process: his reluctance was not really about the essay's quality, which I think he knew was strong, but about the discomfort of being visible and evaluated. Encouraging him was less a matter of persuading him about the work than of helping him distinguish between a well-founded concern about quality and an unfounded concern about exposure.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The occasion that comes to mind involved a more senior colleague — I will call her Dr. Ngọc — who had been working on an academic paper for three years and had not submitted it for publication because she considered it "not yet finished."
+
+I had read a draft of the paper at her request and found it to be well-argued, grounded in strong evidence, and significantly more complete than she appeared to believe. Over several conversations, I raised the point — carefully, because she is senior to me and this required some navigational care — that the paper reflected a standard of completion that was well above the publication threshold for the journal she was targeting, and that continued revision without submission was not improving it in the ways she had identified but was reducing her confidence in it through overexposure. Her initial reaction was defensive: she had specific concerns about two sections that she considered inadequately developed.
+
+We agreed that she would share those sections with a trusted methodologist colleague, who confirmed that neither concern was substantive. She submitted the paper the following month, it was accepted with minor revisions, and she told me afterwards that the most useful thing I had done was not provide reassurance about the work but name the dynamic clearly — that the obstacle was not the paper but the accumulated anxiety of having worked on it for too long. That is the kind of encouragement I think is genuinely useful: not cheerleading, but diagnostic honesty delivered with care.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **temperament** (n) (/ˈtem.prə.mənt/): a person's natural way of thinking, behaving, or reacting | tính khí, khí chất
+- **persistent** (adj) (/pəˈsɪs.tənt/): continuing firmly in a course of action despite difficulty | kiên trì
+- **understated** (adj) (/ˌʌn.dəˈsteɪ.tɪd/): expressed or described with less emphasis than expected | kiệm lời, không phô trương
+- **diagnostic honesty** (n phr): the act of clearly naming what the real problem is | sự thành thật mang tính chẩn đoán
+- **exposure** (n) (/ɪkˈspəʊ.ʒər/): the state of being publicly visible or evaluated | sự phơi bày, công khai
+- **threshold** (n) (/ˈθreʃ.həʊld/): the level at which something begins or is considered sufficient | ngưỡng
+- **overexposure** (n) (/ˌəʊ.vər.ɪkˈspəʊ.ʒər/): excessive familiarity with something causing reduced perspective | tiếp xúc quá mức
+- **methodologist** (n) (/ˌmeθ.əˈdɒl.ə.dʒɪst/): an expert in research methods | chuyên gia về phương pháp nghiên cứu
+- **reassurance** (n) (/ˌriː.əˈʃʊər.əns/): the act of removing doubts and fears | sự trấn an, củng cố niềm tin
+- **navigational care** (n phr): tactful management of a sensitive social situation | sự khéo léo trong giao tiếp
 
 ### 1. How can leaders encourage their employees?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Effective leadership encouragement operates primarily through two mechanisms that are more distinct than they might appear: providing genuine recognition of specific contributions, and creating conditions in which the work itself is inherently motivating. The first mechanism — recognition — is most powerful when it is specific, timely, and accurate: a leader who notices and names precisely what an employee did well, and articulates why it mattered, produces a much more durable motivational effect than one who offers generic praise. The second mechanism — work design — is arguably more important for sustained motivation: employees who have appropriate autonomy, clear and meaningful goals, and sufficient challenge consistently report higher engagement than those who have the same level of recognition but in work that is tediously designed. The most effective leaders attend to both, recognising that recognition without meaningful work produces hollow compliance, while meaningful work without recognition produces unnecessary attrition.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Leadership encouragement in professional contexts is most effective when it operates on the level of developing employees' self-efficacy — their belief in their own capacity to succeed — rather than simply generating positive affect. Specific, evidence-based feedback that identifies what an employee did well and connects it to their underlying capabilities ("you did this because you have the capacity to...") produces more durable motivational outcomes than generalised praise. Leaders who give employees progressively more challenging work accompanied by genuine support — which means providing resources, removing obstacles, and maintaining confidence when employees doubt themselves — build the kind of self-belief that is far more resilient than mood-based encouragement. The critical leadership skill is calibration: encouragement that consistently outpaces actual performance produces overconfidence; encouragement calibrated just above current capability produces genuine development.
 
 ### 2. When should parents encourage their children?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Parental encouragement is most developmentally beneficial when it is timed to moments of genuine difficulty rather than routine success — that is, when a child is facing something that genuinely stretches their current capacity and needs support to sustain their effort rather than to be reassured that everything is fine. Encouragement at moments of easy success can inadvertently communicate that the child needs external validation even for things they are clearly capable of. Conversely, encouragement that "difficulty is temporary and effort is worthwhile" at moments of genuine struggle communicates something important about the nature of learning that children who are only ever encouraged during success do not develop as a stable belief. The timing principle is therefore: encourage effort at the point of resistance, and acknowledge achievement more quietly and specifically than many parents do.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The research on effective parental encouragement suggests that the question is not only "when" but "in what form": the most developmentally beneficial encouragement is process-oriented (directed at effort, strategy, and persistence) rather than outcome-oriented (directed at achievement or ability). Process encouragement is most useful at moments of difficulty — when a child is struggling with something and is at risk of giving up or concluding that they lack the capacity to succeed. Outcome-oriented praise at moments of success is significantly less developmentally useful than it feels: it reinforces the idea that the child's value lies in what they produce rather than in what they do, which is a motivational orientation that is fragile under conditions of failure. Parents who develop the habit of directing their most enthusiastic encouragement toward the effort a child makes in a difficult moment — rather than toward the result — tend to produce children with significantly more resilient motivational orientations.
 
 ### 3. What kind of encouragement should parents give?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The most effective kind of encouragement parents can give is specific, honest, and grounded in observation rather than general positivity. Telling a child "you worked really hard on that and found a way through it" produces a more useful self-belief than "you're so smart" — because the former draws the child's attention to something they can control (effort and strategy) while the latter attributes success to a fixed quality they either have or lack. Encouragement that is truthful — that acknowledges difficulty honestly rather than minimising it — is more motivationally effective than encouragement that is simply warm: a child knows when something was hard, and being told "that was hard and you did it anyway" is more meaningful than being told "that was easy, you're great." The emotional quality of encouragement matters too: warmth and genuine enthusiasm are important, but they work best when they are grounded in something specific rather than generic.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The parenting research on encouragement distinguishes consistently between encouragement that develops durable intrinsic motivation and encouragement that produces only short-term compliance or mood improvement. The most effective encouragement is characterised by specificity (it refers to what the child actually did), accuracy (it reflects genuine assessment rather than indiscriminate positivity), and developmental orientation (it draws the child's attention to processes — effort, strategy, persistence — rather than to fixed outcomes or abilities). Parents who provide "autonomy-supportive" encouragement — which acknowledges difficulty, expresses confidence in the child's capacity to manage it, and leaves the decision to continue ultimately with the child — consistently produce children with stronger intrinsic motivation, higher resilience, and better developed emotional regulation than those who use predominantly directive or reward-based encouragement.
 
 ### 4. Do you think some people are better than others at persuading?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Persuasive ability is genuinely variable across individuals, and the variation reflects the distribution of a cluster of capacities — rather than any single trait — that can develop with conscious practice. The most consistently effective persuaders share a common orientation: they are genuinely curious about the perspective they are trying to shift, which allows them to address the actual reasons for resistance rather than the stated ones, and they are patient enough to build trust before attempting persuasion. The capacity to identify the distinction between a well-founded objection and an unfounded one — and to address the former with evidence while giving space for the latter — is the core persuasive skill that most distinguishes effective from ineffective persuaders. The encouraging finding from persuasion research is that this capacity is substantially learnable: most ineffective persuaders are ineffective because they focus on their own argument rather than on the other person's perspective, and redirecting that focus is a learnable practice.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Individual variation in persuasive effectiveness is real and practically significant, and the mechanisms underlying it are reasonably well understood in social and organisational psychology. Effective persuaders are characterised by a combination of social intelligence — the ability to understand what the other person actually values and fears — narrative competence, the capacity to construct propositions in a form that is comprehensible and resonant for the specific audience, and what might be called persuasive integrity: the willingness to acknowledge the limits of one's own position rather than overselling it, which paradoxically increases the listener's confidence in what is being claimed. The implication for organisations is that persuasive skill is a professional competency that can be assessed, developed, and deployed — it is not a mysterious individual gift but a teachable practice with identifiable components.
 
 ### 5. Should children do everything their parents ask them to do?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The question of whether children should comply with all parental requests depends crucially on distinguishing between compliance as an unconditional norm and as a developmental default that gradually transfers authority to the child. Unconditional compliance — the expectation that children should do whatever parents ask because of the parental role — is neither developmentally desirable nor practically defensible: it produces children who have not developed the capacity to evaluate requests on their merits, which leaves them more vulnerable to authority from any source rather than specifically developing the moral agency that is the longer-term goal. The developmentally appropriate position is a graduated one: young children need clear parental authority and should generally comply, with the rationale explained; older children and adolescents should progressively develop the capacity to engage with parental requests critically, and parents should progressively treat their reasoning as worth engaging with. This is more difficult than either unconditional compliance or unconditional autonomy, but it is the only model that actually produces well-functioning adults.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The cultural and developmental arguments for parental authority are real and should be taken seriously, but the conclusion that children should comply with all parental requests conflates necessary authority with desirable compliance at a level that does not serve children's long-term development. Children who are raised with unconditional compliance expectations consistently show lower autonomous decision-making capacity, lower resilience under authority from non-parental sources, and — perhaps most importantly — a weaker sense of their own moral agency than those raised in environments that combine appropriate authority with genuine engagement with the child's reasons and objections. The more useful framing for parents is not "should my child comply?" but "am I building the capacity for my child to make good independent judgements?" — a question that requires that children's objections be engaged with as informative rather than simply as resistance to be overcome.
 
 ### 6. How can employers encourage their staff?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The most effective employer encouragement operates through work design as much as through direct motivational intervention — creating conditions in which the work is intrinsically motivating reduces the amount of external encouragement needed and produces more durable engagement. The specific design dimensions that consistently predict employee motivation are autonomy over how work is done, task significance (an understanding of why the work matters), feedback that is timely and specific, and sufficient challenge that work requires genuine engagement rather than routine execution. Direct encouragement — through recognition, specific positive feedback, and expressed confidence in capacity — is most effective when it is embedded in this kind of motivating work environment: encouragement in a poorly-designed job is a palliative that never fully compensates for its demotivating structural features.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Employer encouragement in organisational contexts is best understood through the lens of self-determination theory, which identifies three basic psychological needs whose satisfaction predicts sustainable work motivation: autonomy, competence, and relatedness. Employers who create environments that genuinely support employee autonomy — giving real discretion over how goals are achieved rather than purely nominal independence — produce higher motivation, better performance, and lower attrition than those who use reward systems as a substitute for genuine autonomy. Competence support — through meaningful feedback, developmental challenge, and management that removes rather than creates obstacles to effective work — produces the sense of growing capability that is the most motivationally sustaining condition for professional employees. The practical implication for managers is that the question "how can I encourage my staff?" should be preceded by "are the structural conditions of the work actively discouraging them?" — because encouragement applied on top of structural demotivators produces diminishing returns.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **self-efficacy** (n) (/ˌself.ˈef.ɪ.kə.si/): a person's belief in their own ability to succeed | tự tin vào năng lực bản thân
+- **autonomy-supportive** (adj phr): an environment that nurtures independent decision-making | hỗ trợ tính tự chủ
+- **intrinsic motivation** (n phr) (/ɪnˈtrɪn.zɪk/): drive that comes from within rather than external rewards | động lực nội tại
+- **attrition** (n) (/əˈtrɪʃ.ən/): gradual reduction in staff through resignation, not dismissal | hao hụt nhân sự tự nhiên
+- **self-determination theory** (n phr): a psychological framework that explains motivation through autonomy, competence, and relatedness | lý thuyết tự quyết
+- **moral agency** (n phr): the capacity to make independent ethical decisions | năng lực hành đạo đức
+- **calibration** (n) (/ˌkæl.ɪˈbreɪ.ʃən/): the process of adjusting something to the right level | hiệu chuẩn, điều chỉnh đúng mức
+- **palliative** (adj) (/ˈpæl.i.ə.tɪv/): relieving symptoms without solving the root cause | xoa dịu tạm thời, không trị tận gốc
+- **relatedness** (n) (/rɪˈleɪ.tɪd.nəs/): the sense of meaningful connection to others | cảm giác được kết nối với người khác
+- **graduate** (v) (/ˈɡrædʒ.u.eɪt/): to move or progress through a staged process | tiến dần qua từng giai đoạn
 
 ## Describe something important that has been kept in your family for a long time
 
@@ -2574,77 +2691,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The object I would describe is a small ceramic tea set that has been in my family for four generations — probably since the early twentieth century, though no one in the family is entirely certain of its exact origin.
+
+The set consists of a teapot, six cups, and a tray, all in a deep celadon glaze with a very fine crackle pattern that one of my grandmothers told me is characteristic of a particular kiln tradition from the north. My great-grandmother apparently received it as part of her household when she married, which was the conventional form of property transfer for women in that period, and it has passed through each generation of women in my family since then. It is not financially valuable by any standard that matters, and no one has ever had it appraised.
+
+What makes it important is the practice it has sustained: it is the set used for tea during specific family occasions — Tết visits, family announcements, and significant conversations — which means it carries an associative weight that no other object in our household approximates. Using it is an act that places you in a line of people who have used it for the same purpose, across circumstances that include both extraordinary joy and significant difficulty, and that sense of temporal connection is something I find genuinely more moving than any financial valuation could express.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The object I think of most naturally when asked this question is a journal kept by my paternal grandfather during the years 1965 to 1972 — a period that encompasses some of the most consequential events in Vietnamese twentieth-century history — written in a small, densely packed hand across what turned out to be eleven notebooks.
+
+My grandfather was a secondary school teacher in a provincial town in what was then North Vietnam, and the journals record the daily texture of civilian life during the American War: the organisation of community air raid shelters, the evacuation of students, the management of a school that continued operating despite repeated bombing damage, and — most extensively — his observations on the moral and social quality of life under sustained collective threat. They are remarkably unsentimental, written with the precision and analytical detachment of someone who appears to have understood, even at the time, that their historical interest would outlast their personal significance.
+
+My family knew the journals existed but almost no one had read them until I, at twenty-five, asked to borrow them and read them in full. The experience of reading them significantly altered my understanding of both my grandfather and the historical period, and they represent — for me and increasingly for other family members who have since read them — the most direct available line to a period that all of us know about but none of us lived. That is the function they serve: not as heirlooms in the decorative sense, but as a form of transmitted testimony that makes the past genuinely present rather than merely historical.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **celadon** (n) (/ˈsel.ə.dɒn/): a pale grey-green ceramic glaze originating in East Asia | men sứ xanh ngọc celadon
+- **crackle pattern** (n phr): a decorative texture of fine cracks in ceramic glaze | hoa văn nứt tế vi trên men gốm
+- **appraise** (v) (/əˈpreɪz/): to assess the monetary value of something | định giá, thẩm định
+- **testimony** (n) (/ˈtes.tɪ.mə.ni/): a firsthand account of events or experiences | chứng nhân, lời chứng
+- **associative weight** (n phr): the emotional significance an object gains through shared memory | trọng lượng liên tưởng
+- **consequential** (adj) (/ˌkɒn.sɪˈkwen.ʃəl/): having significant impact or importance | quan trọng, có hệ quả lớn
+- **transmitted** (adj) (/trænsˈmɪ.tɪd/): passed from one person or generation to another | được truyền lại
+- **heirloom** (n) (/ˈeə.luːm/): a valuable object passed down through generations | di vật gia truyền
+- **temporal** (adj) (/ˈtem.pər.əl/): relating to time | thuộc về thời gian
+- **detachment** (n) (/dɪˈtætʃ.mənt/): emotional distance when observing or describing events | sự khách quan, tách biệt cảm xúc
 
 ### 1. What things do families keep for a long time?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Families tend to keep objects that serve as anchors of collective memory and identity rather than those with the highest financial value — a distinction that is sometimes misunderstood when the question is framed purely economically. The most commonly preserved objects are those that were used at ritually significant moments: tableware associated with family ceremonies, clothing worn at significant occasions, photographs, written correspondence, and tools associated with the particular form of work that defined a family's livelihood or identity. The common thread is that these objects function as materialised memory: they are kept not for use but because discarding them would feel like discarding a portion of the family's shared past, which carries a psychological cost that most families intuitively recognise even if they cannot articulate it clearly.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The objects that families preserve across generations tend to cluster around two categories: objects associated with significant life transitions and objects that embody the labour, skill, or sacrifice of ancestors. The first category — wedding jewellery, ceremonial garments, objects given at births or deaths — carries significance because it marks moments when the family's continuity was enacted or affirmed; the second carries significance because it represents a connection to a form of human effort or achievement that the current generation wishes to honour. The interesting sociological observation is that what families choose to preserve is also culturally variable: Vietnamese families are more likely to preserve objects associated with ancestors and religious practice; Western families more likely to preserve objects tied to personal achievement and individual identity — a difference that reflects deeper divergences in the cultural construction of what the family itself is for.
 
 ### 2. What's the difference between things valued by people in the past and today?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The most significant shift in what people value in objects has been from durability and functional craftsmanship toward novelty, experience, and experiential symbolism. Objects in earlier generations were valued, preserved, and repaired because production costs were high relative to income and because the skill embedded in a well-made object was visible and legible to its owners in a way that mass-produced objects cannot replicate. Contemporary consumer culture values novelty, brand association, and the experiential or social meaning that objects carry — the signal they send about the owner's values and identity — more than the intrinsic quality of the object itself. The consequence is a dramatically shorter object lifespan and a dramatically reduced tendency to preserve and repair, which has both environmental costs and a less obvious cultural cost: the loss of the forms of accumulated domestic knowledge that sustained repair and reuse required.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The shift in object valuation between generations reflects genuine structural changes in the economics of production and the sociology of consumption rather than simply a change in moral character. In agricultural and early industrial economies, objects of high craftsmanship represented significant accumulations of time and skill that made their preservation economically rational alongside its sentimental appeal — a good piece of furniture or a well-made tool was expensive relative to income and worth repairing many times over. Contemporary economies of mass production and planned obsolescence have inverted this: objects are cheap relative to income, repair is often more expensive than replacement, and the meaning of consumption has shifted from long-term stewardship to short-cycle identity expression. The environmental implications of this shift are severe and increasingly visible, which is producing a significant policy conversation about how to redesign the economics of objects to make durability and repairability rationally attractive rather than economically irrational.
 
 ### 3. What kinds of things are kept in museums?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Museums preserve objects, documents, and artefacts that represent what a society has collectively decided merits preservation and public access — a selection process that is far less neutral than the institutional authority of the museum setting suggests. The conventional categories are broad: art, historical artefacts, natural specimens, scientific instruments, ethnographic objects, and archival documents. But which specific items within these categories are preserved and which are not is always a function of who controls the collecting institution, what society considers culturally significant, and whose history is treated as worth documenting — determinants that have historically favoured the cultures, genders, and classes with most institutional power, producing collection biases that contemporary museum practice is slowly and incompletely addressing.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The collecting scope of museums reflects both a civilisational aspiration — the idea that certain forms of human achievement and natural history are worth preserving and sharing across time — and a set of historical contingencies, power dynamics, and curatorial choices that have produced collections whose composition is never fully representative of human cultural diversity. The most contested dimension of contemporary museum practice is the question of colonial collections: objects removed from their cultures of origin during periods of colonial extraction that now reside in major Western institutions under contested ownership. The legitimate arguments on both sides of this debate — preservation capacity and access versus cultural sovereignty and community connection — reflect genuinely different frameworks for understanding what museums are for, and the resolution will require institutional redesign rather than simply the return or retention of specific objects.
 
 ### 4. What's the influence of technology on museums?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Technology has transformed museums both operationally and in terms of how collections are experienced, and the effects are substantially positive when managed thoughtfully. Digitisation has made collections accessible to audiences who cannot physically visit the institution — a significant equity gain for communities distant from major museum cities — and has enabled forms of scholarly access to collection data that were impossible in the era of physical-only access. Interactive and immersive technologies — augmented reality, virtual reconstruction, haptic interfaces — have created new possibilities for visitor engagement, particularly for historical objects whose original context is inaccessible. The significant risk is that technology becomes a substitute for the quality of curation and object selection rather than a complement to it: a poorly curated collection displayed with impressive technology remains a poorly curated collection.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The technological transformation of museums has proceeded across three distinct dimensions simultaneously: access (digitisation making collections globally available), experience (interactive technologies reshaping the visitor encounter with objects), and operations (data management, preventive conservation, and audience analytics). The access dimension is arguably the most democratically significant: high-resolution digital archives of major collection objects, available freely online, have fundamentally changed the researcher's ability to study collection items without physical travel, reducing one of the sharpest historical inequalities in cultural access. The experience dimension produces the most visible public debate: the question of whether immersive, interactive museum environments enhance or diminish engagement with primary objects is genuine and the evidence is mixed. The most intellectually defensible position is that technology should serve curation rather than replace it, amplifying the encounter with significant objects rather than providing an alternative to it.
 
 ### 5. What are the benefits of technology for learning history?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Technology has substantially expanded both the accessibility and the modality of historical learning in ways that are genuinely democratising rather than merely convenient. The primary benefit is access: digitised archives, newspapers, maps, and records that were previously accessible only to researchers with institutional affiliations and travel budgets are now available to anyone with an internet connection, which has meaningfully expanded who can engage seriously with primary historical sources. Visualisation technologies — geographical information systems, three-dimensional reconstructions of historical environments, animated timelines — have made the spatial and temporal dimensions of historical events more intuitively comprehensible for learners who struggle with traditional text-based historical presentation. The risk is that the abundance of accessible historical content without adequate interpretive frameworks produces confident misinformation rather than enhanced understanding — which is why technological access to historical sources is most beneficial when accompanied by genuine historical reasoning instruction.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The benefits of technology for historical learning are most evident in three areas: source access, interpretive visualisation, and community connection to localised histories. Source access improvements are the most structurally significant: the digitisation and open publication of archival collections has made primary historical research accessible in ways that dramatically reduce the socioeconomic barriers that previously confined serious historical engagement to those affiliated with well-resourced universities. The community history dimension is particularly interesting: digital tools have enabled communities to document, archive, and share local historical knowledge that would not otherwise be preserved in institutional collections, producing a significant democratisation of historical documentation alongside the better-resourced institutional efforts. The significant caveat is that technology is no substitute for historical thinking — for the capacity to evaluate evidence, identify perspective and bias, and construct reasoned interpretations — and educational approaches that provide digital access without developing these capacities produce technologically equipped but historically illiterate learners.
 
 ### 6. Why do people visit museums?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+People visit museums for a highly varied set of reasons that coexist and are not always conscious, including cultural self-improvement, leisure, social experience, and the specific form of encounter with primary objects that no digital reproduction substitutes for. The distinction between museum visiting as an educational activity and as a leisure one is less sharp than institutions often imply: research on visitor motivations consistently finds that the most satisfying museum experiences are those that combine intellectual engagement with social experience and aesthetic pleasure — the encounter with a remarkable object, shared with someone who cares about it, in a setting that does it justice. The specific draw of the original object — the experience of being in the presence of something that was made by or used by specific people in specific historical circumstances — is one that digital access cannot replicate and that represents the museum's most irreplaceable function.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The motivational landscape of museum visiting is more varied and more contextually specific than the institution's educational mission framing suggests. Research on museum visitor experience consistently identifies five primary motivational clusters: intellectual curiosity, social experience, entertainment, identity connection (visiting museums associated with one's own cultural heritage), and professional or scholarly purpose. The distribution across these motivations varies significantly by museum type, visitor demographic, and cultural context: history and national museums attract stronger identity-connection motivations; art museums attract stronger aesthetic and social motivations; science museums attract stronger curiosity and educational motivations for family groups. The implication for museum programming is that a single mission statement and programming approach is unlikely to serve all five motivational clusters effectively, and institutions that develop distinct programming streams for different visitor orientations tend to produce better visitor experience outcomes than those that design for a single imagined universal visitor.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **digitisation** (n) (/ˌdɪdʒ.ɪ.taɪˈzeɪ.ʃən/): the process of converting information into digital form | số hóa
+- **curatorial** (adj) (/ˌkjʊər.əˈtɔː.ri.əl/): relating to the work of organising a museum or exhibition | thuộc về curation (quản lý bộ sưu tập)
+- **artefact** (n) (/ˈɑː.tɪ.fækt/): an object made by humans, especially one of historical interest | hiện vật
+- **colonial extraction** (n phr): the removal of cultural objects from colonised lands | khai thác thuộc địa (văn hoá)
+- **planned obsolescence** (n phr): designing products with a limited useful life to encourage replacement | lỗi thời có kế hoạch
+- **stewardship** (n) (/ˈstjuː.əd.ʃɪp/): the responsible management of something entrusted to one's care | sự quản lý có trách nhiệm
+- **haptic** (adj) (/ˈhæp.tɪk/): relating to the sense of touch in technology interfaces | xúc giác (trong công nghệ)
+- **equity** (n) (/ˈek.wɪ.ti/): fairness and equal access to opportunities | công bằng, bình đẳng
+- **interpretive** (adj) (/ɪnˈtɜː.prɪ.tɪv/): relating to explaining or understanding the meaning of something | mang tính diễn giải
+- **primary source** (n phr): original documents or artefacts from the time period under study | tài liệu gốc, nguồn sơ cấp
 
 ## Describe a time you needed to use your imagination
 
@@ -2658,77 +2801,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The occasion I think of most readily is a group project in my second year at university — a social science course requirement in which each group had to design a public awareness campaign on a topic of our choosing, with no template and no predetermined format.
+
+My group chose the topic of noise pollution in urban residential areas — which sounds specific enough to be manageable but turned out to be genuinely difficult to make visually and emotionally compelling since the subject is invisible. We had to construct a campaign that made an abstract, persistent, and ordinarily unremarked harm visible and persuasive to people who had never consciously noticed it as a problem. That required imagining the audience's perceptual world first — what it would take to make someone notice something they had always been present for but never attended to — and working backward from that into the campaign design.
+
+The process was harder than anything I had done in a standard academic format precisely because there was no established procedure to follow: the constraint of the blank canvas produced a specific kind of cognitive discomfort that took me several days to recognise as productive rather than as evidence of failure. The final campaign included sound mapping, ambient audio installations planned for a university common area, and a simple visual infographic. It was the project I thought about longest after the course ended.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The moment I most associate with necessary imaginative effort in professional life was a strategic planning exercise I facilitated about three years ago, in which a team I was working with had to develop a five-year organisational vision for a context that was changing sufficiently rapidly that standard extrapolation from past performance was demonstrably inadequate.
+
+The problem was well-defined but methodologically unprecedented for most of the team: how do you plan purposefully when your confident assumptions about the environment are invalidated every six to eight months? Facilitating a genuine answer to this question required designing a process that moved the team from their habitual forecasting mode — which involved projecting recent trends forward — into a genuinely exploratory one, in which multiple highly divergent futures were constructed, inhabited imaginatively, and used as the basis for identifying what was robust across them rather than what would be optimal in any single one.
+
+This kind of scenario-based strategic imagination is genuinely demanding because it requires suspending the comfort of confident prediction in favour of something more honest: a deliberate encounter with uncertainty, followed by structured reasoning about what you can control regardless of which future arrives. I found it both intellectually difficult and deeply rewarding, and the exercise produced a substantially more resilient strategic framework than the team had started with.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **scenario planning** (n phr): a strategic method using multiple imagined futures to prepare robust plans | lập kế hoạch dựa trên kịch bản
+- **extrapolation** (n) (/ɪkˌstræp.əˈleɪ.ʃən/): extending known data into unknown territory | ngoại suy
+- **ambient** (adj) (/ˈæm.bi.ənt/): relating to the surrounding environment or atmosphere | xung quanh, bầu không khí
+- **perceptual** (adj) (/pəˈsep.tʃu.əl/): relating to the ability to interpret sensory experience | thuộc tri giác
+- **divergent** (adj) (/daɪˈvɜː.dʒənt/): developing in different directions; not converging | phân kỳ, khác nhau
+- **robust** (adj) (/rəʊˈbʌst/): strong and effective across a range of conditions | bền vững, có khả năng chống chịu
+- **exploratory** (adj) (/ɪkˈsplɒr.ə.tər.i/): intended to investigate rather than to confirm | mang tính khám phá
+- **cognitive discomfort** (n phr): the mental unease produced by uncertainty or contradiction | sự khó chịu nhận thức
+- **compelling** (adj) (/kəmˈpel.ɪŋ/): convincing and powerfully persuasive | thuyết phục, hấp dẫn
+- **suspend** (v) (/səˈspend/): to temporarily set aside or delay | tạm gác lại
 
 ### 1. Do you think adults can have lots of imagination?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The common assumption that imagination is primarily a childhood capacity that declines with age is empirically incomplete and probably reflects a confusion between two different things: the frequency of spontaneous, playful imaginative activity, which does decline across the lifespan in most people, and the capacity for imaginative reasoning, which does not decline and may actually develop. Adults who maintain curious, open, and exploratory relationships with their fields of work and interest show no measurable decline in imaginative capacity; it is rather the social permission and structural conditions that support spontaneous imaginative play that narrow for adults rather than the underlying capacity. The most imaginative adults are typically those who have either maintained a child-like relationship to exploration in their professional practice, or who have actively cultivated their imaginative capacity through creative, analytical, or artistic engagement throughout their adult lives.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Adult imaginative capacity is one of the most misunderstood psychological constructs in popular discourse about creativity. The evidence from creativity research is clear that divergent thinking — the generation of multiple, varied possibilities from a single prompt, which is the most commonly used index of imaginative capacity — is present in adults across the full lifespan, though it is expressed differently in adult contexts than in children's. Adults' imaginative capacity is typically more domain-specific and more constrained by accumulated expertise, which produces a paradox: deep knowledge can both enable more sophisticated imagination within a domain and narrow spontaneous exploration across domains. The practical implication is that maintaining imaginative capacity as an adult requires deliberate effort to create conditions of genuine exploration — contexts in which the social norms and cognitive habits of expertise are temporarily suspended.
 
 ### 2. Do you think imagination is essential for scientists?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Imagination is essential to science at the level of hypothesis generation, which is the creative core of the scientific enterprise, even though science's public image tends to emphasise the analytical and verificational phases of scientific work rather than the imaginative ones. The generation of a testable hypothesis requires imagining a world in which a specific causal relationship holds — which is a genuinely imaginative act that precedes any empirical test and which determines what the empirical test can discover. Many of the most significant scientific advances in history — Einstein's thought experiments, Darwin's conceptualisation of natural selection, Watson and Crick's double helix model — were products of sustained imaginative reasoning rather than of direct empirical observation. The relationship between imagination and rigour in science is not a tension but a sequence: imagination proposes, and rigour tests.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The essential role of imagination in science is one of the most important things that popular scientific education consistently underemphasises in favour of the verification and application phases of scientific practice. The phases of science that require imagination — generating novel hypotheses, designing experiments in genuinely new ways, constructing theoretical frameworks that unify previously unconnected observations — are those that produce the advances that verification subsequently confirms or disconfirms. The history of science provides a clear pattern: the scientists who produced the most significant advances were characteristically both imaginative and rigorous, and the scientists who were exclusively rigorous tended to produce technically excellent work within existing paradigms without transforming those paradigms. Imagination without rigour in science is speculation; rigour without imagination is competent but not generative.
 
 ### 3. What kinds of jobs need imagination?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The conventional answer — creative industries, design, the arts — is true but significantly understates how broadly imaginative capacity matters in professional life. Architecture, engineering, and product design require imagination at the level of conceptualisation — the capacity to construct in the mind what does not yet exist and evaluate its properties before building it — as much as any artistic field. Teaching requires imagination in the pedagogical sense: a teacher who cannot imagine what the content looks like from inside a student's incomprehension cannot design the explanations, examples, and activities that bridge from confusion to understanding. Even ostensibly analytical fields like law, medicine, and economics require imagination at the level of counterfactual reasoning — imagining what would have happened under different conditions — which is the basis of both causal inference and normative judgment.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The question of which jobs need imagination is better framed as a question of what kind of imagination different jobs require, since the imaginative demands of different fields are genuinely different in kind rather than simply different in degree. Strategic roles — in business, policy, and military contexts — require the specific imaginative capacity to construct multiple plausible futures and reason about what is true across all of them. Design and creative roles require the capacity to hold in mind something that does not yet exist and work toward its realisation. People-facing roles — in management, education, healthcare, and social work — require specifically social and empathic imagination: the capacity to construct an accurate model of another person's subjective experience and respond to that rather than to one's own assumptions about it. The most valuable professionals across all these fields are those who have developed not generic creativity but the specific form of imaginative capacity that their field's most important challenges require.
 
 ### 4. What subjects are helpful for children's imagination?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The subjects most consistently associated with imaginative development in children are those that require construction rather than reception — that ask children to make something, rather than to receive and reproduce something. Literature and creative writing develop imaginative capacity most directly through the practice of narrative construction: building internally consistent worlds, inhabiting characters whose perspectives differ from one's own, and communicating experience in forms that are both honest and accessible to others. The visual arts develop spatial and conceptual imagination; mathematics — particularly in its more open-ended, problem-solving forms — develops the capacity for abstract imaginative reasoning about structures and relationships. Music develops temporal imagination and auditory construction. The common thread across all of these is that they work best when they require children to originate rather than reproduce.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The educational research on imagination development in children identifies several consistent findings about which subject-level experiences are most beneficial. Open-ended problem-solving in mathematics — as distinct from computational drill, which develops a different cognitive capacity — is one of the most robustly evidenced pathways to imaginative reasoning development, because it requires children to construct solution approaches from first principles. Literature, particularly when it is discussed interpretively rather than used primarily as a source of comprehension exercises, develops the social imaginative capacity — the ability to inhabit a perspective other than one's own — that is one of the most practically valuable forms of imagination in adult life. The subjects that are most importantly missing from many school curricula are those that develop design and making capacity: the ability to translate imaginative conceptions into physical reality, which requires a form of iterative practical imagination that few other school subjects develop.
 
 ### 5. What games help develop children's imagination?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The games that most consistently develop imagination in children are those with the fewest constraints: unstructured imaginative play — what developmental psychologists call "free play" or "pretend play" — in which children construct their own scenarios, roles, and rules, produces more robust gains in imaginative capacity than structured digital games or sports with fixed rules. The mechanism is straightforward: in unstructured play, children must generate and maintain a coherent internally consistent imagined world rather than operating within a pre-given one, which is the defining cognitive task of imagination. Construction toys — tangible blocks, modelling materials, loose parts — develop the specific form of spatial and physical imagination required for design and making, and are among the most imaginatively productive play materials across a wide age range.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The research on play and imagination development distinguishes importantly between games that exercise imagination and those that primarily test other cognitive capacities. Role-playing games and narrative games — in which children construct characters, stories, and social worlds — are the most directly imaginatively productive, particularly when they are child-generated rather than adult-scripted. Strategy games, including both board games and some digital strategy games, develop planning-based imaginative capacity: the ability to construct multiple future states from current conditions and reason about which are desirable and achievable. The concern about screen-based play is not that digital games cannot develop imaginative capacity — some clearly can — but that they typically provide more of the imaginative content externally and leave less for the child to generate, which is precisely where the developmental benefit lies.
 
 ### 6. How important is imagination to children?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Imagination is not a supplementary capacity in child development — it is foundational to the cognitive, emotional, and social development that all other capacities depend upon. Cognitively, imaginative capacity underlies the ability to reason about counterfactuals, plan ahead, and understand abstract concepts — all of which require holding in mind states of affairs that are not directly perceivable. Emotionally, imagination is the basis of empathy: the ability to model what another person is experiencing requires constructing that experience in one's own mind in its absence. Socially, imaginative play is the primary mechanism through which young children learn to negotiate, collaborate, compromise, and sustain shared fictional worlds — all of which are the precursors to adult social and professional competencies.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The developmental importance of imagination in childhood is difficult to overstate because it underpins so many other capacities that are not visibly imaginative in form. Academic learning across all disciplines becomes more effective and durable when it is anchored in imaginative engagement — when children can construct mental models of what they are learning rather than simply receiving information as isolated facts. Social development is substantially mediated by the narrative imagination that pretend play develops: children's ability to understand that other people have different beliefs, desires, and perspectives — what developmental psychologists call "theory of mind" — is significantly accelerated by sustained experience of imaginative play in which multiple subjective positions are inhabited. The practical argument for protecting children's access to imaginative play from the constant displacement of structured academic and extracurricular activity is therefore not simply one of wellbeing but of the foundations of the learning and social capacities that structured activity aims to develop.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **divergent thinking** (n phr): the process of generating many different ideas or solutions | tư duy phân kỳ
+- **theory of mind** (n phr) (/ˈθɪər.i ɒv maɪnd/): the ability to attribute mental states to others | lý thuyết tâm lý (hiểu người khác có suy nghĩ riêng)
+- **pretend play** (n phr): imaginative role-playing in young children | trò chơi giả vờ, đóng vai
+- **counterfactual** (adj) (/ˌkaʊn.tə.ˈfæk.tʃu.əl/): relating to alternative scenarios that did not occur | phản thực tế, giả định ngược
+- **spatial reasoning** (n phr): the ability to mentally visualise and manipulate objects in space | tư duy không gian
+- **paradigm** (n) (/ˈpær.ə.daɪm/): a typical example or framework of thinking in a field | mô hình tư duy, hệ hình
+- **free play** (n phr): unstructured, child-directed play without adult-imposed rules | chơi tự do
+- **narrative imagination** (n phr): the capacity to construct and inhabit stories or mental scenarios | trí tưởng tượng kể chuyện
+- **iterative** (adj) (/ˈɪt.ər.ə.tɪv/): involving repetition of a process to refine a result | lặp đi lặp lại để cải tiến
+- **hypothesis** (n) (/haɪˈpɒθ.ɪ.sɪs/): a testable proposition that explains observed phenomena | giả thuyết
 
 ## Describe a book you read that you found useful
 
@@ -2742,77 +2911,101 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The book I would describe is *Thinking, Fast and Slow* by Daniel Kahneman, which I read during the summer between my second and third years at university, when I was looking for something that would help me understand why intelligent people — including myself — so often reason badly.
+
+The book distinguishes between two modes of cognitive processing: a fast, intuitive, and largely automatic system, and a slow, deliberate, and effortful one. What I found most genuinely useful was not the theoretical framework itself but the specific cognitive biases it describes and the experimental evidence it uses: anchoring effects, the planning fallacy, availability bias, and loss aversion. Each of these was immediately recognisable in decisions I had already made and could see being made around me, which is the defining quality of useful intellectual content — it makes the previously invisible visible.
+
+The book altered the way I approach decisions in study and in social situations: I now habitually question whether an initial judgment is the product of deliberate reasoning or a fast-thinking heuristic, and I ask for a second opinion on any decision I feel particularly confident about, because the research suggests confidence and accuracy are poorly correlated. That practice has been, by some measure, the most practically useful habit I have built from any single book.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The book that has had the most persistent and measurable influence on my professional practice is *The Principles of Product Development Flow* by Donald Reinertsen, which I read at a point in my career when I was managing multiple concurrent projects and experiencing the kind of queue-related delays and coordination failures that the book turned out to explain with unusual precision.
+
+Reinertsen applies queuing theory and economic reasoning to the management of product development work, and the central insight — that the most costly aspect of most development processes is not the work itself but the waiting, and that reducing variability and managing queue length are therefore more important than optimising individual task efficiency — was both counterintuitive and immediately testable. I implemented several of the book's recommendations within months of reading it, with measurable improvements in throughput and lead time. The intellectual quality that makes it genuinely useful rather than simply interesting is the density of its analytical reasoning: every recommendation is derived from a principle, and the principle is explained with enough rigour that the reader can generate their own applications rather than merely following the book's prescriptions.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **heuristic** (n) (/hjʊˈrɪs.tɪk/): a mental shortcut used to make decisions quickly | phương pháp tư duy tắt, heuristic
+- **cognitive bias** (n phr): a systematic error in thinking that affects judgments | thiên kiến nhận thức
+- **anchoring effect** (n phr): the tendency to rely too heavily on the first piece of information encountered | hiệu ứng neo đậu
+- **loss aversion** (n phr): the tendency to prefer avoiding losses over acquiring gains | ác cảm thua lỗ
+- **throughput** (n) (/ˈθruː.pʊt/): the amount of work completed in a given period | năng suất xử lý, thông lượng
+- **queuing theory** (n phr): the mathematical study of waiting lines and their effects | lý thuyết hàng đợi
+- **counterintuitive** (adj) (/ˌkaʊn.tər.ɪnˈtjuː.ɪ.tɪv/): contrary to what one would expect | trái với trực giác
+- **variability** (n) (/ˌveər.i.əˈbɪl.ɪ.ti/): the tendency to change or vary | tính biến thiên
+- **availability bias** (n phr): the tendency to overweight easily recalled examples | thiên kiến sẵn có
+- **prescription** (n) (/prɪˈskrɪp.ʃən/): a recommended course of action | hướng dẫn, chỉ định hành động
 
 ### 1. What are the types of books that young people like to read?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Young readers in Vietnam, as in most countries, distribute across several broad categories that reflect both developmental preference and social influence. Fantasy and science fiction attract readers who want the imaginative expansion of encountering fully realised alternative worlds with their own coherent rules; light fiction — romance, thriller, and young adult narratives — attracts readers who want emotionally engaging plots with relatable characters; and a growing segment of younger Vietnamese readers is drawn to popular non-fiction on psychology, productivity, and self-development, which reflects both genuine intellectual curiosity and an awareness of competitive self-improvement pressures. The most sociologically interesting observation is that social media reading recommendations have substantially altered which specific books within these categories young people actually read, concentrating attention on a narrower set of titles than diversified individual recommendation networks previously produced.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The reading preferences of young people are shaped by an interaction between developmental psychological needs — identity formation, social belonging, emotional exploration, and world-building — and the specific social filtering mechanisms of each generation's information environment. In the current context, short video platforms and social reading recommendation apps have significantly increased the cultural visibility of a specific subset of titles — primarily popular psychology, self-help, and narratively driven fiction — while reducing the proportion of readers who encounter books through serendipitous browsing, teacher recommendation, or literary prize coverage. The most significant concern for reading culture is not that young people are reading the wrong kinds of books but that algorithmic recommendation systems tend to amplify preference rather than expand it, which produces readers who are well-supplied with books they are already likely to enjoy but less frequently exposed to books that would develop them in ways their existing preferences do not.
 
 ### 2. What should the government do to make libraries better?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The most consequential library investments governments can make are those that address the fundamental barrier to library use: the perceived relevance of the library to the life of the potential user. Practical improvements — extending opening hours, modernising collection development to include digital resources and recent popular titles, improving physical environments to make them genuinely welcoming — are necessary but not sufficient if the library remains primarily associated in the public imagination with formal academic study and childhood story time. The most effective government investments in libraries in recent decades have been those that repositioned libraries as general-purpose community knowledge infrastructure: a place where job-seekers can access digital services, families can find professional advice, students can study, and curious people of all ages can encounter books and ideas they did not know to look for.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The case for government investment in public libraries rests on a well-evidenced public goods argument: libraries provide access to information, education, and cultural resources to people who could not otherwise afford them, and this access has measurable positive effects on educational attainment, civic participation, health literacy, and economic mobility. The most productive government interventions are therefore those that target libraries as critical equity infrastructure rather than as cultural luxuries: ensuring adequate provision in low-income communities where private alternatives are least available, funding digital access to compensate for the physical inaccessibility of remote communities, and staffing libraries with professionally qualified librarians who can actively support information literacy rather than simply curate physical collections. The evidence from countries with well-funded public library systems — the Nordic and Anglophone cases are most studied — consistently shows that per-capita library investment correlates with a range of social goods that are expensive to produce through other mechanisms.
 
 ### 3. Do you think old people spend more time reading than young people?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The evidence on reading patterns across age groups suggests that reading time does tend to increase with age, but the explanation is more structural than it is generational: older adults have more discretionary time than those in working and parenting life stages, and reading is a recreational form that benefits from sustained attention in quiet conditions — which are more available to people in their sixties and beyond than to those managing multiple competing demands. It is therefore not that older people value reading more than younger ones — the reading attitudes of older readers were formed when they were young, and their reading habits tend to reflect those earlier formed preferences — but that time and environmental conditions align more favourably with sustained reading at older life stages.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The comparison between older and younger reading volumes is complicated by the significant change in what counts as reading. If reading is defined narrowly as extended engagement with book-length text, older adults do tend to read more than younger ones, and the reasons are primarily about time and environment rather than values. If reading is defined more broadly to include all sustained text engagement — including long-form journalism, online essays, academic materials, and extended social media content — the age difference is considerably smaller, and the advantage may even reverse for some content categories. The more productive question for understanding reading culture is not who reads more but what conditions — of time, environment, material access, and educational preparation — enable the kind of sustained, deep engagement with text that produces long-term educational and cognitive benefits, and how those conditions can be made more widely available across age groups.
 
 ### 4. Which one is better, paper books or e-books?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The paper versus e-book comparison is one where the empirical evidence and the reader's subjective preference often diverge, and both deserve consideration. Research on reading comprehension across formats consistently finds that paper produces better retention of complex, sequential material — particularly for academic and non-fiction reading — and is associated with fewer distractions and better sustained attention. E-books offer genuine advantages in portability, accessibility, searchability, and the ability to adjust text size and contrast, which are particularly important for readers with visual impairments or for those reading in low-resource environments. The honest answer is that neither is universally better: the best format is the one that matches the reader's purpose, the nature of the material, and the reading environment, and a reading practice that uses both formats strategically is probably more effective than a dogmatic preference for either.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The practical comparison between paper and digital reading formats requires separating several distinct dimensions: comprehension, convenience, accessibility, environmental cost, and the social and cultural functions of the book object. On comprehension, the research modestly favours paper for complex, non-linear material, though the effect size is smaller than the intensity of the popular preference debate would suggest. On accessibility and equity, e-books are substantially superior: digital access extends reading to geographically and economically underserved populations at a marginal cost far below that of physical distribution. On environmental grounds, the comparison is not as clear as sustainability advocates often claim: the energy costs of e-reader production and digital infrastructure are substantial, and low-volume readers may have a smaller carbon footprint from paper than from digital reading. The pragmatic conclusion is that the format question is less important than the reading question: a society that reads more in either format is better than one that reads less in the preferred one.
 
 ### 5. Have libraries changed a lot with the development of the internet?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Libraries have changed substantially in response to the internet, but the nature of the change is more disruptive than a simple evolution of services suggests. The internet has rendered the library's traditional core function — providing access to information not otherwise available to the general public — significantly less distinctive, since most of the factual content that only libraries previously provided is now accessible to anyone with a connection. This has forced libraries to redefine their value proposition: from information provision to information literacy support, from collection access to curated and qualified guidance, and from physical space for solo reading to community space for shared intellectual activity. The libraries that have navigated this transition most successfully are those that understood clearly what the internet cannot replace — curated expertise, physical community infrastructure, and the particular quality of encounter with primary objects — and invested in those rather than attempting to compete with digital access on its own terms.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The internet has transformed libraries from unique access points for information into one node in a much larger networked information ecosystem, and the strategic challenge this creates for library institutions is genuine and ongoing. Libraries that have responded by adding digital services — e-book lending, online database access, digital literacy programmes — have maintained relevance more effectively than those that have resisted digital integration, but the most important transformations have been those that redefined the library's institutional identity rather than simply expanding its service menu. The most valuable thing a contemporary library can provide is not information itself — which is abundantly available outside the library — but the human, curatorial, and community infrastructure that helps people navigate, evaluate, and use information effectively: reference librarians, community programming, research support, and the particular credibility of the institutionally curated collection as a counterweight to the unfiltered abundance of the open web.
 
 ### 6. What should we do to prevent modern libraries from closing down?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The strategic case for preventing library closures rests on articulating clearly what libraries provide that no other institution provides — which is increasingly not a question about books but about equitable access to information, community space, and professional knowledge support for people with the fewest alternatives. The most effective advocacy for library preservation makes this equity argument explicitly and quantitatively: library closure most severely affects the populations least served by commercial and digital alternatives — children in low-income households, elderly people, job-seekers, and people without reliable internet access — and the costs of the alternatives that would partially fill the gap are considerably higher than the cost of the library itself. Practically, the libraries most successfully resisting closure are those that have diversified their service offering to become community hubs — providing digital access, professional advisory services, community programming, and safe public space — rather than remaining narrowly defined as book-lending institutions.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Library preservation requires both political advocacy and institutional evolution, and the two are inseparable: institutions that have not made the case for their contemporary relevance are politically indefensible when budget pressures require choices, while institutions that have diversified their value proposition and demonstrated community impact are substantially more resilient. The evidence from countries that have sustained or increased library funding despite fiscal pressure consistently identifies two enabling factors: strong public awareness campaigns that make the equity argument for library access explicit and emotionally resonant, and library institutions that have actively demonstrated community impact through rigorous outcome measurement — documenting who they serve, what the service achieves, and what the alternative cost would be. The lesson for library advocates is that the argument from cultural heritage — "we should have libraries because libraries are good" — is insufficient in the contemporary political environment; the argument must be made in the economic and equity terms that political decision-makers can defend.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **serendipitous** (adj) (/ˌser.ənˈdɪp.ɪ.təs/): occurring by happy chance or pleasant accident | tình cờ may mắn
+- **discretionary time** (n phr): time free from obligatory duties | thời gian tự do, tuỳ ý sử dụng
+- **curate** (v) (/kjʊˈreɪt/): to carefully select and organise content for an audience | chọn lọc và tổ chức nội dung
+- **information literacy** (n phr): the ability to find, evaluate, and use information effectively | năng lực thông tin
+- **equity infrastructure** (n phr): systems designed to ensure fair access for all | cơ sở hạ tầng bình đẳng
+- **value proposition** (n phr): the reason why someone should choose a service or product | giá trị đề xuất, lý do chọn dùng
+- **algorithmic recommendation** (n phr): suggestions generated by automated systems based on user behaviour | đề xuất thuật toán
+- **marginal cost** (n phr): the cost of producing one additional unit | chi phí cận biên
+- **outcome measurement** (n phr): the process of tracking the results and impacts of a programme | đo lường kết quả
+- **heritage** (n) (/ˈher.ɪ.tɪdʒ/): the traditions, values, and objects passed down through history | di sản
 
 ## Describe a creative person you admire
 
@@ -2826,77 +3019,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The person I would describe is a graphic designer named Anh Tuấn, who graduated from my university four years before I began studying there, and whose work I first encountered when a lecturer used one of his projects as a case study in my first-year design thinking seminar.
+
+Tuấn had created a series of visual communication pieces for a non-governmental organisation working on water access in rural Việt Nam — not conventional charity infographics, but typographically sophisticated and conceptually unusual posters that repurposed Vietnamese calligraphic traditions to encode statistical information. They were striking because they accomplished something rare in design: they were genuinely beautiful at the level of surface and simultaneously rigorous at the level of informational content, without either quality compromising the other. I looked him up after the lecture and found that he had since gone on to work on several broadly distributed public health campaigns, maintaining the same commitment to design that serves communication rather than substituting spectacle for it.
+
+What I admire about him specifically is that his creativity is never self-indulgent: every formal and aesthetic decision in his work is accountable to a communicative purpose, and his ability to find genuinely unexpected solutions within that accountability is what I would define as creative excellence — the capacity to produce something both surprising and right.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The person I find most genuinely creatively admirable in my professional experience is an architect named Linh — now a senior partner at a firm in Hà Nội — whom I worked alongside on a mixed-use development project in my early career.
+
+Linh's approach to spatial design was distinguished by a quality that is rarer than it sounds: she never designed from typology — never started with "this is the form that a building of this type takes" — but always from a granular understanding of how the specific people in the specific context would actually inhabit the space, which she developed through direct observational research that took up a substantial portion of every project's early phase. The consequence was that her designs tended to look unusual by the conventions of the type — her residential buildings had shared spaces where other buildings had private ones, her commercial spaces had proportions that most comparable buildings did not — and the unusual quality was always in service of a use-pattern analysis that, once explained, was obvious and obviously right.
+
+I find her creative because she is willing to do the methodological work — the sustained, patient observation and analysis — that enables genuinely novel solutions rather than taking the shortcut of stylistic novelty, which is a far more common and considerably less admirable form of being different.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **typographically** (adv) (/ˌtaɪ.pəˈɡræf.ɪ.kli/): in a way relating to the style and arrangement of text | về mặt typography (nghệ thuật sắp chữ)
+- **calligraphic** (adj) (/ˌkæl.ɪˈɡræf.ɪk/): relating to the art of beautiful handwriting | thuộc thư pháp
+- **self-indulgent** (adj) (/ˌself.ɪnˈdʌl.dʒənt/): focused on personal gratification rather than purpose | tự chiều chuộng, không chú ý nhu cầu người khác
+- **typology** (n) (/taɪˈpɒl.ə.dʒi/): a system of classification based on shared types | loại học, phân loại theo kiểu
+- **granular** (adj) (/ˈɡræn.jʊ.lər/): detailed and specific rather than general | chi tiết, cụ thể
+- **spatial** (adj) (/ˈspeɪ.ʃəl/): relating to space and how things are arranged within it | thuộc về không gian
+- **accountability** (n) (/əˌkaʊn.tə.ˈbɪl.ɪ.ti/): responsibility or answerability for one's decisions | trách nhiệm giải trình
+- **observational research** (n phr): research based on systematic direct observation | nghiên cứu quan sát
+- **spectacle** (n) (/ˈspek.tə.kəl/): something visually striking but perhaps lacking substance | cảnh tượng hoành tráng, trình diễn
+- **conceptually** (adv) (/kənˈsep.tʃu.ə.li/): in terms of underlying ideas or principles | về mặt khái niệm
 
 ### 1. Do you think children should learn to play musical instruments?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Learning a musical instrument is one of the most robustly evidenced developmental activities available to children, producing measurable benefits in a wider range of cognitive and non-cognitive domains than most comparable educational activities. The cognitive benefits are well-documented: sustained musical training improves working memory, phonological processing, mathematical understanding of proportion and pattern, and fine motor control. The non-cognitive benefits — including the development of disciplined practice habits, the capacity to accept failure and sustain effort through difficulty, and the experience of producing something beautiful through one's own sustained effort — are arguably more significant for long-term development than the cognitive ones. The important caveat is that these benefits are associated with sustained practice in a supportive environment, not simply with initial exposure, and the conditions of learning matter as much as the activity itself.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The case for musical instrument training in childhood is strong and goes considerably beyond the popular appeal to cognitive enhancement, which tends to be overstated. The most substantive developmental arguments are about what sustained musical practice develops in terms of character rather than cognition: the ability to engage with a difficult skill over a long time horizon, accept the discomfort of incompetence as a transitional rather than permanent state, and derive genuine satisfaction from improvement rather than from achievement. These capacities — patience, persistence, intrinsic motivation, and tolerance for process — are the foundations of professional excellence in virtually every demanding field, and musical training is among the most effective available pedagogical contexts for developing them. The question for parents is therefore not whether their children will become professional musicians but whether musical practice, in the right conditions and with appropriate support, would develop capacities that will be valuable regardless of what their children ultimately do.
 
 ### 2. How do artists acquire inspiration?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The popular image of artistic inspiration as a sudden, unprepared arrival of creative insight is empirically inaccurate and does a disservice to the serious work that precedes and enables creative breakthroughs. The more accurate account, supported by research on creative processes in art, literature, music, and design, is that inspiration operates as the resolution of a problem that has been held in active attention for an extended period — a moment of synthesis that is prepared for by sustained work and observation rather than visited randomly upon the passive recipient. Artists who are consistently creatively productive tend to maintain active practices of looking, noticing, and engaging with a wide range of material outside their own immediate field — what cognitive psychologists call "wide sampling" — which provides the raw material that prepared attention can then synthesise into original work.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The question of how artists acquire inspiration is best addressed by distinguishing between the spontaneous quality that inspiration feels like from the inside and the systematic conditions that produce it. From the inside, creative inspiration is typically experienced as a sudden connection — a perception that two previously unconnected things are related in a productive way — that feels effortless and involuntary. From the outside, the research on creative biographies consistently shows that these moments of apparent spontaneity are preceded by sustained immersion in the relevant problem, broad and curious engagement with the world beyond the immediate field, and deliberate periods of incubation in which the problem is held in background attention without being actively worked. The practical implication for people in creative fields is that inspiration is something to be cultivated through structured conditions — sustained engagement, disciplined practice, intentional rest — rather than passively awaited.
 
 ### 3. Do you think pictures and videos in news reports are important?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Visual elements in news reporting serve several distinct functions that range from the genuinely informative to the manipulative, and the evaluation of their importance depends on which function is being considered. At their best, images and videos provide documentary evidence of events that written reporting can only describe — images of disaster, conflict, social injustice, and public celebration carry an immediacy and specificity that text cannot replicate — and this documentary function is one of journalism's most historically important contributions to political accountability. At their worst, visual elements in news reporting exploit the disproportionate emotional impact of imagery relative to text — particularly for threatening or distressing events — to produce audience states that distort rather than inform judgment about the frequency, severity, and appropriate response to reported events.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The role of visual elements in news reporting warrants the kind of careful, medium-specific analysis that popular media commentary typically does not provide. Visual journalism at its most valuable serves functions that text cannot: the documentation of events through direct evidence, the provision of context through spatial and environmental imagery, and the humanisation of statistical or abstract reporting through individual narrative. The significant concern is the systematic effect of visual news consumption on risk perception: psychological research consistently finds that visual representation of events — particularly salient, emotionally arousing events — produces overestimation of their frequency and severity relative to base rates, which distorts both individual risk judgment and collective political prioritisation. The most intellectually responsible position is that visual elements are important, but that news consumers and news organisations both have responsibilities to understand and partly compensate for these systematic perceptual biases.
 
 ### 4. What can we do to help children stay creative?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Protecting children's creativity requires both removing constraints and providing conditions, and both are more actively required than most educational policy discussions acknowledge. The most damaging constraint on children's creativity is the excessive structuring of time: children who spend most of their time in adult-directed activities — academic study, organised sport, supervised extracurricular programmes — have significantly less opportunity to develop the self-initiated creative capacity that unstructured time, boredom, and self-directed play produce. The most important positive condition is exposure to a wide range of materials, ideas, and experiences across domains — which both provides raw creative material and prevents the early specialisation that narrows creative possibility. Teachers and parents who model the creative process — who think aloud, who are visibly uncertain, who try things that do not work and continue anyway — also make a significant contribution that is often overlooked in favour of more tangible structural interventions.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Sustaining children's creativity in educational and home contexts requires a clear analysis of what tends to diminish it, since most of the effective interventions are protective rather than additive. The primary diminishers of children's creativity in contemporary contexts are: excessive performance pressure (the requirement to produce correct rather than interesting answers), excessive adult direction of activity (leaving children insufficient autonomy to generate their own approaches), and the displacement of open-ended play by screen-based passive entertainment (which is consumptive rather than generative). The most effective institutional interventions — in schools and organisations concerned with creative capacity — are those that create genuine space for exploratory activity without predetermined correct outcomes, and that evaluate and reward the process of creative inquiry as highly as its products.
 
 ### 5. How does drawing help to enhance children's creativity?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Drawing is one of the most developmentally productive creative activities available to children because it simultaneously develops several distinct capacities that together constitute creative competence. At the basic perceptual level, drawing trains careful visual attention — the ability to actually look at the world rather than to draw the symbol one has learned to associate with the object — which is a foundational observational skill that transfers across creative domains. At the conceptual level, drawing requires translating internal visual ideas into external marks, which develops the capacity to externalise and evaluate mental representations — a fundamental creative skill that drawing uniquely makes visible. At the iterative level, drawing provides immediate feedback on the gap between intention and execution, which develops tolerance for imperfection and the capacity to refine through repeated attempts.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The developmental research on drawing and creativity identifies drawing as one of the clearest available bridges between perceptual experience and symbolic representation, which makes it a particularly valuable creative practice in early to middle childhood. Drawing requires and reinforces a particularly productive form of attention — looking at the world as it actually is rather than as categorical knowledge tells us it should be — that is foundational to creative perception across all domains. The externalisation function is equally important: drawing makes internal representations visible and therefore criticisable, which is the basis of the iterative refinement process through which creative work develops. Design education at every level is built on drawing precisely because the habit of visual thinking — of representing, evaluating, and revising visual ideas externally — is the cognitive infrastructure on which domain-specific creative skills are most effectively built.
 
 ### 6. What kind of jobs require creativity?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The scope of jobs requiring creativity is considerably wider than the popular identification of "creative professions" with the arts and design industries captures. Any job in which novel problems arise — which is increasingly the majority of economically significant professional roles — requires creative problem-solving: the capacity to generate multiple possible approaches, evaluate their likely effectiveness, and select and adapt the most promising. The jobs where creativity is most clearly and constantly demanded are those involving design in the broad sense — the deliberate shaping of complex systems toward intended outcomes — which includes architecture, engineering, product development, marketing, organisational design, policy development, and teaching, in addition to the arts. The interesting socioeconomic question for the next two decades is the relationship between artificial intelligence and creativity in professional contexts: AI is substantially better than humans at high-volume pattern reproduction within established domains, and substantially worse at generating genuinely novel responses to genuinely novel problems, which suggests that creative capacity will become progressively more — not less — economically valuable.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional landscape of creativity is better understood through the lens of what specific creative demands different roles place rather than through categorical distinctions between "creative" and "non-creative" work. Roles that require generative creativity — the production of genuinely new solutions, products, or frameworks — include design, research, strategy, entrepreneurship, and the arts. Roles that require adaptive creativity — the application of existing methods to novel contexts in ways that require genuine judgment — include medicine, law, teaching, management, and engineering. Roles that require interpretive creativity — finding meaning and pattern in complex, ambiguous data — include analysis, journalism, and scholarship. The common thread across all three types is the requirement to engage productively with problems that do not have pre-specified correct answers — which is precisely the domain where human creative capacity has proven most resistant to automation.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **phonological processing** (n phr): the ability to hear and manipulate sound units in language | xử lý ngữ âm
+- **incubation** (n) (/ˌɪŋ.kjʊˈbeɪ.ʃən/): a period of unconscious problem-solving while mentally resting | ủ ý tưởng (giai đoạn tiềm thức)
+- **base rate** (n phr): the underlying frequency of an event in a population | tỷ lệ nền, tần suất cơ bản
+- **documentary evidence** (n phr): proof based on recorded records or images | bằng chứng tài liệu
+- **salience** (n) (/ˈseɪ.li.əns/): the quality of being particularly noticeable or important | sự nổi bật
+- **externalise** (v) (/ɪkˈstɜː.nə.laɪz/): to express or represent internal thoughts outwardly | biểu đạt ra bên ngoài
+- **iterative refinement** (n phr): improving something through repeated cycles of revision | tinh chỉnh lặp đi lặp lại
+- **wide sampling** (n phr): exposure to a broad range of ideas and stimuli to fuel creativity | lấy mẫu rộng (trong nghiên cứu sáng tạo)
+- **generative creativity** (n phr): the ability to produce entirely new ideas or solutions | sáng tạo sinh thành
+- **adaptive creativity** (n phr): creativity applied to solving problems in new contexts | sáng tạo thích ứng
 
 ## Describe a long journey you had and would like to take again
 
@@ -2910,77 +3129,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The journey I would describe is a two-week overland trip from Hà Nội to Cà Mau that I made with three friends at the end of my second year — not by the fastest route, but by a series of roads and ferries that deliberately followed the coastline wherever possible.
+
+The trip was conceived as both a celebration of surviving our second year and something more serious: we had all been studying regional development and urbanisation and wanted to actually see, in sequence and continuity, the landscape we had been reading statistics about. We spent nights in fishing villages, provincial towns, and one uncomfortable night on a ferry across the mouth of a delta river. We ate whatever was available locally, which was sometimes extraordinary and occasionally not.
+
+What made it a journey I want to take again is not nostalgia for the specific places — though several were beautiful — but the particular cognitive experience of geographical continuity: seeing the landscape change gradually from temperate to tropical, watching how the relationship between water, agriculture, and settlement evolved across latitude, and feeling the country as a connected physical reality rather than a set of discrete destinations. I have not experienced that quality of geographic comprehension in any other form of travel, and I would like to try to recover it — probably more slowly, at this point, and with better preparation for the mosquitoes in the Mekong delta.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The journey I would describe is a twelve-day research trip I made to five provincial cities in the northern and central highlands — Bắc Kạn, Hà Giang, Điện Biên, Sơn La, and Lai Châu — which I undertook as part of a policy research project on rural infrastructure investment.
+
+The journey was primarily professional in purpose — visiting project sites, interviewing local officials and community members, and collecting observational data — but the cumulative experience of the landscape, the quality of the conversations, and the pace of information that travel by road produces made it one of the most intellectually productive periods of my working life. I had the particular experience of seeing the same policy framework applied across dramatically different topographic, ethnic, and economic contexts in quick succession, which made visible dimensions of policy implementation that would have been entirely invisible from a desk in Hà Nội.
+
+I would like to make the journey again because I understand now what I did not fully understand the first time: how much of what I saw I processed too quickly and retained too shallowly. Returning to those environments with better questions, more time, and the context that the first journey provided would, I think, be a substantially different — and more productive — experience than the original.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **overland** (adj/adv) (/ˌəʊ.vəˈlænd/): travelling by road or land rather than air or sea | theo đường bộ, băng qua đất liền
+- **latitude** (n) (/ˈlæt.ɪ.tjuːd/): distance north or south of the equator | vĩ độ
+- **topographic** (adj) (/ˌtɒp.əˈɡræf.ɪk/): relating to the physical features of an area of land | địa hình học
+- **continuity** (n) (/ˌkɒn.tɪˈnjuː.ɪ.ti/): the unbroken connection of successive parts | tính liên tục
+- **implementation** (n) (/ˌɪm.plɪ.menˈteɪ.ʃən/): the process of putting a plan into action | thực thi, thực hiện
+- **sequential** (adj) (/sɪˈkwen.ʃəl/): following a particular order; one after another | tuần tự, theo thứ tự
+- **infrastructure** (n) (/ˈɪn.frə.strʌk.tʃər/): the basic physical systems supporting a society | cơ sở hạ tầng
+- **itinerary** (n) (/aɪˈtɪn.ər.ər.i/): a planned route or journey schedule | hành trình, lịch trình
+- **temperate** (adj) (/ˈtem.pər.ət/): having mild weather, not extreme heat or cold | ôn đới
+- **discrete** (adj) (/dɪˈskriːt/): individually separate and distinct | riêng biệt, không liên kết
 
 ### 1. Do you think it is a good choice to travel by plane?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Air travel is a rational choice for specific purposes and a poor one for others, and the question is best evaluated through a matrix of criteria rather than a single-factor judgment. For long-distance travel where time is the binding constraint — international journeys, travel for professional commitments, travel to remote destinations with no practical surface alternative — air travel is clearly the appropriate choice and has no meaningful practical substitute. For shorter journeys, particularly within a single country or region, the calculus is less clear: the time advantage of flying is often substantially reduced by the access and processing time at airports, and the journey quality — in terms of environmental experience, serendipitous discovery, and genuine encounter with geography — is categorically different on surface transport. The environmental dimension increasingly complicates this in ways that individual travelers cannot reasonably resolve without systemic policy support.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Evaluating air travel as a choice requires separating several distinct criteria that are often conflated: efficiency (time per kilometer of distance covered), environmental cost, journey quality, and total economic cost including the full door-to-door time accounting. On pure efficiency for long-haul journeys, air travel is clearly superior to all alternatives; on environmental cost, it is the worst available option per passenger kilometer for distances where surface alternatives exist; on journey quality, the comparison is highly context-dependent. The most interesting professional productivity case involves long-distance train travel: research and practical experience consistently show that business travelers on long-haul rail services produce more useful work, are less cognitively depleted on arrival, and report higher travel satisfaction than equivalent air travelers — a finding that has significant implications for corporate travel policy in countries with adequate rail infrastructure.
 
 ### 2. What are the differences between group travelling and travelling alone?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Group travel and solo travel are so different in their characteristic experiences that comparing them on a single "better/worse" axis substantially misrepresents the situation: they are different activities that produce different things, and the choice between them depends on what the traveler is actually trying to get from the experience. Solo travel maximises encounter with the unfamiliar: without a pre-existing social structure to inhabit, the solo traveler is more exposed to chance conversations, unexpected re-routings, and the particular quality of alert attention that mild uncertainty produces. Group travel maximises social depth and shared reference: the experience of encountering something remarkable with people you know well — and the shared memory that persists — is a different and not necessarily lesser thing than encountering the same thing alone. The practical differences — in safety, in logistical efficiency, in the ability to access accommodation and restaurants easily — tend to favour groups for certain destinations and solo travel for others.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional context in which group versus solo travel most commonly arises — business travel — is worth considering alongside leisure travel because the dynamics are meaningfully different. Solo business travel tends to produce higher cognitive productivity than group business travel: without the social management that travelling companions require, the solo traveler has more mental space for the reflective and preparatory thinking that professional travel occasions. Group leisure travel, conversely, is often preferred precisely because the social management is itself enjoyable and the shared experience has relational value that solo travel does not. The most relevant dimension for deciding between the two for any given journey is therefore what you most want to bring back: if the primary value is what you will see and think, solo travel often produces more; if the primary value is the experience of travelling itself and its effect on your relationships with specific people, group travel does.
 
 ### 3. What do we need to prepare for a long journey?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Preparation for a long journey falls into three categories that are less evenly attended to than they should be: logistical, physical, and cognitive. Logistical preparation — transport, accommodation, documents, insurance, health precautions, and financial access — is what most people focus on and what most travel advice addresses. Physical preparation — appropriate fitness for the activity demands of the journey, health management for the environments involved, and physical equipment suited to the conditions — is better attended to by experienced travellers than by first-time ones. Cognitive preparation — developing a sufficient understanding of the cultural, historical, and geographic context of the destination to make genuine encounter possible rather than superficial tourism — is the most consistently underprepared category and arguably the most determinative of whether the journey is genuinely worthwhile or merely comfortable.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Professional preparation for long research or business journeys has a specific logic that differs from leisure travel preparation: the most important preparation is intellectual rather than logistical, since logistical preparation for experienced professional travelers is largely habitual. For research-oriented travel, the most productive preparation involves developing a clear set of questions that the journey is intended to answer, a sufficient understanding of the relevant literature and context to recognise significant information when encountered, and the interpersonal network preparation — establishing contacts and securing access in advance — that enables the journey to produce data rather than merely impressions. The specific professional discipline that distinguishes effective from ineffective research travel is systematic field note practice: the commitment to recording what is observed with sufficient immediacy, specificity, and analytical engagement that it is genuinely recoverable for later analysis.
 
 ### 4. Why do some people like making long journeys?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The appeal of long journeys reflects a set of psychological needs that shorter travel and local experience relatively poorly satisfy: the need for genuine encounter with difference, the experience of sustained personal challenge in a novel environment, and the particular quality of perception that extended displacement from familiar contexts produces. The research on travel and wellbeing suggests that the most beneficial effects — in terms of creative renewal, perspective-taking, and reduced cognitive rigidity — are associated with journeys that involve sustained immersion in genuinely different environments rather than short visits to tourist-formatted experiences, because it is extended exposure to difference that shifts cognitive frameworks rather than brief contact with it. Long journeys also have a temporal dimension that shorter travel lacks: the experience of time passing differently — more slowly, more attentively — is itself a value that many habitual travellers identify as central to why long journeys feel disproportionately important relative to their duration.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional and developmental value of long journeys is distinct from — and in some respects more important than — their recreational value, which is the dimension most commonly discussed. Extended professional travel to different institutional, cultural, and economic contexts produces a form of comparative understanding — a sense of the range of ways human problems can be organised and addressed — that is very difficult to acquire from reading, analysis, or shorter visits. The executives, policymakers, and researchers I have observed who have the most genuinely broad and flexible strategic intelligence are disproportionately those who have spent significant extended time in environments quite different from their home contexts, whether by preference, professional necessity, or accident of career. The mechanism appears to be cognitive: sustained exposure to different ordering principles forces a level of adaptive thinking that recalibrates frameworks in ways that short-term exposure cannot.
 
 ### 5. Why do some people prefer to travel in their own country?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The preference for domestic travel reflects a set of advantages that are often undervalued relative to the cultural prestige that international travel enjoys. Language access — the ability to read, ask questions, and understand responses without interpretation — dramatically expands the range and quality of encounter available to the traveler: a fluent speaker can access local media, overhear public conversation, engage spontaneously with unfamiliar people, and navigate complex situations in ways that are not available to the foreign-language traveler. Cultural familiarity — knowing how social situations work, what is expected, and how to interpret behaviour — reduces the cognitive load of travel and enables deeper engagement with places and people. And domestic travel offers what is often the most underappreciated travel experience: discovering the genuine strangeness and complexity of one's own national geography and society, which sustained cultural familiarity tends to obscure.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Domestic travel is underrated as a professional development and intellectual renewal activity, partly because the reward structures of professional life tend to value international exposure more than domestic depth. The professional case for systematic domestic travel is that understanding the full complexity of one's own country — its regional variations, economic geographies, cultural multiplicity, and the local conditions that national-level data systematically obscures — provides an analytical foundation for policy, strategy, and research work that no amount of international exposure can substitute for. Vietnamese professionals who have travelled extensively domestically — who have spent time in the highland provinces, the Mekong delta, the northern border regions, and the central coast — tend to have a more empirically grounded and less Hà Nội-centric understanding of their country's development challenges than those whose travel is primarily international.
 
 ### 6. Why do some people prefer to travel abroad?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+International travel offers a specific and important kind of experience that domestic travel cannot replicate: encounter with a social, cultural, and linguistic order that is genuinely different from one's own in ways that cannot be habituated to quickly. This encounter — with different assumptions about how public space works, how social relationships are managed, how time is used, and what counts as important — is cognitively and experientially valuable precisely because it makes visible the contingency of one's own familiar arrangements: things that feel natural and necessary turn out to be one option among others, which is a perspective-expanding discovery that is much more difficult to achieve within a familiar cultural context. International travel also provides access to specific forms of historical, architectural, and natural environment that do not exist domestically — which is a legitimate and important motive that is sometimes treated dismissively but reflects a genuine desire for encounter with the world in its full diversity.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional and intellectual case for international travel is well-established: exposure to different institutional models, policy frameworks, business practices, and cultural approaches to common problems is one of the most consistently cited sources of innovative thinking among professionals who have worked across national contexts. The mechanism — encountering a fundamentally different solution to a problem one has assumed only has one solution — is cognitively disruptive in a specifically productive way: it forces the recognition that one's existing framework is a locally valid model rather than a universal truth, which is the starting point for genuinely adaptive and creative professional thinking. The more interesting question for professionals weighing international against domestic travel is not which is superior but which specific information and perspective gaps the individual most needs to address — and honest answers to that question sometimes point toward domestic depth as much as toward international breadth.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **calculus** (n) (/ˈkæl.kjʊ.ləs/): a method of reasoning about trade-offs or complex decisions | phép tính cân nhắc lợi hại
+- **serendipitous** (adj) (/ˌser.ənˈdɪp.ɪ.təs/): occurring by chance in a beneficial way | tình cờ may mắn
+- **recalibrate** (v) (/ˌriːˈkæl.ɪ.breɪt/): to adjust one's thinking or approach based on new information | điều chỉnh lại framework nhận thức
+- **immersion** (n) (/ɪˈmɜː.ʃən/): complete involvement in a different environment or culture | sự đắm chìm (trong môi trường mới)
+- **contingency** (n) (/kənˈtɪn.dʒən.si/): the fact that something depends on uncertain conditions | tính ngẫu nhiên, phụ thuộc hoàn cảnh
+- **cognitive rigidity** (n phr): the tendency to think in fixed, inflexible mental patterns | cứng nhắc nhận thức
+- **habituate** (v) (/həˈbɪtʃ.u.eɪt/): to become so accustomed to something that it no longer draws attention | quen dần, mất cảm giác mới lạ
+- **field note** (n phr): written observations made by researchers during direct fieldwork | ghi chú thực địa
+- **door-to-door** (adj phr): accounting for the total time from origin to final destination | từ cửa đến cửa (tổng thời gian di chuyển)
+- **perspective-taking** (n phr): the cognitive act of understanding a situation from another's point of view | lấy góc nhìn người khác
 
 ## Describe a person you know who enjoys working for a family business
 
@@ -2994,77 +3239,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The person I would describe is my cousin, Minh Tú, who is twenty-six years old and works primarily as the production manager and — unofficially — the product development lead for her family's preserved fruit and traditional confectionery workshop in Đà Lạt.
+
+The business has been run by her family for three generations: her grandmother started it, her parents expanded it into a small production facility, and Tú has been working in it since she was fifteen, initially during school holidays and then progressively more formally after she completed a degree in food technology at a university in Hồ Chí Minh City. She manages the production schedule, quality control, and has been responsible for developing a set of new products — including several that adapt traditional Đà Lạt fruit varieties into formats with better shelf life and broader market appeal — that have accounted for most of the business's growth over the past three years.
+
+What she has told me she most values about working in the family business is the combination of genuine responsibility and genuine belonging: she makes decisions that significantly affect the business without the institutional distance of a corporate role, and she works with people — her parents, two aunts, and a small team of long-term employees — whose relationship to the business involves investment and care that is not purely contractual. She finds that the business gives her work a texture of significance that she suspects would be absent from a large company.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The person I would describe is a former colleague — I will call him Khang — who left a mid-level analytical position at a financial services firm to return full-time to his family's hardware and construction materials business in Bình Dương, a decision that most of his professional peers at the time found puzzling.
+
+Khang's family had operated the business for twenty years before he joined it, and what he returned to was not a simple retail operation but a supplier relationship network that his father had built over decades — one with genuine trust-based depth that Khang's professional training in financial analysis and supply chain management enabled him to substantially improve without disrupting. He described his role as being primarily about making something his father had built intuitively into something that could sustain growth without losing the relational qualities that had made it successful: which meant building systems and processes that amplified rather than replaced the trust-based supplier and customer relationships at the core of the business.
+
+What he values most, he has told me, is the directness of the feedback between his decisions and their consequences — a lack of institutional distance from the real effects of his work that he found missing in corporate environments — and the sense that the work he is doing is building something that will compound over decades rather than producing quarterly results for shareholders he will never meet. He is, without question, more intellectually engaged and professionally satisfied than he was during the corporate period of his career.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **confectionery** (n) (/kənˈfek.ʃən.ər.i/): sweets and other sugar-based food products | bánh kẹo, đồ ngọt
+- **shelf life** (n phr): the length of time a product remains usable or sellable | thời hạn sử dụng
+- **contractual** (adj) (/kənˈtræk.tʃu.əl/): relating to or based on a formal agreement | theo hợp đồng
+- **supplier relationship** (n phr): the ongoing connection between a business and those who provide goods | mối quan hệ với nhà cung cấp
+- **supply chain** (n phr): the entire system of production, processing, and distribution of goods | chuỗi cung ứng
+- **compound** (v) (/ˈkɒm.paʊnd/): to grow by accumulation over time | tích lũy, gia tăng theo thời gian
+- **institutional distance** (n phr): the separation between an employee and the real-world effects of their work | khoảng cách thể chế
+- **relational** (adj) (/rɪˈleɪ.ʃən.əl/): relating to or based on personal connections and trust | dựa trên mối quan hệ
+- **quality control** (n phr): the process of maintaining standards in production | kiểm soát chất lượng
+- **amplify** (v) (/ˈæm.plɪ.faɪ/): to increase the strength or effect of something | khuếch đại, tăng cường
 
 ### 1. Would you like to start a family business?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The prospect of starting a family business is one I find genuinely interesting rather than straightforwardly appealing, because the evidence on family businesses as both economic entities and relational systems is considerably more complex than the idealised version of family entrepreneurship that popular discourse tends to present. The economic case is moderately strong: family businesses have lower agency costs than non-family ones, because the alignment between ownership and management reduces the principal-agent problem that generates most of the monitoring and incentive costs of large corporations. The relational case is more fraught: the overlap between family relationships and professional authority structures creates specific tensions — around succession, performance management, and conflict resolution — that are significantly more difficult to manage than equivalent tensions in non-family organisations. My honest assessment is that I would find the entrepreneurial aspects of family business appealing but would need to think very carefully about which family members I would build it with and what governance mechanisms would manage the relational risks.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Starting a family business is something I have thought about seriously and will continue to evaluate against specific opportunities rather than as an abstract preference. The structural advantages of a well-designed family business — long-term orientation, strong relational capital, patient capital from family investors who understand the business deeply, and the motivational intensity that comes from equity in something you have built — are genuine and significant. The structural risks are equally genuine: undiversified human capital concentration (family members invested in both the business and in relationships with each other), the difficulty of separating family and professional authority, and the challenge of maintaining fair and effective performance management with people you also love. The businesses I have observed that manage these risks well are those that establish explicit governance structures early — separating family ownership from business management, creating clear decision-making protocols, and establishing norms for how business disputes will be resolved — rather than relying on goodwill and family cohesion that business pressure tends to erode.
 
 ### 2. Would you like to work for a family business?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Working for another family's business is a different proposition from working for one's own family business, and both are different from working for a large non-family corporation. The appeal is in the qualities that family businesses tend to have in greater abundance than large corporations: a clearer connection between individual contribution and organisational outcomes, more direct relationships with decision-makers, and a relational quality to the work environment that most large organisations cannot replicate. The risks are the specific dynamics of family governance: an employee who is not a family member operates in a context where some decisions will be made for non-meritocratic reasons, where succession is not primarily a question of professional capability, and where the informal power structures of family relationships can significantly complicate the formal professional ones. Whether working in a specific family business would be a good choice depends almost entirely on the specific culture and governance of that family business — the generalisation is that the variance is very high.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The decision to work for a family business as a non-family professional is one that requires careful evaluation of a specific set of factors that are less relevant in non-family corporate contexts. The critical question is the nature of the relationship between family ownership and professional management: family businesses that have made a genuine commitment to professional management — where non-family managers have real authority, where performance is evaluated on professional rather than relational criteria, and where succession to non-family leadership is a real possibility — offer most of the advantages of the family business model without most of its governance risks for outside professionals. Family businesses where the family-professional boundary is ambiguous and where professional authority is consistently subordinated to family hierarchy offer significantly fewer attractions for an ambitious professional. Investigating this distinction carefully before joining is the most important due diligence that a professional considering a family business role can do.
 
 ### 3. Why do some people choose to start their own company?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The motivations for entrepreneurship are more varied than the dominant narrative — primarily economic opportunity and innovation — captures. Some people start companies primarily for autonomy: the desire to have genuine control over how they work, what they work on, and how they manage their time, which is systematically constrained in employment regardless of seniority. Some people start companies because they have identified a specific opportunity — a market gap, an unsolved problem, an underserved customer — and cannot see an existing organisation through which to address it effectively. Some people start companies because the alternative — continuing in unsatisfying employment — feels more risky in the deep sense of a life not well-used than the financial risk of entrepreneurship. And some people start companies because they want to build something that will outlast their professional career and carry their name and values forward.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The entrepreneurial motivation research distinguishes systematically between opportunity-driven and necessity-driven entrepreneurship: the former reflects a choice to pursue a specific opportunity that the founder believes they can convert into a valuable business; the latter reflects the absence of satisfactory employment alternatives. Both are legitimate and both produce successful businesses, but they are associated with different risk profiles and different personal characteristics. The most neglected dimension of entrepreneurial motivation in popular accounts is the organisational frustration explanation: a significant proportion of high-performing professionals who start their own companies do so primarily because their existing organisations are too slow, too risk-averse, or too politically complex to let them do the work they know needs doing — and entrepreneurship becomes the fastest available path to the quality of impact they are seeking. Understanding what is actually driving a potential founder's entrepreneurial impulse matters both for the founder's self-knowledge and for the investors and partners who are asked to share the risk.
 
 ### 4. What are the advantages and disadvantages of family businesses?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Family businesses have a distinctive profile of advantages and disadvantages that follows directly from the structure of family control and ownership rather than from any arbitrary feature of specific businesses. The core advantages are long-term orientation — family owners with generational investment in a business make decisions with longer time horizons than professional managers whose accountability is quarterly — and the lower agency costs that come from aligning ownership, control, and stakeholder interest in a way that non-family organisations cannot easily replicate. The core disadvantages are the governance risks that arise from conflating family relationships with professional authority: succession that follows family logic rather than capability logic, the difficulty of maintaining professional performance standards with relatives, and the risk that family conflict becomes business conflict in ways that non-family organisations can more easily contain.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The comparative performance of family businesses relative to non-family ones is one of the more robustly studied questions in business economics, and the findings are nuanced. Family businesses outperform non-family ones on long-run outcomes, particularly in contexts where relational capital, long-term investment, and stakeholder loyalty are primary competitive advantages — which describes many stable industrial and service sectors. They tend to underperform on innovation-intensive and rapid-growth metrics, where the patient capital and conservatism that produce long-run stability impede the risk tolerance that rapid change requires. The governance dimension is the most critical single determinant of whether a specific family business falls above or below the average: family businesses with professionalised governance — independent board members, professional management at appropriate levels, equity structures that don't conflate family membership with ownership rights — substantially outperform those without it.
 
 ### 5. What family businesses do you know in your local area?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The local economy in most Vietnamese urban areas is substantially constituted by family businesses operating across a wide range of sectors, and the specific character of each typically reflects both the sector's competitive dynamics and the particular family's accumulated knowledge. The most visible in my neighbourhood are restaurant and food businesses — often extending over two or three generations, with the founding generation's recipes and supplier relationships constituting the core competitive advantage and the second generation typically managing operations and service quality. Hardware, textiles, and small manufacturing operations also tend to be family-structured in Vietnamese local economies, reflecting the initial capital accumulation and supplier relationship patterns through which these industries historically developed. What I find most interesting about local family businesses is the specific form of embedded knowledge they represent: a third-generation restaurateur knows things about their local suppliers, their regular customers, and the specific demands of their neighbourhood that cannot be replicated by any outside competitor entering the same market.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Family businesses in Vietnamese local economies operate with a relational density — in supplier, customer, and community relationships — that is both their primary competitive advantage and the feature of the model most difficult to transfer or replicate. The most robust and longest-established family businesses I know locally are those that have built genuine trust-based relationships across multiple stakeholder groups: they have long-term supplier relationships that provide preferential access in tight supply conditions, long-term customer relationships that produce loyalty through genuine knowledge of individual needs, and community relationships that generate referrals, goodwill, and the kind of social capital that reduces transaction costs across the full range of business activity. The challenge for the next generation of these businesses is maintaining these relational assets while simultaneously developing the operational and technological capacities that the competitive environment now requires.
 
 ### 6. What makes a successful family business?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The factors that consistently distinguish successful from unsuccessful family businesses are more institutional than personal — they are features of governance and structure rather than of character — which is an important and often underappreciated finding. The most critical structural factor is the quality of succession planning: family businesses that succeed across generations are those that plan succession early, develop successor capability intentionally rather than assuming it, and have governance mechanisms that allow succession to be based on capability rather than birth order or family politics. The second critical factor is the capacity to professionalise without losing the relational qualities that give family businesses their distinctive competitive advantage: implementing systems, processes, and governance structures that can carry the business through scale without replacing the relationship capital that early-stage success was built on.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The research on multi-generational family business success identifies a remarkably consistent set of enabling factors that cut across cultural and sectoral variation. The most important is what organisational researchers call the "employment of family cohesion" — the capacity to maintain strong family relationships while managing the inevitable conflicts that arise from the overlap of family and professional authority, which requires explicit governance systems rather than an assumption that family love will be sufficient. The second most important factor is strategic adaptability: the multi-generational family businesses with the best long-run records are those that have been willing to fundamentally change their business model in response to market change while maintaining continuity of the relational and reputational capital that their name represents. The businesses that fail across generations are typically those that conflate the specific form of their founding success — a particular product, market, or method — with the underlying capabilities that produced it.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **principal-agent problem** (n phr): a conflict of interest between owners and hired managers | vấn đề ủy thác - đại lý
+- **succession planning** (n phr): preparing for the transition of leadership to the next generation | lập kế hoạch kế thừa
+- **meritocratic** (adj) (/ˌmer.ɪ.təˈkræt.ɪk/): based on ability and performance rather than privilege | dựa trên năng lực
+- **agency cost** (n phr): costs resulting from the conflict of interest between owners and managers | chi phí đại lý
+- **governance** (n) (/ˈɡʌv.ər.nəns/): the system by which an organisation is controlled and directed | quản trị (tổ chức)
+- **relational capital** (n phr): the value embedded in trusted relationships with stakeholders | vốn quan hệ
+- **patient capital** (n phr): long-term investment that does not demand quick returns | vốn kiên nhẫn, đầu tư dài hạn
+- **stakeholder** (n) (/ˈsteɪk.həʊl.dər/): anyone with an interest in or affected by an organisation | các bên liên quan
+- **embedded knowledge** (n phr): expertise deeply rooted in context and relationships | tri thức nhúng/tiềm ẩn
+- **undiversified** (adj) (/ˌʌn.daɪˈvɜː.sɪ.faɪd/): overly concentrated in one area without spreading risk | chưa đa dạng hoá
 
 ## Describe a wild animal that you want to learn more about
 
@@ -3078,77 +3349,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The animal I would describe is the Irrawaddy dolphin (*Orcaella brevirostris*), a species I have encountered twice — once on a boat trip along the Mekong near the Cambodian border and once, unexpectedly, from the shore of a small island in the Phú Quốc archipelago — and whose existence I find considerably more compelling the more I read about it.
+
+What struck me initially was the physical oddness of the animal: it lacks the beak of the more familiar coastal dolphins, has a rounded, almost bulbous head, and moves with a peculiar rolling motion quite unlike the acrobatic behaviour I associated with dolphins from nature documentaries. The behaviour that most interested me on both sightings was the apparent deliberateness of the animal's surfacing: it seemed to orient toward the boat in a way that was neither fearful nor indifferent but something closer to curious, which raised a question I subsequently found is the subject of active research — whether Irrawaddy dolphins in the Mekong have a uniquely cooperative relationship with traditional fishermen in which they herd fish toward nets in exchange for access to the concentrated fish populations that nets create.
+
+What I want to learn more about is precisely the ecology of that cooperative behaviour — how it is initiated, maintained, and whether it is transmitted culturally through dolphin populations — and also the conservation status of this species, which is listed as endangered in its riverine populations and about which I have read articles suggesting that the Mekong populations have declined to critically low numbers in the past two decades.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The animal I find most intellectually compelling is the clouded leopard (*Neofelis nebulosa*), which I first saw — briefly and at a distance — in a wildlife sanctuary in Nghệ An province during a work trip about five years ago, and which I have thought about periodically since then without having had the opportunity to properly investigate.
+
+The clouded leopard's combination of extreme morphological specialisation and behavioural obscurity makes it both fascinating and extraordinarily difficult to study: it is primarily arboreal, strongly nocturnal, and inhabits some of the most topographically complex and inaccessible forest in mainland Southeast Asia and the Himalayan foothills, which means that almost everything known about its behaviour in the wild has been inferred from camera trap data and short-duration radio telemetry studies rather than direct observation. The specific questions I want to understand better are those around its predatory ecology — what it actually hunts in different habitats, how it uses the forest's three-dimensional structure for ambush, and whether its extraordinarily large canine teeth relative to skull size reflect a dietary specialisation distinct from other large felids.
+
+The conservation concern is significant: the clouded leopard's dependence on intact forest makes it highly sensitive to the forest fragmentation that is the dominant land-use change pressure across its range, and the populations in Vietnam are now considered critically small by most assessments, though the data is so limited that confident population estimates are not possible.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **arboreal** (adj) (/ɑːˈbɔː.ri.əl/): living in or adapted to life in trees | sống trên cây
+- **morphological** (adj) (/ˌmɔː.fəˈlɒdʒ.ɪ.kəl/): relating to the form and structure of an organism | về hình thái học
+- **telemetry** (n) (/tɪˈlem.ɪ.tri/): the process of remotely tracking animals via electronic devices | đo lường từ xa (theo dõi động vật)
+- **felid** (n) (/ˈfiː.lɪd/): a member of the cat family (Felidae) | họ mèo
+- **camera trap** (n phr): a remotely triggered camera used to photograph wildlife | bẫy ảnh (thiết bị chụp ảnh động vật hoang dã)
+- **riverine** (adj) (/ˈrɪv.ər.aɪn/): relating to or situated on a river | thuộc môi trường sông
+- **endangered** (adj) (/ɪnˈdeɪn.dʒəd/): at serious risk of extinction | nguy cấp (về bảo tồn)
+- **fragmentation** (n) (/ˌfræɡ.menˈteɪ.ʃən/): the breaking up of a habitat into isolated patches | phân mảnh (sinh cảnh)
+- **nocturnal** (adj) (/nɒkˈtɜː.nəl/): active at night | hoạt động ban đêm
+- **cooperative** (adj) (/kəʊˈɒp.ər.ə.tɪv/): involving mutual effort between different parties | hợp tác, cùng làm
 
 ### 1. Why should we protect wild animals?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The case for wild animal conservation rests on multiple distinct arguments that are stronger together than any single one is alone. The ecological argument is foundational: wild animal species are embedded in ecosystem relationships — as predators, prey, seed dispersers, pollinators, and decomposers — that maintain the functional integrity of the ecosystems that produce the clean water, stable soil, flood regulation, and climate buffering that human civilisation depends upon. The extinction of species therefore involves not only the irreversible loss of the species itself but progressive degradation of the ecosystem services that the web of ecological relationships it participated in was producing. Any policy framework for conservation that addresses only the direct costs of species loss without accounting for the systemic ecological consequences of biodiversity decline will systematically underestimate what is actually at stake.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The economic case for wild animal conservation is more robust than its political weakness in most policy contexts suggests. Wild species represent biological capital — an inventory of proven evolutionary solutions to the problem of surviving in specific environments — whose value for pharmaceutical discovery, agricultural genetics, and materials science is large and incompletely explored; the loss of a species is the permanent deletion of that capital, which is irreversible in a way that most other forms of environmental damage are not. The ecosystem service valuation literature — which attempts to express the economic value of what functional ecosystems produce, from pollination to water purification to carbon sequestration — consistently finds that the total economic value of functioning biodiversity is very large relative to the direct costs of conservation, which makes the political failure to invest adequately in conservation one of the clearer examples of systematic market and policy failure in contemporary governance.
 
 ### 2. Why are some people more willing to protect wild animals than others?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The variation in conservation concern across individuals reflects a well-documented set of psychological, cultural, and experiential differences rather than moral variation. Direct experience with nature is one of the most consistent predictors of conservation concern: people who have spent time in natural environments — who have actually seen wild animals, heard ecosystems functioning, noticed the difference between a biodiverse and a degraded landscape — are substantially more likely to have conservation concern than those whose experience of the natural world is primarily mediated by screens. Cultural frameworks matter significantly: cultures with traditions of human embeddedness in the natural world — in which nature is understood as something one belongs to rather than something one uses — tend to produce stronger baseline conservation dispositions than those organised around a more instrumental relationship between humans and the natural world.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The social psychology of conservation motivation identifies several consistent predictors of who is more likely to act on conservation concern, and understanding these offers important guidance for conservation communication strategy. Proximity and familiarity are significant: people are more motivated to protect species they have direct experience of or feel cultural connection to — the so-called "charismatic megafauna" effect, whereby large, visible, and anthropomorphically appealing species attract disproportionate conservation support relative to their ecological importance — than those that are scientifically important but experientially remote. Identity is also important: conservation concern is significantly higher among people whose sense of self is organised around a relationship with the natural world, which is shaped by early experience, socialization, and sustained exposure, rather than being a fixed trait.
 
 ### 3. Do you think it's important to take children to the zoo to see animals?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Zoo visits can be valuable for conservation education, but the value depends critically on the quality of the zoo and the quality of the educational experience, and the blanket claim that zoos are important for children's conservation connection is not well supported by the evidence. The evidence on what zoos actually produce in terms of lasting conservation attitudes in children is mixed: short-term visits to well-designed zoos with strong educational programming produce measurable increases in conservation knowledge and reported concern immediately after the visit, but long-term attitudinal effects are less consistent. The strongest argument for zoo visits is not wildlife knowledge but the provision of direct experience with non-human animals that most urban children would otherwise not have — and the quality of that experience depends far less on the size and variety of the collection than on the conditions in which the animals are kept and the pedagogical quality of the interpretation provided.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The zoo question warrants careful distinctions between different kinds of zoos and different kinds of educational goals, because the blanket advocacy and blanket condemnation of zoos that public discourse tends to produce both misrepresent the evidence. Contemporary accredited zoos with conservation breeding programmes, naturalistic habitat design, and sophisticated interpretation represent a very different institution from the collection-display model of twentieth-century zoological parks, and the evidence for their educational value is genuinely more positive than the evidence for the earlier model. The most defensible position is that high-quality zoo experiences — encounters with live wild animals in carefully designed environments with excellent interpretation — are among the most effective available tools for connecting children to conservation concern, and that the institutional standards required to make this true are both achievable and worth insisting upon as a condition of public and charitable support.
 
 ### 4. Why do some people attach more importance to protecting rare animals?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The disproportionate conservation attention devoted to rare and endangered species relative to common ones reflects both rational ecological reasoning and a set of psychological dynamics that sometimes diverge from ecological priority. The rational case is clear: the extinction of any species involves the irreversible loss of a unique evolutionary lineage and its ecological roles, and rarity itself is often a signal of ecological sensitivity — a species that has declined dramatically is usually doing so because the environmental conditions it depends upon have deteriorated in ways that threaten the broader ecosystem. The psychological dynamics are less straightforwardly rational: rarity activates the loss aversion response, in which the prospect of permanent loss triggers stronger motivation than equivalent ongoing harm to a common species — which is why the imminent extinction of a single charismatic species can mobilise resources that the slow degradation of a common species' habitat cannot.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Conservation priority-setting is one of the most contested areas of applied ecology, and the systematic prioritisation of rare and charismatic species over common but ecologically important ones represents a genuine tension between what the science suggests matters most and what generates public support most effectively. Many of the species most important to ecosystem function are neither rare nor charismatic: common insects, abundant fungi, ubiquitous soil bacteria, and non-glamorous predators like wolves and large raptors perform ecological functions that rare flagship species cannot match in importance. The funding distortion produced by charisma bias — the systematic over-resourcing of flagship species conservation relative to their ecological importance — is a recognised problem in conservation science, and the recommended response is not to abandon flagship species communication but to use it strategically to fund broader ecosystem conservation that benefits both the flagship and the ecologically irreplaceable commons.
 
 ### 5. Should people educate children to protect wild animals?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Conservation education for children is broadly supported by evidence and intuitively defensible, but the specific form that education takes matters more than its presence or absence. Teaching children biological facts about endangered species — population numbers, range maps, threats — produces knowledge without necessarily producing the experiential and emotional connection to the natural world that motivates conservation behaviour. The most effective conservation education is that which develops children's relationship with living nature through direct, repeated, and unmediated experience — combined with the conceptual frameworks that help them understand what they are experiencing and why it matters — rather than that which delivers information about distant species in classroom settings. The latter can complement the former but should not be mistaken for an equivalent substitute.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The case for early conservation education rests on two related empirical findings: that environmental attitudes and behavioural dispositions toward the natural world are substantially formed in childhood and early adolescence, making early education a high-leverage intervention for long-term conservation culture; and that experiential nature contact in childhood is among the strongest predictors of adult conservation behaviour and support. The most productive form this education takes is not primarily the transmission of conservation science — though scientific literacy is a component — but the structured facilitation of children's encounter with and developing attachment to specific natural environments: local wildlife, accessible green spaces, and the particular species and ecosystems that children can develop genuine relationship with. The implication is that conservation education is most effective when it is embedded in place and rooted in direct experience rather than organised around global conservation narratives.
 
 ### 6. Is it more important to protect wild animals or the environment?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The framing of this question as a binary choice rests on a conceptual error: wild animals and the environments they depend upon are not separable conservation targets but aspects of a single integrated ecological system, and conservation interventions that protect one without the other are systematically less effective than those that address both simultaneously. An endangered species whose habitat is unprotected will continue to decline regardless of direct species-level protection efforts; a protected habitat from which the functionally important species have been removed will be ecologically degraded even as it preserves the physical landscape. The most scientifically defensible conservation strategy is therefore ecosystem-level in its scope: protecting intact habitats that support the full community of species within them, while providing targeted protection for species whose population dynamics are most vulnerable to specific pressures.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The species versus habitat conservation debate has largely been resolved in the scientific literature in favour of habitat conservation as the foundation, with species-level interventions as supplements for the most critically threatened cases. The evidence is clear: the primary driver of the current global biodiversity crisis is habitat loss and degradation, which means that no amount of species-level conservation intervention — captive breeding, translocation, targeted protection — will stabilise biodiversity loss at scale if habitat destruction continues at its current rate. The practical implication for policy is that land use and development regulation, forest protection, and the management of agricultural expansion are more important conservation instruments than the species protection legislation that receives more political attention — though the latter is important for the most critically threatened populations and for the political visibility it provides to conservation as a public concern.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **biodiversity** (n) (/ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti/): the variety of living species in a habitat or on Earth | đa dạng sinh học
+- **ecosystem services** (n phr): the benefits that ecosystems provide to humans | dịch vụ hệ sinh thái
+- **charismatic megafauna** (n phr): large, appealing animals that attract public conservation attention | động vật lớn hấp dẫn (thu hút sự ủng hộ bảo tồn)
+- **loss aversion** (n phr): the tendency to feel losses more strongly than equivalent gains | ác cảm mất mát
+- **translocation** (n) (/ˌtræns.ləˈkeɪ.ʃən/): the deliberate moving of species to new habitats for conservation | chuyển vị (di chuyển loài để bảo tồn)
+- **captive breeding** (n phr): the process of breeding wild animals in controlled environments | nhân giống trong điều kiện nuôi nhốt
+- **flagship species** (n phr): a high-profile species used to raise conservation awareness | loài biểu tượng bảo tồn
+- **pollinator** (n) (/ˈpɒl.ɪ.neɪ.tər/): an animal that transfers pollen between plants | côn trùng thụ phấn
+- **seed disperser** (n phr): an animal that spreads plant seeds across habitats | vật phát tán hạt giống
+- **carbon sequestration** (n phr): the process of capturing and storing atmospheric carbon dioxide | hấp thụ carbon
 
 ## Describe a time when you broke something
 
@@ -3162,77 +3459,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The occasion I would describe is when I broke my grandmother's ceramic mortar — a heavy, pale-green object that she had used daily for as long as I could remember and that had, in retrospect, probably been in the household for two or three decades before the incident.
+
+It happened during the school holidays when I was fourteen. I was helping to prepare ingredients in my grandmother's kitchen, was carrying the mortar from the storage shelf to the counter, and managed to clip it against the corner of the kitchen doorframe with enough force that it fractured cleanly into three pieces. The break was not ambiguous — the mortar was clearly beyond functional repair, and the sound of it hitting the stone floor was exceptional — and I stood with the pieces in my hands for longer than was sensible before accepting that there was nothing to be done about it.
+
+What I did was tell my grandmother immediately, which was harder than it sounds because I knew she had used the object every day and because the household did not have excess money for replacements. She was not angry in the way I expected — she said, more or less, that objects are things and things get broken, and made us go that afternoon to buy a replacement, which she let me choose. I have thought about that response fairly often since then, because it was quite a specific form of equanimity that I think most adults in that situation would not produce.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The episode I find most illustrative in the context of this question is not a physical object but a professional one: about four years into my career, I was responsible for a client presentation that I had prepared carefully but had slightly misread the scope of — and during the presentation I realised, about halfway through, that I was addressing a problem the client had already resolved with a different intervention and that half of my analysis was therefore redundant.
+
+The discovery was jarring because I had invested significant time in the preparation, had brought two junior colleagues into the room, and was representing my organisation in a context where credibility matters. The right response — which I managed to produce, though not without considerable internal discomfort — was to acknowledge the gap clearly and without excessive apology, redirect to the portions of the analysis that were still relevant, and use the remaining time to understand the client's current challenge well enough to provide a useful response. What I did not do was attempt to salvage the irrelevant material by reframing it, which would have wasted their time and damaged credibility more than the honest acknowledgment.
+
+What I learned from it was the specific professional skill of transparent recovery: the ability to recognise a failure of preparation in real time, name it without self-flagellating, and refocus on the remaining value — which is a capacity that requires significant prior development of ego security to execute competently in high-stakes settings.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **mortar** (n) (/ˈmɔː.tər/): a bowl-shaped tool used for grinding substances | cối xay, cối giã
+- **equanimity** (n) (/ˌek.wəˈnɪm.ɪ.ti/): mental calmness in the face of difficulty | sự bình thản, bình tĩnh
+- **redundant** (adj) (/rɪˈdʌn.dənt/): no longer needed or useful | thừa, không còn cần thiết
+- **self-flagellating** (adj) (/ˌself.ˈflædʒ.ə.leɪ.tɪŋ/): excessively punishing or criticising oneself | tự trách mình thái quá
+- **credibility** (n) (/ˌkred.ɪˈbɪl.ɪ.ti/): the quality of being trusted or believed | uy tín, sự đáng tin cậy
+- **salvage** (v) (/ˈsæl.vɪdʒ/): to save something from a damaging situation | vớt vát, cứu vãn
+- **articulate** (v) (/ɑːˈtɪk.jʊ.leɪt/): to express ideas clearly and effectively | diễn đạt rõ ràng
+- **ego security** (n phr): a stable sense of self that is not threatened by failure | sự vững vàng về bản thân
+- **transparent** (adj) (/trænsˈpær.ənt/): open and honest; easy to understand | minh bạch, thành thật
+- **fractured** (adj) (/ˈfræk.tʃəd/): broken or cracked | bị vỡ, nứt gãy
 
 ### 1. What kind of things are more likely to be broken by people at home?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The objects most commonly broken in domestic settings are those that combine fragility, high handling frequency, and the specific form of inattention that familiarity produces. Ceramics and glassware — cups, bowls, plates, and drinking glasses — account for a disproportionate share of household breakage because they are used multiple times daily, are often handled while the mind is engaged elsewhere, and are inherently brittle under the lateral forces that dropping and clipping against hard surfaces produces. Electronic devices, particularly smartphones, follow a similar logic: they are carried constantly, are handled in an enormous range of conditions including physical activity and distraction, and have form factors — large, thin glass screens — that are structurally vulnerable to exactly the forces that habitual handling produces. The common thread is that objects are most frequently broken at the intersection of handling frequency and inattention rather than at the intersection of handling frequency and recklessness.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The domestic breakage pattern is largely predictable from a combination of material properties and handling contexts. Objects made from materials with low impact strength — glass, ceramic, and thin plastics — account for most breakage events by volume, because the physical forces associated with routine domestic handling — being set down on hard surfaces, clipped against edges, dropped from counter height — are sufficient to fracture them but not the more impact-resistant materials used in furniture, appliances, and structural elements. The most relevant observational finding is that most domestic breakage occurs not during exceptional events — dramatic accidents, rough play, major falls — but during entirely routine handling in contexts of divided attention: carrying something while distracted, moving quickly through constrained spaces, or operating in familiar environments where the automatic mode of processing has reduced the alertness that would prevent the mishap.
 
 ### 2. What kind of people like to fix things by themselves?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The tendency to repair rather than replace broken objects reflects a recognisable psychological profile that is associated with a set of values and characteristics that research on repair behaviour has documented reasonably well. People who prefer to fix things themselves tend to have higher scores on curiosity and openness to experience — they are interested in understanding how things work, which makes the repair context attractive as a form of applied problem-solving — and higher tolerance for the specific frustration of operating at the limit of one's technical competence. They also tend to have a stronger connection to the objects they own — a preference for objects as repositories of use and history rather than as fungible commodities — which makes the psychological cost of replacing an object proportionally higher than for those with a more transactional relationship to their possessions.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The self-repair tendency is more complex in its professional correlates than its popular characterisation as a personality type suggests. The research on repair behaviour in domestic contexts identifies two distinct motivational orientations that produce the same behaviour for different reasons: a mastery orientation — the intrinsic satisfaction derived from developing and applying technical skill — and an economic or environmental values orientation, in which repair is valued because it conserves resources that replacement would waste. The professional contexts that most strongly develop the mastery orientation are those involving engineering, craft, making, and applied technical work of any kind; the values orientation is more strongly associated with environmental concern and with economic constraints. The two motivational profiles overlap substantially in the repair-positive population but they respond to different kinds of encouragement and are sustained by different reinforcement mechanisms.
 
 ### 3. Do you think clothes produced in the factory are of better quality than those made by hand?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The factory versus handmade quality comparison is one that requires careful definition of "quality" before it can be meaningfully answered, because the two production modes optimise for different dimensions of quality rather than competing on the same ones. Factory production excels at dimensional consistency, material uniformity, and the specific quality of precision fit that standardised pattern-making and industrial cutting machines produce: a well-made factory garment will have seams of identical width, consistent grain alignment, and tolerances that hand-sewing rarely achieves at speed. Handmade garments can offer superior quality in the dimensions of material selection — the maker can choose precisely the weight and composition best suited to the garment's purpose — construction tailoring to a specific body rather than a standardised size, and the use of construction techniques that are too time-intensive for factory production but produce superior durability and finish.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The quality comparison between industrial and artisanal production in garment making is most usefully framed through the lens of which quality attributes each production mode is best equipped to optimise. Industrial production's quality advantages are in the scale-dependent attributes: the consistency of component specification, the precision of machinery-executed construction, and the quality assurance systems that large-scale production makes economically viable. Artisanal production's quality advantages are in the individual-dependent attributes: the fit customisation that bespoke tailoring provides, the material and construction choices that an individual maker can optimise for a specific garment and wearer, and the construction depth — the internal structure of careful hand-finishing — that industrial production has systematically eliminated to achieve its cost and speed advantages. The highest-quality garments in any objective sense are typically those that combine industrial material processing with artisanal construction: the best of each mode rather than a choice between them.
 
 ### 4. Do you think handmade clothes are more valuable?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The value of handmade clothes is not well captured by a simple comparison with factory alternatives, because handmade garments carry forms of value — cultural, artisanal, and relational — that factory production cannot produce regardless of its technical sophistication. The economic value — market price — of genuinely handmade garments from skilled makers is typically substantially higher than factory equivalents, because the labour content is high and the skill required is not easily or quickly acquired. Beyond economic value, handmade garments often carry a form of cultural value — as bearers of specific craft traditions, regional techniques, and aesthetic knowledge accumulated over generations — that is entirely independent of their material quality and that becomes more significant as those traditions become scarcer relative to the mass-produced alternative.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The valuation of handmade clothing in contemporary market contexts reflects a complex interaction between quality perception, cultural meaning, scarcity, and the specific form of authenticity that industrial production cannot replicate. The luxury goods research is clear that consumers attach significant non-utilitarian value to goods perceived as crafted by skilled individual makers — the provenance, the maker's identity and tradition, and the evidence of skilled human labour in the object — in a way that persists even when objective quality difference from high-end industrial production is small or absent. This authenticity premium is most pronounced for culturally significant craft traditions — Vietnamese áo dài made by master tailors, Japanese kimono from traditional weavers — where the handmade object is a bearer of cultural knowledge and continuity that its industrial substitute is not.
 
 ### 5. Is the older generation better at fixing things?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The popular perception that older generations are more capable of repairing things than younger ones is substantially accurate as an empirical pattern but requires careful explanation to avoid misattributing the cause. The repair competence advantage of older generations is primarily a product of historical context rather than generational character: people who grew up in conditions of material scarcity — where repair was economically necessary, where consumer culture had not yet made replacement systematically cheaper than repair, and where the skills of maintenance and fixability were embedded in daily life — acquired repair skills as a matter of practical necessity that younger people growing up in conditions of relative material abundance and planned obsolescence have not had equivalent reason to develop. As economic and material conditions change, the repair skills gap is more likely to reflect the different learning contexts of different periods than any genuine generational difference in aptitude or inclination.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The generational repair competence difference is real but its causes are more instructive than the gap itself. Research on skill acquisition shows that practical repair competence is almost entirely learned rather than innate, and that it is most effectively developed through early exposure to maintained objects, parental and community modelling of repair behaviour, and the specific economic and material conditions that make repair seem worthwhile. The generation that grew up in Vietnam during the post-war period of material shortage and before the proliferation of cheap imported consumer goods had all of these conditions; the subsequent generation has had progressively fewer of them. The more interesting question is whether the repair skills gap reflects a permanent cultural shift or a reversible one: the emerging environmental sustainability movement, the right-to-repair advocacy in consumer electronics policy, and the cultural interest in craft and making among younger urban populations suggest that the conditions for repair culture may be partly recovering.
 
 ### 6. Do you think elderly people should teach young people how to fix things?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The transmission of practical repair skills from older to younger generations has both immediate instrumental value — the specific skills transferred — and a broader significance as a form of intergenerational knowledge transfer that is in decline in most urban societies. The instrumental argument is clear: repair skills reduce material waste, extend object lifespans, and provide economic benefits that become particularly significant in periods of financial constraint or environmental pressure. The broader significance is that practical skill transmission between generations is one of the most relationship-building and dignity-affirming forms of intergenerational contact available: it reverses the typical dynamic in which the older generation is positioned as the recipient of younger-generation assistance, and creates a context in which older adults' accumulated practical knowledge has direct and visible value in the contemporary lives of younger people.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The case for intergenerational repair skill transmission is well-established both instrumentally and relationally, but the practical question of how to structure it effectively deserves more attention than the advocacy literature typically provides. Skills transfer between generations is most effective when it is embedded in genuine collaborative practice rather than structured as formal instruction: elderly makers and repairers teaching in the context of actual repair work — in community repair cafes, in household maintenance contexts, in school-based making programmes — transfer skills more effectively than in classroom-style instruction, because repair skill is substantially tacit, meaning it is acquired through embodied practice and observation rather than through verbal explanation alone. The institutional design question is therefore how to create contexts that bring generations into genuine collaborative practical engagement around maintenance and repair, which are available in more forms — community workshops, school-based programmes, community centre facilities — than the discourse about its importance usually acknowledges.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **tacit knowledge** (n phr): knowledge that is difficult to transfer through words, learned through practice | tri thức âm tính/ngầm hiểu
+- **planned obsolescence** (n phr): designing products to fail or become unfashionable quickly | lỗi thời có kế hoạch
+- **repair cafe** (n phr): a community space where volunteers help repair broken items | quán sửa chữa cộng đồng
+- **intergenerational** (adj) (/ˌɪn.tə.dʒen.əˈreɪ.ʃən.əl/): relating to or involving people of different generations | liên thế hệ
+- **artisanal** (adj) (/ɑːˈtɪz.ə.nəl/): made in a traditional, skilled way using non-industrial methods | thủ công mỹ nghệ
+- **provenance** (n) (/ˈprɒv.ɪ.nəns/): the place of origin or history of an object | xuất xứ, nguồn gốc
+- **bespoke** (adj) (/bɪˈspəʊk/): made to order for a specific person; custom-built | đặt riêng, may đo riêng
+- **right-to-repair** (n phr): a policy movement giving consumers the right to repair their own devices | quyền được sửa chữa
+- **brittle** (adj) (/ˈbrɪt.əl/): hard but likely to break easily | giòn, dễ vỡ
+- **fungible** (adj) (/ˈfʌn.dʒɪ.bəl/): interchangeable; replaceable by another identical item | có thể thay thế lẫn nhau
 
 ## Describe an important old thing that your family has kept for a long time
 
@@ -3246,77 +3569,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The object I would describe is a black-and-white photograph — mounted in a wooden frame that is visibly older than I am — of my great-grandparents on what appears to be their wedding day, which has hung in the main room of my grandparents' house for as long as any living member of our family can remember.
+
+The photograph was taken sometime in the late 1950s in a provincial town in the north, and while the photographic quality is limited by the technology and conditions of the period, what it captures is clear: two young people in formal attire, looking toward the camera with an expression that I have always found slightly difficult to read — formal, certainly, but not without the specific kind of seriousness that people adopt when they understand that the moment is being permanently recorded. My grandmother has told me that the photograph survived several relocations, including one during a period of significant difficulty in the family's history, because it was the one object my great-grandmother specifically asked to have with her when the family moved.
+
+What makes it important to our family is partly the direct historical connection — these are people whom some of us knew and all of us are descended from — and partly the specific way it functions as an anchor for family narrative: when we look at it together, particularly across generations, it occasions the kind of storytelling about who these people were, what their circumstances were like, and how the family came from there to here that I think is one of the most important things that material objects can do for family cohesion.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The object I would describe is a silk merchant's ledger book from the early twentieth century that belongs to my family on my father's side — a hand-written account book from the family's textile trading business in Hội An that covers a period of roughly fifteen years and which my family has kept across at least four generations and three major relocations.
+
+The book is not fragile in the way a photographic print is: it was made to be used and has the particular durability of objects designed to withstand daily handling — the paper is dense and has aged to a warm ochre, the ink, while faded, is still fully legible, and the calligraphic handwriting of whoever maintained it is precise and confident. What it contains — columns of transactions, names of trading partners, notes in the margins in a hand that might be different from the main entries — is both economically interesting (the commodities, routes, and prices it records are genuinely informative about regional trade in that period) and personally significant: there are family names in the transaction records that we can trace to relatives still living in the Hội An area.
+
+My family has kept it because it is one of the few material traces of what the family was doing and who they were dealing with before the various disruptions of the twentieth century severed so many of those connections — and because my grandfather, who is trained as a historian, has been gradually transcribing and annotating it for the past decade as a project of both family and local history.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **ledger** (n) (/ˈledʒ.ər/): a book for recording financial transactions | sổ cái, sổ kế toán
+- **calligraphic** (adj) (/ˌkæl.ɪˈɡræf.ɪk/): relating to artistic, decorative handwriting | thuộc thư pháp
+- **ochre** (n/adj) (/ˈəʊ.kər/): a yellowish-brown colour; an earthy pigment | màu vàng nâu đất
+- **transcribe** (v) (/trænˈskraɪb/): to put written or spoken material into another form | sao chép, chép lại (văn bản)
+- **cohesion** (n) (/kəʊˈhiː.ʒən/): the quality of forming a unified whole | sự gắn kết
+- **attire** (n) (/əˈtaɪər/): clothing, especially formal or distinctive clothing | trang phục (thường trang trọng)
+- **material trace** (n phr): a physical object that serves as evidence of past existence | dấu vết vật chất
+- **relocation** (n) (/ˌriː.ləʊˈkeɪ.ʃən/): the act of moving from one place to another | sự di chuyển, tái định cư
+- **annotate** (v) (/ˈæn.ə.teɪt/): to add explanatory notes to a text or document | chú thích, ghi chú bổ sung
+- **anchor** (n/v) (/ˈæŋ.kər/): something that provides stability or a fixed point of reference | mỏ neo; điểm neo (ẩn dụ)
 
 ### 1. What kind of old things do people in your country like to keep?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The objects that Vietnamese families typically retain across generations tend to cluster in a few recognisable categories that reflect both cultural values and the specific domestic material culture of the country. Photographs are among the most universally kept objects: family photographs — particularly of ancestors, wedding occasions, and significant family milestones — function as the primary material support for family memory and ancestor veneration, and are typically displayed prominently rather than stored. Religious and ceremonial objects — ancestral altars and their associated implements, incense burners, ceremonial vessels — are kept both for their continued ritual function and for their connection to the family's religious history. Practical objects that embody significant craft or material quality — lacquerware, silk textiles, ceramic pieces, traditional tools — are retained both for use and for their representative quality as markers of a family's material history and aesthetic sensibility.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The category of objects retained across generations in Vietnamese families reflects the intersection of cultural values, material durability, and the specific historical experience of the twentieth century — which created selection pressure on what was preserved, since many families experienced periods in which only the most portable and most valued objects survived major transitions. Ancestral photographs and portrait paintings are among the most consistently retained categories because of their central role in the ancestor veneration practices that remain important across a wide range of Vietnamese households. Documents with legal or economic significance — land deeds, business records, official correspondence — are retained as both practical resources and historical records. And objects of high craft quality — particularly those associated with traditional industries in which the family had connection: silk weaving, lacquer craft, ceramics, silversmithing — are retained as both aesthetic objects and markers of family occupational history.
 
 ### 2. Why do people keep old things?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The motivations for keeping old objects are considerably more varied and psychologically complex than the simple sentimental account suggests. The most basic function of retained objects is mnemonic: they serve as material triggers for episodic memory — the specific, personal, situated memories of people, events, and places — that tend to be activated more effectively by encounter with a physical object than by verbal description or photographic representation alone. Beyond their mnemonic function, old objects perform an important identity function: they constitute the material dimension of family and personal narrative, providing a temporal depth to present identity that connects it to specific people, places, and histories rather than leaving it entirely in the present. Objects also function as bonds between living and deceased family members — a particular function in cultures with strong ancestor veneration practices — materialising a relationship that is otherwise only sustained through memory and ritual.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The question of why people retain old objects is best approached through the lens of what functions those objects perform that cannot be as effectively served by photographs, documents, or verbal narrative. The most important is the haptic and sensory vividness of physical encounter: holding an object that a deceased grandparent used daily — feeling its weight, its texture, the wear patterns of its use — produces a form of connection that representational media cannot replicate, because it is the same physical object that the other person actually touched. Old objects also perform an intergenerational communication function: they carry implicit information about the aesthetic preferences, practical priorities, and material circumstances of the people who made, acquired, and used them that verbal accounts rarely fully convey. For families with significant historical disruptions — which describes a substantial proportion of Vietnamese families — retained old objects carry an additional significance as physical evidence of continuity across breaks that might otherwise feel total.
 
 ### 3. What are the differences between the things old people keep and those young people keep?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The differences in what older and younger people retain reflect a combination of lifecycle stage, the different temporal horizons within which each generation operates, and the material culture changes that have occurred across their lifetimes. Older people's retained objects tend to be more durably physical — ceramics, textiles, furniture, photographs printed on paper — and their retention logic is more explicitly memorial and relational: they keep things because of who owned them, who gave them, or what events they are associated with. Younger people's retained objects — to the extent that they retain physical objects at all — tend to reflect a more experiential rather than relational retention logic: concert tickets, travel souvenirs, objects from specific experiences or periods of life that represent the bearer's developing sense of identity and personal history rather than the family narrative that tends to organise older people's retention choices.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The generational difference in retention patterns is substantially a difference in what category of objects is felt to carry sufficient meaning to warrant the physical and cognitive costs of keeping. Older adults' retention portfolios are characterised by the depth of memorial association: the objects they keep tend to be those whose significance is embedded in specific relationships and events, and whose loss would feel like the loss of something genuinely irreplaceable. Younger adults' retention portfolios, in a context of digital media and subscription-based consumption, are characterised more by the exceptionality of the object in a material landscape of prevalent interchangeability: things that were made or selected with evident individual care, things that are handcrafted or artisanal, or things with a clear and specific personal provenance stand out in a consumption context that makes most objects experientially equivalent.
 
 ### 4. What are the differences between the things that people keep today and the things that people kept in the past?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The difference between contemporary and past retained objects reflects primarily the massive change in the material landscape of everyday life that mass manufacture and digital technology have produced. People in previous generations retained objects that were scarce, expensive to replace, or representative of significant craft investment — objects whose material quality gave them permanent value independent of their sentimental associations — because the material conditions of their time made replacement costly and quality differentiation high. Contemporary retention is more likely to be driven by sentimental association in a context where most functional objects are neither scarce nor expensive to replace: the mass-manufactured object has no intrinsic reason to be retained because its functional equivalent is cheap and readily available, so what gets retained is what has personal or relational significance rather than what has intrinsic material value.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The most significant structural difference between past and present retention patterns is the emergence of digital objects as a new category of personal memory container that competes with physical objects for the psychological role of life documentation and memory anchoring. People in past generations had no choice but to organise personal memory around physical objects — photographs, letters, diaries, keepsakes — because no other medium was available for persistent personal documentation. Contemporary people have the option of storing vast quantities of documentation digitally at negligible cost, which has substantially reduced the role of physical objects as primary memory media. The interesting consequence is that physical objects retained today are more clearly chosen — selected from a much larger available set because of specific significance rather than because they were the only available documentation — which paradoxically makes the retained objects of the digital age more specifically meaningful than those of past generations, whose retention often reflected availability as much as significance.
 
 ### 5. What can we see in a museum?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The contemporary museum encompasses a substantially wider range of content and institutional purpose than its traditional public conception as a repository of historical artefacts captures. In history and archaeology museums — the most traditional category — visitors encounter material evidence of past human life: the objects, documents, architectural fragments, and art of previous periods, organised to support understanding of how people in the past lived, worked, believed, and made. In science and natural history museums, visitors encounter specimens, models, and interactive installations that support understanding of the natural world — its physical processes, its biological diversity, and the scientific methods through which it has been investigated. In art museums, visitors encounter works organised to support aesthetic and interpretive engagement with human creative production across periods, cultures, and media.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The museum as a cultural institution is undergoing a significant reconceptualisation in the contemporary period, as institutions engage with questions about whose history is represented, how collections acquired in colonial or unequal contexts should be curated and potentially repatriated, and how digital technology changes the relationship between museums and their publics. The most sophisticated contemporary museums present not only their collections but the curatorial frameworks through which those collections have been selected, organised, and interpreted — making visible the choices and power relations behind what is displayed and how it is contextualised. This reflexive curation produces a qualitatively different visitor experience from the traditional mode of authoritative display: it invites critical engagement with the institution's own knowledge-production practices rather than passive reception of established interpretations.
 
 ### 6. What can we learn from a museum?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The learning that museums make possible is more various than the common reduction of museum learning to historical information conveys. The most distinctive thing museums can provide — that other educational formats cannot replicate — is encounter with original material objects: the specific experience of being in the presence of a thing rather than a representation of a thing, which produces a form of historical and aesthetic engagement that photographs, texts, and digital representations cannot fully substitute for. Beyond information, the best museums support the development of interpretive and analytical skills — the ability to read objects as evidence, construct arguments from material culture, and evaluate competing historical interpretations — which are forms of reasoning that have broad transferability to contexts beyond the museum.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional and educational case for museums rests primarily on what they uniquely provide: access to original material objects and specimens in a context of expert curation and interpretation, combined with the spatial and temporal experience of moving through organised historical and aesthetic content that digital alternatives cannot fully replicate. The most important cognitive skills developed through sustained museum engagement are those of material culture analysis: the ability to infer information about past people and societies from the objects they made and used, to recognise geographic, temporal, and cultural style in material evidence, and to construct and evaluate evidence-based historical arguments. These skills are foundational to historical thinking, archaeological reasoning, and a range of professional disciplines — including design, conservation, heritage management, and journalism — that depend on the ability to read the material world as a source of evidence and meaning.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **mnemonic** (adj/n) (/nɪˈmɒn.ɪk/): relating to memory or memory aids | ghi nhớ, thuộc trí nhớ
+- **haptic** (adj) (/ˈhæp.tɪk/): relating to the sense of touch | xúc giác
+- **ancestor veneration** (n phr): the cultural practice of honouring deceased relatives | thờ cúng tổ tiên
+- **artefact** (n) (/ˈɑː.tɪ.fækt/): an object made or modified by human beings, especially one of historical interest | hiện vật, đồ tạo tác
+- **curatorial** (adj) (/ˌkjʊər.əˈtɔː.ri.əl/): relating to the selection and organisation of a collection | thuộc quản lý bộ sưu tập
+- **repatriate** (v) (/ˌriːˈpæt.ri.eɪt/): to return cultural objects to their country of origin | hồi hương (hiện vật văn hoá)
+- **material culture** (n phr): the physical objects and artefacts that characterise a society | văn hoá vật chất
+- **reflexive** (adj) (/rɪˈflek.sɪv/): characterised by reflection on one's own processes | phản tư, tự nhận thức
+- **episodic memory** (n phr): memory of specific personal events and experiences | trí nhớ sự kiện (ký ức cụ thể)
+- **keepsake** (n) (/ˈkiːp.seɪk/): a small object kept as a reminder of a person or event | vật kỷ niệm
 
 ## Describe a good friend who is important to you
 
@@ -3330,77 +3679,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The friend I would describe is Phương — a classmate I met on the first day of university orientation, now in our third year — who has become the person I am most consistently honest with and whose judgment I trust most reliably among everyone I know at this stage of my life.
+
+We met in the queue for registration, struck up a conversation because we had both misread the timetable in the same way, and discovered — over subsequent weeks of sharing the same seminars — that we had a compatible but not identical intellectual temperament: we are both interested in ideas and argumentative in our engagement with them, but our areas of most serious interest are different enough that we push each other rather than simply reinforcing the same positions. Phương studies urban planning; I study economics; we have argued about the relationship between economic and spatial thinking in urban development for three years with neither of us winning definitively, which both of us considers a sign the discussion is worthwhile.
+
+What makes her important to me specifically is a quality that I have come to understand is rare: she is able to disagree with me — about ideas, about decisions I am considering, about judgments I have made — in a way that is genuinely critical without being unkind, and that consistently makes my thinking better without making me feel worse about myself. I have had other close friends, but I have not previously had a friendship whose primary dynamic was intellectual mutual improvement, and I find I value that beyond almost anything else a friendship could provide at this point in my life.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The friend I would describe is Hùng — we have known each other for eleven years, having first met as junior colleagues in the same government ministry — and I would describe him as the person who has most consistently told me what I most needed to hear at the times when I was most reluctant to hear it, which is a capacity I have come to regard as one of the highest forms of friendship.
+
+We have stayed close through two job changes each, his marriage, the birth of his two children, my own career transitions, and a period of significant personal difficulty about four years ago during which I relied on his judgment in a way that I could not have relied on anyone else's — partly because he understood the professional context from the inside, and partly because he has a form of practical wisdom that is very difficult to describe but consistently produces the right question at the right moment. What distinguishes him from other close colleagues I have had is that his interest in my wellbeing is independent of his interest in any professional benefit our friendship might provide: he is as direct with me about personal matters as professional ones, and he engages with the same quality of attention and care in both.
+
+I have thought about what makes certain friendships more important than others, and the best account I have arrived at is that the most important friendships are those where the other person is genuinely invested in your development as a person rather than merely in the continuation of the relationship — and Hùng is, in that sense, the person who has most consistently contributed to who I am becoming rather than simply accompanying who I already was.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **intellectual temperament** (n phr): one's characteristic style of thinking and engaging with ideas | tính khí trí tuệ
+- **relying on judgment** (v phr): trusting another person's reasoning in a decision | dựa vào sự phán đoán của ai
+- **mutual improvement** (n phr): a two-way process of helping each other develop | cải tiến lẫn nhau
+- **forthright** (adj) (/ˈfɔːθ.raɪt/): direct and outspoken, especially about difficult truths | thẳng thắn, dám nói thật
+- **integrity** (n) (/ɪnˈteɡ.rɪ.ti/): the quality of being honest and having strong moral principles | chính trực
+- **solidarity** (n) (/ˌsɒl.ɪˈdær.ɪ.ti/): unity and support within a group | sự đoàn kết
+- **reinforce** (v) (/ˌriː.ɪnˈfɔːs/): to strengthen or support an existing idea | củng cố, tăng cường
+- **practical wisdom** (n phr): the ability to make sound decisions in complex real-world situations | trí tuệ thực hành
+- **vulnerable** (adj) (/ˈvʌl.nər.ə.bəl/): open to emotional harm or in need of support | dễ tổn thương
+- **invested in** (adj phr): genuinely interested in and committed to someone's wellbeing | quan tâm thật sự đến
 
 ### 1. How do children make friends at school?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Children's school-based friendship formation follows a set of mechanisms that are reasonably well understood developmentally and that differ meaningfully from adult friendship formation. The most basic mechanism is proximity: children form friendships with the people they are physically near most consistently — classmates they share a desk with, children assigned to the same group or team — and the friendship-forming potential of this initial proximity depends on whether subsequent interaction produces a sense of similarity or complementarity that sustains engagement. In early childhood, shared activity is the primary bonding mechanism: children become friends by playing together, by sharing materials and space in ways that require cooperation, and by the repeated positive interaction that sustained proximity and shared activity produces. As children move into middle childhood, shared interests and values become progressively more important alongside proximity, beginning the transition toward the interest-based friendship formation that characterises adult social networks.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The school environment creates a distinctive friendship formation context — defined by sustained proximity, structured shared activity, and a relatively fixed peer group over time — that produces a characteristically different friendship quality from those formed in most adult contexts. The research on childhood friendship consistently finds that school-based friendships are the most common site of the development of social skills that persist into adult life: the skills of managing disagreement without terminating a relationship, of negotiating competing preferences within ongoing cooperation, and of maintaining a relationship through periodic conflict — all of which require the time depth and repeated encounter that school friendships provide. What schools contribute that most other childhood environments do not is the relative permanence of the social group: the fact that the same children encounter each other repeatedly over years creates conditions for the development of trust and the repair of relationship ruptures that less stable social environments cannot provide.
 
 ### 2. How do children make friends when they are not at school?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Out-of-school friendship formation in children is more diverse in its mechanisms and more variable in its outcomes than school-based friendship formation because the structured environment that makes school friendships relatively predictable is absent. The most significant out-of-school friendship contexts are neighbourhood-based play — which is significantly less common than it was for previous generations, due to changes in how children's unstructured time is managed and to reduced parental comfort with unsupervised outdoor activity — and organised activities: sports clubs, music groups, hobby classes, and community organisations that bring children with shared interests into repeated contact. Digital contexts have introduced a new and expanding friendship formation environment for older children and adolescents: online gaming, social media, and interest-based online communities create the shared activity and repeated interaction that produce friendships even without physical co-presence, though the developmental consequences of friendships formed primarily in digital rather than physical contexts remain incompletely understood.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The out-of-school friendship ecology of contemporary children differs substantially from that of previous generations in two major ways: the decline of unstructured neighbourhood play and the rise of organised activities as the primary non-school social context. Both shifts reflect the same underlying change in how children's time is structured by parents — a move toward supervised, scheduled activity and away from the self-organised, semi-supervised outdoor play that characterised childhood in earlier decades. The developmental consequence of this shift is potentially significant: unstructured play, particularly mixed-age outdoor play, produced friendship skills — including the management of disagreement, the negotiation of rules, and the experience of social exclusion and recovery — that organised activities, which are typically adult-supervised and rule-governed, develop less effectively. The adult generation that most benefited from the older model has a responsibility to think carefully about what the structured activities it substitutes are and are not developing.
 
 ### 3. Do you think it is better for children to have a few close friends or many casual friends?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The research on childhood friendship quality versus quantity is relatively clear in its broad finding: the developmental benefits of friendship for children are more strongly associated with the quality of a small number of close relationships than with the quantity of casual ones. One or two genuine close friendships — characterised by mutual understanding, reliable support, honest communication, and the capacity to manage conflict without terminating the relationship — produce more substantial developmental benefits for self-esteem, emotional regulation, and social skill than a larger network of more superficial connections. The important qualification is that close friendship and broad social inclusion serve different developmental functions: close friendships develop the deep dyadic skills (conflict management, intimacy, trust-building), while broader social inclusion develops the group social skills (reading social cues, managing impression, navigating complex group dynamics) that children also need.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The adult professional perspective on childhood friendship quantity versus quality is that both serve distinct developmental functions, but that the contemporary educational and parenting culture has tended to prioritise broad social popularity over close friendship depth in ways that may not be developmentally optimal. The research on adult social wellbeing identifies the quality and reliability of a small number of close relationships as the strongest predictor of subjective wellbeing and psychological health — more important than the size of social networks, financial security, or professional achievement — which suggests that the skill of forming and sustaining deep relationships is more developmentally important than the skill of maintaining a large social network. The implication is that parents and educators who help children invest in fewer, deeper relationships rather than maximising social breadth are probably making the better developmental choice, even when broader popularity is more socially visible and celebrated.
 
 ### 4. Do you think a child's relationship with friends can be replaced by that with other people, like parents or other family members?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Peer friendships in childhood serve developmental functions that parent-child and family relationships cannot fully substitute for, which is the strongest argument against the view that parental closeness can replace peer friendship. The most critical of these peer-specific functions is the experience of a relationship between equals: unlike parent-child or sibling relationships, which are inherently unequal in power, experience, and developmental status, peer friendships provide the experience of negotiating with someone who has approximately equivalent power, knowledge, and needs — a context that develops the specific skills of horizontal relationship management that family relationships do not. A second peer-specific function is the experience of voluntary rather than ascribed relationship: peer friendship is a relationship that must be created and sustained through mutual choice rather than maintained by biological or institutional bond, which introduces a developmental challenge — the risk of rejection, the need to offer something worth a peer's voluntary investment — that family relationships do not provide in the same form.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The developmental psychology research is clear that peer and family relationships serve distinct and non-substitutable functions in children's social development, and that deficits in either type produce characteristic developmental consequences rather than simply reduced social experience. Children who have strong family relationships but limited or absent peer friendships tend to develop strong skills of vertical relationships (relationships with authority, with parents, with older people) but weaker skills of horizontal relationships (between peers and equals), which creates a specific social competence profile that tends to create challenges in adult peer and professional relationships. Conversely, children with rich peer relationships and weaker family attachment develop different competence profiles with different characteristic vulnerabilities. The developmental ideal is completion of both relational contexts rather than prioritisation of either.
 
 ### 5. What are the differences between friends made inside and outside the workplace?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Workplace friendships and out-of-work friendships are formed in such different contexts and serve such different functions that comparing them on a single quality axis substantially misrepresents the situation. Workplace friendships are typically initiated by the proximity and shared purpose of professional collaboration: people become friendly with colleagues because they work together regularly, share professional challenges, and develop mutual understanding of domain-specific knowledge and experience that non-colleagues cannot easily share. Out-of-work friendships, formed through shared interest, neighbourhood, or social occasion, tend to be based on voluntary affinity rather than imposed proximity — the friendship is chosen rather than emerged, which produces a different kind of commitment and a somewhat different quality of investment. The practical consequence is that workplace friendships tend to be more contextually specific and more vulnerable to professional changes (transfers, departures, role changes) than friendships formed outside professional settings.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Workplace friendships are often underestimated as a source of genuine relationship depth because they are assumed to be primarily instrumental — useful within the professional context and shallow outside it. The research on workplace wellbeing consistently finds that having at least one close friend at work is one of the strongest predictors of employee engagement and job satisfaction, and that the shared professional challenge that workplace friendships are built around creates a specific form of mutual understanding and bonding that voluntarily-formed friendships rarely achieve. The most durable workplace friendships tend to be those that have been tested by professional difficulty — shared failure, difficult projects, periods of organisational uncertainty — and survived: the adversarial bonding dynamic produces a form of mutual trust that is harder to develop in less challenging social contexts.
 
 ### 6. Do you think it's possible for bosses and their employees to become friends?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Genuine friendship between leaders and their direct reports is possible but structurally more difficult to develop and sustain than friendship between peers, because the power differential that defines the professional relationship creates specific asymmetries that genuine friendship requires partially transcending. The difficulty is not primarily attitudinal — most people understand the conceptual distinction between professional authority and personal friendship — but structural: the boss makes decisions that affect the employee's livelihood, evaluates their performance, and controls consequences for their behaviour, which creates an interest-alignment problem that makes the candour and equality fundamental to genuine friendship genuinely difficult to maintain. The cases where boss-employee friendship works tend to be those where the power is exercised transparently and fairly enough that the employee trusts the professional relationship outside the friendship, and where both parties maintain clear enough boundaries that the friendship does not produce either favouritism or inhibition of honest professional feedback.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The boss-employee friendship question is one I have navigated directly, and the honest professional answer is that genuine friendship is possible but requires more deliberate management than friendship between peers and carries higher risk of complication when the professional relationship changes. The fundamental tension is that genuine friendship requires mutual candour — including the ability to be honest about one's own failures, insecurities, and ambivalences — which is structurally more difficult when one person has formal authority over the other's career. My practical experience is that the friendships between leaders and their reports that work best are those where the professional relationship is clean — where authority is exercised fairly and consistently, where evaluation processes are transparent, and where neither party attempts to use the friendship to circumvent professional norms — rather than those where the friendship is used to substitute for professional clarity.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **dyadic** (adj) (/daɪˈæd.ɪk/): relating to a pair or two-person relationship | thuộc quan hệ đôi (hai người)
+- **ascribed** (adj) (/əˈskraɪbd/): assigned based on birth or social category, not earned | được gán theo (xuất thân, không phải nỗ lực)
+- **voluntary affinity** (n phr): a connection chosen freely rather than assigned by circumstance | sự gắn kết tự nguyện
+- **candour** (n) (/ˈkæn.dər/): the quality of being open, frank, and honest | sự thẳng thắn, thành thật
+- **power differential** (n phr): an imbalance of authority between two people | chênh lệch quyền lực
+- **inhibition** (n) (/ˌɪn.hɪˈbɪʃ.ən/): a feeling that prevents free or natural expression | sự ức chế, sự kiềm chế bản thân
+- **circumvent** (v) (/ˌsɜː.kəmˈvent/): to find a way around a rule or difficulty | lách qua, né tránh
+- **adversarial bonding** (n phr): the forming of strong bonds through shared challenges | gắn kết qua thử thách, nghịch cảnh
+- **peer** (n) (/pɪər/): a person of the same rank, status, or age group | người ngang hàng
+- **horizontal relationship** (n phr): a relationship between equals, without hierarchy | quan hệ ngang hàng
 
 ## Describe a friend of yours who is good at music / singing
 
@@ -3414,77 +3789,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The person I would describe is Kiên — a close friend from secondary school who now studies at a conservatoire in Hà Nội — who plays classical guitar at a standard that most people who encounter him, not knowing his background, find genuinely surprising.
+
+Kiên began playing at the age of seven and has practised with a consistency and seriousness that I have observed over the fourteen years of our friendship — he plays for at least two hours daily, has done so for as long as I have known him, and approaches the instrument with a relationship to practice and improvement that I would characterise as professional rather than enthusiastic in the hobbyist sense. I have heard him perform on several occasions — twice at recitals his conservatoire organises, and several times in more informal settings, including once on a small outdoor platform at a cultural festival where his playing drew a spontaneous audience of considerable size.
+
+What I feel when I listen to him is something I find difficult to describe without sounding either romantic or imprecise: there is a quality of attention that his playing requires of its listener — a pull toward focal engagement with the sound that interrupts the divided consciousness of ordinary listening — that I have experienced with recorded music only occasionally and never so reliably as when listening to someone I know perform live. I think the explanation lies in the combination of the instrument's acoustic directness and the visible presence of a person I know doing something beautiful: both dimensions of the experience — the sonic and the human — are more vivid than either would be alone.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The person I would describe is Lan — a colleague who sings in a semi-professional capacity in her time outside our shared workplace — who has one of those voices that produces in listeners an effect that is disproportionate to what the analytical description of its qualities would suggest.
+
+Lan sings primarily in the category that Vietnamese music journalists call "nhạc trữ tình" — the lyrical, melodically complex genre of mid-twentieth-century Vietnamese popular song — and her interpretation of the repertoire has the specific quality of seeming entirely inhabited: she does not perform the emotional content of the songs but appears to be inside it, which produces a form of listening experience qualitatively different from technically accurate but emotionally external singing. I have heard her sing at several colleagues' celebrations over the years — birthday dinners, a wedding reception, a farewell gathering — and the consistent observation of everyone present at these events is that her singing changes the quality of the occasion; the room focuses in a way rooms do not usually focus around incidental entertainment.
+
+What I find most interesting about listening to her — from a professional perspective rather than a purely aesthetic one — is the specific form of attention management that skilled live musical performance produces in an audience: the collective orientation of a room of people toward a single focus, with the social and temporal experience of the event restructured around the duration and character of the performance.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **conservatoire** (n) (/kənˈsɜː.və.twɑːr/): a school specialising in music or other arts | nhạc viện
+- **recital** (n) (/rɪˈsaɪ.təl/): a solo or small-group musical performance | buổi biểu diễn độc tấu/đơn ca
+- **repertoire** (n) (/ˈrep.ə.twɑːr/): the range of music a performer is able to play or sing | tiết mục biểu diễn
+- **nhạc trữ tình** (n phr): Vietnamese lyrical music, often with romantic or nostalgic themes | nhạc trữ tình (Việt Nam)
+- **acoustic** (adj) (/əˈkuːs.tɪk/): relating to natural, non-amplified sound | âm thanh tự nhiên (không khuếch âm)
+- **focal engagement** (n phr): concentrated, undivided attention directed at one thing | sự tập trung cao độ
+- **inhabited** (adj) (/ɪnˈhæb.ɪ.tɪd/): (of a performance) deeply felt and fully lived from the inside | (diễn xuất) hoá thân thật sự
+- **incidental** (adj) (/ˌɪn.sɪˈden.tl/): occurring by chance or as a minor accompaniment | tình cờ, thứ yếu
+- **semi-professional** (adj): performing to a high standard but not as a primary occupation | bán chuyên nghiệp
+- **disproportionate** (adj) (/ˌdɪs.prəˈpɔː.ʃən.ət/): larger or greater than expected in proportion | không cân xứng, quá mức tương ứng
 
 ### 1. What kind of music is popular in your country?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The Vietnamese popular music landscape is substantially more diverse and internally differentiated than its international characterisation as a single category captures. The largest audience segment in contemporary Vietnam is attracted to what the industry categorises as "V-pop" — a genre that has converged structurally with Korean and Japanese pop production conventions while retaining elements of Vietnamese melodic and lyrical tradition — and whose most commercially successful artists have substantial international visibility within the Southeast Asian market. A significant and demographically distinct audience retains strong preference for older genres: "nhạc vàng" (southern Vietnamese popular music of the pre-1975 period), bolero, and the lyrical mid-century repertoire that Lan sings, which remain enormously popular among listeners of middle age and above and maintain a presence in live performance and broadcast contexts that is disproportionate to their commercial market share.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The contemporary Vietnamese music market is characterised by a pronounced segmentation that reflects underlying demographic and cultural diversity more than most public accounts acknowledge. The commercially dominant popular music — V-pop and its international K-pop-influenced variants — captures the primary youth market in urban centres and drives the industry's commercial metrics: streaming numbers, concert ticket sales, and social media engagement. Alongside this, however, there are active audiences for several distinct alternative markets: a significant folk and ethnic music audience (both as appreciation for regional traditions and as demand for contemporary fusions incorporating folk elements), a substantial classical and instrumental music audience concentrated in the major cities and among the professional and educational class, and a growing hip-hop and rap community whose emergence represents one of the more culturally interesting developments in Vietnamese music of the past decade.
 
 ### 2. What kind of music do young people like?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Young people's musical preferences are more diverse than the generational generalisations that popular discourse typically imposes, though there are recognisable trends that reflect shared generational experience. The most consistent generalisation that holds across young people in urban Vietnamese contexts is a preference for produced, sonically complex music — music in which production value (the quality and sophistication of the electronic, studio, and mixing elements) is a significant part of the aesthetic experience rather than a neutral delivery mechanism for melody and lyrics. Within this broad preference, there is substantial diversity: K-pop and its derivatives attract a large and engaged audience, but hip-hop, electronic dance music, indie pop, and various fusion genres all have significant youth audiences that are internally differentiated by values, subculture, and social context.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The research and commercial intelligence on young people's music consumption in Vietnam consistently identifies several structural features that distinguish it from older cohorts' preferences. Consumption is substantially platform-mediated: young people encounter and explore music primarily through streaming platforms with algorithmic recommendation, which differs fundamentally from the broadcast radio and physical media consumption that shaped older generations' musical tastes. The algorithmic context produces a more eclectic and less genre-bound consumption pattern: young listeners move between genres, discover international music with lower barriers than previous generations, and are less likely to define their musical identity around a single genre or tradition. The social music experience — attending concerts and festivals, discovering music with friends, sharing on social media — is also a more explicitly social-identity-formation activity for young people than for older cohorts.
 
 ### 3. What are the differences between young people's and old people's preferences in music?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The generational differences in musical preference reflect structural differences in how music is consumed, what social function it serves, and the specific emotional and cultural registers that different life stages make available. Older listeners tend to show stronger attachment to a stable repertoire accumulated during the formative period of late adolescence and early adulthood — this is the "reminiscence bump" phenomenon, in which music encountered during a particular developmental window retains disproportionate emotional salience throughout life — which makes their preferences more stable and more historically anchored than those of younger listeners whose formative musical experiences are still being accumulated. Younger listeners show greater openness to novelty, higher sensitivity to production and sonic innovation, and a preference for music that serves the social-identity function of situating one within a generational and subcultural peer group.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional music industry's understanding of generational preference differences is substantially more granular than the popular characterisation as a simple generation gap captures. The consistency of generational musical preference division is real — research reliably finds that the music people most strongly prefer as adults was predominantly encountered between the ages of twelve and twenty-five — but the mechanism is not a fixed generational aesthetic: it reflects the formative function that music serves during the period of identity formation, in which musical preference becomes deeply entangled with the development of self and social identity in ways that later musical encounters do not typically replicate. The implication is that the musical preferences older people have are not worse or less sophisticated than younger people's — they reflect a different life stage relationship to music rather than a different aesthetic capacity.
 
 ### 4. What are the benefits of children learning a musical instrument?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The developmental benefits of musical instrument learning in children are multi-dimensional and better documented than most popular accounts convey. The cognitive benefits include measurable improvements in working memory, phonological processing, fine motor coordination, and mathematical reasoning — all outcomes associated with sustained musical training that transfer to academic performance in related domains. The non-cognitive benefits — development of disciplined practice habits, capacity to tolerate and persist through difficulty, the experience of producing something beautiful through sustained personal effort — are arguable more significant for long-term development than the cognitive ones, because they constitute character formation rather than skill development. The relational and emotional dimension is also significant: learning an instrument in a group or ensemble context develops listening, coordination with others, and the experience of collective aesthetic creation that is developmentally distinct from solo achievement.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional education and development case for musical instrument learning rests on what the research identifies as the highest-value long-term outcomes, which differ somewhat from the cognitive enhancement arguments that dominate popular advocacy. The most robust finding in the research on musical training and development is not the transfer to academic performance — which is real but moderate — but the development of what psychologists call "growth mindset" and related capacity for effortful improvement: children who master a musical instrument, which requires sustained practice to develop competence from initial incompetence, develop a framework for the relationship between effort and improvement that transfers to other challenging domains. The second most important finding is social-emotional: ensemble musical experience develops the specific capacity for attentive listening to others — adjusting one's own output in real time in response to what others are producing — that is foundational to effective teamwork and collaboration in adult professional contexts.
 
 ### 5. Do you know what kind of music children like today?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Children's current musical preferences are substantially shaped by the algorithmic recommendation environments they inhabit from very early ages, and the result is a musical landscape that is simultaneously more diverse and more internationally convergent than children's music preferences of previous generations. The algorithmically recommended content that children encounter on platforms like YouTube and TikTok does not distinguish sharply between children's and adult music in the way broadcast media did: children are routinely exposed to the same V-pop, K-pop, and international popular music that older teenagers and young adults consume, and their preferences reflect this exposure. At the same time, a significant segment of children's musical preference remains shaped by the specific musical content created for children — educational songs, character-associated music from animated media, and games with musical components — which produces a dual consumption pattern that was less pronounced in earlier media environments.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional observation on children's current musical preferences is that the platform-mediated exposure environment has dramatically accelerated the convergence of children's and young adult music consumption in ways that were not characteristic of previous media environments. Children are encountering the same commercial music as teenagers and young adults from an earlier age than any previous generation — largely because the platforms that recommended that music to teenagers make the same recommendations to children without significant age-gating — which means that the music industry categories of "children's music" and "youth music" are becoming progressively less distinct as a feature of actual consumption patterns even if they remain distinct as commercial categories.
 
 ### 6. Do you think the government should invest more money in concerts?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The case for public investment in live music and concert programming is stronger than the popular framing of it as a luxury cultural expenditure suggests, but the specific mechanisms and targeting of that investment matter more than the aggregate level. The strongest public goods argument for concert investment is in the areas of access and infrastructure: publicly subsidised concerts reduce the economic barriers to live musical experience that make quality live performance in practice available only to higher-income audiences in commercial markets, supporting a more equitable distribution of cultural access across economic groups. The secondary argument — for investment in venues, orchestras, and educational concert programming — rests on the role of live musical institutions in maintaining the performance ecology that training, discovery, and professional development of musicians depends on.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The policy case for government investment in concerts and live music is best analysed through the specific categories of investment being considered rather than as a single undifferentiated proposition. Investment in symphonic orchestras and classical performance institutions has a specific public goods rationale: these are institutions whose costs are too high for commercial markets to sustain at the quality level required for their long-term artistic viability, but whose contribution to national cultural life and to musical education is substantial enough to justify public subsidy on cultural public goods grounds — the same rationale that justifies public funding of museums, theatres, and public libraries. Investment in commercial popular music concert infrastructure and events has a weaker public goods rationale and a stronger economic development rationale: live music events generate significant local economic activity and can function as significant cultural assets in national soft power and tourism contexts, which may justify various forms of public facilitation and support without necessarily requiring direct subsidy.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **reminiscence bump** (n phr): the tendency to vividly remember music/events from ages 15–25 | đỉnh hoài niệm (hiệu ứng tâm lý)
+- **formative period** (n phr): the developmental stage most important for shaping identity | giai đoạn hình thành (nhân cách)
+- **algorithmic recommendation** (n phr): automated suggestions based on user data and patterns | gợi ý thuật toán
+- **subculture** (n) (/ˈsʌb.kʌl.tʃər/): a group with shared values and practices within a larger culture | tiểu văn hoá
+- **public goods** (n phr): resources available to all and not diminished by use | hàng hoá công cộng
+- **age-gating** (n phr): restricting content access based on the user's age | rào cản độ tuổi
+- **ensemble** (n) (/ɒnˈsɒm.bəl/): a group performing music together | nhóm nhạc, dàn nhạc
+- **phonological processing** (n phr): the ability to perceive and manipulate sound units in language | xử lý ngữ âm
+- **soft power** (n phr): influence through culture and values rather than force | quyền lực mềm
+- **subsidy** (n) (/ˈsʌb.sɪ.di/): financial support given by government to help an activity or industry | trợ cấp, hỗ trợ tài chính
 
 ## Describe a great dinner you and your friends or family members enjoyed
 
@@ -3498,77 +3899,103 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The dinner I would describe took place about a year ago — the last night of a four-day trip to Đà Lạt that I took with four university friends — at a small restaurant near the central market that one of us had found on a local recommendation rather than through any of the usual platforms.
+
+We had a set of dishes I associate strongly with how good highland food can be: artichoke soup with its extraordinary bitterness-and-sweetness, braised duck with galangal root, and a hotpot with locally foraged mushrooms whose variety I have not encountered in restaurants in Hà Nội. The combination of the food quality, the setting — genuinely cold evening, a table next to a window overlooking a street lamp and rain — and the conversation we had that night produced an experience I have thought about often since. The conversation ranged from the genuinely personal (one of our group announced that evening that she was seriously considering leaving her degree programme, and the way the group responded to her — with honesty and without judgment — felt significant) to the genuinely trivial, and the movement between registers felt natural in a way that group conversations often do not.
+
+What made it great was not any single element but the convergence of all of them: good food made with evident care, people I trust and am at ease with, a physical setting that was beautiful in an uncomplicated way, and enough time — we stayed for three hours without noticing — that the conversation could reach the places that conversations at their best reach.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The dinner I would describe was a meal I hosted at my apartment about two years ago for five colleagues who had worked together on a project that had been unusually demanding — six months, significant pressure, an outcome that was ultimately good but not before a period of genuine uncertainty — and which I organised specifically to mark the end of something that had required a lot from each of us.
+
+I cooked myself, which is something I do not often do for professional groups, and the choice was deliberate: cooking for people is a different act of hospitality than taking them to a restaurant, and the informality it creates — people in the kitchen while things are being prepared, the imprecision of home cooking relative to restaurant presentation — produces a specific quality of social ease that more formal settings resist. We talked about the project, which was appropriate and in retrospect necessary: there was debrief that needed to happen that had not yet had a context in which it could happen freely. We also talked about things entirely unrelated to work, and the transition between those modes of conversation was easy in a way that it rarely is in professional settings.
+
+What made the dinner significant was that it transformed a professional relationship into something with dimensions that professional contexts don't normally create space for, and did so in a way that strengthened rather than complicated the professional relationships that followed.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **galangal** (n) (/ˈɡæl.əŋ.ɡəl/): a fragrant root related to ginger, used in Southeast Asian cooking | củ riềng
+- **foraged** (adj) (/ˈfɒr.ɪdʒd/): gathered from the wild rather than cultivated | hái/thu lượm từ tự nhiên
+- **debrief** (n/v) (/ˌdiːˈbriːf/): a meeting to review and discuss a completed event or project | họp tổng kết, báo cáo sau sự kiện
+- **hospitality** (n) (/ˌhɒs.pɪˈtæl.ɪ.ti/): the friendly and generous reception of guests | lòng hiếu khách
+- **register** (n) (/ˈredʒ.ɪ.stər/): the level of formality or tone used in a situation | phong cách (ngôn ngữ, giao tiếp)
+- **convergence** (n) (/kənˈvɜː.dʒəns/): the process of coming together | sự hội tụ
+- **set meal** (n phr): a fixed menu offered at a single price | bữa ăn theo suất cố định
+- **informality** (n) (/ˌɪn.fɔːˈmæl.ɪ.ti/): the quality of being relaxed and unceremonious | tính thân mật, không trang trọng
+- **commemorate** (v) (/kəˈmem.ə.reɪt/): to mark an event with a ceremony or celebration | kỷ niệm, tưởng niệm
+- **uncomplicated** (adj) (/ˌʌnˈkɒm.plɪ.keɪ.tɪd/): simple and free from difficulty | đơn giản, không phức tạp
 
 ### 1. Do people prefer to eat out at restaurants or eat at home during the Spring Festival?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The Spring Festival (Tết) eating preference in Vietnam reflects a strong and culturally-grounded preference for home meals that is more robust than the general trend toward eating out in other contexts. The symbolic and ritual significance of the Tết meal — particularly the reunion dinner on New Year's Eve, which is organised around specific traditional dishes that carry both culinary and cultural meaning — makes home cooking the strongly dominant mode: the meal is not primarily about food quality in a culinary sense but about the performance of family gathering, continuity with tradition, and the specific emotional experience of a household gathered around a table that a restaurant setting cannot replicate. The trend toward eating out at Tết has grown among younger urban families who have less capacity or tradition for home cooking, but it remains a minority practice and one that many families who engage in it describe with a degree of ambivalence.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The Tết eating pattern is one of the clearest examples in Vietnamese life of a cultural practice that has maintained its essential character — the multi-generational household meal — despite enormous changes in the surrounding material and social environment. The restaurant industry's data consistently shows that restaurant dining during the core Tết period (New Year's Eve through to around the third or fourth day) is substantially lower than in equivalent non-festival periods, which reflects the strength of the home-cooking preference during the festival itself. The pattern that has changed in the past decade is the pre-and post-Tết period: many families now combine home meals for the ritually significant occasions with restaurant outings for the more socially flexible days of the extended holiday, which represents an adaptation of the tradition rather than its erosion.
 
 ### 2. What food do you eat on special occasions, like during the Spring Festival or the Mid-autumn Festival?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The festival food of Vietnamese occasions is characterised by the combination of culinary quality and symbolic meaning in ways that ordinary everyday food is not, and the specific dishes associated with each festival carry cultural significance that persists even when the culinary quality of any given preparation varies. Tết food has a geographically-inflected character: in the north, "bánh chưng" (square sticky rice cake with pork and mung bean filling, wrapped in "lá dong" leaves) is the most symbolically central dish, while southern preparations tend toward "bánh tét" (a cylindrical version) and a different but overlapping set of preserved and festive dishes. The Mid-Autumn Festival is distinguished by its central ritual object — the mooncake ("bánh trung thu") — which has become increasingly diverse in its available varieties and is consumed both as a genuine food and as a gift object whose packaging value can be substantial.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The festival food economy in Vietnam reveals an interesting tension between cultural authenticity and commercial evolution that is worth examining carefully. The core festival foods — bánh chưng, xôi gấc, thịt đông for Tết; bánh trung thu for Mid-Autumn — maintain their symbolic centrality even as their commercial forms evolve substantially: the mooncake market, in particular, has generated an enormous range of premium, imported, and fusion variants that are valued as consumer and gift products in ways that are quite different from the traditional ritual object they originate from. This commercialisation is sometimes critiqued as loss of authenticity, but a more nuanced view is that it reflects the adaptation of living traditions to changing economic conditions and preferences — the symbolic core (the gathering, the specific occasion, the category of food) is maintained even as the specific preparation evolves.
 
 ### 3. Why do people like to have meals together during important festivals?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The shared meal is one of the most fundamental and cross-culturally consistent forms of social bonding that human communities practise, and its centrality to festival observance reflects the role it plays as both a practical activity and a social ritual. At the practical level, preparing and sharing food is a naturally cooperative activity that requires coordination, creates shared physical space, and produces a shared experience of nourishment that has been the foundation of social bonding from the earliest stages of human sociality. At the ritual level, the festival meal has a symbolic dimension that transcends its practical function: the specific dishes prepared, the way the table is set, and the order in which activities occur around the meal are all carriers of cultural meaning and family tradition that connect the present gathering to past gatherings — ancestors, family history, and collective identity — in ways that ordinary meals do not.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The sociological significance of the festival meal is best understood through the concept of "ritual" in the anthropological sense: a structured, repeated practice whose function is not primarily instrumental but symbolic — the enactment and renewal of social relationships and cultural identity. The festival meal's social function is the production of "communitas" — the experience of unity, equality, and shared humanity that anthropologist Victor Turner identified as the characteristic product of ritual experience — which temporarily dissolves the status hierarchies, role distinctions, and professional distances that structure ordinary social life and reinstates the primordial family unit as the primary social category. In the contemporary context of Vietnamese families increasingly dispersed by internal migration for work, education, and economic opportunity, the festival meal has acquired additional significance as the occasion that reassembles the dispersed household, making its social function more important rather than less as mobility increases.
 
 ### 4. Is it a hassle to prepare a meal at home?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The perception of home meal preparation as a hassle is real and increasing, but it is produced by specific contextual changes rather than reflecting an intrinsic quality of the activity itself. The primary driver of the hassle perception is the time cost imposed by market access in urban environments: in cities where good-quality ingredients require travel to markets or the use of delivery services, and where food stalls and restaurants offering good-quality food at low prices are available on every corner, the opportunity cost of home cooking relative to the alternatives is genuinely higher than it was for previous generations in the same cities. The secondary driver is the skill deficit: cooking is a practised skill that becomes less effortful with practice, and households in which home cooking has declined over a generation are those in which successive generations acquire progressively less cooking competence, which makes the activity genuinely more effortful for those who undertake it with less practice.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The home cooking "hassle" perception warrants examination from an economic and time-use perspective rather than simply as a subjective experience. The components of the task that produce the hassle perception are well-identified: ingredient acquisition (which in urban contexts has become more varied in option but not necessarily less time-costly), preparation time (which is skill-dependent and varies substantially with practised cooking competence), and the cleanup cost that kitchen cooking imposes but restaurant eating does not. Against these costs must be set the benefits that home cooking produces — economic savings over equivalent restaurant quality, control over ingredient quality and preparation, and the specific relational and health benefits that household cooking more reliably produces than eating out. The perceived hassle is partially a reflection of genuine cost and partially a reflection of undervaluation of those offsetting benefits in contexts where the immediate cost is salient and the diffuse benefits accumulate invisibly.
 
 ### 5. What do people often talk about during meals?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Meal conversation has a distinctive character across cultural contexts because it occurs in a social setting — seated, face-to-face, bounded in time, and structured around a shared activity — that produces a specific conversation dynamic that differs from conversations conducted in other settings. In Vietnamese family meal contexts, the conversation tends to be dominated by the social information-sharing function: what each person has been doing, what has happened in the lives of family members and the wider network, and the collective processing of shared news and events. This information-sharing function serves the relational purpose of maintaining interconnect among people whose daily lives are largely separate — the meal conversation is the moment when the dispersed activities of individual family members are brought into shared awareness.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The research on meal conversation — which has been studied in both family and professional contexts — finds consistent patterns in what makes food-context conversation distinctive. The shared activity of eating, combined with the temporal boundedness of the meal, creates a conversation context that is naturally less pressured and more associative than discussions organised around a specific agenda: the food itself, the occasion, and the social context generate conversation topics without the need for deliberate agenda-setting. The most important function that meal conversation performs in professional contexts is relationship building through the self-disclosure and personal information-sharing that meal settings elicit more naturally than office meetings — which is why the professional meal remains one of the most effective available tools for developing relationships that office meetings cannot easily generate.
 
 ### 6. People are spending less and less time having meals with their families these days. Is this good or bad?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The decline of family meals is worth taking seriously as a social trend but warrants analysis rather than simple moral evaluation. The research evidence on family meals is fairly consistent: regular shared family meals are associated with measurably better outcomes for children on a range of indicators including academic performance, dietary health, emotional wellbeing, and language development — outcomes large enough and consistent enough across studies that the family meal is widely considered one of the most accessible family practices with the strongest evidence base for child development benefit. The decline of shared family meals is therefore a genuine loss for children's development, and the argument that equivalent outcomes can be produced by other mechanisms is not well-supported by the available evidence.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The decline in family meal frequency reflects structural changes in work, urban living, and family organisation that are unlikely to be reversed by attitude change alone, which means the policy-relevant question is not whether the trend is good or bad in the abstract but what the most effective available responses to it are. The evidence that family meals produce child development benefits is robust enough to make the trend genuinely concerning from a social policy perspective; the evidence for mechanisms suggests the benefits come primarily from the quality of interaction — the conversation, the mutual attention, the shared domestic experience — rather than from the meal itself, which implies that the loss can be partly offset by creating other contexts for the same quality of interaction but not fully substituted by any easily available alternative. The most realistic response is probably a combination of structural change (flexible work arrangements that make family meals more feasible) and deliberate cultural prioritisation — treating consistent family meals as a practice worth protecting rather than a pleasant optional extra.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **communitas** (n) (/kəˈmjuː.nɪ.tæs/): the feeling of shared humanity and equality in a ritual setting | cộng đồng tình người (nhân học)
+- **ritual** (n) (/ˈrɪtʃ.u.əl/): a repeated symbolic practice with social or religious significance | nghi thức, lễ nghi
+- **self-disclosure** (n phr): voluntarily sharing personal information about oneself | tự tiết lộ thông tin cá nhân
+- **opportunity cost** (n phr): the value of the next-best alternative foregone | chi phí cơ hội
+- **dispersed** (adj) (/dɪˈspɜːst/): spread widely across different locations | phân tán, rải rác
+- **salient** (adj) (/ˈseɪ.li.ənt/): most noticeable or important | nổi bật, đáng chú ý
+- **nourishment** (n) (/ˈnʌr.ɪʃ.mənt/): food and drink necessary for health and growth | sự nuôi dưỡng
+- **primordial** (adj) (/praɪˈmɔː.di.əl/): existing from the very beginning; most ancient | nguyên thuỷ, cơ bản nhất
+- **debunk** (v) (/ˌdiːˈbʌŋk/): to expose the false claims of something widely believed | bác bỏ, vạch trần
+- **associative** (adj) (/əˈsəʊ.si.ə.tɪv/): characterised by free, topic-linked connections rather than rigid structure | liên tưởng, tự do
 
 ## Describe an important decision made with the help of other people
 
@@ -3582,67 +4009,85 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+There was a decision a couple of years ago — whether to switch from my original economics programme to a joint degree in economics and data science — that felt genuinely consequential in a way most choices at that age don't, and which I couldn't have made well without two people whose judgment I trusted. My older cousin Minh had taken a comparable programme at a different university and was about eighteen months ahead of me in seeing where it led professionally; my academic advisor, independently, was pushing me toward quantitative methods in a way that was making me question whether the single-subject track I was on would close options I wasn't ready to close. Talking to both of them — separately, because they approached it differently, one from a career perspective and one from a purely intellectual one — clarified something I hadn't been able to see on my own: that my hesitation wasn't about ability or interest but about the specific anxiety of changing something that was already going fine. I made the switch about six weeks after those conversations, and I remember feeling a particular kind of relief that I think only comes when you realise a decision that seemed complicated had actually resolved itself once you'd collected enough honest input rather than opinions you were already looking for.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+About three years ago, I had to decide whether to accept an offer to lead a newly established regional office — the first posting of that kind our organisation had created in the central provinces — while my family was at a stage where moving would have disrupted my wife's work and my daughter's school year. The offer was professionally significant; the timing was genuinely bad; and I was not, frankly, capable of thinking about it clearly at the time because I was simultaneously excited and guilty in a way that made both responses unreliable. Three conversations changed the shape of the decision: one with my wife, who gave me a clear position that was less negative than I had anticipated; one with a senior colleague who had taken a comparable role eight years earlier and was able to separate out what had been genuinely difficult from what had only seemed difficult in prospect; and one with my department head, who told me, straightforwardly, what the consequences for my professional trajectory were likely to be in either direction. What I felt afterward — once I'd accepted and the initial pressure had cleared — was something I would describe as clarity rather than confidence: not the feeling that it was certainly the right choice, but the feeling that I had made it with enough information and enough honest input that I could commit to it fully without continued second-guessing.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **trajectory** (n) (/trəˈdʒek.tər.i/): the course of development of a career or life | quỹ đạo (sự nghiệp)
+- **consequential** (adj) (/ˌkɒn.sɪˈkwen.ʃəl/): important and having significant results | quan trọng, có hậu quả đáng kể
+- **second-guessing** (n) (/ˌsek.əndˈɡes.ɪŋ/): continuing to doubt a decision already made | nghi ngờ lại quyết định đã đưa ra
+- **in prospect** (adv phr): as something anticipated or imagined in advance | trong viễn cảnh, khi hình dung trước
+- **foresight** (n) (/ˈfɔː.saɪt/): the ability to predict what will happen and plan accordingly | tầm nhìn xa
+- **deliberate** (adj) (/dɪˈlɪb.ər.ət/): done consciously and intentionally | có chủ ý, thận trọng
+- **autonomous** (adj) (/ɔːˈtɒn.ə.məs/): making independent decisions without external control | tự chủ
+- **cognitive bias** (n phr): a systematic pattern of deviation from rational judgment | thiên kiến nhận thức
+- **confirmation bias** (n phr): the tendency to search for information that confirms existing beliefs | thiên kiến xác nhận
+- **resolve** (v) (/rɪˈzɒlv/): to settle or find a solution to a problem or decision | quyết định, giải quyết
 
 ### 1. What kind of decisions do you think are meaningful?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The decisions that carry the most lasting significance are generally those that realign — rather than simply extend — the existing direction of a person's life: choices about what to study, where to live, who to commit to, and what kind of work to invest oneself in. These are decisions meaningful because they determine the structure within which the vast majority of subsequent smaller decisions are made, which makes their consequences disproportionately large relative to the immediate moment of choice. The decisions that feel significant but are not — those that involve high visible stakes but low consequential depth, such as which car to buy or which university cohort event to attend — are distinct from genuinely meaningful decisions in exactly this way: their outcomes don't redirect the longer arc.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The decisions I would identify as genuinely meaningful are those where the chooser cannot return to the prior state once the choice is made — what economists call irreversible decisions — because the irreversibility is what gives the choice its distinctive weight. Professional choices in this category include changing industry or function (not merely employer), relocating geographically, committing to a senior leadership role whose demands will reshape life outside work, or choosing to leave institutions before they have given what one came for. The characteristic feature of meaningful decisions is not their apparent size at the moment of choice but the degree to which they foreclose alternatives: the decision that seems small but closes many futures is more meaningful than the decision that seems large but leaves most options open.
 
 ### 2. What important decisions should be made by teenagers themselves?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The decisions that teenagers should make for themselves are primarily those in the domains of identity formation — how they spend their discretionary time, which friendships they prioritise, what creative or intellectual interests they pursue — because these are the domains in which the development of genuine self-knowledge requires actual choices with actual consequences rather than directed outcomes. The important qualification is that self-made decisions in these domains are most developmentally productive when they occur within structures that limit the most severe potential consequences: a teenager should make their own choices about what music to engage with, what literature to read, and what activities to try, but these choices should occur within a framework that limits exposure to genuinely high-stakes irreversible risks. The goal of the developmental period is to produce a person capable of consequential autonomous choice — and that capacity is developed through practice, not through protection from choice.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The adult professional answer to this question is shaped by what we know about the relationship between decision-making practice and decision-making competence. Teenagers should make decisions in areas where the consequences of error are recoverable, the domain is one in which their developing self-knowledge is more reliable than adults' projections of their needs, and the choice is genuinely theirs in the sense that it reflects their values rather than those they have been instructed to hold. Academic specialisation — the subjects they pursue most seriously, the educational paths they pursue beyond compulsion — is a domain where teenage autonomy is both developmentally important and practically appropriate, because the knowledge of one's own intellectual character that guides these choices is more accessible to the teenager than to any external observer.
 
 ### 3. Why are some people unwilling to make quick decisions?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The resistance to rapid decision-making reflects a set of psychological and contextual factors that are more varied than the simple characterisation of "indecisiveness" captures. The most straightforward explanation is genuine uncertainty: when a person lacks the information or the evaluative framework needed to compare alternatives reliably, delay is a rational strategy rather than a personality failing, and the appearance of indecisiveness may simply be appropriate epistemic humility about the limits of current knowledge. A second, less rational explanation is loss aversion operating through the option-preservation effect: choosing one alternative forecloses the others, and people who weight potential losses more heavily than equivalent gains will systematically prefer to delay choice in order to preserve options that the delay does not actually make more achievable.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The reluctance to make quick decisions in professional contexts most commonly reflects one of three patterns, each of which requires a different organisational response. The first is genuine information deficit — the decision-maker does not yet have enough information to choose well, which is a legitimate reason for delay that should be addressed by improving information flow rather than pressuring faster choice. The second is accountability anxiety — the decision-maker is more concerned about being held responsible for a bad outcome than about making the best available decision, which produces a systematic preference for delay, consultation, and collective endorsement that distributes rather than eliminates accountability. The third is a preference for reversible decisions that cannot be made reversible — an unwillingness to accept the irreversibility that genuinely consequential choices require — which is the most problematic pattern because it leads to either chronic delay or the disguised refusal to decide at all.
 
 ### 4. Do people like to ask for advice more for their personal life or their work?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The asymmetry in advice-seeking between personal and professional contexts is real and reflects the different social norms governing disclosure in each domain. Students and young adults typically seek advice more readily for academic and career decisions than for personal ones, partly because the social infrastructure for career advice — counsellors, advisors, family members with professional experience — is more developed and more culturally legitimate than the infrastructure for personal advice-seeking. Personal decisions attract more protective privacy and more concern about judgment: admitting uncertainty about a personal choice requires a form of vulnerability that not all relationships can accommodate, which means effective personal advice-seeking depends on the quality of specific relationships in a way that professional advice-seeking does not.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional contextual pattern, in my observation, is that experienced professionals seek advice more actively for personal decisions than for professional ones — which is the inverse of what many younger people expect. The reason is that professional experience develops the judgment to navigate professional decisions with increasing confidence, while personal decisions — about relationships, family, health, and values — remain in a domain where professional competence provides no particular advantage and where the advice of trusted people with different perspectives remains genuinely valuable. The pattern breaks down with professional decisions of the highest stakes — the decisions that are simultaneously career-defining and irreversible — where the same vulnerability that characterises personal advice-seeking tends to re-emerge.
 
 ### 5. Why do some people like to ask others for advice?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+People seek advice for a mixture of rational and psychological reasons that are not always easy to disentangle, and understanding the distinction matters for how we evaluate the advice-seeking behaviour. The rational case for advice-seeking is clear: other people have knowledge, experience, and perspectives that the decision-maker lacks, and systematically ignoring these resources is irrational regardless of one's level of confidence in one's own judgment. The psychological dimension is more complex: advice-seeking also performs a social function of sharing the weight of a decision — distributing the psychological burden of choice across multiple people — and an emotional function of seeking reassurance that the preferred option is defensible, which may produce confirmation-seeking rather than genuine input-seeking.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The most thoughtful professional advice-seekers I have encountered are those who use advice-seeking specifically to expose the blind spots that their own perspective systematically produces rather than to validate conclusions they have already reached. The distinction between these two modes of advice-seeking — one genuinely open to having one's view changed, the other seeking endorsement — is visible in behaviours: the genuine advice-seeker presents the decision openly, asks what they might be missing, and responds to challenge with curiosity rather than defensiveness; the endorsement-seeker presents the preferred conclusion, frames alternatives tendentiously, and deflects challenge. The mentor-mentee relationship is most valuable when the mentee has developed enough self-awareness to bring the former mode rather than the latter.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **epistemic humility** (n phr): recognition of the limits of one's own knowledge | sự khiêm tốn về nhận thức
+- **loss aversion** (n phr): the tendency to weigh potential losses more heavily than gains | ác cảm mất mát
+- **option-preservation** (n phr): the desire to keep choices open rather than commit | bảo toàn lựa chọn
+- **tendentiously** (adv) (/tenˈden.ʃəs.li/): in a way that promotes a particular cause or point of view | theo cách thiên lệch
+- **accountability anxiety** (n phr): fear of being blamed if a decision leads to a bad outcome | lo ngại trách nhiệm
+- **epistemic** (adj) (/ˌep.ɪˈstem.ɪk/): relating to knowledge and the conditions required for it | thuộc nhận thức luận
+- **discretionary** (adj) (/dɪˈskreʃ.ən.er.i/): left to personal choice and judgment | tuỳ ý, tự quyết
+- **endorse** (v) (/ɪnˈdɔːs/): to declare one's public approval or support | chứng thực, ủng hộ
+- **disentangle** (v) (/ˌdɪs.ɪnˈtæŋ.ɡəl/): to separate things that are confused or mixed together | gỡ rối, phân tách
+- **blind spot** (n phr): an area where one fails to see or understand | điểm mù (tư duy)
 
 ## Describe a time when the electricity suddenly went off
 
@@ -3656,77 +4101,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+There was a power cut that lasted about five hours on a Sunday afternoon during my second year of university — not unusual by itself, except that I was halfway through an assignment due the following morning and had not saved as often as I should have, which turned an inconvenience into something considerably more stressful. It was late August, the fan went off with the lights, and within about half an hour the apartment was genuinely uncomfortable — hot in a way that made concentration on the salvaged handwritten work I switched to difficult after a point. What I ended up doing was taking my notebook to a nearby café that hadn't lost power, where I sat for three hours finishing the assignment by hand and having it retyped later, which was inefficient but in retrospect not the worst outcome: being forced off my laptop and onto paper meant I thought differently about what I was writing and came back with a draft I was more satisfied with than I'd expected. By the time I got home the power had returned and my flatmate had cooked on the gas stove, which meant the evening ended well. The dominant feeling the episode left me with was not frustration but a specific form of productivity anxiety — the realisation of how deeply my working patterns had become dependent on a single system I had given very little thought to.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The power cut I remember most clearly happened during a client presentation rehearsal — the evening before a major pitch — and lasted about four hours at a point when we still had significant preparation to complete. Our team was working in the office, three people, each running their own machine, and when the building's backup generator failed to engage properly we were left with laptops running on battery and phones as the only light sources. The practical response was quick: we redistributed tasks to those with fuller batteries, moved the remaining work to a shared document on mobile data, and accepted that certain elements of the presentation would be less polished than we had planned. What the situation revealed — and I have found this in most crisis contexts — was a useful diagnostic of who on the team escalated in unhelpful ways and who became more effective under constraint: the presentation itself the following day was, perhaps because of the shared adversity, delivered with more cohesion and directness than many more prepared ones I have been part of.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **backup generator** (n phr): a device that provides power when the main electricity supply fails | máy phát điện dự phòng
+- **adversity** (n) (/ədˈvɜː.sɪ.ti/): a difficult or unpleasant situation | nghịch cảnh, khó khăn
+- **power outage** (n phr): a period when the electricity supply is cut off | mất điện (sự cố lưới điện)
+- **grid** (n) (/ɡrɪd/): the network of electricity supply lines | lưới điện
+- **surge** (n) (/sɜːdʒ/): a sudden powerful increase in electric current | tăng đột ngột điện áp
+- **constraint** (n) (/kənˈstreɪnt/): a limitation or restriction | ràng buộc, hạn chế
+- **diagnostic** (adj/n) (/ˌdaɪ.əɡˈnɒs.tɪk/): used to identify the nature of a problem | chẩn đoán, nhận biết
+- **cohesion** (n) (/kəʊˈhiː.ʒən/): the quality of working together effectively | sự gắn kết
+- **mobile data** (n phr): internet access through a cellular network | dữ liệu di động (mạng 4G/5G)
+- **escalate** (v) (/ˈes.kə.leɪt/): to become more serious or intense | leo thang, trở nên nghiêm trọng hơn
 
 ### 1. Which is better, electric bicycles or ordinary bicycles?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The comparison between electric and ordinary bicycles is most productively framed not as a general superiority question but as a context-specificity question: each is substantially better than the other for a specific set of users and use cases. Ordinary bicycles are superior for users primarily motivated by physical conditioning, those making short flat-terrain journeys, and those in contexts where charging infrastructure is unavailable or unreliable — and they have advantages in maintenance simplicity and initial cost that matter significantly across much of the world. Electric bicycles are superior for longer commutes, for users with physical limitations that make sustained pedalling difficult, and for urban contexts where the alternative to cycling is motorised transport rather than walking — where the electric assist makes cycling the dominant option for a population segment that ordinary bicycles do not serve.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional urban transport perspective on this question is that both are significantly underused relative to their potential, and that the policy question of which to prioritise depends less on the vehicles' intrinsic merits than on the demographic and geographic characteristics of the city in question. In dense flat-terrain cities with short average commutes, ordinary bicycles outperform electric alternatives for most users: the infrastructure cost and battery management complexity of electric bicycles adds cost without adding proportionate commute benefit. In hillier cities, in cities with longer average commute distances, or in populations with higher average ages, electric bicycles are more likely to serve as genuine car replacements — which is the highest-value transport outcome available — because they bring more of the city within comfortable cycling range for more of the population.
 
 ### 2. Do you think electric bicycles will replace ordinary bicycles in the future?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The trajectory of electric bicycle adoption suggests growth but not replacement: electric and ordinary bicycles serve overlapping but distinct user populations, and the advantages of ordinary bicycles for specific use cases will remain, which means the more likely future is a substantially expanded cycling population that includes both types rather than a transition from one to the other. The most significant variable is battery technology: as battery weight, cost, and charging time continue to improve, the primary remaining disadvantages of electric bicycles become less constraining, which will expand the population for whom they are the preferable option. The environmental and public health evidence for expanding cycling of both types is sufficiently strong that the more productive policy question is how to increase the total share of cycling in urban transport rather than which specific technology to favour.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The replacement framing mischaracterises how transport technology transitions typically work. New vehicle categories more commonly expand the total cycling-eligible population than they convert existing cyclists between technologies — which means the more accurate prediction is that electric bicycles will bring into cycling a population that ordinary bicycles could not reach, while ordinary bicycles retain the population they currently serve. The policy implication is that infrastructure investment in cycling should be technology-agnostic — dedicated lanes, secure parking, and well-maintained surfaces serve both categories effectively — rather than betting on one technology displacing the other.
 
 ### 3. Which is better, electric cars or petrol cars?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The lifecycle environmental comparison favours electric vehicles in most contexts today and will favour them more strongly as electricity grids decarbonise, which is the direction of travel across most national energy systems. The honest complexity is in the transition period: electric vehicles manufactured today carry a significant embodied carbon cost from battery production, and their emissions advantage over combustion vehicles depends on the carbon intensity of the local electricity grid — in contexts where grid electricity is primarily coal-generated, the advantage is reduced and in some cases eliminated in the short term. The strongest case for electric vehicles is therefore not as a currently pure alternative but as a platform technology capable of delivering progressively lower emissions as the grid cleans, whereas petrol cars lock in a fixed emission trajectory.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The decision framework for whether electric or petrol cars are preferable is primarily a function of ownership context rather than vehicle technology in the abstract. Total cost of ownership for electric vehicles is favourable in contexts of high annual mileage, access to reliable home or workplace charging, and grids with relatively low carbon intensity — which currently describes a significant portion of the professional and urban population in Vietnam's major cities. The infrastructure gap — charging network coverage and reliability outside major urban centres — remains the most significant practical constraint on electric vehicle adoption, and this is a solvable problem through deliberate public investment rather than a fundamental technology limitation.
 
 ### 4. How did people manage to live without electricity in the ancient world?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Pre-electrical societies organised their lives around fundamentally different constraints and temporal rhythms than contemporary ones, and the question of how they "managed" without electricity reflects a perspective shaped by assumptions about necessity that pre-electrical people did not share. The most significant organising principle was daylight: productive activity — agriculture, craft, trade, most domestic work — was principally conducted during daylight hours, and the period after dusk was either lit by fire, lamp, or candle at significant fuel cost, or given over to rest in a way that virtually no contemporary urban lifestyle is. The social and economic consequences of this temporal structure were pervasive: they shaped when markets operated, how long the working day lasted, how and when family and community life was conducted, and the fundamentally different relationship to seasonal variation that pre-industrial societies depended on.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional relevance of this historical question is that it productively disrupts the assumption that electricity is a prerequisite for human flourishing rather than an enabler of particular historically specific forms of it. The most important observation is that pre-electrical societies produced the full range of human achievement — art, philosophy, science, engineering, governance, literature — under constraints that contemporary people would find severely limiting, which suggests that human capability is substantially more context-independent than the assumption of electricity's necessity implies. The practical lesson for contemporary contexts — particularly for thinking about energy resilience and the vulnerability of complex systems to disruption — is that the skills and practices of managing without continuous electrical power are more worth cultivating than most contemporary planning assumes.
 
 ### 5. Is it difficult for the government to replace all the petrol cars with electric cars?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The transition from combustion to electric vehicles at national scale is a complex challenge involving economic, infrastructure, and social dimensions that make it genuinely difficult regardless of the political will to attempt it. The economic challenge is the simultaneous disruption of the existing combustion vehicle manufacturing and maintenance ecosystem — which employs large numbers of people in activities that do not transfer directly to electric vehicle production and maintenance — while building the supply chains, manufacturing capacity, and charging infrastructure that electric vehicle adoption requires. The social challenge is the cost distribution of the transition: if electric vehicles remain significantly more expensive than combustion alternatives during the transition period, the policy question of who bears that cost is politically contentious in ways that can slow or derail otherwise technically feasible transitions.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The government's challenge in managing the petrol-to-electric transition is less technical than it is political and distributional. The technology exists; the timetable question is fundamentally about how to manage the interests of sectors, regions, and populations that benefit differently from different transition speeds. The most successful national transitions — Norway being the clearest example — have used a combination of financial incentives that reduce the ownership cost gap, infrastructure investment that removes range anxiety as a barrier, and regulatory timelines that give manufacturers and consumers enough certainty to plan investment decisions — rather than relying on either pure market price signals or command-and-control mandates alone.
 
 ### 6. Do people use more electricity now than before?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The trend in electricity consumption is unambiguously upward at the aggregate level, and the mechanisms are well-identified: the electrification of activities previously powered by other fuels (cooking, heating, transport), the proliferation of electrical devices including smartphones and personal computers, and the expansion of digital infrastructure including the data centres that cloud computing relies on. The per-capita trend in high-income countries shows some efficiency gains that partially offset the expansion of electrical applications — improvements in appliance efficiency, better building insulation, and the replacement of energy-intensive processes with digital equivalents — but these gains have been more than offset by the expansion in the number and type of electrical applications. In Vietnam and comparable rapidly developing economies, per-capita electricity consumption has grown significantly faster than in already-developed economies as electrification matures and living standards rise.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The electricity consumption trend is increasing at global scale but with significant variation in trajectory across countries at different development stages and with different energy transition policies. The policy challenge is that increasing total consumption is occurring simultaneously with the need to decarbonise electricity generation, which means that the rate of renewable energy capacity addition needs to exceed the rate of demand growth to produce falling rather than constant or rising grid carbon intensity. The most sophisticated national energy policies are therefore not focused on reducing electricity consumption — which is often associated with reduced economic activity — but on ensuring that the consumption growth that economic development generates is met with clean rather than fossil generation, which requires significant and sustained investment in both generation capacity and grid infrastructure.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **grid decarbonisation** (n phr): the process of reducing carbon emissions from electricity generation | phi carbon hoá lưới điện
+- **embodied carbon** (n phr): emissions produced in the manufacture of a product | carbon tích hợp (trong quá trình sản xuất)
+- **range anxiety** (n phr): fear of running out of battery before reaching a charger | lo lắng về phạm vi pin xe điện
+- **lifecycle emissions** (n phr): total emissions across a product's creation, use, and disposal | phát thải toàn vòng đời
+- **combustion engine** (n phr): an engine that generates power by burning fuel | động cơ đốt trong
+- **electrification** (n) (/ɪˌlek.trɪ.fɪˈkeɪ.ʃən/): the process of converting to electricity as a power source | điện khí hoá
+- **carbon intensity** (n phr): the amount of CO₂ emitted per unit of energy | cường độ carbon
+- **mandate** (n) (/ˈmæn.deɪt/): an official order or authority to do something | uỷ quyền, lệnh bắt buộc
+- **per-capita** (adj/adv) (/ˌpɜː ˈkæp.ɪ.tə/): calculated per person in a population | tính theo đầu người
+- **infrastructure** (n) (/ˈɪn.frəˌstrʌk.tʃər/): the basic systems needed for society to function | cơ sở hạ tầng
 
 ## Describe an exciting activity you have tried for the first time
 
@@ -3740,77 +4203,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+About a year ago, a group of friends from university persuaded me to try canyoning for the first time in a gorge in the mountains outside Đà Lạt — an activity that, had anyone described it to me in detail beforehand, I would have found compelling reasons to decline. Canyoning involves descending a rocky canyon using a combination of rappelling, swimming, sliding down natural rock chutes, and jumping into pools whose depth you have to trust on the basis of a guide's assurance rather than your own prior knowledge, which is precisely the kind of trust-the-process experience that I have historically been reluctant to practise. What persuaded me to go was a combination of not wanting to be the one person in a group of eight who opted out, and a more genuine curiosity — once I read about it — about the specific experience of moving through terrain by whatever physical means the terrain required. The activity itself was significantly more engaging than I had prepared myself for: the rappelling section was technically intimidating in a way that overrode most other thought, and the swimming sections through narrow rock passages had a quality of physical immersion in a landscape — cold, immediate, entirely present — that I have not encountered in any other activity. The feeling I carried home was less about having done something dramatic and more about having discovered that the specific form of fear that new physical challenges produce — the sharp, focused kind, not the diffuse anxious kind — is something I find surprisingly worth seeking.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The activity I would describe is sea kayaking — specifically, a two-day kayaking trip through the islands of Lan Hạ Bay that I undertook last year with my spouse, neither of us having paddled anything more serious than a pedal boat — which I agreed to on the basis that it was described as "moderate difficulty" by the operator and which turned out to involve about twenty kilometres of open-water paddling per day in conditions that were not moderate in the early afternoon when the wind came up. The experience was genuinely demanding in a way I had not prepared for: my shoulders and back were exhausted by mid-morning on the first day, the technique required to maintain direction and momentum in choppy conditions was not intuitive, and the open-water crossing between islands on the second morning was the closest I have come in years to a situation I was not certain I could complete. What I found in that context was something I had not expected: that the combination of physical exhaustion and genuine environmental challenge — paddling in a place of extraordinary beauty with no option of early withdrawal — produced a quality of absorption and presence that is very difficult to access in ordinary professional life, and which I have thought about repeatedly as a reference point for what full engagement with a challenging situation actually feels like.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **canyoning** (n) (/ˈkæn.jən.ɪŋ/): the sport of descending a canyon using multiple movement techniques | môn leo thác
+- **rappelling** (n) (/ræˈpel.ɪŋ/): descending a cliff face using a rope | kỹ thuật hạ dốc bằng dây
+- **kayaking** (n) (/ˈkaɪ.æk.ɪŋ/): paddling a small narrow boat using a double-bladed paddle | chèo thuyền kayak
+- **choppy** (adj) (/ˈtʃɒp.i/): (of water) with many small rough waves | (sóng) gồ ghề, lắc lư
+- **absorption** (n) (/əbˈzɔːp.ʃən/): complete concentration on an activity | sự đắm chìm, tập trung hoàn toàn
+- **adrenaline** (n) (/əˈdren.ə.lɪn/): a hormone released in exciting or dangerous situations | adrenaline (chất gây hưng phấn)
+- **momentum** (n) (/məˈmen.təm/): the force gained by a moving object | đà, lực quán tính
+- **opt out** (v phr): to choose not to participate in something | chọn không tham gia
+- **diffuse** (adj) (/dɪˈfjuːs/): spread over a wide area; not concentrated | lan toả, khuếch tán
+- **immersion** (n) (/ɪˈmɜː.ʃən/): deep involvement or absorption in an experience | sự đắm chìm, trải nghiệm toàn diện
 
 ### 1. Why are some people unwilling to try new things?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The resistance to novelty reflects a well-documented set of psychological dispositions whose origins are partly evolutionary and partly experiential. The most basic mechanism is loss aversion applied to experience rather than outcomes: people systematically overweight the potential negative outcomes of new experiences — embarrassment, failure, discomfort — relative to the potential positive ones, which makes the expected value of novelty appear lower than its actual expected value. The experiential component is habituation to existing preferences: the activities and environments one already engages with reliably deliver the satisfaction they are expected to deliver, whereas new experiences are genuinely uncertain in their payoff, and the uncertainty itself is aversive for people with low tolerance for ambiguity.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional corollary of reluctance to try new things is reluctance to try new professional approaches, which is recognisably related to the same underlying psychological mechanisms but has distinct organisational drivers. In professional settings, the reluctance to try new methods, technologies, or approaches is substantially driven by accountability structures that penalise failed experiments more heavily than they reward successful ones — which is a rational response to the incentive environment rather than a personality failing. The organisations that most successfully cultivate a culture of experimentation are those that have deliberately redesigned their accountability structures to reward learning from well-designed experiments regardless of outcome, rather than those that simply exhort their people to be bolder without changing the conditions under which boldness is evaluated.
 
 ### 2. Do you think fear stops people from trying new things?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Fear is certainly among the factors that reduce willingness to try new things, but the relationship is more complex than a simple causal statement captures. The fear most relevant to avoidance of new experiences is not primarily fear of physical danger — which is relevant only for a small subset of novel activities — but fear of social judgment: the anticipated embarrassment of performing badly, looking incompetent, or revealing limitations in front of others. This form of fear is particularly powerful because it is socially calibrated — it is more intense in front of audiences whose opinion matters more — which means that the same activity will feel more fear-inducing in front of colleagues than in front of strangers, and the social context of the new experience is often a more significant variable than the activity itself.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The honest professional answer is that fear is a necessary but not sufficient explanation for avoidance of new things: the fear component is real, but it intersects with cognitive inertia — the default preference for familiar approaches — and with the specific time cost that learning new things imposes on people whose existing competencies allow them to perform efficiently. Senior professionals are often reluctant to engage with genuinely new domains because the novice experience — the discomfort of performing below the level one is accustomed to — is disproportionately aversive for people who have invested significant time in developing high competence in their current domain. The organisations that manage this most effectively create structured contexts — workshops, secondments, innovation projects — in which the novice experience for senior people is explicitly normalised and senior people's willingness to be seen learning is modelled as a virtue.
 
 ### 3. Why are some people keen on doing dangerous activities?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The attraction to dangerous activities reflects a set of motivational patterns that are better understood through the psychology of experience than through the lens of risk-seeking as a simple trait. The most important mechanism is the quality of attention that genuine physical challenge produces: activities that require full attentional deployment — where divided consciousness is not possible because the environment demands continuous responsive engagement — produce a form of experiential intensity that is very difficult to access through activities that don't carry real stakes. The second mechanism is the specific social reward that successful completion of difficult activities provides: having done something that is genuinely challenging produces a form of self-knowledge — a data point about one's capacity — that cannot be obtained through activities whose outcome was never in question.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional psychology of risk-seeking in recreational contexts reflects a broadly documented relationship between occupational stress and preference for sharply bounded, outcome-clear challenges in leisure. People in high-ambiguity professional roles — where effort and outcome have a complex and uncertain relationship, where feedback is delayed and indirect, and where the consequences of performance are diffuse — consistently show higher rates of engagement with physically demanding and outcome-clear recreational activities: marathon running, climbing, extreme sports. The explanation is that these activities provide what the professional context often does not: a clear relationship between effort and outcome, immediate feedback on performance, and a sharply defined success condition — all of which are psychologically restorative in the context of the ambiguity that sophisticated professional work typically imposes.
 
 ### 4. Do you think that children adapt to new things more easily than adults?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Children's apparent advantage in adapting to novelty is real in some domains — language acquisition being the clearest example — but the generational superiority narrative is overstated as a general claim. Children adapt more easily to experiences where the limiting factor is neurological plasticity: early language, musical pitch perception, and certain types of motor skill acquisition are genuinely easier before specific developmental windows close. Adults, by contrast, adapt more effectively to experiences where the limiting factor is transferable knowledge and strategic approach: adults learning a third language benefit from the cognitive framework of prior language acquisition in ways that children do not, and adults learning new professional skills can map the new domain onto existing conceptual structures rather than building from scratch.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The children-versus-adults adaptability comparison is most productively framed as a difference in the nature of the adaptive process rather than its speed. Children's adaptation involves higher plasticity in fundamental cognitive architecture — their neural systems are more malleable in ways that support certain kinds of learning that become progressively harder with age. Adults' adaptation involves higher efficiency in mapping new experiences onto existing frameworks — metacognitive strategies, prior domain knowledge, and the ability to identify structural similarities between familiar and novel situations. The practical implication for adult learning design is that effective adult training should explicitly leverage the mapping advantage — using analogies, structural comparisons, and connection to existing competencies — rather than attempting to replicate a childhood learning context that adults' cognitive architecture does not match.
 
 ### 5. What can people learn from doing dangerous activities?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Dangerous activities teach things that are difficult or impossible to learn from safe ones, which is the most concise statement of their distinctive developmental value. The most important thing they teach is an accurate calibration of one's own capacity under genuine pressure: many people's self-models overestimate their competence in comfortable conditions and are poorly calibrated for what they can actually do when conditions become genuinely demanding. Successfully completing a physically challenging and risky activity provides a specific form of self-knowledge — that the person discovered something about their actual capability rather than their projected capability — that is functionally different from knowledge derived from safe performance contexts.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The learning available from genuinely challenging activities in the professional context is primarily about the pattern of one's response to situations where control is limited and outcome is uncertain — which is directly relevant to most high-stakes professional contexts even if the specific domain differs. The most organisationally valuable learning from difficult recreational activities is the behavioural self-portrait: understanding whether one escalates or stabilises under pressure, whether one's decision quality improves or degrades as stakes rise, and whether one's capacity to communicate and cooperate with others is enhanced or diminished by stress. These are patterns that are very difficult to observe in ordinary professional contexts where stakes rarely approach the clarity of genuine physical challenge.
 
 ### 6. What are the benefits of trying new things?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The benefits of novelty-seeking are well-documented across both psychological and neurological research, and they operate at multiple levels simultaneously. At the most immediate level, new experiences produce what psychologists call "hedonic adaptation interruption" — they break the process by which familiar experiences lose their capacity to produce positive affect through repetition — which means that novel experience is one of the most reliable available tools for maintaining subjective wellbeing across time. At a deeper level, new experiences produce new cognitive resources: exposure to unfamiliar contexts, challenges, and ways of doing things builds the repertoire of analogies, frameworks, and strategies that sophisticated reasoning in complex situations draws on.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional case for systematically trying new things rests primarily on what organisational learning research identifies as the most reliable driver of sustained adaptability: the regular practice of performing below one's current competence level in new domains. Professionals who routinely engage with genuinely novel challenges — domains, technologies, approaches, and contexts they have no prior experience in — maintain a form of cognitive flexibility that those who remain within established domains of expertise progressively lose. The implication for professional development is that the most valuable development activities are not those that deepen existing competency but those that routinely expose the professional to the experience of genuine novice-level learning — which requires deliberate design, because the natural incentive structure of professional life strongly favours deepening existing expertise over developing new capacities.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **hedonic adaptation** (n phr): the process by which people's happiness returns to a baseline after positive/negative events | thích nghi khoái lạc
+- **neurological plasticity** (n phr): the brain's ability to form new connections and change structure | tính linh hoạt thần kinh
+- **metacognition** (n) (/ˌmet.əˌkɒɡˈnɪʃ.ən/): thinking about one's own thinking processes | siêu nhận thức
+- **cognitive inertia** (n phr): the tendency to prefer familiar methods of thinking | quán tính nhận thức
+- **secondment** (n) (/sɪˈkɒnd.mənt/): a temporary transfer to another job or organisation | biệt phái ngắn hạn
+- **self-model** (n phr): a person's internal representation of their own abilities | mô hình tự nhận thức
+- **hedonic** (adj) (/hɪˈdɒn.ɪk/): relating to pleasure and the factors affecting wellbeing | thuộc về khoái lạc, hạnh phúc
+- **exhort** (v) (/ɪɡˈzɔːt/): to strongly encourage or urge someone to do something | thúc giục, khuyến khích mạnh
+- **novice** (n/adj) (/ˈnɒv.ɪs/): a person new to a skill or activity | người mới bắt đầu, tập sự
+- **attentional deployment** (n phr): the directing of conscious attention to specific stimuli | triển khai sự chú ý có ý thức
 
 ## Describe an interesting traditional story
 
@@ -3824,77 +4305,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+One story that has stayed with me since childhood is the legend of Sơn Tinh and Thủy Tinh — the mountain god and the sea god who both sought to marry the same princess, Mỵ Nương, and whose rivalry explains, in mythological terms, why Vietnam floods every year. My grandmother told it to me when I was probably six or seven, during one of those long afternoons at her house in the countryside when the television wasn't working and she was the entertainment. What I remember most vividly is not the plot itself — which is essentially a contest and a cosmic grudge — but the way she told it: she had a way of making Thủy Tinh's anger genuinely frightening, and the image of the sea rising and rising each year as the water god repeated his failed assault on the mountain stayed with me in the way images from adult fiction rarely did. I was old enough to know it wasn't literally true but young enough to feel the truth of it as explanation — there's something deeply satisfying about a myth that takes an annual natural phenomenon and gives it an emotional cause: jealousy, rejection, the refusal to accept defeat. Looking back, what interests me more now is the structure of the story as cultural technology — a way of making the unavoidable comprehensible and the frightening liveable.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The traditional story I find most enduringly interesting is the tale of Tấm and Cám — the Vietnamese Cinderella analogue that is, on close reading, considerably darker and more morally complex than Western versions of the same archetype. I first encountered it as a picture book around the age of five, but I came to understand it differently when my mother read it again to my daughter a few years ago and I was present as an adult listener. The story is unusual among folk tales in that the heroine does not remain passive — in later versions, Tấm takes active vengeance against her stepsister, including forms of violence that Disney adaptations of comparable stories would find unfilmable — which raises genuinely interesting questions about what moral order the story is actually encoding. What struck me as an adult listener was the sophisticated emotional logic underneath the fairy-tale surface: Tấm's patience is not virtue for its own sake but a strategic disposition; her final authority is not granted by a prince but earned through suffering and demonstrated worth. I found myself explaining this to my daughter differently than I would have expected — not as a simple good-versus-evil story but as a story about what it takes to persist when the system is structurally against you.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **legend** (n) (/ˈledʒ.ənd/): a traditional story handed down from the past | truyền thuyết
+- **archetype** (n) (/ˈɑː.kɪ.taɪp/): a typical or original model of a character or story type | nguyên mẫu, khuôn mẫu
+- **cosmic** (adj) (/ˈkɒz.mɪk/): relating to the universe or forces beyond human scale | vũ trụ, bao la
+- **myth** (n) (/mɪθ/): a traditional story explaining natural or cultural phenomena | thần thoại
+- **narrative** (n) (/ˈnær.ə.tɪv/): a spoken or written account of connected events | câu chuyện, tường thuật
+- **moral** (n/adj) (/ˈmɒr.əl/): a lesson conveyed by a story or experience | bài học đạo đức
+- **folk tale** (n phr): a traditional story passed down orally among ordinary people | truyện dân gian
+- **motif** (n) (/məʊˈtiːf/): a recurring element or theme in a story or culture | mô-típ, chủ đề lặp lại
+- **encode** (v) (/ɪnˈkəʊd/): to convert information into a symbolic system or hidden meaning | mã hoá, ẩn chứa
+- **analogue** (n) (/ˈæn.ə.lɒɡ/): something that is similar to or corresponds with another thing | tương đương, tương tự
 
 ### 1. What kind of stories do children like?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Children's story preferences reflect their developmental stage more than any fixed aesthetic: the stories that attract children most strongly are those that give imaginative access to experiences their actual lives don't yet provide — danger without genuine risk, moral clarity without real-world complexity, transformation without the irreversibility that makes real change frightening. The consistent cross-cultural finding is that children prefer stories with high narrative stakes — where something important hangs in the balance — and clear moral resolution: the satisfaction of the villain's defeat and the hero's reward is not naive but developmentally appropriate to a stage at which clear causal models of justice are being constructed. The preference for fantasy and anthropomorphic characters reflects the same dynamic: these devices lower the cognitive threshold for engaging with emotional material that would be too close and potentially overwhelming in realistic form.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional and developmental perspective on children's story preferences emphasises the distinction between what children enjoy and what adults assume they should enjoy or can handle. The research consistently shows that children are not frightened away from stories with dark elements — loss, injustice, genuine threat — when the narrative framework provides sufficient emotional scaffolding; what they find genuinely distressing is unresolved threat or moral ambiguity that the story's structure does not provide tools to process. The implication is that the bowdlerisation of traditional stories — the removal of darkness and complexity from fairy tales and folk narratives — may actually serve adult anxiety more than child wellbeing, and that children benefit from engagement with difficult material when the narrative context makes its difficulty manageable.
 
 ### 2. What are the benefits of listening to stories before bed?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Bedtime storytelling provides a distinctive set of developmental benefits that arise specifically from the combination of its temporal context — the transition to sleep — and its relational character: it is one of the few remaining daily activities that involves sustained, undivided co-attention between parent and child in an undistracted environment. The sleep transition context adds a specific dimension: the stories heard at bedtime are processed during sleep, including during the REM phases most associated with emotional memory consolidation, which some research suggests makes narrative material heard at bedtime disproportionately influential on the emotional schemas being formed during early development. The language development benefit is well-documented: sustained exposure to the vocabulary and sentence structures of storytelling — typically more varied and complex than ordinary conversational speech — is one of the most reliable drivers of the lexical range that predicts later reading comprehension.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The case for bedtime stories as a significant parenting practice rests on evidence that extends beyond their immediate enjoyment value. The ritual dimension — the consistency and predictability of the practice — provides the specific psychological benefit of a reliable transition structure: children whose bedtime routines include a consistent story report lower sleep onset anxiety, which has downstream effects on sleep quality and daytime emotional regulation. The attention and co-presence dimension is arguably the most significant: storytelling at bedtime is one of the few parenting activities in which the quality of engagement is intrinsic to the activity rather than something that has to be consciously maintained against competing demands.
 
 ### 3. Why do most children like listening to stories before bedtime?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Children's consistent preference for bedtime stories reflects both the functional role the story plays in managing the sleep transition and the relational meaning of the ritual itself. The sleep transition is psychologically significant for young children in a way adults often underestimate: it involves separation from the waking social world and the adults who provide it security — a transition that is manageable with appropriate scaffolding and genuinely difficult without it. A story provides exactly the required scaffolding: it gives the mind an absorbing focus that progressively reduces the arousal of the waking day, shifts attention from the immediate environment to an imaginative space that is less demanding, and does so in the presence of a trusted adult whose voice is itself a source of calm.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The bedtime story preference persists well past the age at which children are capable of reading independently, which suggests it is serving functions beyond the informational: children who can read choose to be read to, because the experience of being read to by a trusted adult is qualitatively different from self-directed reading. The relational specificity of the experience is the key: it is not the story in the abstract that children value but the story in the context of a relationship — the particular voice, the particular comfort, the undivided attention that most of waking life does not provide. This relational dimension makes bedtime storytelling one of the parenting practices most resistant to technological substitution: recorded stories, audiobooks, and digital storytelling devices can deliver equivalent narrative content but cannot replicate the co-presence that accounts for much of the practice's value.
 
 ### 4. What can children learn from stories?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Stories are among the most efficient available technologies for transmitting complex social and moral knowledge to children, which is why narrative has been the dominant mode of cultural transmission across virtually all human societies throughout recorded history. The primary learning that stories provide is emotional: they give children access to the inner lives of characters — to fear, loss, injustice, love, decision, and consequence — in a form that is safely distanced from the immediacy of the child's own experience, which allows emotional understanding to develop ahead of the circumstances that will eventually require it. The moral learning stories provide is more complex than simple rule-transmission: well-constructed stories present moral dilemmas rather than moral conclusions, which develops the evaluative reasoning capacity that abstract rule-following does not.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The learning available from stories is multi-layered in ways that direct instruction cannot easily replicate. At the cognitive level, stories develop narrative comprehension — the ability to track causality, motivation, and consequence across extended sequences of events — which is foundational to the kinds of reasoning that complex adult professional and social situations require. At the social-emotional level, stories develop theory of mind: the capacity to attribute mental states to others and to reason about how people's beliefs, desires, and feelings generate their behaviour — a capacity that research identifies as one of the most important predictors of social and professional effectiveness. The cultural transmission function is perhaps most significant of all: stories carry the values, concerns, and wisdom of specific communities across generations in forms that abstract statement cannot.
 
 ### 5. Do all stories for children have happy endings?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The assumption that children's stories should have happy endings is largely a product of twentieth-century Western commercial children's publishing and its particular model of childhood as a space to be protected from unpleasant reality — a model that is historically recent and culturally specific rather than universal. Traditional folk tales across most of the world's storytelling traditions include far greater varieties of ending: stories where the protagonist fails, where justice is imperfect, where loss is permanent, and where the moral is not consolation but warning. The developmental argument against requiring happy endings is that children who are only exposed to narratives with guaranteed resolution are poorly prepared for the experience of living in a world where resolution is not guaranteed.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional developmental perspective on story endings is that the question of happy versus unhappy is less important than the question of emotionally resolved versus emotionally unresolved. Children can process genuinely sad or difficult story outcomes when the narrative framework provides sufficient emotional scaffolding — the sadness is acknowledged, the response to it is modelled, and the child is not left with unmanageable affect at the end of the story. What children find genuinely distressing in stories is not sadness or loss per se but narratives that generate strong negative affect and then fail to provide any emotional processing structure — stories that leave them anxious and uncertain rather than sad and acknowledged.
 
 ### 6. Is a good storyline important for a movie?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+A compelling storyline is the foundation of sustained viewer engagement in a way that no other cinematic element — performance, visual effects, cinematography, score — can substitute for, because narrative is the primary mechanism through which films generate emotional investment and the motivation to continue watching. Films with visually spectacular but narratively weak content consistently produce a specific dissatisfaction pattern: initial engagement with the spectacle followed by progressive disengagement as the absence of narrative stakes becomes apparent. The counter-argument — that certain genres (action, horror, certain forms of art cinema) can sustain engagement without conventional strong narrative — is partially valid but overstated: even these genres depend on some form of narrative tension or question to sustain attention, even if that question is not resolved in conventional ways.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The industry data on what drives sustained commercial performance for films is unambiguous in identifying narrative quality as the most robust predictor: films with strong scripts — coherent structure, compelling characters, and meaningful stakes — consistently outperform visually superior but narratively weak productions over the medium term, even when the narratively weaker productions may have higher opening-weekend numbers driven by marketing and spectacle. The implication that the industry has been slower than the evidence warrants to absorb is that investment in script development — the least visually impressive and most intellectually demanding phase of film production — produces better long-term commercial returns than equivalent investment in production values. The streaming era has partially corrected this miscalibration: algorithmic completion rate data has made the correlation between narrative quality and sustained viewer engagement much more visible to commissioners than theatrical box office data alone permitted.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **narrative stakes** (n phr): the sense of what is at risk for characters in a story | những gì đang bị đặt cược trong câu chuyện
+- **bowdlerise** (v) (/ˈbaʊd.lə.raɪz/): to remove offensive or disturbing content from a text | tẩy trắng nội dung, kiểm duyệt quá mức
+- **scaffolding** (n phr): temporary support provided to help someone learn or manage difficulty | giàn giáo hỗ trợ (giáo dục/cảm xúc)
+- **theory of mind** (n phr): the ability to understand that others have their own beliefs and desires | lý thuyết về tâm trí người khác
+- **REM sleep** (n phr): rapid eye movement sleep, important for memory and emotion processing | giấc ngủ REM (chuyển động mắt nhanh)
+- **completion rate** (n phr): the percentage of viewers who finish watching a piece of content | tỷ lệ xem hết
+- **anthropomorphic** (adj) (/ˌæn.θrə.pəˈmɔː.fɪk/): attributing human characteristics to non-human things | nhân cách hoá
+- **lexical range** (n phr): the breadth of vocabulary a person knows and uses | phạm vi từ vựng
+- **cultural transmission** (n phr): the passing of knowledge and values between generations | truyền tải văn hoá qua các thế hệ
+- **commissioner** (n) (/kəˈmɪʃ.ən.ər/): a person who formally arranges for a creative work to be produced | người đặt hàng sản phẩm sáng tạo
 
 ## Describe a city that you have been to and would like to visit again
 
@@ -3908,77 +4407,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The city I keep wanting to go back to is Hội An — I visited for the first time about two years ago with a group of friends from university, and I have thought about it regularly since in the specific way I only think about places that feel like they gave me something I couldn't have anticipated beforehand. We had four days, which was enough to get beyond the most crowded parts of the Old Town and find the rhythm of the place — the quieter streets of the eastern quarter in the early morning before the lanterns come on for the tourist circuit, the rice fields on the outskirts that nobody goes to because nothing happens there, the fact that it's a genuinely small city in a way that Hà Nội and Hồ Chí Minh simply are not. What I want to go back for is less about specific things I missed and more about returning to a place I feel I partially understood: there's a quality of stillness in Hội An that I found surprisingly restorative, and I suspect it would mean something different to me now than it did then. I'm also aware that Hội An is changing — the volume of tourism is transforming it in ways that are already visibly different from photographs taken a decade ago — which gives the desire to return a slight urgency.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Singapore is the city I most want to return to, and the reason is primarily professional rather than tourist: I visited for four days about three years ago for a conference, which meant I saw the city in a specific mode — the conference hotel, the immediate neighbourhood, two evenings of deliberate exploration — that gave me enough of the texture of the place to want to understand it more fully but not nearly enough time to do so. What struck me on that visit was the quality of urban design in ways that are difficult to articulate precisely: not the architectural spectacle — that is visible in photographs — but the functional thoughtfulness of how the city manages pedestrian circulation, shade, humidity, public transport integration, and the relationship between commercial and civic space in a way that most Southeast Asian cities have not achieved at comparable scale. I want to go back specifically to understand whether what I experienced was a genuine model worth thinking about professionally — Singapore as a case study in what conscious urban design at the level of a city-state can produce — or whether the impressions of four days and a conference schedule were misleadingly positive. I suspect it's the former, but the question is worth a longer investigation.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **Old Town** (n phr): the historic central area of a city, often preserved or restored | phố cổ
+- **civic space** (n phr): publicly accessible areas designed for community use | không gian công cộng đô thị
+- **pedestrian circulation** (n phr): the movement of people on foot through an urban area | lưu thông người đi bộ
+- **urban design** (n phr): the planning and arrangement of buildings, streets, and public spaces | thiết kế đô thị
+- **restorative** (adj) (/rɪˈstɔː.rə.tɪv/): having the effect of restoring health, energy, or wellbeing | hồi phục, phục hồi
+- **articulate** (v) (/ɑːˈtɪk.jʊ.leɪt/): to express an idea clearly and effectively | diễn đạt rõ ràng
+- **infrastructure** (n) (/ˈɪn.frəˌstrʌk.tʃər/): the basic systems that allow a city to function | cơ sở hạ tầng
+- **texture** (n) (/ˈteks.tʃər/): the quality and feel of a place or experience | kết cấu, chất cảm của nơi chốn
+- **circuit** (n) (/ˈsɜː.kɪt/): a route that forms a loop or covers a specific area | tuyến đường khép kín
+- **spectacle** (n) (/ˈspek.tə.kəl/): a visually striking or impressive display | cảnh tượng, quang cảnh ấn tượng
 
 ### 1. What's the difference between the city and the countryside?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The city-countryside distinction operates across multiple dimensions simultaneously — economic, social, environmental, and psychological — and the most superficially obvious differences (density, infrastructure, pace) are often less significant than the less visible ones. The most consequential structural difference is economic: cities concentrate a density and diversity of economic activity — commercial, professional, educational, cultural — that rural areas cannot sustain at comparable scale, which makes them both generators of greater average income and destinations for internal migration from rural areas seeking the economic opportunities that concentration creates. The lifestyle differences that most people notice most readily — pace, anonymity, noise, access to amenity — are derivative of this economic structure rather than independent characteristics.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional understanding of city-countryside differences has moved significantly beyond the simple quality-of-life comparison that dominates popular discussion. The most important structural finding is that the city-countryside divide is increasingly a divide between two different economic and social regimes rather than two points on a single quality continuum: cities have captured the majority of high-productivity economic activity in almost every country where this has been measured, which means the rural-urban gap in income, educational attainment, and access to services reflects a structural economic divergence rather than a simple preference difference. The policy challenge this creates is that interventions designed to reduce the gap — rural investment programmes, decentralisation policies — face the structural headwind of agglomeration economies that consistently make urban concentration more economically efficient.
 
 ### 2. Some people say large cities are suitable for old people. What do you think?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Large cities are simultaneously more and less suitable for older people than rural areas in ways that depend heavily on each individual's specific circumstances, physical capacity, and social situation. The case for cities being suitable for older people rests on the density of services they provide: proximity to medical care, transport that doesn't require a car, cultural and recreational amenity, and access to diverse social networks — all of which become more valuable as physical mobility reduces and the consequences of health events become more serious. The case against is the ways in which urban environments are optimised for younger, economically active populations: noise, crowding, pollution levels, pace of pedestrian traffic, and the social anonymity of dense urban contexts are all characteristics that become more burdensome as people age.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The suitability of large cities for older residents is largely an urban design question rather than an inherent feature of city scale: cities that have deliberately designed for age-inclusivity — with accessible public transport, safe pedestrian infrastructure, neighbourhood-level community services, and mixed-age social environments — are demonstrably more suitable for older people than those that have not, regardless of size. The relevant comparison is not city-versus-countryside but well-designed-city versus poorly-designed-city, and the policy direction in ageing societies that have recognised this has been toward age-friendly urban design standards rather than encouraging older people to leave cities for rural environments that often lack the service density that their needs require.
 
 ### 3. Do you think it is possible that all of the population move to cities?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Complete urbanisation — the movement of all or virtually all of a country's population into cities — is theoretically conceivable but practically limited by the economic and ecological functions that rural populations continue to serve. The most binding constraint is food production: agricultural systems in most countries cannot be fully operated by a workforce that commutes from urban centres, and the spatial distribution of agricultural activity requires at minimum a population distributed across rural and peri-urban environments. A second constraint is the agglomeration diseconomies of extreme urban density: very large cities generate congestion, pollution, and social costs that progressively reduce the net advantage of further concentration, which creates an economic limit to the degree to which urban concentration can increase.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The trajectory of urbanisation globally is toward very high but not complete urban population shares, and the countries that have progressed furthest along this trajectory — such as Singapore, which has an essentially entirely urban population — are city-states whose geographic specificity makes them poor models for larger territorial states. The functional limit of urbanisation in territorial states is set by the irreducibly spatial character of certain economic activities — agriculture, mineral extraction, energy generation, nature-based tourism — that require distributed geographic presence rather than urban concentration. What changes as urbanisation increases is not the elimination of rural activity but the reduction in the population required to conduct it: mechanisation and precision agriculture continue to reduce the agricultural workforce without reducing agricultural output, which means that rural population decline and agricultural productivity improvement are complementary rather than contradictory trends.
 
 ### 4. Do you think people in the countryside are friendlier than people in the city?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The perception that rural people are friendlier than urban people is widespread but reflects the specific social context of encounters with strangers in low-density versus high-density settings rather than a genuine personality difference between populations. In rural environments, encounters between strangers are infrequent enough to justify and reward social engagement: acknowledging a stranger on a country road is a relatively low-cost, high-return social act. In dense urban environments, the social arithmetic is reversed: the volume of potential stranger-encounters is so high that acknowledged engagement with all of them is impossible, which produces the selective inattention that urban residents learn as a functional adaptation to density rather than as a cultural preference for coldness.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The urban-unfriendly stereotype is a persistent mischaracterisation that conflates withdrawal from public stranger-interaction with general social coldness — a conflation that doesn't survive examination of how urban residents behave in contexts where stranger-engagement is appropriate. Urban residents are consistently more socially diverse in their networks, more likely to have engaged in voluntary civic activity, and more likely to develop and maintain deep friendships across social and geographic distance than rural counterparts — precisely because the urban environment provides greater exposure to diverse human beings and a richer infrastructure for social connection. What cities don't provide is the low-threshold public sociability of small communities — the automatic acknowledgment of shared local space — which is sometimes mistaken for warmth when it is more accurately described as the social technology of a low-density environment.
 
 ### 5. Are there any changes in your city?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Vietnamese cities — and Hà Nội in particular — have undergone changes in the past decade that are substantial enough to be visible within a single generation's lived experience, which makes the comparison with the city ten years ago a genuinely vivid rather than abstract one for most residents. The most visible changes are infrastructural: the metro system, the expansion of the road network into previously peri-urban areas, the displacement of older low-rise commercial and residential stock by high-rise development across much of the inner city. Less visible but arguably more consequential are the social and economic changes: the displacement of lower-income and traditional residents from central areas by rising land values, the transformation of neighbourhood commercial patterns by e-commerce, and the progressive disappearance of the specific urban street culture that characterised Hà Nội's inner core.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The pace of change in Vietnamese cities over the past decade is unusual by international comparison: it would take most European cities three to four decades to accumulate the degree of physical and social transformation that Hà Nội and Hồ Chí Minh have undergone in ten years — a pace that creates both rapid improvements in material standards and rapid losses of the urban character that constituted each city's specific identity. The professional urban planning perspective on this pace is ambivalent: the infrastructure improvements and economic development are genuine and important gains; the loss of architectural heritage, neighbourhood spatial character, and socially mixed inner-city populations are genuine and important losses; and the institutional frameworks for managing these trade-offs have not yet developed at the speed the change requires.
 
 ### 6. What should the government do to improve citizens' safety?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Urban safety is a multidimensional problem whose most effective interventions are consistently identified in public safety research but are systematically underprioritised relative to their evidence base. Street design is the most reliable safety lever available to governments: pedestrian infrastructure quality, footpath continuity, street lighting, and the elimination of uncontrolled vehicle access to pedestrian spaces produce measurable reductions in both traffic accidents and street crime at costs that are usually modest relative to their impact. The second most evidence-based intervention is social investment: crime rates are most strongly and consistently predicted by neighbourhood-level economic inequality and the availability of productive social activity for at-risk populations, which means social services, youth programming, and community infrastructure are more effective crime reduction investments than equivalent expenditure on enforcement.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The evidence on urban safety policy is sufficiently robust to support a clear hierarchy of interventions, though this hierarchy is not always reflected in government priorities. Traffic safety — which in Vietnam accounts for significantly more premature deaths annually than crime — is the area where evidence-based intervention has the clearest potential for large rapid impact: enforcement of speed limits and helmet laws, infrastructure redesign to reduce pedestrian-vehicle conflict, and graduated licensing systems are all interventions with strong evidence bases and large potential benefits relative to current Vietnamese mortality data. Crime reduction, which receives disproportionate political attention relative to its contribution to urban mortality, is most effectively addressed through the social investment approaches mentioned above rather than through increased police presence alone — an intervention that research consistently finds has weaker effects on crime rates than equivalent investment in the social determinants of criminal behaviour.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **agglomeration economies** (n phr): benefits gained when firms or people cluster together in cities | lợi kinh tế từ sự tập trung địa lý
+- **peri-urban** (adj) (/ˌper.iˈɜː.bən/): relating to areas on the edge of cities | vùng ven đô
+- **inattention** (n) (/ˌɪn.əˈten.ʃən/): failure to notice or pay attention to things | sự thiếu chú ý
+- **displace** (v) (/dɪˈspleɪs/): to force something or someone to leave their place | di dời, thay thế
+- **graduated licensing** (n phr): a system where driving privileges increase with experience and age | cấp phép lái xe theo giai đoạn
+- **social determinants** (n phr): social and economic conditions that affect health and behaviour | yếu tố xã hội quyết định hành vi
+- **heritage** (n) (/ˈher.ɪ.tɪdʒ/): features belonging to the culture of a particular society | di sản văn hoá
+- **civic** (adj) (/ˈsɪv.ɪk/): relating to the rights and duties of citizens in a community | thuộc công dân, đô thị
+- **mortality** (n) (/mɔːˈtæl.ɪ.ti/): death rate in a population | tỷ lệ tử vong
+- **enforcement** (n) (/ɪnˈfɔːs.mənt/): the act of making rules and laws obeyed | thực thi (pháp luật)
 
 ## Describe a shop / store you enjoy visiting
 
@@ -3992,77 +4509,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+There's a small second-hand bookshop on Đinh Lễ street in Hà Nội — it doesn't have a proper sign, just books stacked in both windows and spilling into cardboard boxes on the pavement — that I've been going to since my first year of university whenever I'm in the Old Quarter with a bit of spare time. I go about once a month, sometimes less, but the visits feel disproportionately significant relative to how brief they usually are — I've never spent more than forty minutes there, but I almost always leave with something I didn't know I was looking for. What I like about it has almost nothing to do with the specific books, which are unpredictable and not necessarily cheap: it's the quality of the browsing experience, which requires a different kind of attention than shopping with a specific purpose. You have to look at things without knowing what you want, which is an experience contemporary consumer culture increasingly doesn't make room for. The owner — an older man who rarely speaks but occasionally recommends something by simply placing a book on top of whatever you're holding — is part of what makes it feel like a place rather than just a shop.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The shop I find myself returning to most reliably is a kitchen supply store near Chợ Hôm in Hà Nội that stocks professional-grade cooking equipment alongside the ordinary domestic range — the kind of place where you can find Japanese ceramic knives alongside Vietnamese clay pots and French copper saucepans in the same few square metres. I started going there about four years ago when I began taking cooking more seriously as a weekend activity, and I've been back probably a dozen times since, which is unusual for me given that I don't go there to buy anything specific — I go because the quality of what they stock reflects genuine expertise rather than retail calculation, and browsing it is a form of education. There's something the shop demonstrates about the difference between professional and amateur equipment that is very difficult to understand from descriptions or online reviews: you need to hold a properly balanced knife, or feel the weight of a good cast-iron pan, to understand why the difference matters. I leave most visits with something I didn't plan to buy and no regrets about the purchase, which is not a description I could apply to many shopping experiences.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **second-hand** (adj): previously owned by someone else | cũ, đã qua sử dụng
+- **browse** (v) (/braʊz/): to look through things in a casual or leisurely way | đọc lướt, xem qua
+- **retail** (adj/n) (/ˈriː.teɪl/): the sale of goods to consumers, not businesses | bán lẻ
+- **professional-grade** (adj): of a standard used by professionals rather than hobbyists | cấp độ chuyên nghiệp
+- **amenity** (n) (/əˈmiː.nɪ.ti/): a feature that makes a place comfortable or enjoyable | tiện nghi, tiện ích
+- **cast-iron** (adj): made of a hard heavy alloy, used for durable cookware | gang (vật liệu nồi, chảo)
+- **impulse purchase** (n phr): something bought spontaneously without prior planning | mua hàng ngẫu hứng
+- **consumer culture** (n phr): a social system driven by the buying and selling of goods | văn hoá tiêu dùng
+- **stall** (n) (/stɔːl/): a small stand or shop, often in a market | quầy hàng, gian hàng
+- **expertise** (n) (/ˌek.spɜːˈtiːz/): expert skill or knowledge in a particular field | chuyên môn, chuyên nghiệp
 
 ### 1. Do people in your country go to the shopping mall frequently?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Shopping mall attendance in Vietnam has increased substantially over the past decade, particularly in the major cities, but the pattern of use is more complex than the frequency data alone suggests. Malls in urban Vietnam serve functions beyond retail: they are air-conditioned public spaces in a climate where outdoor comfort is limited for much of the year, which attracts visitors — particularly young people and families — for social and leisure purposes that have only a loose relationship to shopping. The most visited areas of major Vietnamese malls are consistently the food courts and cinema complexes rather than the retail floors, which suggests that malls are functioning more as urban leisure infrastructure than as primarily commercial retail environments.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The frequency of mall attendance in Vietnam reflects the country's rapid urban retail development rather than a stable cultural preference: the mall as a primary leisure destination is a phenomenon largely of the past fifteen years in major Vietnamese cities, driven by rising urban middle-class incomes and the inability of traditional street retail to provide the standardised, climate-controlled, entertainment-integrated shopping experience that this demographic increasingly expects. That said, the model's sustainability is uncertain: global data on mall performance shows significant divergence between malls that have successfully evolved into experiential leisure destinations and those that have remained primarily retail-focused, with the latter showing consistent footfall decline as e-commerce captures their commodity retail function.
 
 ### 2. How have people's shopping habits changed in recent decades?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The transformation of consumer shopping behaviour over the past two decades is among the most rapid structural changes in any aspect of daily economic life — driven primarily by e-commerce, but also by changing attitudes toward ownership, sustainability, and the relationship between shopping and identity. The most consequential change is the channel shift: the movement of commodity purchasing — standardised goods whose physical characteristics don't require evaluation in person — from physical retail to online platforms, which has hollowed out the commodity retail segment of physical shopping while leaving the experiential and social retail segments relatively more robust. A secondary but increasingly significant change is the rise of second-hand and rental consumption as a response to both cost pressure and growing environmental consciousness, particularly among younger consumers.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional retail analysis of shopping habit changes identifies a bifurcation in consumer behaviour as the dominant structural shift. Commodity purchasing has moved decisively online — a trend that COVID-19 significantly accelerated across all age groups — while experiential retail (dining, entertainment, services, and physical product categories that benefit from in-person evaluation) has shown more resilience and in some categories has increased demand for the very physicality that commodity retail is losing. The implication for retail strategy is that physical retail must increasingly compete on experience quality rather than product access: any product available online for cheaper delivery cannot sustain a physical retail location on price competition alone, which means physical retail's sustainable value proposition is now experiential rather than transactional.
 
 ### 3. Do you think shops and shopping malls will disappear in the future?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Complete disappearance of physical retail is implausible, but the current form of the shopping mall as a primarily retail destination is under serious structural pressure that will produce major reconfiguration rather than simple decline. The merchandise categories most vulnerable to e-commerce displacement — electronics, apparel, household goods, media — are precisely those that anchor most current mall tenant mixes; the categories most resistant to displacement — food, entertainment, services, and physical experience — are those that malls have been adding but which require fundamentally different spatial configurations than traditional retail floors. The mall that survives the next twenty years will look substantially more like a leisure and community facility than the primarily retail environment of the past thirty.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The question of physical retail survival is best answered at the category level rather than as an aggregate. Commodity physical retail — shops whose primary function is providing access to standardised products at competitive prices — will continue to decline as e-commerce logistics become more cost-efficient. Experiential physical retail — shops whose value lies in the physical experience of the space, the expertise of the staff, and the social context of the visit — has a durable value proposition that online environments cannot replicate, and this segment is likely to grow in relative importance even if it remains smaller in absolute terms. The shopping malls most likely to survive are those that recognise this distinction and reconfigure their tenant mix and physical design accordingly.
 
 ### 4. What are the differences between shopping in street markets and big shopping malls?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Street markets and shopping malls represent fundamentally different retail philosophies rather than simply different scales of the same activity. Street markets are characterised by negotiation, sensory richness, vendor personality, and the absence of standardisation — prices, quality, and selection vary from stall to stall in ways that reward knowledge and engagement — whereas malls are characterised by standardised pricing, branded environment, climate control, and the elimination of negotiation and unpredictability. The experiential difference these structural differences produce is significant: street markets require more active consumer engagement and offer greater reward for expertise and bargaining skill, while malls offer convenience, predictability, and comfort at the cost of the specific forms of engagement that market shopping requires.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional distinction between markets and malls is most productively framed as a distinction between relational and transactional retail environments. Street markets are relational: the transaction is embedded in a social interaction with a specific vendor, involves personal communication and often negotiation, and builds over repeated visits into a form of relationship and trust. Malls are transactional: the transaction is a standardised exchange with a brand rather than a person, governed by fixed prices and return policies, and optimised for completion rather than relationship. These are not simply different aesthetic preferences — they serve different social and economic functions, and the decline of market retail relative to mall and e-commerce retail reflects partly genuine consumer preference and partly the systematic undervaluation of the social functions that relational retail environments provide.
 
 ### 5. What are the differences in the shopping habits of different age groups?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Generational differences in shopping behaviour reflect both differing relationships to technology and differing life stage priorities rather than purely cultural preferences. Younger consumers — particularly those who grew up with smartphones — have substantially higher rates of e-commerce use for most product categories, lower preference for physical retail browsing, and higher engagement with peer review and social media recommendation as purchase inputs. Older consumers show higher retention of physical retail habits, particularly for certain product categories — fresh food, clothing, pharmaceuticals — where physical evaluation remains important, and lower engagement with the algorithmic discovery processes that shape younger consumers' awareness of products.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The generational shopping behaviour data reveals a useful distinction between channel preference and value orientation. Younger consumers differ from older ones not only in their preference for digital channels but also in the values that drive their purchasing decisions: sustainability considerations, brand ethics, and social impact credentials are significantly more influential among younger consumers than older ones, which is transforming the competitive landscape for retail categories where these attributes can be credibly communicated. The retail businesses that are managing this generational transition most effectively are those that have invested in making their supply chain and ethical commitments legible to younger consumers rather than those competing purely on price and convenience.
 
 ### 6. What are the differences between shopping online and in-store?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Online and in-store shopping differ across multiple dimensions — price, convenience, sensory engagement, social context, and the quality of information available about products — and the optimal channel for any given purchase depends on which of these dimensions matters most for that specific category. For standardised commodity products — where the specification is known and the decision is primarily about price and availability — online shopping is systematically superior in convenience, price comparison, and selection breadth. For products where physical evaluation is important — fit, texture, weight, freshness, or the specific experience of using or wearing something — in-store shopping provides access to information that online channels can approximate but not yet fully substitute for.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The online-versus-in-store comparison is increasingly relevant to retail strategy because the rise of "showrooming" — evaluating products in-store and purchasing online — and "webrooming" — researching online before purchasing in-store — complicates the simple channel attribution that retail analytics historically relied on. The most sophisticated retailers now design their physical and digital channels as complementary rather than competing — using physical stores to provide the experiential and relational value that drives brand affinity and long-term customer relationships, while using digital channels to maximise the convenience and selection breadth that drives repeat transactional volume. The retailers who are declining are those still treating the two channels as competitors for the same purchasing occasion rather than as complementary touchpoints in an integrated customer experience.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **showrooming** (n): evaluating a product in a physical store but buying it online for a lower price | xem hàng tại cửa, mua online
+- **webrooming** (n): researching a product online before buying it in a physical store | tìm hiểu online, mua trực tiếp
+- **footfall** (n) (/ˈfʊt.fɔːl/): the number of people entering a shop or area | lượng khách đến
+- **tenant mix** (n phr): the combination of different shops or businesses in a mall | cơ cấu thuê mặt bằng
+- **bifurcation** (n) (/ˌbaɪ.fɜːˈkeɪ.ʃən/): the division of something into two branches or parts | sự phân kỳ thành hai nhánh
+- **attribution** (n) (/ˌæt.rɪˈbjuː.ʃən/): identifying the cause or source of a result | phân bổ (trong phân tích kinh doanh)
+- **touchpoint** (n) (/ˈtʌtʃ.pɔɪnt/): any point of contact between a brand and a customer | điểm tiếp xúc (khách hàng)
+- **commodity** (n/adj) (/kəˈmɒd.ɪ.ti/): a standardised product traded on price rather than differentiated features | hàng hoá thông thường
+- **brand affinity** (n phr): the emotional connection and loyalty a customer feels toward a brand | sự gắn kết thương hiệu
+- **supply chain** (n phr): the sequence of processes involved in producing and delivering a product | chuỗi cung ứng
 
 ## Describe a time when you received good service in a shop / store
 
@@ -4076,77 +4611,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+About eighteen months ago I walked into a running shoe shop on Thái Hà street completely unprepared — I'd been referred there by a friend who runs seriously, I had almost no knowledge of what I actually needed, and I half expected to leave quickly with something generic and expensive. The staff member who helped me — a younger guy who ran marathons, as it turned out — spent about thirty minutes watching me walk, asking specific questions about how far I was running, on what surfaces and at what pace, and then brought out four pairs in a specific order with clear explanations of why each differed from the last. He wasn't upselling: two of the four pairs were actually cheaper than what I'd come in expecting to spend, and when I gravitated toward one of the more expensive options on aesthetic grounds he told me, quite straightforwardly, that the sole was probably over-built for my current training volume and that the cheaper pair would serve me better. I bought the cheaper pair, and he was right. What stayed with me wasn't the transaction itself but the quality of attention it involved — the experience of being helped by someone who clearly understood what I needed better than I did and whose purpose was getting the answer right rather than maximising the sale.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The instance of genuinely good service that I remember most clearly happened at a small wine shop near Hồ Tây about two years ago, when I went to buy something appropriate for a dinner I was hosting for a colleague who I knew had strong opinions about wine but whose specific preferences I didn't know well enough to guess. The shop owner — an older woman who had been running the shop for about fifteen years — asked a series of questions that were notably not the questions I expected: not "what's your budget" but "what are you serving, and what do you want the dinner to feel like?" When I described the situation — including my uncertainty about my colleague's preferences — she said, without any additional prelude, that I should probably explain the uncertainty to my colleague rather than trying to compensate for it through the wine choice, and that the two bottles she was recommending were both good enough that neither would be wrong. The advice was more useful than she was obligated to give, and the dinner was fine. What I remember about the experience is the specific form of confidence it involved — the confidence of someone who knows enough about their domain to give advice that serves the customer rather than the transaction.</p>
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **upsell** (v) (/ˈʌp.sel/): to persuade a customer to buy something more expensive than planned | bán thêm sản phẩm cao cấp hơn
+- **sole** (n) (/səʊl/): the bottom part of a shoe | đế giày
+- **transaction** (n) (/trænˈzæk.ʃən/): an instance of buying or selling | giao dịch
+- **over-built** (adj): having excess features or materials beyond what is needed for the purpose | quá cầu kỳ, dư thừa tính năng
+- **domain** (n) (/dəˈmeɪn/): a specific area of knowledge or activity | lĩnh vực chuyên môn
+- **prelude** (n) (/ˈprel.juːd/): an introductory or preliminary action | phần mở đầu, dẫn nhập
+- **gravitate toward** (v phr): to be naturally attracted or drawn to something | bị thu hút về phía
+- **referred** (v pp) (/rɪˈfɜːd/): directed to a person or place by another | được giới thiệu đến
+- **recommendation** (n) (/ˌrek.ə.menˈdeɪ.ʃən/): a suggestion that something is good or suitable | sự gợi ý, khuyến nghị
+- **maximise** (v) (/ˈmæk.sɪ.maɪz/): to make as large or great as possible | tối đa hoá
 
 ### 1. Why are shopping malls so popular in China?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The Chinese shopping mall phenomenon reflects a convergence of demographic, climatic, and infrastructural factors that together make malls a rational leisure destination for a larger portion of the Chinese urban population than in most comparable markets. The most important driver is the emergence of a large urban middle class with disposable income but limited alternative leisure infrastructure: in many Chinese cities, malls compete primarily with uncontrolled outdoor environments and residences rather than with the diverse recreational facilities available in older European or American cities. The climate dimension reinforces this: in both northern cities where winters are severe and southern cities where summers are extremely hot, the air-conditioned, weatherproof environment of a mall provides everyday comfort that outdoor alternatives cannot reliably deliver.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The Chinese mall's popularity reflects a genuine gap that it fills in the urban lifestyle of a rapidly urbanising society. The most important gap is social and recreational rather than commercial: Chinese urban residents have experienced rapid rises in income but slower development of the public spaces, cultural institutions, and community facilities that older societies developed incrementally over longer periods — which makes the mall, as a privately managed but publicly accessible leisure environment, a functional substitute for the urban commons that Chinese cities' rapid development has not yet fully built. The experience-over-goods shift visible in Chinese mall tenant mixes — the shift from retail-dominant to food, entertainment, and experience-dominant configurations — reflects the maturation of this dynamic: malls that understood their primary function as social rather than commercial have sustained footfall better than those that remained primarily retail-focused.
 
 ### 2. What are the advantages and disadvantages of shopping in small shops?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Small shops offer a specific cluster of advantages that large format retail cannot replicate, centred on the relational and knowledge dimensions of the shopping experience. The knowledge advantage is the most practically significant: small specialists typically have deeper product knowledge in their specific category than staff in large generalist retailers, which makes them disproportionately valuable for purchase decisions that require genuine expertise — specialist food, technical equipment, unusual clothing sizes or styles, complex service categories. The disadvantages are structural: small shops cannot offer the selection breadth, price competition, or operating consistency of large format retail, which means they serve segments of the market well while being genuinely less competitive for the commodity purchasing that most shopping volume consists of.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional analysis of small versus large format retail advantages identifies experience quality and expertise as small shops' durable competitive assets. That said, the disadvantage set facing small retail is increasingly structural rather than merely competitive: rising commercial rents in prime locations, the labour cost of the staff quality that genuine expertise requires, and the inability to absorb inventory risk on the scale that price competitiveness demands are collectively making the small specialist model difficult to sustain in urban markets where costs are rising faster than the segment of consumers willing to pay the premium that genuine expertise commands. The long-term trajectory is toward fewer but higher-quality small specialist retailers in premium locations, with the mid-market small retail segment losing to large format and e-commerce.
 
 ### 3. Why do some people not like shopping in small shops?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The resistance to small shop retail reflects a set of real disadvantages that are well-founded rather than merely perceptual. Price is the most frequently cited concern: small shops typically cannot match the procurement economics that allow large retailers to price commodity goods competitively, which means the premium paid for small retail is real and visible in a way that requires specific justification for each category. Social comfort is a less frequently acknowledged but significant factor: small shops with knowledgeable staff create an implicit expectation of engagement that some shoppers find pressuring — the sense that browsing without buying generates a social cost, and that the level of attention from staff requires justification through a purchase.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The reasons professionals and busy urban consumers in particular underuse small specialist retail are typically practical rather than principled: time pressure, the inconvenience of operating hours that often do not match working schedules, the physical effort of visiting multiple specialist locations rather than a single large format store, and the uncertainty about stock availability that makes the visit potentially wasted. These are not objections to small retail's quality proposition — most consumers who articulate these preferences also acknowledge that small specialist retailers are often better in the categories where they operate — but to the operational context in which small retail operates. The implication for small retail strategy is that reducing friction (extended hours, online presence, appointment availability) is at least as important as quality of product and expertise.
 
 ### 4. What are the differences between online shopping and in-store shopping?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Online and in-store shopping differ structurally in the type of information they provide and the type of experience they create, which makes them appropriate for different purchasing contexts rather than simply alternatives on a convenience spectrum. Online shopping excels at providing comparative information across a large product set — prices, specifications, reviews, and availability — at very low search cost, which makes it the dominant rational choice for standardised products where specification is fully knowable prior to purchase. In-store shopping provides physical sensory information — weight, texture, fit, smell, the experience of using a product briefly before buying it — that remains important for categories where these attributes significantly affect purchase satisfaction and cannot be adequately approximated by photographs, descriptions, or reviews.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional retail distinction between channels is less about which is better in the abstract and more about which stage of the purchasing process each channel serves most effectively. For discovery and comparison — identifying what options exist and how they differ on measurable attributes — digital channels have replaced in-store for most categories and most consumers. For evaluation of physical attributes and the service interaction that converts consideration into purchase commitment — particularly in high-value or technically complex categories — in-store remains valuable in ways that digital channels have not yet substituted. The omnichannel retail strategies that are performing best are those that design each channel to serve the stage of the customer journey where it has genuine advantage rather than trying to make each channel perform all stages.
 
 ### 5. What are the advantages and disadvantages of shopping online?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Online shopping's advantages are concentrated in the categories where its structural properties — unlimited selection, price transparency, frictionless comparison, and delivery convenience — matter most, and its disadvantages are corresponding limitations in the categories where those properties are insufficient. The core advantage is search efficiency: finding the best available option across a global product set at minimum time cost is something no physical retail environment can replicate, which makes online shopping the rational dominant channel for any product category where specification is fully knowable and price is a primary decision variable. The core disadvantage is the absence of physical evaluation: return rates for online clothing purchases consistently run at two to four times in-store rates, which reflects the systematic gap between what product photography conveys and what physical inspection reveals.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The less-discussed disadvantages of online shopping for professional consumers relate to the quality of discovery rather than the quality of transaction. Physical retail browsing — particularly in specialist stores — facilitates the kind of serendipitous discovery of products one didn't know existed and wouldn't have searched for that algorithmic retail struggles to replicate: recommendation engines optimise for similarity to prior purchases rather than for the productive surprise of encountering something genuinely unexpected. The professional implication is that consumers who rely exclusively on online shopping may systematically underexplore their own preferences — the platform's logic narrows rather than broadens their effective consideration set over time.
 
 ### 6. Can consumption drive economic growth?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Consumer spending is both a cause and a consequence of economic growth, which makes the directional question of whether consumption drives growth more complex than a simple yes or no captures. In standard macroeconomic accounting, private consumption constitutes the largest component of GDP in most market economies — typically sixty to seventy percent in advanced economies — which means that changes in consumer spending have a large direct mechanical effect on measured output. The more interesting causal question is whether increases in consumer spending create the conditions for sustained productive growth or merely reflect it: the evidence suggests that consumption-led growth is sustainable when it is financed by rising productivity and income rather than debt, and unsustainable — as the 2008 crisis illustrated — when it is financed by credit expansion that outpaces income growth.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The policy debate on consumption as a growth driver reflects a genuine tension between short-run Keynesian demand management and longer-run supply-side economics. In the short run, consumer spending is the most reliable fiscal multiplier available to governments seeking to stimulate a depressed economy: stimulus that reaches consumers with high propensity to spend generates relatively rapid economic activity. In the longer run, however, growth driven by consumption rather than investment and productivity improvement tends to generate inflation and external imbalances rather than sustainable output expansion — which is why most economists distinguish between consumption as a stabiliser of growth trajectories and investment and innovation as the drivers of the productivity growth that makes rising consumption permanently sustainable.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **propensity to spend** (n phr): the tendency to spend a given proportion of income | xu hướng chi tiêu
+- **fiscal multiplier** (n phr): the ratio of change in income to change in government spending | hệ số nhân tài khoá
+- **GDP** (abbr): Gross Domestic Product — total value of goods and services produced | tổng sản phẩm quốc nội
+- **Keynesian** (adj) (/ˈkeɪn.zi.ən/): relating to the economic theory that public spending can stimulate growth | theo học thuyết Keynes
+- **procurement** (n) (/prəˈkjʊər.mənt/): the process of obtaining goods or services | mua sắm, thu mua
+- **omnichannel** (adj): integrating multiple retail channels into a seamless customer experience | đa kênh tích hợp
+- **consideration set** (n phr): the group of products a consumer actively evaluates before buying | tập hợp lựa chọn đang xem xét
+- **serendipitous** (adj) (/ˌser.ənˈdɪp.ɪ.təs/): occurring by fortunate chance | tình cờ may mắn
+- **credit expansion** (n phr): the growth of borrowing and lending in an economy | mở rộng tín dụng
+- **external imbalance** (n phr): a persistent surplus or deficit in a country's trade account | mất cân bằng kinh tế đối ngoại
 
 ## Describe a natural place (e.g. parks, mountains)
 
@@ -4160,77 +4713,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+There's a stretch of coastline in Phú Quốc — on the southwestern side, away from the main resort strip — that I first visited about three years ago with two friends who had a car and a vague plan to avoid the places mentioned in travel guides. We found it by accident, at the end of a road that wasn't supposed to go anywhere particularly interesting, and the combination of things we found there — an almost completely empty beach, a headland of weathered granite boulders, a line of casuarina trees that ran along the edge of the sand at an odd angle — has made it the reference point I keep returning to when I think about what a natural place should feel like. What I like about it isn't dramatic: the sea is ordinary, the beach is unremarkable by Phú Quốc standards, and there's nothing there in terms of facilities or points of interest. What it has instead is a quality of un-arrangement — the sense that the landscape wasn't composed for observation — that is increasingly rare even in apparently wild places, and which I find more restorative than anything more conventionally beautiful I've visited. I've been back twice since; I'll probably go again.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The natural place I find myself thinking about most consistently is a section of the Cúc Phương forest in Ninh Bình — not the well-visited central area near the park entrance but a trail about four kilometres in that you reach on foot after the other visitors have turned back. I went for the first time about five years ago with a group of colleagues, and the experience of reaching the genuinely undisturbed part of the forest — where the tree canopy closes overhead, the undergrowth thickens, and the ambient sound shifts from occasional human intrusion to something entirely unmixed — was disorientating in a way I hadn't been prepared for. What I return to it for is something that's difficult to describe without sounding mystical: there's a quality of scale and age in old-growth forest that recalibrates something about how one relates to time, and I find that my capacity for sustained focused thought — which is the primary resource that professional life continuously draws on — is noticeably better for several days after spending a day in that environment. I've recommended it to four or five people since; all of them had some version of the same experience.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **headland** (n) (/ˈhed.lənd/): a narrow piece of land projecting into the sea | mũi đất, mũi nhọn
+- **casuarina** (n) (/ˌkæʒ.uˈær.ɪ.nə/): a type of tree with needle-like leaves common in tropical coastlines | cây phi lao
+- **canopy** (n) (/ˈkæn.ə.pi/): the upper layer of branches and leaves in a forest | tán rừng
+- **undergrowth** (n) (/ˈʌn.də.ɡrəʊθ/): plants growing under trees in a forest | thảm thực vật dưới tán rừng
+- **old-growth** (adj): referring to forests that have been undisturbed for a very long time | rừng nguyên sinh
+- **disorientating** (adj): causing confusion about direction or identity | gây mất phương hướng
+- **recalibrate** (v) (/ˌriːˈkæl.ɪ.breɪt/): to adjust or reset to a new standard | hiệu chỉnh lại
+- **ambient** (adj) (/ˈæm.bi.ənt/): relating to the immediately surrounding environment | môi trường xung quanh
+- **restorative** (adj) (/rɪˈstɔː.rə.tɪv/): having a healing or refreshing effect | hồi phục sức khoẻ, tâm trí
+- **un-arrangement** (n phr): the quality of appearing natural and uncomposed | sự tự nhiên không được sắp xếp
 
 ### 1. What kind of people like to visit natural places?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The population of people drawn to natural environments is more diverse than the stereotypical image of outdoor enthusiasts suggests, and the motivations driving visits to natural places vary enough that clustering them into a single category obscures more than it reveals. The most reliably identified predictor of preference for natural environments in research is not demographic but experiential: people who have had meaningful positive experiences in natural settings earlier in life are significantly more likely to seek them as adults — which suggests that access and early exposure, rather than personality type, are the primary drivers of nature engagement. A secondary predictor is occupation-related stress: research consistently shows that people in high-cognitive-demand professions — where sustained concentrated attention is the primary resource in play — show higher than average preference for natural environments as restorative contexts, because natural environments are among the most reliable available sources of the involuntary attention and cognitive rest that demanding work depletes.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional understanding of who visits natural places has been substantially enriched by attention restoration research, which identifies restorative experience rather than recreation as the primary driver of natural place preference among working adults. This framing matters because it shifts the question from "what kind of person seeks nature" to "what kind of depletion does nature address" — and the answer, consistently, is that nature most strongly appeals to people experiencing the specific depletion produced by directed-attention work: sustained concentration, complex decision-making, and the management of competing cognitive demands. That said, access constraints mean that observed nature visitation patterns significantly underrepresent the latent demand among lower-income urban populations: the capacity to visit natural places is substantially shaped by transport, time, and cost factors that correlate strongly with socioeconomic status.
 
 ### 2. What are the differences between a natural place and a city?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The city-nature distinction is most productively understood as a difference in the relationship between human design and the physical environment rather than simply a difference in what is present or absent. Cities are environments where almost every element — buildings, roads, parks, transport systems, commercial spaces — reflects deliberate human design choices, which produces a pervasive quality of intentionality: every feature has a purpose and most direct one's movement, attention, and behaviour in specific directions. Natural environments, by contrast, are characterised by the absence or weakness of this design intentionality: they make demands on attention that are not directed at a specific outcome, offer sensory stimulation that is not commercially or functionally motivated, and allow movement patterns that are not channelled by the requirements of urban infrastructure.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional significance of the city-nature distinction is most apparent when considered through the lens of cognitive demands: the two environments make fundamentally different claims on attention. Cities are high-stimulus, high-stimulation environments that require constant directed attention — reading signs, navigating pedestrian traffic, making rapid decisions about movement and safety — in ways that are cognitively demanding even when they are experienced as routine. Natural environments, when experienced appropriately, require low directed attention and elicit high involuntary attention — the effortless, non-depleting engagement of sustained interest in the environment's own intrinsic variety — which is why well-designed studies consistently show restorative cognitive effects from time in natural environments even when that time is relatively brief.
 
-### 3. Do you think that going to the park is the only way to get close to nature?
+### 3. How do natural places affect people's emotions?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The emotional effects of natural environments are among the most robustly replicated findings in environmental psychology, and they operate through multiple mechanisms simultaneously. The most immediate mechanism is physiological: exposure to natural environments — even relatively brief exposure, including to indoor plants or urban greenery — reduces cortisol levels, slows heart rate, and activates the parasympathetic nervous system in ways that produce measurable reductions in reported stress and anxiety. The psychological mechanisms are layered on top of this physiological baseline: natural environments reduce rumination — the repetitive self-focused thought that characterises depressive cognition — by providing sufficient external stimulation to interrupt internally-directed thought without making demands that sustain it.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The emotional effects of natural places on professional populations are particularly significant for what they reveal about the emotional costs of sustained urban professionallife. The depletion produced by high-directed-attention work is not simply physical tiredness but a specific form of emotional exhaustion — reduced capacity for empathy, patience, and the absorptive engagement with other people's situations that most demanding professional roles require. Natural environments are among the few reliably identified contexts where this specific form of depletion is reversed rather than merely paused: the involuntary attention that natural settings engage recovers directed attention capacity while simultaneously reducing the emotional reactivity that exhaustion produces.
 
 ### 4. What can people gain from going to natural places?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The gains from natural place visits are multi-dimensional — physical, psychological, cognitive, and social — and their magnitude is consistently underestimated by people who have not experienced them directly, partly because the benefits are difficult to anticipate and partly because they tend to accumulate without being consciously attributed to the nature visit specifically. The most immediately accessible gain is stress reduction: the physiological and psychological relaxation response that natural environments reliably produce is beneficial independent of any particular activity undertaken in them. The less immediately obvious but possibly more significant gain is the restoration of the directed attention capacity that most contemporary work and social life systematically depletes — a restoration that has downstream effects on productivity, patience, and the quality of interpersonal engagement for days after the visit.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional case for regular engagement with natural environments rests primarily on the evidence for cognitive and creative restoration. The most practically significant finding is the relationship between nature exposure and the quality of divergent thinking — the capacity to generate novel ideas and unexpected connections that is foundational to creative problem-solving. Multiple controlled studies have found that prolonged exposure to unplugged natural environments significantly improves performance on divergent thinking tasks, which suggests that natural environments provide not just rest from directed attention work but active cultivation of the associative thinking mode that complex professional problem-solving requires. The implication for professional life is that nature engagement should be treated as a professional resource rather than merely a lifestyle preference.
 
 ### 5. Are there any wild animals in the city?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Urban environments support surprisingly diverse wildlife populations — a fact that is consistently underestimated by urban residents who rarely observe it — and the trend in most cities globally is toward increasing wildlife diversity as urban design has become more attentive to the ecological value of green infrastructure. The species most successfully adapted to urban environments are those with high behavioural flexibility — birds such as sparrows, mynah birds, and corvids; mammals such as bats, rats, and in some cities foxes, deer, and even leopards in Mumbai — whose capacity to exploit the novel food resources and shelter opportunities that cities provide has allowed them to establish stable urban populations. The ecological significance of urban wildlife is increasingly recognised: urban green spaces, including parks, gardens, and road verges, form functional wildlife corridors that support biodiversity beyond what their individual size would predict.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional urban ecology perspective on city wildlife is that urban environments are increasingly important components of regional biodiversity — not despite their human-modified character but partly because of it. The specific food and habitat resources that cities create by accident — warm building surfaces, food waste streams, ornamental planting, and the reduction of predator pressure — have enabled certain species to sustain population densities in urban environments that rural landscapes don't support. The policy implication is that urban wildlife management should shift from suppression — the dominant historical approach for species considered pests — toward integration: designing urban green spaces, building envelopes, and waste management systems that support rather than merely tolerate the wildlife populations that have successfully adapted to urban conditions.
 
 ### 6. Do you think it is a good idea to let animals stay in local parks for people to see?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Managed wildlife presence in urban parks is a policy question whose answer depends substantially on which animals, in what numbers, with what level of management — and the range of defensible positions is correspondingly wide. The case for managed wildlife presence in urban parks is strongest for species whose welfare and safety needs can be adequately met at park scale, whose presence creates genuine educational and emotional value for urban populations with otherwise limited wildlife exposure, and whose interaction with park visitors can be managed at a level that prevents significant harm to either. The case against — particularly for larger or more demanding animals — rests on the animal welfare dimension: animals whose space, behavioural, and social needs substantially exceed what parks can provide will experience chronic stress in that environment regardless of how positively the experience registers for human visitors.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional animal welfare and conservation perspective on wildlife in urban parks is that the question is less "should animals be there" than "which arrangements best serve both animal welfare and public engagement objectives simultaneously." The arrangements that best achieve both tend to be those where wild or semi-wild animals are present in environments that genuinely approximate their natural habitat requirements — which typically requires larger and more ecologically complex parks than most cities maintain — rather than arrangements optimised for human visibility at the cost of meaningful animal welfare. The conservation argument for getting this right is significant: urban residents who develop meaningful engagement with wildlife are more likely to support conservation policy and funding — which makes the quality of urban wildlife experience a variable with implications beyond the individual interaction.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **cortisol** (n) (/ˈkɔː.tɪ.sɒl/): a hormone released in response to stress | cortisol (hormone căng thẳng)
+- **parasympathetic** (adj) (/ˌpær.ə.ˌsɪm.pəˈθet.ɪk/): relating to the part of the nervous system that calms the body | hệ thần kinh phó giao cảm
+- **rumination** (n) (/ˌruː.mɪˈneɪ.ʃən/): repetitive, unhelpful self-focused thinking | suy nghĩ lặp đi lặp lại, chiều hướng tiêu cực
+- **divergent thinking** (n phr): the ability to generate many creative ideas from a single prompt | tư duy phân kỳ (sáng tạo)
+- **corvid** (n) (/ˈkɔː.vɪd/): a member of the crow family — crows, ravens, jays, etc. | họ quạ (chim)
+- **wildlife corridor** (n phr): a strip of land connecting habitat patches for wildlife movement | hành lang sinh thái cho động vật hoang dã
+- **involuntary attention** (n phr): effortless, undirected attention drawn naturally by the environment | sự chú ý không chủ ý, tự nhiên
+- **green infrastructure** (n phr): urban parks, trees, and green spaces that provide ecological benefits | hạ tầng xanh đô thị
+- **biodiversity** (n) (/ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti/): the variety of plant and animal life in a habitat | đa dạng sinh học
+- **behavioural flexibility** (n phr): the capacity of a species to adapt its behaviour to new environments | tính linh hoạt hành vi (loài động vật)
 
 ## Describe a successful sportsperson you admire
 
@@ -4245,77 +4816,98 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The athlete I find myself genuinely admiring — and this is a distinction I make deliberately, since there are many athletes I follow without particularly admiring them as people — is Nguyễn Thị Ánh Viên, the Vietnamese swimmer who dominated Southeast Asian and Asian Games swimming for nearly a decade before retiring relatively young at twenty-five. I came to know about her seriously during the 2015 SEA Games, when she won eight gold medals in a single Games — a number sufficiently improbable that I initially thought the statistic must be wrong — and then spent time afterwards reading more about her training history, which was genuinely remarkable: she trained at the US Olympic Training Center in Colorado Springs for several years from early adolescence, largely separated from her family, under coaching standards typically reserved for American national team athletes. What I admire about her is less the medals themselves than what they represent about the sustained investment required to produce them: the specific detail that stays with me is that she was training at altitude, twice daily, through periods where her Vietnamese teammates were not training at all. The limitation of her story — that she reached a genuine ceiling at world championship level that Asian Games success didn't fully reveal — doesn't diminish what she produced within the actual competitive context she was operating in.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The sportsperson I most respect is Roger Federer — not because of his titles, which are well-documented and require no elaboration, but because of the specific way he chose to handle the final chapter of a remarkable career. Federer won his last Grand Slam in 2018, continued competing at the highest level while managing a persistent knee injury for four more years, and retired in 2022 at the Laver Cup in a final match played in partnership with Rafael Nadal — his greatest rival, with whom he then sat courtside and openly wept in front of a full arena. For a professional who had spent forty years cultivating an image of effortless composure, the decision to retire publicly, emotionally, and in deliberate partnership with the person who had beaten him more than anyone else was striking in its honesty. What I find professionally admirable about it is the apparent clarity of self-knowledge it required: the willingness to acknowledge limitation without minimising what was being lost, and to mark the ending with genuine emotion rather than the managed composure that sporting retirement ceremonies usually involve.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **altitude training** (n phr): training in mountain-high-elevation environments to improve endurance | tập luyện ở độ cao
+- **composure** (n) (/kəmˈpəʊ.ʒər/): the state of being calm and in control of one's emotions | sự bình tĩnh, tự chủ
+- **élite** (adj/n) (/eɪˈliːt/): the most skilled or highest level in a field | đẳng cấp cao nhất, tinh hoa
+- **rival** (n) (/ˈraɪ.vəl/): a person competing against another in the same field | đối thủ cạnh tranh
+- **Grand Slam** (n phr): one of the four most prestigious tennis tournaments | giải Grand Slam (quần vợt)
+- **podium** (n) (/ˈpəʊ.di.əm/): the platform where winners stand to receive medals | bục nhận giải
+- **endurance** (n) (/ɪnˈdjʊə.rəns/): the ability to sustain prolonged physical or mental effort | sức bền, khả năng chịu đựng
+- **discipline** (n) (/ˈdɪs.ɪ.plɪn/): a sport or field of athletic activity; also self-control in training | môn thể thao; kỷ luật tự giác
+- **SEA Games** (n phr): the Southeast Asian Games, a multi-sport event for the region | Đại hội Thể thao Đông Nam Á
+- **graceful** (adj) (/ˈɡreɪs.fəl/): showing elegance and poise in movement or manner | duyên dáng, thanh thoát
 
 ### 1. Should students have physical education and do sports at school?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Physical education is one of the few school subjects whose benefits operate primarily through non-academic channels — physical health, mental health, social development, and the formation of habits that have lifelong consequences — which makes arguments for reducing or eliminating it in favour of academic subjects a mischaracterisation of what the curriculum is for. The evidence for school-based physical activity improving academic performance, not just physical fitness, is robust: students who are more physically active show measurably better concentration, attendance, and academic outcome on average, which means the trade-off between PE and academic time is less stark than it superficially appears. The social and character development dimension is less quantified but arguably as significant: team sport, competitive activity, and the experience of physical challenge in a structured social context develop specific capacities — resilience, cooperation, the management of winning and losing — that classroom-based learning does not readily replicate.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The case for mandatory physical education in schools is strongest not when made on fitness grounds — though those grounds are valid — but when made on mental health and habit formation grounds. Mental health outcomes for young people are increasingly poor across high-income and rapidly developing economies, and physical activity is among the most reliable non-pharmacological interventions available: it reduces symptoms of anxiety and depression, improves sleep quality, and builds the self-efficacy that protects against a range of adverse mental health outcomes. The habit formation argument is perhaps the most consequential long-term: the evidence consistently shows that physical activity habits established in childhood and adolescence are significantly more persistent into adulthood than habits formed later, which makes school-based physical education an investment in lifelong health that cannot be easily replicated in adult life.
 
 ### 2. What qualities should an athlete have?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The qualities that distinguish elite athletes from highly talented ones operating below their potential are overwhelmingly psychological rather than physical — a finding consistent enough across sports that it represents one of the more robust areas of sports science consensus. The most widely identified psychological quality is self-regulation: the capacity to maintain training consistency, manage motivation over periods when performance is not progressing, and recover from setbacks without the emotional cost interfering with subsequent performance. A close second is the capacity for deliberate practice — the specific cognitive disposition to seek out and engage with the aspects of one's performance that are weakest rather than consolidating competencies that are already strong — which distinguishes athletes who improve systematically from those who plateau at current competence.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional sports science answer to what qualities distinguish successful athletes has shifted substantially over the past twenty years from physical attributes to psychological ones. The most practically significant finding is that talent — in the sense of innate physical advantage — is a necessary but not sufficient precondition for elite performance, and that the psychological qualities of self-regulation, deliberate practice orientation, and effective stress response are better predictors of who reaches the top from a given talent pool than physical attributes are. The coaching implication is that talent identification programmes that focus primarily on physical screening — the dominant approach in most sports — systematically miss the psychological qualities that determine who develops the identified talent into competitive success.
 
 ### 3. Is talent important in sports?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Talent matters significantly in elite sport but is neither necessary nor sufficient for the top level of performance — a nuance that the popular debate consistently misses in both directions. The "talent doesn't matter, it's all hard work" argument (popularised by Malcolm Gladwell's 10,000 hours thesis) substantially understates the evidence for genuine genetic advantage in physical attributes relevant to sport: height, limb proportions, oxygen processing efficiency, and certain neurological response time characteristics are substantially heritable and provide real competitive advantages that training cannot fully compensate for. The opposite error — assuming that talent is the dominant variable — is equally wrong: the correlation between identified early talent and eventual elite achievement is much weaker than talent-scouting programmes assume, partly because early development advantage and mature competitive potential are only loosely related.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional sports science position on talent is that it defines the ceiling of what is achievable for a given athlete but that the distance between that ceiling and actual achievement is determined primarily by psychological and environmental factors rather than by talent itself. The practical implication — which talent-identification systems have been slow to absorb — is that the best predictor of who reaches elite level from a youth talent pool is not the initial level of measured ability but the quality of the coaching environment and the degree to which the athlete's psychological development supports sustained deliberate practice over the years required to reach competitive maturity. Talent early-selects who is worth developing; it does not predict who will develop.
 
 ### 4. Is it easy to identify children's talents?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Early talent identification in children is substantially less reliable than most talent detection systems assume, which creates significant costs both for the children selected and for those not selected. The core problem is developmental asynchrony: children of the same age vary substantially in their degree of physical and cognitive development, which means that many early "talent" indicators reflect maturity advantage rather than genuine athletic potential — a problem sufficiently well-documented in youth sport that it has a name, the relative age effect, referring to the systematic over-representation of children born early in selection years in talent programmes and professional sport. The children not selected on early screening indicators include a significant proportion who would have developed competitive potential if given equivalent developmental support — a systematic loss that most talent identification systems do not adequately account for.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The relative age effect is the most clearly documented failure mode of early talent identification, but it is not the only one. Early talent identification systems also systematically disadvantage children from lower socioeconomic backgrounds — who have less access to early specialisation, quality coaching, and the infrastructure costs of sport participation — and children whose particular talent profile develops later than the window most identification systems screen. The professional sports organisations that have developed the most sophisticated talent identification systems are those that have moved from point-in-time screening to longitudinal tracking — following athletes' development trajectories over time rather than making selection decisions on single-point assessments — which is more expensive but substantially more predictively valid.
 
 ### 5. What is the most popular sport in your country?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Football is unambiguously the most popular spectator sport in Vietnam — the national team's matches consistently produce some of the highest television audiences of any broadcast event, and the emotional investment of the public in major tournaments, particularly the AFF Championship and qualifying rounds of the Asian Cup, is intense in a way that no other sport approaches. The participation picture is somewhat different: football participation among young men in urban areas is very high, but badminton, swimming, and martial arts may collectively account for more regular active participants across the full population including women and older age groups. The gap between football as spectacle and football as regular practice reflects a pattern common across Southeast Asia: the passion for watching the sport substantially exceeds the infrastructure available for broad-based participation.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Football's dominance in Vietnamese sporting culture is a relatively recent phenomenon at the national team level: Vietnam's football history before the late 2010s was one of regional underperformance relative to the passion it generated, and the transformation under coach Park Hang-seo from 2017 onward — producing the AFF Championship win in 2018 and consistent regional competitiveness — created a positive feedback loop between competitive success and public investment of identity that significantly deepened the sport's already strong cultural hold. The professional sports development implication of football's dominance is both an opportunity and a constraint: the resource concentration it attracts is valuable for developing a single high-profile sport, but the degree to which it crowds out development investment in other sports creates a breadth vulnerability in Vietnam's overall sporting profile.
 
 ### 6. Why are there so few top athletes?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Elite athletic achievement requires a specific conjunction of factors — genetic endowment, early access to quality coaching, sustained motivation through a multi-year development process, and freedom from significant injury — that is rare in any given population, and the rarity of that conjunction is the fundamental reason why top athletes are scarce. The genetic dimension is a necessary but not decisive factor: the population of people with the physical endowment relevant to a given sport is significantly larger than the population of elite athletes, which means selection at the genetic level is only the first of several filters. The coaching and environment filter is arguably as selective: the quality of coaching and competitive environment available to most aspiring athletes in most countries falls significantly below the standard required to develop the physical endowment present in a broader talent population.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The scarcity of world-class athletes reflects the sequential nature of the development pathway rather than an absolute constraint on human potential. At each stage of development — initial identification, early specialisation, junior competition, late adolescent selection, and senior professional performance — a proportion of those with the potential for the next stage fail to progress because of factors that include injury, loss of motivation, insufficient coaching quality, financial constraint, or simple competitive misfortune. These sequential filters are multiplicative rather than additive: if each transition stage has a fifty percent pass rate, a pipeline of one thousand talented young athletes yields about thirty who reach professional senior level — a ratio that is broadly consistent with what youth-to-senior transition data in most sports shows. The policy implication is that widening the base of participation at the entry stage provides more proportionate elite output than almost any other intervention.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **relative age effect** (n phr): the advantage children born earlier in selection years have in talent identification | hiệu ứng tuổi tương đối
+- **deliberate practice** (n phr): focused, intentional training specifically targeting weaknesses | luyện tập có chủ đích
+- **self-regulation** (n phr): the ability to manage one's emotions and behaviour in pursuit of goals | tự điều chỉnh hành vi
+- **developmental asynchrony** (n phr): uneven rates of development among children of the same age | sự phát triển không đồng đều
+- **self-efficacy** (n) (/ˌself.ɪˈfɪk.ə.si/): belief in one's ability to succeed in specific situations | niềm tin vào năng lực bản thân
+- **plateau** (v/n) (/ˈplæt.əʊ/): to reach a level where progress stops | dậm chân tại chỗ
+- **elite** (n/adj) (/eɪˈliːt/): the group with the highest level in a field | người xuất sắc nhất
+- **endowment** (n) (/ɪnˈdaʊ.mənt/): natural qualities or abilities a person is born with | tố chất bẩm sinh
+- **talent pipeline** (n phr): the structured process of developing young talent into senior athletes | đường ống phát triển tài năng
+- **longitudinal tracking** (n phr): following individuals over a long period to monitor development | theo dõi dọc theo thời gian
+
+
+
 
 ## Describe an area / subject of science that you are interested in
 
@@ -4329,77 +4921,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The area of science I've become genuinely absorbed in over the past couple of years is cognitive neuroscience — specifically the question of how memory actually works, as opposed to how people casually assume it works. I came to it indirectly, through a popular science book about eyewitness testimony that a friend lent me in my second year, which led me to journal articles and eventually to following a handful of researchers on social media who post accessibly about their work. What gripped me was the finding that memory is not stored and retrieved like a file — it's reconstructed each time you remember, which means every act of remembering changes the memory itself, and which has specific and disturbing implications for how reliably any of us can trust what we think we know happened. I follow the field now through a mix of popular science writing and reading abstracts of primary papers when something specific interests me enough to want the actual data rather than the interpretation — which is more often than I expected.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The scientific field I find myself spending the most time reading about — somewhat unexpectedly, given my professional background — is epidemiology, specifically the methodological question of how to establish causation from observational data when randomised controlled trials are impossible. I came to it seriously during the pandemic, when watching the public debate about COVID evidence revealed how poorly most participants — including many with scientific credentials — understood what observational studies could and couldn't establish. What keeps me interested is that it's fundamentally a philosophical problem with enormous practical stakes: the tools epidemiologists use to simulate causal inference from correlational data — instrumental variables, difference-in-differences designs, Mendelian randomisation — are intellectually elegant in the way that good engineering is, and understanding them changes how you evaluate almost every empirical claim you encounter in public life. I read primarily through Substack writers who work across statistics and public health, which gets me to the methodological literature without requiring the kind of sustained technical immersion I can't sustain alongside professional demands.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **cognitive neuroscience** (n phr): the study of the biological basis of thought and behaviour | khoa học thần kinh nhận thức
+- **epidemiology** (n) (/ˌep.ɪ.diː.miˈɒl.ə.dʒi/): the study of how diseases spread and affect populations | dịch tễ học
+- **randomised controlled trial** (n phr): an experiment where participants are randomly assigned to different groups | thử nghiệm đối chứng ngẫu nhiên
+- **causation** (n) (/kɔːˈzeɪ.ʃən/): the relationship where one event directly causes another | quan hệ nhân quả
+- **observational data** (n phr): information gathered by observing without intervention | dữ liệu quan sát
+- **Mendelian randomisation** (n phr): a method using genetic variants to study cause and effect | phương pháp ngẫu nhiên hoá Mendel
+- **reconstruct** (v) (/ˌriːkənˈstrʌkt/): to build again or reassemble from parts | tái thiết, tái cấu trúc
+- **abstract** (n) (/ˈæb.strækt/): a brief summary of a research paper | tóm tắt bài báo khoa học
+- **inference** (n) (/ˈɪn.fər.əns/): a conclusion reached through evidence and reasoning | suy luận, kết luận
+- **correlational** (adj) (/ˌkɒr.ɪˈleɪ.ʃən.əl/): describing a relationship where two things change together without one causing the other | mang tính tương quan
 
 ### 1. Why do some children not like learning science at school?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Children's disengagement from school science reflects primarily the way science is taught rather than any innate resistance to science as an activity — a distinction with important implications for how the problem is understood and addressed. The dominant mode of science instruction in most school systems presents science as a body of established facts to be transmitted and tested rather than as a set of methods and practices for investigating questions — and this framing fundamentally misrepresents what makes science intellectually engaging. The most consistently effective pedagogical approaches to science engagement in research are those that preserve the investigative character of scientific practice: giving students genuine questions to investigate with real uncertainty about the outcome, rather than laboratory exercises whose results are already known and whose purpose is verification rather than discovery.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional education research perspective on science disengagement identifies assessment design as the most significant single driver of the problem. School science assessment in most systems is dominated by the recall of factual content — definitions, classifications, formulae — rather than the application of scientific reasoning to novel problems, which means that the skills required to succeed in school science are largely orthogonal to the skills that make science professionally and intellectually rewarding. Students who find fact-memorisation relatively unrewarding relative to their other capabilities are correctly reading that the content being assessed is not where science's real value lies — their disengagement is a rational response to a misalignment between what they are being asked to do and what science as a practice actually involves.
 
 ### 2. Is it important to study science at school?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Science education at school level is important for reasons that extend well beyond the career-pathway argument — the vocational case for science study as preparation for scientific careers — which represents only a small fraction of the actual benefit. The more broadly applicable benefit is scientific literacy: the capacity to evaluate evidence-based claims, understand the logic of controlled experiments, recognise the difference between correlation and causation, and apply probabilistic reasoning to uncertain real-world situations. These are not specialist skills relevant only to scientific careers; they are foundational to the kind of informed citizenship that democratic societies require, and their absence is visible in the quality of public discourse around issues from climate change to vaccine safety to economic policy.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional case for school science education is strongest when made not on content grounds but on epistemological ones: the most valuable thing school science can transmit is not specific factual knowledge — which becomes outdated — but the methods through which reliable knowledge is generated and distinguished from unreliable knowledge. This epistemological dimension of science education is more important now than at any previous point in history, because the information environment that people navigate as adults is noisier, more contested, and more deliberately manipulated than at any previous period, and the capacity to evaluate the quality of evidence rather than simply the authority of its source is the most significant available protection against misinformation at scale.
 
 ### 3. Which science subject is the most important for children to learn?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The case for biology as the most important science subject rests on its direct relevance to the most significant decisions that most people will make across their lives — decisions about health, diet, reproduction, environmental responsibility, and the evaluation of medical evidence — and on the fact that biological literacy underlies the public understanding of issues from pandemic response to agricultural policy in ways that other science subjects' content does not equally match at the level of everyday adult decision-making. That said, the question of which science content matters most is becoming progressively less important than the question of which scientific methods and reasoning skills matter most — and the answer to the latter question is likely to be statistical thinking, which underlies the interpretation of evidence in every science and most applied non-science domains.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional consensus in science education research has moved away from ranking science content domains toward identifying the cross-cutting skills that underlie scientific reasoning across all domains. The most widely identified candidate is probabilistic and statistical thinking: the ability to reason correctly about risk, uncertainty, sample size, base rates, and the distinction between statistical and practical significance is foundational to the correct interpretation of scientific evidence in any domain, and its absence is the most common source of the scientific misunderstandings that appear most consequentially in public discourse. If a hierarchy of science content is required, the most defensible ranking would favour content that directly scaffolds this kind of quantitative reasoning — which points toward statistics and probability as the most important, and toward whichever content domain provides the most accessible entry point to their practical application.
 
 ### 4. Should people continue to study science after graduating from school?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Continued engagement with science after formal education is both increasingly important and structurally undersupported — most societies' systems for public science communication are significantly less developed than their systems for formal science education, which creates a deficit that individual initiative is required to fill. The case for continued science engagement rests primarily on the rate of change of scientific knowledge in domains directly relevant to adult decision-making: medical, environmental, nutritional, and technological knowledge is evolving rapidly enough that formal education provides only a snapshot of a field at a particular point in time, and adults who treat their school or university science education as their permanent knowledge base are therefore operating on increasingly outdated foundations. The good news is that the infrastructure for informal science education — quality popular science writing, accessible podcasts, well-designed online courses — has never been richer.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional case for continuing science education after formal schooling is strongest for people working in domains where understanding the evidence base for decision-making is directly professionally relevant — which, in the contemporary economy, includes a significantly wider range of professions than science careers alone. Data literacy — the capacity to understand and critically evaluate quantitative claims — is now a professional requirement in fields from marketing to public policy to business strategy, and its foundations in statistical and scientific reasoning mean that maintaining and developing scientific literacy is increasingly a professional competency rather than merely an intellectual preference. The organisations that invest in science literacy as a professional development priority are those that have recognised that evidence-based decision-making cannot be delegated to specialist departments but needs to be sufficiently distributed across professional roles to be effective at the point of decision.
 
 ### 5. How do you get to know about scientific news?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+My engagement with scientific news is a patchwork of sources that I've assembled over time through a combination of recommendation and trial and error — weighted toward sources that explain the evidence behind findings rather than simply reporting results. The most reliable sources I've found are publications that employ specialist science journalists with deep domain knowledge rather than general journalists parachuting into science coverage: the quality difference between careful scientific journalism and the simplified, often misleading reporting that most general news outlets produce on science stories is significant enough that I've become quite selective about where I source my science news. For primary research that interests me enough to investigate further, I'll use Google Scholar or preprint servers like bioRxiv, though the habit of reading primary research is one I'm still developing.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+My science news consumption is primarily through curated newsletters — several of which are written by practising scientists or science journalists with strong domain expertise — rather than through mainstream news media, which I find consistently sacrifice accuracy for accessibility in ways that produce systematic distortions in how findings are communicated. The newsletter format suits professional reading habits: a reliable daily or weekly digest from a trusted source lets me maintain broad awareness of developments in fields relevant to my work without the time cost of active monitoring. For topics where my professional interest is more intense, I use RSS feeds from specific journal content alerts, which gives me access to abstracts as soon as papers are published rather than waiting for them to be covered by secondary sources.
 
 ### 6. Should scientists explain the research process to the public?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Scientists have both a professional obligation and a practical incentive to communicate their research processes to the public — and the failure to do so at scale is one of the most significant contributing factors to the current crisis of public scientific trust. The obligation dimension: publicly funded research is conducted on behalf of and with resources provided by the public, which generates a transparency obligation that is not adequately discharged simply by publishing in academic journals whose access and comprehension are restricted to specialist audiences. The practical incentive dimension: public understanding of how scientific knowledge is generated is the most robust available inoculation against misinformation — people who understand that science is a self-correcting process rather than a pronouncement system are significantly more resilient to the selective citation of outlier studies and to the "scientists are divided" rhetorical strategy that is used to manufacture false uncertainty around well-established findings.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The case for scientists explaining their research processes rather than just their findings — communicating the logic of experimental design, the role of peer review, how replication failures are handled, and how confidence levels are established — rests on the observation that most public misunderstanding of scientific claims stems from misunderstanding how scientific knowledge works rather than from misunderstanding specific content. People who understand that a single study does not establish a finding, that effect sizes matter as much as statistical significance, and that the accumulation of replicated evidence over time is how scientific confidence is built are equipped to evaluate scientific news rather than simply receive it — and this equipmentis more valuable than any specific factual content science communication can deliver. The practical challenge is that conveying process rather than findings is harder to make engaging, which is why the most effective science communicators are those who have found ways to make the practice of science as compelling a story as its results.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **peer review** (n phr): the evaluation of research by other experts before publication | bình duyệt chuyên gia
+- **replication** (n) (/ˌrep.lɪˈkeɪ.ʃən/): repeating a study to verify its findings | tái lặp (nghiên cứu)
+- **preprint** (n) (/ˈpriː.prɪnt/): a research paper shared before peer review | bản thảo trước phản biện
+- **science literacy** (n phr): the ability to understand and evaluate scientific information | hiểu biết khoa học
+- **inoculation** (n) (/ɪˌnɒk.jʊˈleɪ.ʃən/): here, building resistance to misinformation in advance | tiêm phòng (nghĩa bóng: chống thông tin sai lệch)
+- **epistemological** (adj) (/ɪˌpɪs.tɪ.məˈlɒdʒ.ɪ.kəl/): relating to the theory of knowledge and how we know things | thuộc nhận thức luận
+- **effect size** (n phr): how large a measured difference or relationship is in a study | độ lớn của hiệu ứng
+- **statistical significance** (n phr): the probability that a result is not due to chance | ý nghĩa thống kê
+- **base rate** (n phr): the underlying probability of an event in a population | tỷ lệ nền
+- **misinformation** (n) (/ˌmɪs.ɪn.fəˈmeɪ.ʃən/): false or inaccurate information spread unintentionally | thông tin sai lệch
 
 ## Describe a TV or online program you like to watch
 
@@ -4413,77 +5023,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The program I've been watching most consistently over the past year is a YouTube channel called Kurzgesagt, which produces animated explainer videos on topics across physics, biology, climate science, and philosophy — each video typically running about ten to twelve minutes and managing to cover genuinely complex ideas with enough accuracy to satisfy and enough simplicity to include people who don't have the specialist background. I discovered it through a friend who shared one video about the scale of the universe, and I've watched probably forty or fifty more since, usually alone late at night when I want something that engages my thinking without requiring me to be physically present the way a conversation or lecture would. What I value about it specifically — and what distinguishes it from most educational content I've encountered — is that it takes its audience seriously enough to present uncertainty as well as conclusion: it says "we don't know" when that's the honest answer, and it resists the pressure toward false resolution that most popular science content yields to. It's the only YouTube channel I've paid a subscription to.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The program I watch most consistently is a documentary series on Netflix called Abstract: The Art of Design, which profiles individual designers — graphic designers, architects, illustrators, shoe designers, set designers — through the lens of their practice and their philosophy. I started watching it about three years ago when I was between projects and had more discretionary evening time than usual, and I've returned to individual episodes multiple times since, which is unusual for me with documentary content. What keeps drawing me back is the quality of the thinking it makes visible: the designers profiled all articulate the reasoning behind their choices with unusual clarity, which means the series functions as a kind of sustained argument about what design is for and how deliberate aesthetic decisions encode values — an argument that I find relevant to my professional thinking even though my work is nothing to do with design in the conventional sense. I watch it alone, which feels more appropriate to how I engage with it — it's closer to reading than to viewing.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **explainer** (n) (/ɪkˈspleɪ.nər/): a piece of content that explains a complex topic accessibly | nội dung giải thích đơn giản hoá
+- **discretionary** (adj) (/dɪˈskreʃ.ən.er.i/): left to individual choice; not compulsory | tự quyết, không bắt buộc
+- **animated** (adj) (/ˈæn.ɪ.meɪ.tɪd/): produced using animation techniques | hoạt hình
+- **profile** (v) (/ˈprəʊ.faɪl/): to write or produce a detailed account of a person or subject | làm hồ sơ chân dung, giới thiệu chi tiết
+- **encode** (v) (/ɪnˈkəʊd/): to express something in a form that carries meaning | mã hoá, thể hiện ý nghĩa
+- **subscribe** (v) (/səbˈskraɪb/): to pay regularly for access to a service or content | đăng ký (dịch vụ, kênh)
+- **aesthetic** (adj/n) (/iːsˈθet.ɪk/): concerned with beauty and artistic appearance | thuộc thẩm mỹ
+- **documentary** (n) (/ˌdɒk.jʊˈmen.tər.i/): a film or program presenting facts about a real subject | phim tài liệu
+- **philosophy of practice** (n phr): the underlying principles and values that guide how someone works | triết lý thực hành
+- **false resolution** (n phr): presenting a complex issue as settled when it is not | kết luận giả tạo về vấn đề còn tranh cãi
 
 ### 1. What programs do people like to watch in your country?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Vietnamese television and streaming consumption patterns have diversified substantially in the past decade, with the shift from broadcast television to streaming platforms producing significant fragmentation of what had previously been a relatively homogeneous viewing landscape. The dominant viewing categories by time spent remain drama series — both Vietnamese-produced and Korean, with the latter having a cultural footprint in Vietnam that substantially exceeds its geographic scale — and entertainment formats including game shows, talent competitions, and variety programs. The demographic split is pronounced: younger urban viewers have largely migrated to streaming platforms and YouTube, where consumption is more personalised and on-demand; older viewers remain more attached to broadcast schedules and the shared cultural experience that simultaneous broadcast produces.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional media analysis of Vietnamese content preferences identifies several structural patterns that explain aggregate viewing behaviour. The strength of domestic drama production — particularly melodrama formats organised around family conflict, generational tension, and romantic complication — reflects the specific emotional anxieties of a society undergoing rapid social change: these narratives provide a safe space to explore the conflicts between traditional expectations and modern aspirations that are common lived experience for much of the urban Vietnamese audience. The parallel dominance of Korean content reflects a regional cultural industry that has invested heavily in the production of content calibrated to appeal across the specific social and emotional landscape of Northeast and Southeast Asian audiences — an investment that has produced a sustained competitive advantage over Western content producers whose content is less precisely tailored to this audience.
 
 ### 2. Do people in your country like to watch foreign TV programs?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Foreign content — particularly Korean and American — has a large and growing audience in Vietnam, driven primarily by the availability of streaming platforms that have made international content accessible at low cost and without the delays that previously characterised licensed broadcast distribution of foreign programs. Korean content occupies a particularly significant position: Korean drama series, variety programs, and more recently documentary and reality formats have penetrated Vietnamese viewing culture to a degree that amounts to what some cultural analysts describe as a soft power achievement — shaping aesthetic preferences, consumption habits, and aspirational frameworks in ways that extend well beyond entertainment. American content maintains a strong presence in the 18–35 demographic through platforms like Netflix, with genres including crime drama, thriller, and comedy performing best.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The appetite for foreign content in Vietnam reflects both the genuine quality of the international content available and the specific gaps in domestic content production that foreign content fills. The genres where domestic production is weakest — high-production-value documentary, prestige drama with complex narrative structure, reality formats with high production sophistication — are precisely those where international content performs best with the segments of the Vietnamese audience whose consumption expectations have been raised by sustained exposure to global production quality. The cultural protection question that this raises — whether the scale of foreign content consumption is displacing domestic cultural production in ways that are harmful to Vietnamese cultural identity — is a genuine policy concern, though the evidence that content consumption preferences in entertainment are a meaningful proxy for deeper cultural identity is much weaker than protectionist arguments typically assume.
 
 ### 3. What's the benefit of letting kids watch animal videos than visiting zoos?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+High-quality wildlife documentary content and zoo visits serve partly overlapping but meaningfully different educational functions, and the framing of the question as an either/or understates how complementary they are when both are done well. The advantage of wildlife video over zoo visits is primarily one of ecological authenticity: documentary footage of animals in genuine wild habitats — exhibiting natural behaviours, in appropriate social and ecological contexts, at appropriate scales — provides a more accurate representation of animal life than zoo enclosures can typically deliver, and the narration that accompanies quality documentary content can provide explanatory depth that zoo visits, without a dedicated guide, typically cannot match. The counter-argument is experiential: the physical presence of a large or unusual animal — the scale, smell, sound, and movement — affects children differently than screen-mediated encounter, and this experiential dimension drives the affective engagement with wildlife that motivates conservation concern in ways that screen-only exposure may be less effective at producing.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The educational case for each modality rests on what it uniquely provides. Wildlife video provides scale and ecological context impossible to replicate in captivity: a documentary about elephant family dynamics, filmed over months, conveys information about elephant social life and intelligence that no zoo enclosure can approximate. Zoo visits provide sensory and affective engagement with physical animal presence that screen-mediated content cannot fully substitute for — and the research on what drives children's conservation values suggests that direct emotional engagement with animals is a more powerful driver than information alone, which gives in-person animal experience a specific value that cannot be straightforwardly replaced by however high-quality the documentary content is. The strongest educational approach combines both: documentary content to provide ecological context, zoo visits to provide emotional engagement.
 
 ### 4. Do teachers play videos in class in your country?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Instructional video use in Vietnamese classrooms has increased substantially over the past decade, driven partly by the availability of digital teaching infrastructure and partly by the COVID-19 period's forced experimentation with remote and hybrid learning, which exposed both teachers and students to a much wider range of video-based instructional content than classroom practice had previously incorporated. The quality of video use varies enormously: at its best, educational video provides access to demonstrations, phenomena, and visual explanations that classroom instruction cannot easily replicate — a chemistry experiment that requires equipment unavailable in school, a biological process too small or too slow to observe directly, a historical footage that makes the past immediate. At its weakest, classroom video use is a time-filling substitute for instruction rather than a meaningful instructional complement.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional education technology perspective on instructional video use identifies effective video pedagogy as a specific skillset that most teachers have not been systematically trained in, which explains why the increase in video availability has not produced proportionate improvements in learning outcomes at scale. The most critical dimension of effective instructional video use is integration: video that is positioned before instruction to activate prior knowledge and generate questions, or after instruction to consolidate understanding through different representational modalities, produces better outcomes than video used as a standalone content delivery vehicle. The common error is treating video as a replacement for teaching rather than as a resource that requires active pedagogical framing to maximise its value.
 
 ### 5. Do you think watching talk shows is a waste of time?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Characterising any form of media consumption as categorically a waste of time misapplies the concept: the value of any activity depends on what it provides relative to what else might be done with the time and what the person consuming it was seeking. Talk shows provide a specific value that other formats don't easily replicate: extended, unscripted conversation that allows the development of complex ideas in real time, with the friction and uncertainty that scripted formats eliminate — and this format at its best, in programs with substantive guests and thoughtful interviewers, is genuinely educational in a mode that is distinct from either reading or lecture. The weaker versions of the format — celebrity interview shows organised around promotion rather than substance, or political talk shows optimised for conflict rather than understanding — provide entertainment value rather than educational value, which may or may not represent waste depending on whether entertainment is what was sought.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional media critic position on talk shows as a format is that the variance within the genre is too large for categorical evaluation: the same structural format that produces shallow celebrity promotion also produces some of the most substantive long-form intellectual conversation available in audio-visual media. The podcast phenomenon — which is essentially talk show format liberated from broadcast scheduling and advertiser constraints — has produced a body of extended conversation content that represents a genuine expansion of the educational and intellectual value available from spoken audio-visual media. The most substantive podcast conversations with scientists, philosophers, historians, and practitioners in complex professional fields regularly exceed the depth available from any other popular media format — which makes the "talk shows are a waste of time" framing a category error rather than a sustainable critical position.
 
 ### 6. Do you think we can acquire knowledge from watching TV programs?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Television and streaming programs are significant vectors of knowledge transmission — the question is what kind of knowledge and under what conditions of viewing. Factual knowledge — information about the world, its history, its species, its geography, its cultural forms — is regularly and effectively transmitted through well-made documentary programming in ways that are accessible to audiences who would not seek the same information through reading. The more contested question is whether procedural and conceptual knowledge — how to reason, how to evaluate evidence, how to understand causal relationships — can be effectively transmitted through viewing, and the evidence here is more mixed: well-designed programs can scaffold this kind of knowledge, but passive viewing without engagement produces much thinner learning than active engagement with text.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional learning science perspective on television as a knowledge acquisition vehicle identifies the critical variable as cognitive engagement rather than medium. Passive viewing of even high-quality informational content produces shallow encoding with poor retention and limited transfer to novel contexts. Viewing that is accompanied by active processing — note-taking, pauses for reflection, discussion with others after viewing — produces substantially better knowledge outcomes from equivalent content. The implication for using television as a deliberate knowledge acquisition tool rather than as a passive entertainment medium is that the viewer's active engagement strategy matters more than the content quality — which is why the distinction between "watching to learn" and "watching for entertainment while incidentally learning" produces significantly different knowledge outcomes from identical viewing experiences.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **modality** (n) (/məʊˈdæl.ɪ.ti/): a particular method or form through which something is done | phương thức, hình thức
+- **affective** (adj) (/əˈfek.tɪv/): relating to emotions and feelings | thuộc cảm xúc, tình cảm
+- **encoding** (n) (/ɪnˈkəʊ.dɪŋ/): the process of converting information into memory | mã hoá vào trí nhớ
+- **soft power** (n phr): influence gained through culture and attraction rather than coercion | quyền lực mềm
+- **retention** (n) (/rɪˈten.ʃən/): the ability to remember information over time | khả năng giữ lại thông tin
+- **scaffold** (v) (/ˈskæf.əld/): to provide support structure for learning | cung cấp giàn giáo hỗ trợ trong học tập
+- **instructional** (adj) (/ɪnˈstrʌk.ʃən.əl/): designed to teach a skill or provide information | mang tính giảng dạy
+- **transfer** (n) (/ˈtræns.fɜː/): applying learned knowledge to new situations | chuyển giao kiến thức
+- **melodrama** (n) (/ˈmel.əˌdrɑː.mə/): a dramatic form with exaggerated emotion and plot | chính kịch cảm xúc mạnh
+- **fragmentation** (n) (/ˌfræɡ.menˈteɪ.ʃən/): the process of breaking into smaller, separate parts | sự phân mảnh
 
 ## Describe a quiet place you like to go
 
@@ -4498,77 +5126,96 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+There is a reading room on the fourth floor of the National Library on Tràng Thi street that I've been going to since my second year of university — not the main hall, which fills quickly and has the ambient noise of a lot of people trying to be quiet, but a smaller specialist room at the end of a corridor that most people don't find without being specifically directed there. I go roughly once a fortnight when I have something I need to read without interruption — a paper with dense argument, a long text that needs sustained attention, anything that my apartment and its reliable distractions won't accommodate. What I value about it is partly the quiet itself and partly the specific character of the quiet: it's a room where the purpose of being there is understood, where nobody makes unnecessary noise because the social contract of the space includes not making unnecessary noise, and where the collective concentration of the people in it creates a kind of shared atmosphere that I find easier to maintain my own concentration within than I do when reading alone. I've done better work there consistently than anywhere else.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The quiet place I return to most reliably is a particular bench in a small community park about ten minutes' walk from where I work, which I discovered by chance during a long phone call that required walking and found myself returning to deliberately afterwards. It's not an impressive space — a modest park with the usual complement of elderly residents doing morning exercises and occasional dogs — but at certain times of day, particularly mid-morning on weekdays after the exercise routines have finished, it achieves a quality of quietness that I find genuinely useful. I go there when I have a decision to think through rather than work to execute — the distinction matters, because thinking through a decision requires a different cognitive mode than executing work, and the open, slightly underdetermined setting of the park supports the former better than any office or desk space I've found. I probably go three or four times a month, and the visits are short — rarely more than thirty minutes — but reliable in their effect.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **ambient noise** (n phr): background sounds naturally present in an environment | tiếng ồn xung quanh
+- **social contract** (n phr): the unspoken rules and expectations shared by a group | khế ước xã hội ngầm
+- **sustained attention** (n phr): the ability to focus on something for an extended period | sự chú ý liên tục
+- **fortnight** (n) (/ˈfɔːt.naɪt/): a period of two weeks | hai tuần
+- **complement** (n) (/ˈkɒm.plɪ.mənt/): the full number or amount of something expected | bộ đầy đủ, thành phần kèm theo
+- **underdetermined** (adj): lacking rigid structure or fixed outcome | không quá cấu trúc hoá, để ngỏ
+- **deliberately** (adv) (/dɪˈlɪb.ər.ət.li/): intentionally and with purpose | có chủ đích, cố ý
+- **cognitive mode** (n phr): the particular style of thinking engaged at a given moment | chế độ tư duy
+- **specialist room** (n phr): a room designed for a specific purpose or subject area | phòng chuyên biệt
+<br>
+- **community park** (n phr): a public green space maintained for local residents | công viên cộng đồng
 
 ### 1. Is it easy to find quiet places in your country? Why?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Quiet places in Vietnamese cities are not easy to find, and their scarcity is increasing as urbanisation accelerates and the density of both people and motorised traffic in urban areas continues to rise. The specific character of urban noise in Vietnamese cities — dominated by motorbike engines, construction, and the acoustic character of street-level commerce — is different in kind from the noise of many other urban environments and more pervasive: it penetrates residential buildings at levels that make quiet reading or concentrated work difficult even indoors without deliberate acoustic mitigation. The exceptions that do exist — certain library spaces, a few well-managed parks during off-peak hours, some temple grounds — are relatively rare and often require specific knowledge of where and when they can be accessed at their best.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional urban planning perspective on quiet as an urban amenity is that it is systematically undervalued in planning frameworks relative to its actual contribution to quality of life and public health outcomes. Traffic noise — the dominant component of urban noise in Vietnamese cities — is associated in the epidemiological literature with sleep disruption, elevated cortisol levels, cardiovascular risk, and reduced cognitive performance at levels that make it a significant but underacknowledged public health problem. The planning tools for reducing urban noise are well understood — traffic management, vehicle standards, sound barriers, urban green buffer zones, acoustic building standards — but their implementation requires treating quiet as a public good worth investing in rather than a private matter to be managed by individual households through double-glazing and air conditioning.
 
 ### 2. How do people spend their leisure time in your country?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Vietnamese leisure patterns have diversified significantly over the past fifteen years, with the most significant structural change being the shift from collective and outdoor leisure toward individualised digital and indoor leisure — a shift driven primarily by the smartphone's penetration of every demographic segment and the resulting availability of effectively unlimited entertainment content accessible without leaving the home. The most time-consuming leisure activities by measured hours are now social media consumption, gaming, and streaming video — all screen-based, all individual or small-group rather than collective, and all relatively recent additions to the leisure landscape. Traditional collective leisure — time spent in extended family contexts, neighbourhood social spaces, and outdoor communal activities — has declined in time share without disappearing, and remains more robust in older and rural demographics than in young urban populations.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional sociology of leisure in Vietnam identifies a bifurcation between leisure as consumption — spending money on restaurants, entertainment venues, shopping, and experiences — and leisure as time — unstructured time spent without commercial purpose. Rising urban incomes have increased leisure as consumption substantially, which is visible in the growth of the food and beverage sector, entertainment venues, and the experience economy more broadly. More ambiguous is what has happened to leisure as time: working hours in Vietnamese urban professional culture are long by international comparison, and the smartphone has effectively colonised much of the previously unscheduled time that existed in commuting, waiting, and transiting — which means that the amount of genuinely unstructured, low-stimulation leisure time available to most urban professionals is smaller than it was before the smartphone era despite rising average incomes.
 
 ### 3. How does technology affect the way people spend their leisure time?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Technology's effect on leisure time is the most consequential and least adequately understood transformation of daily life in the smartphone era — consequential because leisure time is when the psychological maintenance and restoration that demanding modern life requires is supposed to happen, and the quality of that restoration depends heavily on what fills it. The primary effect of smartphone technology on leisure has been substitution: activities that previously filled leisure time — reading, socialised conversation, outdoor activity, genuine idleness — have been partly displaced by screen-based activity whose design is explicitly optimised to maximise time-on-platform rather than to maximise the user's wellbeing. The evidence that this substitution has had measurable negative effects on mental health outcomes — particularly for adolescents and young adults, but also for adults — is accumulating in ways that are becoming difficult for the research community to dismiss.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional analysis of technology's effect on leisure identifies the key variable as the degree to which technology functions as a tool chosen by the user versus an environment the user is captured within. Technology used as a deliberate tool to enable leisure activities the user has chosen — navigation for a hiking trip, a recipe app for cooking a complex dish, a language learning app pursued as a hobby — contributes positively to leisure quality without reducing agency. Technology that functions as an attentional environment — where algorithmic feeds continuously present the next piece of content before the user has made an active choice to seek it — reduces leisure quality by substituting the platform's agenda for the user's, which produces the characteristic simultaneous feelings of time-wasting and compulsion that most smartphone users recognise but find difficult to interrupt.
 
 ### 4. Do you think only old people have time for leisure?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The perception that leisure is primarily available to older or retired people reflects a confusion between leisure time — unscheduled time available for discretionary use — and leisure quality — the degree to which available time is actually experienced as restorative and freely chosen. Younger people often have more unscheduled time in certain life stages — the relatively unstructured evenings of student life, for instance — but experience it as lower quality leisure because it is accompanied by higher background anxiety about the future, social comparison pressure, and the expectation that it should be "productive." Older people often have less raw leisure time but higher leisure quality — partly because they have developed better capacities to resist the colonisation of unscheduled time by work and screen-based attention capture, and partly because they experience genuinely free time as more clearly legitimate.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional work-leisure balance research identifies a more complex relationship between age and leisure quality than the simple "retired people have more leisure" narrative suggests. The data on subjective experience of leisure consistently shows that working-age adults report lower leisure satisfaction relative to time spent on leisure than either younger or older cohorts — a finding that reflects not primarily time availability but the contamination of leisure time by work-related preoccupation, the difficulty of psychological detachment from work during non-working hours, and the residual guilt about leisure that professional cultures that valorise busyness systematically produce. Addressing leisure quality for working-age adults is therefore less a time management problem than a psychological and cultural one: the obstacle is not lack of time but the inability to fully inhabit the time that is available.
 
 ### 5. Why do old people prefer to live in quiet places?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Older people's preference for quieter residential environments reflects a combination of neurological, social, and life-stage factors that are more complex than simple noise sensitivity. The neurological dimension: auditory processing changes with age in ways that make background noise more cognitively costly — older adults have more difficulty separating signal from noise in complex auditory environments, which makes high-noise settings more effortful and less comfortable regardless of attitudes toward noise in the abstract. The social dimension: older people's social networks and daily activities typically require less proximity to the dense urban infrastructure — employment centres, entertainment venues, late-night social contexts — that high-noise urban environments provide access to, which means the trade-off between noise and proximity to urban amenity calculates differently for them than for younger people whose lives are more centred on those amenities.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional gerontological understanding of residential preference in older age identifies quiet as one element of a larger syndrome of preferences for environments that are manageable, high on autonomy, and low on the demands for rapid adaptation that high-stimulation urban environments make. Sensory overwhelm — the difficulty of managing complex, high-stimulus environments — increases with age for both neurological and energetic reasons, and the preference for quieter environments is partly a preference for environments where the cost of navigation and daily functioning is lower and where the surplus energy available for chosen activities rather than environmental management is higher. The policy implication is that supporting older people's preference for quieter environments — through both urban design and housing policy — is an investment in the active, autonomous ageing that produces better health outcomes and lower long-term care costs.
 
 ### 6. Why are there more noises made at home now than in the past?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Domestic noise levels have increased substantially over the past generation, driven by the proliferation of devices — televisions, computers, smartphones, smart speakers, gaming equipment — that continuously generate audio output, and by the erosion of the social conventions that previously maintained domestic quiet as a norm rather than an absence. The most significant single driver is probably the smartphone: its combination of constant notification sounds, social media audio, and video content has introduced a continuous low-level audio environment into domestic spaces that previous generations did not experience. A secondary driver is the architectural changes in urban housing — open-plan designs that lack the acoustic separation of traditionally divided domestic space — which means that household members' activities are more acoustically present to each other than they were in homes with more compartmentalised layouts.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional acoustic environment analysis of contemporary homes identifies the shift from analogue to digital household technology as the primary structural driver of increased domestic noise. Analogue household technology — refrigerators, clocks, heating systems — produced a relatively constant, predictable acoustic background that residents habituated to rapidly. Digital household technology — with its notification sounds, voice responses, ringtones, streaming audio, and gaming content — produces intermittent, unpredictable audio events that interrupt habituation and maintain attentional alertness in ways that sustained background noise does not. The cognitive cost of this intermittent digital noise is larger than its absolute volume would suggest: the attentional interruption of a notification sound is disproportionate to its acoustic level, which means that domestic environments are more cognitively demanding for their inhabitants than simple noise measurement would indicate.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **acoustic separation** (n phr): physical barriers that reduce sound transmission between spaces | cách âm, ngăn âm thanh
+- **habituation** (n) (/həˌbɪtʃ.uˈeɪ.ʃən/): the process of becoming accustomed to a stimulus so it is less noticed | sự quen dần với kích thích
+- **gerontological** (adj) (/ˌdʒer.ɒn.təˈlɒdʒ.ɪ.kəl/): relating to the study of ageing | thuộc khoa học về lão hoá
+- **sensory overwhelm** (n phr): a state in which too much sensory input causes distress or confusion | quá tải cảm giác
+- **psychological detachment** (n phr): the ability to mentally disconnect from work during off-hours | sự tách rời tâm lý khỏi công việc
+- **attentional capture** (n phr): when something involuntarily draws and holds your attention | sự thu hút chú ý không chủ ý
+- **valorise** (v) (/ˈvæl.ə.raɪz/): to assign or increase value to something, especially culturally | coi trọng, nâng giá trị
+- **acoustic mitigation** (n phr): measures taken to reduce noise levels or impact | biện pháp giảm thiểu âm thanh
+- **intermittent** (adj) (/ˌɪn.tɜːˈmɪt.ənt/): stopping and starting at irregular intervals | không liên tục, gián đoạn
+- **open-plan** (adj): (of a space) without internal walls or partitions | mặt bằng mở, không vách ngăn
 
 ## Describe a good habit your friend has and you want to develop
 
@@ -4582,77 +5229,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The habit I've noticed most in a close friend of mine — someone I've known since high school and who is now studying engineering — is her practice of writing down a short note to herself at the end of each day: not a diary exactly, more a brief record of one specific thing she'd learned or noticed that she hadn't known or seen before. I observed it properly for the first time during a trip we took together in our first year of university, when she pulled out a small notebook before sleeping and wrote for about three or four minutes while I was scrolling through my phone, and when I asked what she was doing she explained it so matter-of-factly — as if everyone did it — that I felt a mild embarrassment that I'd never thought to do it myself. What I want to develop isn't the mechanical habit itself — the writing, the notebook — but the underlying disposition it represents: the practice of active attention, of going through a day with the intention of noticing things rather than merely experiencing them as they pass. She has accumulated, over about three years, something like four thousand small observations about the world, and I'm consistently struck by how much more calibrated her understanding of things across different domains is than mine, and how directly that seems to trace back to the habit.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The habit a colleague of mine has that I most want to develop is what he calls "cooling time" — a practice of not acting on emails, messages, or decisions that carry emotional weight for at least twenty-four hours after first encountering them. He described it to me about two years ago over coffee when I was venting about an email exchange that had escalated more than I intended, and his response — calm, specific, slightly amused — was that the first draft of any emotionally significant communication should be treated as a working document rather than a final one, and that the gap between drafting and sending was where most of one's worst professional decisions could be intercepted. I noticed subsequently that his professional communications have a notably different register from most people's — more measured, more precise, consistently less reactive — and I have attributed this difference, correctly I think, to the cooling time practice. I've tried to implement it myself with mixed results: the problem is that the impulse to respond immediately is strongest precisely when the response most needs to wait.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **disposition** (n) (/ˌdɪs.pəˈzɪʃ.ən/): a habitual tendency or inclination | xu hướng, khuynh hướng tự nhiên
+- **calibrated** (adj) (/ˈkæl.ɪ.breɪ.tɪd/): carefully adjusted to be accurate | được hiệu chỉnh chính xác
+- **register** (n) (/ˈredʒ.ɪ.stər/): the level and style of language appropriate to a context | văn phong, cách hành văn
+- **intercept** (v) (/ˌɪn.təˈsept/): to stop or catch something before it reaches its destination | chặn lại
+- **reactive** (adj) (/riˈæk.tɪv/): responding immediately and emotionally without deliberation | phản ứng theo bản năng, thiếu cân nhắc
+- **escalate** (v) (/ˈes.kə.leɪt/): to become more serious or intense | leo thang, trở nên căng thẳng hơn
+- **matter-of-factly** (adv): in a calm and practical way, without emotion | một cách thực tế, điềm nhiên
+- **underlying** (adj) (/ˌʌn.dəˈlaɪ.ɪŋ/): forming the basis or foundation | cơ bản, tiềm ẩn bên dưới
+- **cooling time** (n phr): a period of delay before acting on an emotional impulse | thời gian để nguội (hạ nhiệt cảm xúc)
+- **accumulate** (v) (/əˈkjuː.mjʊ.leɪt/): to gather or collect something over time | tích luỹ
 
 ### 1. What habits should children have?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The habits most worth cultivating in children are those whose value compounds over time — habits whose effects are not simply additive but multiplicative, where consistent practice over years produces returns that dwarf what their immediate value suggests. Reading is the most widely cited example: the child who reads consistently for thirty minutes a day across ten years has accumulated not just the information encountered in those readings but the expanded vocabulary, improved syntactic flexibility, and enhanced comprehension capacity that the reading itself generates — capacities that benefit performance across academic domains far wider than literacy alone. Physical activity habits are in a similar category: the child who establishes consistent physical activity habits early is significantly more likely to maintain them into adulthood, with the long-run health benefits of that persistence far exceeding the immediate benefit of any single exercise session.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional child development research perspective on habits identifies the metacognitive habits — habits about thinking rather than habits of behaviour — as the most valuable long-term investment. Specifically, the habit of checking one's own understanding: of asking oneself whether one has actually understood something or merely feels that one has, and of being willing to invest additional effort when the honest answer is the latter. This metacognitive checking habit is one of the strongest predictors of academic performance across subjects and stages, is relatively underemphasised in education systems that focus on content delivery rather than learning quality, and is most effectively developed in early childhood when the habit loop is most easily established. The parallel professional habit — checking one's reasoning rather than just one's conclusions — is the adult analogue and produces similar compounding benefits across careers.
 
 ### 2. What should parents do to teach their children good habits?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Parents' most effective tool for transmitting habits to children is modelling rather than instruction — the demonstration of the habits they want children to develop rather than the articulation of why children should develop them. This is not merely a pedagogical opinion but a well-supported finding in habit formation research: children acquire the majority of their habitual behaviours through observation and imitation of people they identify with and admire, and the instruction dimension of parenting — the explicit telling of what to do — is significantly less predictive of children's actual habits than the modelling dimension. The practical implication is counterintuitive for parents who invest heavily in advice-giving: the most important thing a parent who wants a child to read consistently can do is read consistently themselves, visibly and without making it pedagogically pointed.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional parenting research on habit formation identifies environmental design as the most practically powerful tool available to parents — more powerful, on average, than verbal instruction or motivational appeals. The habit loop — cue, routine, reward — is most easily established when the environment makes the desired behaviour the path of least resistance: placing books in visible, accessible locations rather than on shelves in designated reading areas; making healthy food the easy default rather than the deliberate choice; structuring routines so that the desired habit occurs at a consistent time and in a consistent context, reducing the cognitive effort of initiation. Parents who design the environment for the behaviour they want typically produce more reliable habit formation than parents who rely primarily on instruction and enforcement.
 
 ### 3. What influences do children with bad habits have on other children?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The influence of children with problematic habits on their peers operates through a combination of social learning and norm formation mechanisms — children observe what the peers they interact with do, update their sense of what is normal based on those observations, and adjust their own behaviour accordingly. The social learning mechanism is well-established: children who regularly observe peers engaging in disruptive, avoidant, or risky behaviour are more likely to engage in it themselves, not because of peer pressure in the conventional sense but because the peer's behaviour updates the child's model of what is acceptable and available as a behavioural option. The norm formation dimension operates at a group level: in classrooms where disruptive behaviour is common, the individual cost of maintaining norms like attention, effort, and cooperation rises because the implicit social contract that makes those norms easy to maintain has been weakened.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional educational psychology perspective on peer habit influence identifies the mechanism as primarily normative rather than imitative — what changes is not the individual child's direct behaviour in response to observed peers but the child's perception of what is typical and acceptable in the relevant social group. This normative mechanism is why classroom composition effects — the documented influence of classmates' behaviour on individual children's academic and behavioural outcomes — are largest not in the domain of explicit imitation but in the domain of effort and aspiration: children who perceive that their peers invest effort and value academic achievement invest more effort themselves, while children who perceive that effort is unusual or stigmatised in their peer group invest less — independent of their own private values. The implication is that habits are socially regulated as much as individually chosen.
 
 ### 4. Why do some habits change when people get older?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Habit change with age reflects three distinct mechanisms that operate simultaneously: the shift in situational cues that trigger habitual behaviour, the evolution of intrinsic motivation as values and priorities change, and the physiological changes in reward sensitivity and impulse control that accompany ageing. The situational cue mechanism is the most immediately observable: habits that were triggered by the specific contexts of school, student social life, or early professional life — the gym visit on the way home from university, the social drink after lectures — tend to weaken or disappear when those contexts change, because the environmental cues that maintained them are no longer consistently present. The motivational shift mechanism is more gradual: the social and hedonic motivations that drive many young adult habits — novelty-seeking, social conformity, status signalling — typically weaken relative to health, stability, and quality-of-relationship motivations as people age.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional habit science perspective on age-related habit change identifies the transition from external to internal regulation as the most significant mechanism. Young people's habits are disproportionately sustained by external cues, social norms, and environmental structures — school schedules, peer group activities, family routines — and tend to be fragile when those external structures change. Older adults' more stable habits are more frequently driven by internalised values and identity — "I'm someone who exercises regularly," "I'm someone who reads before bed" — which are more resistant to environmental change because they are self-generated rather than externally sustained. The therapeutic implication of this pattern is that habit formation interventions that successfully build identity-level integration — where the habit becomes part of who the person is rather than merely something they do — produce substantially more durable behaviour change than interventions that rely on external cues, rewards, or accountability structures alone.
 
 ### 5. How do we develop bad habits?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Bad habits develop through the same mechanisms as good ones — the habit loop of cue, routine, and reward — with the difference that the reward they deliver is immediate and certain while their costs are delayed and diffuse. This asymmetry is the fundamental structural reason why bad habits form so readily: the brain's reward circuitry is calibrated to respond to near-term, certain rewards rather than long-term, probabilistic ones, which means that behaviours delivering immediate pleasure, relief, or stimulation — regardless of their longer-term consequences — are powerfully reinforced by each repetition. The social dimension of bad habit formation is equally important: many problematic habits develop in social contexts where they function as bonding behaviours, markers of group membership, or appropriate responses to a dominant social norm — and in these cases, the habit's social reinforcement is often more powerful than its individual reward.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional behavioural science analysis of bad habit formation identifies stress and depletion as the conditions under which most problematic habits are initiated. When cognitive and emotional resources are depleted — by work pressure, relationship problems, sleep deprivation, or sustained uncertainty — the brain defaults toward behaviours that deliver reliable immediate reward, because the executive function capacity required to delay gratification is among the first cognitive capacities to deteriorate under resource depletion. This is why most people's bad habits are strongest under stress and weakest when they are rested and resourced — and why the habit formation interventions that rely on willpower and deliberate choice are least effective precisely when they are most needed. The structural implication is that managing the conditions of depletion — sleep, stress levels, workload — is more effective prevention of bad habit formation than instruction about the habits themselves.
 
 ### 6. What can we do to get rid of bad habits?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The most effective approaches to bad habit elimination focus on disrupting the habit loop at its cue stage rather than at the routine stage — changing the environment to remove or modify the cues that trigger the habitual behaviour rather than relying on willpower to resist the routine once it has been triggered. This cue-disruption approach is more reliable than resistance because it reduces the frequency with which the habit is activated rather than requiring sustained successful resistance to each activation — and because, unlike willpower-based resistance, it requires no cognitive or emotional effort at the moment of potential enactment. Complementary to cue disruption is replacement: identifying an alternative behaviour that delivers a similar reward to the bad habit and establishing it as the default response to the same cue, so that the habit loop is redirected rather than simply broken.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional habit change research consistently identifies implementation intentions — specific, detailed plans specifying when, where, and how the desired behaviour change will be enacted — as the most effective single addition to any habit change programme. The specificity requirement is critical: "I will exercise more" has negligible effect on behaviour; "I will go for a thirty-minute walk when I leave the office on Monday, Wednesday, and Friday, changing my route home to pass through the park" has substantially more, because it pre-determines the decision rather than leaving it to be made under the cognitive conditions that prevailed when the old habit was being maintained. The professional implication is that the most valuable support a coach, therapist, or accountability partner can provide is not motivation or instruction but the structured development of genuine implementation intentions that are specific enough to actually govern behaviour at the moment of choice.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **habit loop** (n phr): the cycle of cue, routine, and reward that underlies habitual behaviour | vòng lặp thói quen
+- **implementation intention** (n phr): a detailed plan specifying when and how a behaviour will be performed | kế hoạch thực hiện cụ thể
+- **cue disruption** (n phr): removing or modifying environmental triggers for a habitual behaviour | phá vỡ kích thích gây ra thói quen
+- **depletion** (n) (/dɪˈpliː.ʃən/): the reduction of a resource to below its normal level | sự cạn kiệt (nguồn lực)
+- **executive function** (n phr): cognitive processes that enable planning, decision-making, and self-control | chức năng điều hành (nhận thức)
+- **internalised** (adj) (/ɪnˈtɜː.nə.laɪzd/): absorbed as part of one's own values or identity | được nội tâm hoá
+- **hedonic** (adj) (/hɪˈdɒn.ɪk/): relating to pleasure as the primary motivator | thuộc về khoái cảm
+- **multiplicative** (adj) (/ˈmʌl.tɪ.plɪ.kə.tɪv/): producing effects that multiply rather than simply add together | nhân lên, mang tính bội số
+- **metacognitive** (adj) (/ˌmet.əˈkɒɡ.nɪ.tɪv/): relating to awareness and understanding of one's own thought processes | siêu nhận thức
+- **modelling** (n) (/ˈmɒd.əl.ɪŋ/): demonstrating behaviour for others to observe and imitate | làm gương, mô phỏng hành vi
 
 ## Describe a time when you waited for something special that would happen
 
@@ -4666,77 +5331,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+About two years ago I spent about four days at a small guesthouse in Đà Lạt waiting for the result of a university scholarship application that I'd submitted in February — the kind of waiting that is specific to outcome stakes large enough to make the interim period feel meaningfully suspended rather than simply passing. I had gone to Đà Lạt because I needed to be somewhere other than Hà Nội, where being in familiar surroundings while the result was pending seemed likely to produce a particular quality of unproductive anxiety that going somewhere else might interrupt. The waiting itself was not simply time passing: it had a specific texture — alternating between periods of genuine calm when I managed to engage properly with where I was and periods of recursive mental rehearsal of both possible outcomes — the kind of not-thinking-about-it that is also a form of thinking about it. When the result came through on the fourth day — the scholarship was awarded — the most immediate emotion was not joy but relief, and then a slightly undignified amount of crying in a café on Hồ Xuân Hương, followed by calling my parents.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The waiting experience I remember most precisely is the eighteen months between signing a contract for a project that required significant personal financial commitment and the completion date — a period during which I had enough information to understand what could go wrong and not enough certainty about whether it would to resolve the anxiety that awareness produced. Professional waiting at that level is different from event-based waiting: there is no specific moment of resolution anticipated, just an extended period of managed uncertainty in which professional responsibilities must be fulfilled regardless of what the private anxiety registers about them. What I learned about myself in that period — which was more useful than the outcome, which was satisfactory — was that my anxiety under sustained uncertainty is primarily cognitive rather than emotional: it manifests as inability to focus rather than as distress, which was information about how to manage similar periods in future and which led me to develop some specific practices about where and how I work during periods of high-stakes uncertainty.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **interim** (adj/n) (/ˈɪn.tər.ɪm/): the time between two events | khoảng thời gian chờ đợi giữa hai sự kiện
+- **recursive** (adj) (/rɪˈkɜː.sɪv/): returning to itself repeatedly | lặp đi lặp lại chính nó
+- **pending** (adj) (/ˈpen.dɪŋ/): awaiting delivery or resolution | đang chờ, chưa được giải quyết
+- **sustained uncertainty** (n phr): a prolonged state of not knowing an important outcome | sự không chắc chắn kéo dài
+- **stakes** (n pl) (/steɪks/): the level of risk or importance attached to an outcome | độ rủi ro, mức độ quan trọng
+- **resolution** (n) (/ˌrez.əˈluː.ʃən/): the act of solving a problem or reaching a decision | sự giải quyết, kết thúc
+- **manifests** (v) (/ˈmæn.ɪ.fests/): shows or makes itself apparent | biểu hiện ra
+- **cognitive** (adj) (/ˈkɒɡ.nɪ.tɪv/): related to mental processes such as thought and reasoning | thuộc nhận thức
+- **rehearsal** (n) (/rɪˈhɜː.səl/): the act of mentally practising or going over something in advance | diễn tập trong tâm trí
+- **satisfactory** (adj) (/ˌsæt.ɪsˈfæk.tər.i/): meeting expectations; adequate | thoả đáng, đáp ứng được kỳ vọng
 
 ### 1. On what occasions do people usually need to wait?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Waiting is distributed across a spectrum from the trivially inconvenient to the genuinely significant, and the occasions that require it fall into structurally distinct categories whose different psychological profiles make their subjective experience quite different from one another. The most frequent category is logistical waiting: queues, traffic, appointment delays, service waits — brief periods of enforced inactivity that represent an aggregate time cost in modern urban life that is large and consistently underestimated. The most psychologically significant category is outcome waiting — the period between submitting a job application and receiving a decision, between completing medical tests and receiving results, between finalising an investment and discovering its return — where the waiting involves genuine uncertainty about matters of importance, and where the psychological management of the interim is a substantive life task rather than a minor inconvenience.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional categorisation of waiting occasions distinguishes between process waits — where the wait is a structural feature of a system that could in principle be designed differently — and outcome waits — where the wait is inherent to the nature of what is being awaited and cannot be eliminated by system design. Process waits in professional life are increasingly the target of operational improvement: queue management, appointment scheduling, service design, and digital service delivery have all reduced process wait times substantially in most developed service contexts. Outcome waits remain irreducible: the time required for a business decision to prove itself, a medical treatment to demonstrate efficacy, or a relationship to reveal its character cannot be compressed below its natural development time without reducing the quality of the information that the wait was generating.
 
 ### 2. Who behave better when waiting, children or adults?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Adults generally manage waiting better than children in observable behavioural terms — the likelihood of visible distress, disruptive behaviour, or vocal complaint in a queue is significantly higher for children than for adults — but the behavioural difference reflects capacity rather than preference: adults don't want to wait any more than children do, they are simply more capable of managing the frustration that waiting generates without externalising it in socially disruptive ways. The developmental explanation is straightforward: the executive function capacity for delay of gratification — the neurological machinery that allows a person to tolerate present deprivation for future reward — matures through adolescence and into early adulthood, which means that younger children are not choosing to behave badly while waiting but are genuinely less capable of managing waiting's frustration than adults are. The qualification is that adults are often worse at managing waiting than their surface behaviour suggests: adults who appear calm while waiting may be experiencing significant internal frustration, metabolising cortisol in ways that affect mood and performance for hours afterwards.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional developmental psychology perspective identifies delay of gratification as a capacity that develops progressively through childhood and adolescence rather than appearing in binary form at a particular age. The famous Marshmallow Test research — subsequently complicated by replication and contextual analysis — demonstrates that even young children show significant individual variation in delay capacity, and that the conditions of waiting (trust in the promise of future reward, availability of distraction strategies, quality of attention regulation) substantially predict performance independently of age. The practical implication for designing waiting experiences is that the conditions that make waiting tolerable for children — clear explanation of how long the wait will be, engaging distraction, genuine trust that the wait will end as promised — are also the conditions that make waiting most tolerable for adults, which is why the most effectively designed queueing systems consider them regardless of the demographic composition of the queue.
 
 ### 3. Compared to the past, are people less patient now? Why?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The perception that contemporary people are less patient than previous generations is widely shared but difficult to establish rigorously, partly because patience was not systematically measured in earlier periods and partly because any comparison needs to disentangle genuine capacity change from changes in the situations that require patience. What can be said with reasonable confidence is that the digital environment has calibrated people's expectations about response times in ways that make waits that were unremarkable a generation ago — a week for a letter, a day for a telephone callback — feel unnatural now. Whether this recalibration of expectations represents a genuine reduction in patience capacity or simply an adjustment of reference norms — patience applied to different timescales — is a more genuinely difficult question that the available evidence doesn't straightforwardly answer.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional behavioural science analysis of patience changes identifies the smartphone and digital communication environment as having restructured the reward landscape in ways that may genuinely have affected patience capacity rather than merely recalibrated reference norms. Specifically: the habit of immediate gratification — the trained expectation that any information need, communication desire, or entertainment want can be satisfied within seconds — may have eroded the brain's practiced tolerance for delay in ways that affect patience across domains including those where digital acceleration is irrelevant. Whether this represents genuine neurological change or merely behavioural adaptation that would reverse with sustained environmental change is unknown, but the pattern of correlation between smartphone adoption and reduced measured tolerance for delay in experimental settings is strong enough to take the possibility seriously.
 
 ### 4. What are the positive and negative effects of waiting on society?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Waiting has both underappreciated positive dimensions and well-documented negative ones, and the social value of understanding them accurately is significant precisely because contemporary service design is almost universally oriented toward eliminating waiting, with the assumption that its elimination is exclusively beneficial. The positive dimension: waiting periods that are genuinely inherent to the nature of what is being waited for — the time required for a good decision to be made carefully, for a relationship to develop its true character — are epistemic assets, generating information that faster resolution would eliminate. The social practice of waiting also maintains norms of fairness in resource allocation: the queue is one of the few social mechanisms that distributes access to limited resources on a roughly equal basis independent of social status or financial capacity, which gives it a social equity function that purely efficiency-oriented service design can inadvertently eliminate.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional service design perspective on waiting's effects distinguishes between the objective duration of waits and their subjective experience — a distinction that matters because it reveals that many of waiting's negative effects are design-dependent rather than inherent to the wait itself. Research on queue psychology consistently shows that uncertain, unoccupied, and unexplained waits are experienced as significantly longer and more distressing than waits of equivalent duration that are bounded (with clear communication about length), occupied (with something appropriate to do), and explained (with information about why). The implication is that much of the negative social effect of waiting is a failure of design rather than of patience — and that the effort invested in redesigning waits to be better-experienced would produce larger wellbeing gains than the effort invested in simply reducing wait times.
 
 ### 5. Why are some people unwilling to wait?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Unwillingness to wait reflects a complex of factors that include genuine time scarcity, learned expectations, personality variation in delay tolerance, and the specific emotional quality of the wait — and which factor is dominant varies significantly by individual and situation. The time scarcity dimension is real and often understated: people with genuinely constrained time budgets — working parents, people holding multiple jobs, those managing complex care responsibilities — experience waiting differently from people with more slack in their schedules, because for them a queue is not merely inconvenient but represents a direct cost imposed on other time-sensitive obligations. The expectation dimension is also real: people who have been consistently able to access services without significant waits develop a reference norm against which any wait registers as a deviation, which makes the same wait experienced by someone with a higher reference norm of waiting seem disproportionately frustrating.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional analysis of wait refusal — the decision to abandon a service rather than wait for it — identifies perceived value of time as the primary economic variable: people who place higher monetary or opportunity cost value on their time will rationally abandon waits at shorter durations than people who place lower value on their time. This is why wait refusal is concentrated among higher-income consumers and why premium pricing for queue-skipping — priority boarding, fast-pass queuing, expedited services — is a viable commercial strategy in markets where consumer incomes are distributed unevenly: the willingness-to-pay for time savings is directly correlated with the economic value of the time saved. The social equity dimension of this pattern — that the economically advantaged disproportionately transcend waiting while the economically disadvantaged wait — is a genuine fairness concern in service contexts that are nominally available to all on equal terms.
 
 ### 6. Where do children learn to be patient, at home or at school?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Both home and school contribute to the development of patience in children, but through distinct mechanisms and at different developmental stages — and the question of which contributes more is less important than understanding what each contributes specifically. Home is the primary site for the early development of delay of gratification: the attachment relationship and its characteristic experience of having needs met after a brief wait — the parent who takes a moment to respond, the meal that requires preparation — provides the foundational experience that waiting is both tolerable and reliably rewarded that underlies later patience capacity. School extends this foundation into social contexts: the classroom requires waiting for one's turn, waiting for instruction to complete before acting, waiting for the group to be ready before proceeding — all of which rehearse patience in social rather than purely attachment contexts.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional developmental perspective on where patience is learned emphasises that the quality of waiting experiences matters more than the location. Children who experience waits that reliably resolve — where the promised reward actually materialises, where the explained wait actually ends when predicted — develop both patience capacity and the trust in delayed gratification that sustains it under pressure. Children who experience waits that are unreliable — where promised outcomes don't materialise, where the length of waits is consistently misrepresented — develop rational scepticism about delayed gratification rather than patience: the "impatience" that results from this experience is not a character failing but a rational response to evidence about the reliability of delayed reward. This finding has implications for both parenting practice and school design: the most important ingredient in patience development is not practice at waiting per se but practice at waiting in environments where the reliability of the wait's resolution is consistently demonstrated.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **delay of gratification** (n phr): the ability to resist immediate reward for a later, larger one | trì hoãn thoả mãn
+- **queue psychology** (n phr): the study of how people experience and behave in waiting lines | tâm lý học hàng đợi
+- **reference norm** (n phr): the standard against which a current experience is compared | chuẩn mực tham chiếu
+- **willingness-to-pay** (n phr): the maximum amount a consumer is willing to spend for something | mức sẵn sàng trả tiền
+- **epistemic** (adj) (/ˌep.ɪˈstiː.mɪk/): relating to knowledge and how it is formed | thuộc nhận thức, liên quan đến tri thức
+- **Marshmallow Test** (n phr): a classic experiment measuring delay of gratification in children | thí nghiệm kẹo marshmallow
+- **fairness** (n) (/ˈfeə.nɪs/): the quality of treating people equally | sự công bằng
+- **scepticism** (n) (/ˈskep.tɪ.sɪ.z(ə)m/): doubt about a claim or idea | sự hoài nghi
+- **attachment relationship** (n phr): the emotional bond between a child and their primary caregiver | mối quan hệ gắn bó (giữa trẻ và người chăm sóc)
+- **opportunity cost** (n phr): the value of the next best alternative forgone | chi phí cơ hội
 
 ## Describe a time you saw something interesting on social media
 
@@ -4750,77 +5433,98 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+About eight months ago I came across a short video thread on Twitter — now X — where a materials scientist was explaining, in a series of about twelve posts, why cement is structurally unstable as a long-term building material and what the architectural implications of that instability are at the timescale of centuries. What made it genuinely compelling wasn't the information itself — which I had no prior knowledge of and found surprising — but the quality of the explanation: the scientist had clearly thought carefully about how to communicate a technical argument to a non-specialist audience, had made specific choices about what to simplify and what to preserve at full complexity, and had written with a directness that carried genuine intelligence rather than the performed accessibility of most science communication. I shared it immediately with three people — which is unusual for me — and two of them sent me something in return within the hour. What I remember about the experience is the specific pleasure of encountering someone thinking clearly about something in public, which social media relatively rarely produces and which is immediately recognisable when it does.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The most professionally consequential thing I've encountered on social media was a LinkedIn post by an urban planner in Copenhagen, shared about eighteen months ago, describing a small natural experiment that their city had inadvertently run: a parking lane that was temporarily removed for construction ended up, three years later, permanently converted to a cycle lane because the traffic impact of removing the parking — which had been predicted to be significant — turned out to be negligible. The post was interesting as a case study in induced demand, which I'd read about in the abstract but had never seen described with this quality of specificity — the planner had the before-and-after numbers, the community reaction timeline, and the political decision process detailed clearly enough that it read as genuine evidence rather than advocacy. I used it in a presentation about urban mobility patterns six weeks later, which is probably the most directly useful thing social media has generated for my professional work in recent memory.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **induced demand** (n phr): the phenomenon where increased supply of a resource creates more demand for it | cầu cảm ứng (cung tạo ra cầu)
+- **negligible** (adj) (/ˈneɡ.lɪ.dʒɪ.bəl/): so small as to be not worth considering | không đáng kể
+- **compelling** (adj) (/kəmˈpel.ɪŋ/): powerfully attracting attention and interest | hấp dẫn, cuốn hút
+- **thread** (n) (/θred/): a series of connected social media posts on a single topic | chuỗi bài đăng liên tiếp
+- **case study** (n phr): a detailed study of a specific real-world example | nghiên cứu điển hình
+- **advocacy** (n) (/ˈæd.və.kə.si/): public support for a particular cause or policy | vận động, bảo hộ
+- **non-specialist** (adj): not requiring expert knowledge; accessible to the general public | không chuyên biệt, dành cho đại chúng
+- **consecutive** (adj) (/kənˈsek.jʊ.tɪv/): following one after another without interruption | liên tiếp
+- **directness** (n) (/daɪˈrekt.nəs/): expressing ideas clearly and without unnecessary elaboration | sự thẳng thắn, rõ ràng
+- **specificity** (n) (/ˌspes.ɪˈfɪs.ɪ.ti/): the quality of being precise and detailed | tính cụ thể, chi tiết
 
 ### 1. Why do people like to use social media?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Social media's appeal operates through a set of psychological mechanisms that its designers understand well and have optimised for — which is a significant part of why engagement with these platforms is so persistent and difficult to moderate voluntarily. The most fundamental mechanism is social validation: the visibility of others' responses to one's own posts — likes, comments, shares — delivers a specific form of social feedback that activates the brain's reward circuitry in ways that are structurally similar to other variable-ratio reinforcement schedules known to produce strong and perseverant engagement. The secondary mechanism is social surveillance — the low-cost, low-risk capacity to maintain awareness of other people's activities, relationships, and self-presentations without the effort or social exposure of direct interaction — which satisfies a deep evolved interest in the activities and relative standing of one's social community that previously required significantly more effort and social capital to access.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional media psychology analysis of social media appeal identifies the combination of social connection, entertainment, and identity expression as the three primary functional gratifications that platform usage delivers. The social connection dimension is most powerful for people in life stages or circumstances where other-channel social contact is limited: the elderly, those with mobility limitations, people who have recently relocated, or anyone whose immediate social context is thin relative to their social needs. The identity expression dimension — the capacity to curate and present a self-image to a chosen audience — is particularly powerful for adolescents and young adults in identity-formation stages, for whom social media provides an unprecedented laboratory for trying out self-presentations and receiving social feedback on them at scale and relatively low cost. The entertainment dimension is the most commercially significant for the platforms themselves, because time spent in entertainment mode generates the largest volumes of the advertising inventory that underpins platform revenue.
 
 ### 2. What kinds of things are popular on social media?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The categories that consistently generate the highest engagement on social media platforms are those that combine high emotional activation with low information complexity — content that produces a strong immediate affective response without requiring sustained cognitive effort to process. This explains the structural dominance of short-form video (TikTok, Reels) over text, of visual content over prose, and of emotionally activating content — inspiring stories, outrage-inducing narratives, adorable animals, spectacular scenery — over balanced or nuanced analysis. The specific content categories most reliably popular are those that play to social curiosity — gossip, celebrity, relationship drama — and to social aspiration — luxury display, fitness transformation, success narrative — which together activate the social comparison and status-monitoring tendencies that constitute some of the most powerful and evolutionarily ancient drivers of human attention.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional content analytics perspective on social media popularity identifies emotional valence and shareability as the two most reliably predictive dimensions of content performance across platforms. Content with high positive or high negative emotional valence significantly outperforms neutral content in engagement metrics, because emotional activation drives the sharing behaviour that amplifies distribution: people share content that made them feel strongly more reliably than content that informed them. Shareability is distinct from quality: content that is easily shareable — that makes the sharer look good, that expresses something the sharer wanted to express but couldn't articulate, or that signals group membership and values — travels further than content that is merely accurate or important. The structural consequence is that social media's popularity rankings systematically underrepresent accurate, nuanced, and complex content relative to its actual social value.
 
 ### 3. What are the advantages and disadvantages of using social media?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Social media's advantage and disadvantage sets are symmetrically related — the same features that produce genuine benefits also produce, in overuse or misuse, the corresponding harms. The connection benefit — the capacity to maintain and develop relationships with people across geographic distance at low cost — becomes the comparison harm when the comparison between one's own private experience and others' curated public self-presentations drives social anxiety and dissatisfaction. The information benefit — access to a vastly expanded range of information and perspectives that would previously have been inaccessible — becomes the misinformation risk when the same distribution dynamics that make accurate information accessible make inaccurate information equally so. The self-expression benefit becomes the surveillance and privacy cost when the data that constitutes one's self-expression is retained, aggregated, and sold in ways that most users do not meaningfully understand or consent to.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional analysis of social media's cost-benefit profile concludes that the distribution of costs and benefits is highly heterogeneous across users, use patterns, and life stages — which makes aggregate evaluations ("social media is good/bad") largely uninformative as policy guidance. For older adults using social media primarily for social connection and information access with relatively low time commitment, the benefit-cost ratio is positive and well-supported by evidence. For adolescents and young adults with high social comparison sensitivity using social media with high time commitment and primarily for social validation, the benefit-cost ratio is more clearly negative. The policy implication is that social media governance — through platforms, regulation, and education — should be designed around the demographic populations and use patterns where harms are largest rather than around categorical evaluation of the medium.
 
 ### 4. What do you think of making friends on social network?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Online friendship formation — using social media platforms as the initial contact point for relationships that may or may not develop into something substantive — is a genuinely legitimate mode of social connection that the cultural dismissiveness toward it frequently undervalues. The evidence that online-initiated friendships are structurally weaker than offline-initiated ones is mixed: what the research more consistently shows is that the same friendship quality factors — shared interests, genuine mutual investment, regular contact, emotional disclosure — predict friendship strength regardless of where the friendship was initiated. The specific advantage of online friendship initiation is its capacity to connect people with unusually narrow or specialised shared interests that might not find one another in their immediate geographic context — a value that is particularly significant for people in life phases or circumstances where their immediate social environment provides limited prospects for meeting compatible others.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional sociological perspective on online friendship formation is that the internet has effectively eliminated the geographic constraint on social network formation in ways that produce significant welfare benefits for populations previously limited by that constraint. The most benefited populations are those whose social networks were previously most constrained by geography — people in rural or low-density areas, people with unusual or specialised interests, people belonging to minority communities too small to find adequate social connection in their immediate environment. The qualification is that the removal of geographic constraint has not eliminated the behavioural requirements of strong friendship — sustained mutual investment, reliability, genuine emotional availability — which require effort regardless of whether the friendship originated online or offline. Online friendship formation expands the opportunity set; it does not reduce the investment required to convert opportunities into durable connections.
 
 ### 5. Are there any people who shouldn't use social media?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The question of who should not use social media is more productively approached as a question about which specific use patterns are harmful for which specific populations rather than as a categorical exclusion question — because the evidence for harm from social media is much more specific in its demographic and behavioural targeting than the categorical framing suggests. The population for whom the strongest negative evidence exists is adolescent girls using high-visual-content platforms primarily for social comparison: this specific combination — developmental stage, gender, content type, and primary use motivation — shows the clearest and most replicable association with negative mental health outcomes including increased anxiety, decreased self-esteem, and elevated depression symptoms. The corollary is that different populations — older adults using social media for social connection, professionals using it primarily for information access — show the evidence pattern in a very different direction.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional public health perspective on social media harm reduction is increasingly moving from "who shouldn't use it" (a question whose answer only applies to extreme cases) toward "what conditions of use reduce harm for the populations where harm evidence is clearest." The conditions that most consistently predict positive rather than negative outcomes from social media use are: active rather than passive use (creating, communicating, and engaging rather than scrolling and comparing); time-bounded rather than unlimited use; use motivated by specific goals rather than habituated scrolling; and regular evaluation of whether the use is delivering the benefits the user intends. These conditions can be cultivated through design (platforms can build tools that support them), education (users can be taught them), and personal practice — which is a more tractable intervention target than exclusion.
 
 ### 6. Do you think people spend too much time on social media?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+"Too much time" implies a standard against which current social media usage is being measured, and the honest answer is that "too much" varies substantially by individual, use pattern, and what the social media time is displacing. For someone whose social media usage is displacing sleep, face-to-face social interaction, physical activity, or sustained focused work — activities with robust evidence of high personal value and whose loss is associated with measurable negative outcomes — the usage is genuinely excessive in a meaningful sense. For someone whose social media usage fills time that would otherwise be vacant, is used for genuine social connection and information access, and is not displacing valued activities, the "too much" judgement is significantly less well-supported, even if the absolute time involved looks large by conventional standards.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional research perspective on social media time use consistently finds that self-reported social media usage substantially understates actual measured usage — people typically estimate they spend forty to sixty percent less time on social media than their device logs show — which suggests both that much of the usage is more habituated and less deliberate than users believe, and that people's introspective evaluation of their own usage patterns is a poor guide to its actual character. The more productive approach to the "too much" question is functional rather than quantitative: the question is not whether the absolute time is large but whether the use is delivering the outcomes the user wants and whether the user retains genuine voluntary control over when and how they engage with the platform. Users who feel they could stop or reduce usage without difficulty and who find their social media use genuinely valuable are in a different position from users who feel compelled to use platforms they evaluate negatively — and the latter population is both substantial and underserved by the current design of most social media environments.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **variable-ratio reinforcement** (n phr): a reward schedule where rewards come unpredictably, producing strong habitual behaviour | lịch củng cố tỷ lệ biến thiên
+- **social surveillance** (n phr): monitoring others' social activities and status through digital platforms | giám sát xã hội
+- **curated** (adj) (/kjʊˈreɪ.tɪd/): carefully selected and presented | được chọn lọc và trình bày cẩn thận
+- **emotional valence** (n phr): the degree to which content triggers positive or negative emotion | hóa trị cảm xúc (mức độ cảm xúc tích cực/tiêu cực)
+- **shareability** (n) (/ˌʃeərəˈbɪl.ɪ.ti/): how likely content is to be shared by users | khả năng lan truyền
+- **social comparison** (n phr): evaluating oneself against others | so sánh xã hội
+- **habituated** (adj) (/həˈbɪtʃ.u.eɪ.tɪd/): having become so used to something that it feels automatic | đã thành thói quen tự động
+- **governance** (n) (/ˈɡʌv.ən.əns/): the system of rules and practices to regulate something | quản trị
+- **introspective** (adj) (/ˌɪn.trəˈspek.tɪv/): examining one's own thoughts and feelings | nội tâm, mang tính tự suy ngẫm
+- **harm reduction** (n phr): strategies to minimise negative consequences of a behaviour | giảm thiểu tác hại
+
+
+
 
 ## Describe a natural talent (sports, music, etc.) you want to improve
 
@@ -4834,77 +5538,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The natural aptitude I've become most interested in developing over the past year or so is what I'd describe as a facility for pattern recognition in unfamiliar domains — the capacity to look at a new system, whether it's a piece of music, an unfamiliar argument, or a set of data, and relatively quickly identify the structuring logic beneath the surface variation. I became aware of it first in secondary school, specifically in mathematics competitions, where I noticed I could often see the underlying structure of a problem before I had worked out how to solve it — and that awareness had developed, by the time I finished secondary school, into a reasonably conscious tool I could apply across subjects. What I want to do with it now is extend its application from the relatively narrow domains where it developed — mathematics and certain areas of language — into domains where I'm less practised and where the pattern-recognition skill would need to be rebuilt rather than simply applied: specifically music theory and visual composition, which I've started working on through a combination of structured online learning and deliberate practice with unfamiliar repertoire.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The talent I want to develop is less exotic than it might appear to describe: essentially, the ability to read people quickly and accurately in professional contexts — to identify temperament, motivation, and likely behaviour from brief interaction in ways that allow me to calibrate my communication and approach effectively. I noticed I had something in this direction about four years into my career, when a colleague pointed out that my first assessments of new team members were more often correct than those of colleagues with significantly more management experience — which suggested I had some capacity to read context-relevant signals that I hadn't been consciously cultivating. What I want to do with it is build it from an unreliable intuition into a more systematic and teachable skill: which requires, I think, both more conscious reflection on what signals I'm actually using when the intuition proves right, and more deliberate exposure to a wider range of professional types than my current role naturally provides.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **pattern recognition** (n phr): the ability to detect regularities and structures in complex information | nhận dạng quy luật
+- **aptitude** (n) (/ˈæp.tɪ.tjuːd/): a natural ability or tendency to do something well | năng khiếu bẩm sinh
+- **repertoire** (n) (/ˈrep.ə.twɑːr/): the range of material a person is skilled in | vốn thực hành, tổng thể kỹ năng sẵn có
+- **calibrate** (v) (/ˈkæl.ɪ.breɪt/): to adjust carefully to fit a particular situation | điều chỉnh cẩn thận, hiệu chỉnh
+- **deliberate practice** (n phr): intentional, focused practice aimed at improvement beyond comfort zones | luyện tập có chủ đích
+- **structuring logic** (n phr): the underlying principle that organises a system | logic cấu trúc nền tảng
+- **systematise** (v) (/ˈsɪs.tə.mə.taɪz/): to arrange according to an organised method | hệ thống hoá
+- **intuition** (n) (/ˌɪn.tjuˈɪʃ.ən/): the ability to understand something without conscious reasoning | trực giác
+- **visual composition** (n phr): the arrangement of elements in a visual work | bố cục thị giác
+- **temperament** (n) (/ˈtem.prə.mənt/): a person's natural habitual inclination; character | tính khí, khí chất
 
 ### 1. Do you think artists with talents should focus on their talents?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The question of whether talented artists should "focus" on their talents contains a prescriptive assumption that merits examination: the framing assumes that specialisation is straightforwardly beneficial for talented people, which is a significantly more contested claim in the domain of creative work than in domains where performance is more clearly measurable. The evidence from the history of artistic achievement consistently shows that many of the most significant works emerge from cross-domain influences — from artists who brought insights from one domain to bear on another, or who developed their primary talent through engagement with adjacent fields. The practical case for breadth rather than narrow specialisation during the developmental phase of an artistic career is substantial: the cross-pollination of influences, methods, and conceptual frameworks that exposure to multiple domains provides often generates the distinctive perspective that distinguishes serious artistic work from competent but derivative work.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional arts development perspective on specialisation versus breadth identifies stage of development as the critical variable. During the acquisition phase — when fundamental technical skills are being built — there is a strong case for focused practice in the specific domain, because technical mastery requires concentrated, repetitive work that generalised activity displaces. During the development phase — when those technical foundations are established and the artist is working toward distinctive creative expression — the evidence strongly favours breadth: the artists who develop the most distinctive voices are disproportionately those who engaged in the widest range of influences and developed the most expansive conceptual resources. The practical implication is that "focus on your talent" is good advice for children developing foundational skills and potentially bad advice for established artists working toward creative originality.
 
 ### 2. Is it possible for us to know whether children who are 3 or 4 years old will become musicians and painters when they grow up?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Identifying children's long-term creative destinies at age three or four from observation of their behaviour in early childhood is not reliably possible — not because early aptitude signals don't exist, but because the relationship between early aptitude and adult achievement in creative domains is significantly weaker than popular narratives about prodigy suggest, and because the environmental, relational, and motivational factors that determine whether an early aptitude develops into serious adult practice are at that age almost entirely unobserved and unpredetermined. What research on musical and artistic development consistently shows is that early aptitude signals — heightened sensitivity to pitch, unusual spatial reasoning, strong fine motor interest — are more evenly distributed across the population than outcomes, and that the developmental trajectory between aptitude and achievement is determined by factors including teaching quality, parental support, sustained interest, and the specific social contexts of practice that cannot be predicted from a three-year-old's behaviour.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The developmental psychology research on early identification of creative potential consistently cautions against over-interpretation of childhood signals as predictors of adult creative careers. The famous research on musical development by figures like Sloboda and Davidson shows that early prodigies are not overrepresented among professional musicians in adulthood — because the qualities that produce exceptional early performance (early parental instruction, unusual memory, strong imitative capacity) are not the same qualities that produce exceptional adult creative work (the capacity to generate novel musical ideas under genuine creative constraint). The more accurate framing is that early childhood is a period when interests and sensitivities are revealed rather than destinies determined, and the most valuable adult response to a child's early artistic inclination is sustained, low-pressure cultivation rather than prescriptive career channelling.
 
 ### 3. Why do people like to watch talent shows?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Talent shows' appeal to audiences operates through a set of psychological mechanisms that are more complex than simple entertainment, though entertainment is certainly the primary surface driver. The most powerful mechanism is narrative identification: talent shows structure the development of individual competitors as personal stories with emotional stakes, social challenges, and character arcs — and audiences engage with these narratives in ways that activate the same empathic engagement mechanisms as fictional drama, producing sustained investment in individual outcomes that drives viewership across series. The second mechanism is the vicarious performance experience: watching skilled performers achieves something approximating the pleasure of high-level performance from the audience position — with the accessibility advantage that no equivalent performance capacity is required and the social advantage that the viewing experience is shared and discussable.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional media analysis of talent show appeal identifies democratisation as the format's most distinctive and commercially potent feature: talent shows present exceptional performance emerging from ordinary life circumstances, which validates the cultural belief that extraordinary achievement is available to anyone with sufficient talent and determination rather than requiring extraordinary background or resources. This narrative is emotionally satisfying because it aligns with broadly held aspirational values — and is commercially powerful because it recruits audience identification more effectively than formats featuring exclusively professional performers, for whom the audience gap is too wide to sustain similar emotional investment. The talent show format also satisfies the social evaluation drive — the evolved tendency to assess relative competence and status — by structuring public performance as explicit social competition with audience and judge evaluation, which activates this drive in a controlled and socially legitimate context.
 
 ### 4. Do you think it is more interesting to watch famous people's or ordinary people's shows?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The comparative interest of famous versus ordinary performers in talent-based entertainment formats is genuinely audience-dependent rather than categorically answerable — different audiences seek different things from performance viewing and will find the same content more or less engaging depending on what they are primarily seeking. For audiences primarily seeking technical excellence — the genuine ceiling of performance quality in a given domain — established professional performers with years of highly focused practice will typically be more interesting to watch than ordinary performers, because the technical standards they can sustain are simply not accessible to people without that accumulated practice. For audiences primarily seeking narrative engagement and emotional investment — the journey story, the redemption arc, the underdog — ordinary performers are typically more engaging precisely because their position is closer to the audience's own, which facilitates the identification that drives sustained emotional investment.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional entertainment ratings data generally supports the superior commercial performance of formats featuring ordinary people performing — the talent show format outperforms professional performance formats in audience size in most markets — which the professional analysis attributes primarily to the identification mechanism. Audiences watch professional performance from an appreciative but emotionally distanced position; they watch ordinary-person performance from a position of active social comparison and empathic engagement that produces stronger emotional responses and higher viewer loyalty across series. The psychological explanation is that the emotional stakes of ordinary-person performance are more immediately legible: the outcome matters more visibly in the context of a real life, and the performances' quality is more honestly distributed across the success-failure spectrum in ways that make the narrative stakes feel genuine rather than managed.
 
 ### 5. Do you think it's important to develop children's talents?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Developing children's talents is important, but the manner in which that development is pursued matters as much as the development itself — and the forms of talent development that are most culturally prevalent are often those whose methods are most likely to undermine the conditions that make talent development genuinely beneficial. The research on motivation and creative development consistently shows that talent development pursued in ways that make the activity intrinsically motivating — that preserve the child's autonomous engagement, connect the activity to genuine personal interest, and maintain the experience of play and exploration rather than replacing it with performance pressure — produces better long-term outcomes in both skill development and wellbeing than talent development pursued under heavy extrinsic pressure. The most harmful pattern is the one cultural narratives about prodigy most romanticise: the highly pressurised, sacrifice-dominated early specialisation that produces technically impressive child performers but disproportionately results in burnout, disengagement, and the loss of the activity's meaning by early adulthood.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional developmental perspective on children's talent development identifies the primary risk as mistaking early performance for development. Systems that structure children's talent development around competitive performance and public demonstration of current ability — competitions, recitals, auditions — systematically advantage children with high early performance capacity while disadvantaging children with higher developmental ceilings whose current performance level is lower. The result is that many of the most professionally productive adult talents — those with the broad conceptual foundations, robust intrinsic motivation, and adaptable skill sets that characterise the most creative adult practitioners — were not identified or developed by conventional early talent development systems, while many of the most visibly "talented" child performers went on to relatively limited adult achievement because the performance-optimised development they received was not the development that generates the deepest adult creative capacity.
 
 ### 6. Why do some people like to show their talents online?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Online talent display satisfies several distinct psychological needs that performance in purely offline contexts cannot as readily fulfil — which explains why many people who would not seek performance opportunities in traditional physical settings are willing and eager to display their capabilities online. The most significant is audience scalability: online platforms allow performers to reach audiences of a size and composition entirely uncorrelated with their geographical location, physical access to institutional performance venues, or gatekeeping processes that regulate access to traditional performance opportunities. This is particularly significant for people whose skills are in domains that lack strong offline performance infrastructure — certain niche musical genres, unusual craft skills, hyper-specialised knowledge domains — where online platforms represent the only viable performance context for genuinely substantial audiences.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional analysis of online talent display as a social behaviour identifies identity affirmation as the primary psychological driver beyond pure performance motivation. Displaying skill publicly — receiving the social acknowledgement of capability that performance elicits — is a powerful need whose offline fulfilment requires access to performance contexts that are institutionally and socially mediated in ways that create significant barriers for people outside established performance networks. Online platforms have democratised that access in ways that allow the psychological benefits of public performance recognition — validation, community, identity establishment within a domain — to be accessed by performers who would previously have had no viable route to them. The commercial dimension — the potential for talent display to generate income through audience monetisation — adds a further incentive layer that has no offline equivalent for most performers, and that has created genuine economic opportunities for people whose skills were previously without viable professional expression.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **prodigy** (n) (/ˈprɒd.ɪ.dʒi/): a person with exceptional talent at an early age | thần đồng
+- **democratisation** (n) (/dɪˌmɒk.rə.taɪˈzeɪ.ʃən/): making something accessible to all people equally | sự dân chủ hoá
+- **intrinsic motivation** (n phr): drive coming from internal enjoyment or interest | động lực nội tại
+- **extrinsic pressure** (n phr): pressure coming from external rewards or expectations | áp lực ngoại tại
+- **burnout** (n) (/ˈbɜːn.aʊt/): physical and mental exhaustion from overwork or sustained pressure | kiệt sức (cả thể xác lẫn tinh thần)
+- **audience scalability** (n phr): the ability to reach a larger or different audience through a medium | khả năng mở rộng đối tượng khán giả
+- **gatekeeping** (n) (/ˈɡeɪt.kiː.pɪŋ/): controlling access to opportunities through selection processes | kiểm soát cửa vào (cơ hội)
+- **identity affirmation** (n phr): the validation of one's sense of who they are | khẳng định bản sắc
+- **monetisation** (n) (/ˌmʌn.ɪ.taɪˈzeɪ.ʃən/): converting something into a source of income | kiếm tiền từ nội dung
+- **vicarious** (adj) (/vɪˈkeə.ri.əs/): experienced through another person's actions or emotions | gián tiếp, cảm nhận qua người khác
 
 ## Describe a toy you liked in your childhood
 
@@ -4918,77 +5640,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The toy I remember most precisely from childhood is a set of wooden building blocks — simple rectangular blocks in three or four sizes, uncoloured — that my grandfather made for me when I was around four or five years old. He was a carpenter and made them from offcuts because bought toys were expensive, and they didn't look like the toys in shop windows: they were plain, slightly rough-edged, and had no instructions. I played with them for probably four or five years, and what strikes me looking back is how open-ended the play was — I built towers, bridges, roads, ships, walls, and things that had no name but seemed right while I was making them — in a way that felt genuinely inventive rather than directed toward a predetermined outcome. There was nothing in the toy that told me what to do with it, which I now think was precisely its value: the blocks didn't solve a problem or simulate another object, they offered raw material for whatever I decided the play was going to be, which required more imagination than any subsequently owned toy ever demanded of me.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The toy I remember most from childhood with most genuine warmth is a small mechanical model of a locomotive that I was given as a birthday gift when I was about six — not a working electric train set, just a solid metal model with paint worn off several surfaces which I later understood had been my father's before mine. I didn't play with it in the way I played with other toys: I didn't move it around or simulate journeys, I mostly handled it, examined it, and occasionally took it apart — it had several screwable components — and reassembled it. What I valued about it was something I couldn't have articulated at six but can now: the sense that it was a real object that had existed in the world before and would exist after, and that had a weight and solidity that the plastic toys I received more frequently didn't have. I still have it. It's on a shelf in my study, and I take it down with exactly the same quality of attention I gave it then.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **open-ended** (adj): having no fixed or predetermined answer or outcome | không giới hạn, để ngỏ
+- **offcut** (n) (/ˈɒf.kʌt/): a piece left over after cutting material for a specific use | mảnh vụn còn lại sau khi cắt
+- **predetermined** (adj) (/ˌpriː.dɪˈtɜːmd/): decided or arranged in advance | được định trước
+- **simulate** (v) (/ˈsɪm.jʊ.leɪt/): to imitate or represent a condition or object | mô phỏng
+- **solidity** (n) (/səˈlɪd.ɪ.ti/): the quality of being firm and stable; substance | tính vững chắc, đặc chắc
+- **reassemble** (v) (/ˌriː.əˈsem.bəl/): to put back together after being taken apart | lắp lại, ráp lại
+- **imaginative play** (n phr): play that uses creativity and the imagination to create scenarios | vui chơi sáng tạo, chơi tưởng tượng
+- **attentive** (adj) (/əˈten.tɪv/): paying close and careful attention | chú ý, tập trung
+- **inventive** (adj) (/ɪnˈven.tɪv/): having the ability to create or design new things | sáng tạo, có óc phát minh
+- **raw material** (n phr): basic material from which something is made or developed | nguyên liệu thô
 
 ### 1. How do advertisements influence children?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Children's susceptibility to advertising influence is substantially greater than adults' for a set of developmental reasons that advertising aimed at children is specifically designed to exploit: children below approximately eight years old lack the cognitive capacity to recognise advertising's persuasive intent — the understanding that an advertisement's purpose is to change the viewer's preferences rather than to inform — which means they process advertising messages as informational content rather than as interest-motivated persuasion. The practical implication is that children who are exposed to advertising believe, in a relatively literal and unreserved way, that the characteristics attributed to products in advertisements are accurate descriptions of those products, rather than curated representations designed to generate desire. This credulity is commercially potent — children exposed to toy advertising report wanting those toys even when the advertised functionality is demonstrably unreachable — and developmentally consequential, because the norms around consumption and satisfaction that advertising exposure shapes during childhood influence consumer attitudes into adulthood.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional consumer behaviour research on advertising and children identifies pester power — children's ability to influence parental purchasing decisions through sustained requests — as the primary mechanism through which children's advertising translates into commercial outcomes. Advertising doesn't typically provide children with purchasing agency directly; it shapes their desire and preference, and those preferences are then expressed within family decision-making dynamics in ways that consistently and significantly influence adult purchasing. The research also shows that advertising influence on children extends beyond the immediate product category: sustained exposure to advertising shapes children's broader understanding of consumption as a route to social status, happiness, and identity — which are the conceptual frameworks that underlie adult consumer culture and whose seeds are planted in the formative period of childhood advertising exposure.
 
 ### 2. Should advertising aimed at kids be prohibited?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The case for prohibiting advertising aimed at children rests on the well-established developmental evidence that children lack the cognitive capacity to identify advertising's persuasive intent — which creates a meaningful parallel to the prohibition of other forms of persuasion whose targets lack the capacity to defend against them. Several jurisdictions, including Sweden and Norway, have enacted restrictions on children's television advertising precisely on this developmental protection rationale, and the evidence from these markets suggests that the predicted industry harms from prohibition are substantially smaller than was argued before implementation. The position against prohibition typically rests on parental primacy — the argument that parents rather than the state should manage children's advertising exposure — but this position understates the evidence for advertising's influence on family purchasing dynamics in ways that undermine parental autonomy rather than simply competing with it.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional public health and developmental policy perspective predominantly supports restrictions on advertising aimed at children under a developmental protection framework, though full prohibition is a stronger position than most research findings strictly require. The more precisely calibrated policy response — which the evidence better supports — is a combination of age-specific restrictions on advertising in children's contexts, requirements for advertising literacy education in schools, and industry codes that prohibit specific high-risk advertising techniques including celebrity endorsement by figures children identify with and artificial scarcity claims. The full prohibition case is strongest for specific high-harm product categories — junk food, toy advertising whose demonstrated functionality is unreachable — where the gap between advertised and actual product benefit is largest and where the harm of exposure-driven desire is most direct.
 
 ### 3. What's the difference between the toys kids play now and those they played in the past?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The most significant structural difference between contemporary toys and those of previous generations is the shift from open-ended to closed-ended play affordances: traditional toys — blocks, dolls, balls, basic construction sets — offered raw material for play whose content and structure the child determined, while many contemporary toys — electronic toys with built-in programmes, single-purpose play sets organised around licensed media properties — predetermine the play narrative and reduce the child's creative contribution to execution within an already-defined framework. This shift is educationally consequential: open-ended play is consistently associated in developmental research with stronger development of creativity, problem-solving, and narrative imagination than closed-ended play, which means the toy landscape change has implications not only for the quality of children's entertainment but for the development of cognitive capacities that extend well beyond the play context.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional analysis of toy trends identifies two parallel movements over the past generation: screen-based digital toys have grown rapidly as a category while displacing many traditional toy categories, and physical toys have become increasingly tied to media properties — films, television series, video games — in ways that make the toy a consumption supplement to a media property rather than a self-contained play object. Both movements share the quality of reducing the child's creative autonomy: screen toys direct play through programmed interaction, and media-property toys direct play through pre-existing narratives that the child enacts rather than generates. The economic driver of both movements is the commercial interest in children's play forming part of an extended media consumption ecosystem — where the toy purchase reinforces and extends media consumption — rather than being a self-contained activity.
 
 ### 4. Do you think parents should buy more toys for their kids or spend more time with them?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The framing of this question as an opposition — toys versus time — captures a real tension in contemporary family life that deserves careful analysis rather than a simple answer in either direction. The developmental evidence is strongly consistent that relational time — sustained, attentive, engaged parental presence — is the most significant determinant of the dimensions of development that matter most long-term: attachment security, language development, emotional regulation, and the development of the social capacities that underlie adult wellbeing. Toys contribute to development through the quality of the play they support, but their contribution is substantially less significant than parental relationship quality, and no quantity of high-quality toys substitutes for the developmental value of genuine relational presence. The honest professional answer to the "more toys or more time" question is that the substitution of toys for relational time — which is what the question's framing more often describes — always represents a poor developmental trade.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional developmental research on children's wellbeing is unusually consistent about the relative value of material provision versus relational presence: above a basic threshold of material adequacy, additional material provision adds minimal measurable developmental benefit, while additional parental relational quality adds substantial and sustained benefit across all dimensions of development that are meaningfully predictable in the long run. This finding is uncomfortable for consumer culture's framing of parental love as something expressed and calibrated through gift-giving — a framing that toy industry marketing is specifically designed to reinforce — but it is the finding that the evidence supports. The practical advice that developmental science generates is simple and consistently supported: the quality and attentiveness of parental engagement with children during play matters more than the quality of the toys being played with, and engaged play with simple materials consistently produces better developmental outcomes than unsupervised play with more sophisticated ones.
 
 ### 5. What's the difference between the toys boys play with and girls play with?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Gender differences in toy preferences are real but significantly smaller and more environmentally determined than the toy market's categorical gender segregation implies — a distinction with important implications both for how the evidence is interpreted and for what the appropriate industry and parenting response is. Research on toy preferences consistently shows that observed gender differences in toy choice are substantially reduced in environments where gender-congruent toy preferences are not specifically reinforced by parental guidance, marketing presentation, or social modelling — which suggests that a significant portion of the observed difference is the product of differential environmental shaping rather than purely innate preference. The strongest innate preference signals are for physical activity types — there is a reasonably robust sex difference in preference for rough-and-tumble play versus sedentary and social play that appears across cultures and that is likely to have some biological basis — but the translation of this preference into categorical toy type differences (construction versus nurturing toys, action versus relational toys) is substantially a cultural and commercial artefact.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional developmental psychology perspective on gender and toy preferences identifies toy marketing as a significant amplifier of relatively small innate differences into large behavioural divergences. The commercial incentive for the toy industry to clearly gender-differentiate its products is substantial — it doubles the market, because gender-specific toys discourage hand-downs and require separate purchases for boys and girls — and the resulting pink/blue division of toy retail environments shapes children's toy preferences through social signalling in ways that are then frequently mistaken for innate preference. The policy and parenting implication most strongly supported by the evidence is to deliberately broaden children's toy exposure across the gendered divide, not because innate differences don't exist but because the toy market's amplification of those differences deprives children of the developmental benefits that the other category of toys provides.
 
 ### 6. What are the advantages and disadvantages of modern toys?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Modern toys' advantages are principally those of richness and safety: the range of available experiences — construction, narrative, simulation, physical activity, digital interaction — that the contemporary toy landscape provides is vastly wider than what was available to previous generations, and the safety engineering applied to contemporary toy design has substantially reduced the injury risks that characterised many traditional toys. The disadvantages are primarily structural: the shift toward closed-ended, commercially branded, and screen-based toys has reduced the developmental value of the play they support relative to simpler open-ended alternatives, and the sheer volume of available toys has contributed to the toy attention economy problem — children who have access to large numbers of toys engage more shallowly with each one than children with smaller selections, because the availability of the next option undermines the sustained engagement required for deep play.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional assessment of modern toys' developmental value identifies the quality of play affordances as the critical variable rather than the sophistication of the toy's design or technology. A well-designed modern construction set — one that offers genuine design constraint, multiple solution paths, and meaningful feedback — may offer superior developmental value to a simple pile of wooden blocks; a poorly designed electronic toy that directs play through preset programmes may offer inferior developmental value to either. The most significant disadvantage of modern toys as a category — rather than of specific toys — is the marketing and retail environment in which they are typically encountered, which is oriented toward desire generation and purchase frequency rather than developmental value, and which consistently leads to purchasing decisions that prioritise the toy's attractiveness at point of sale over its sustained play value after the initial novelty diminishes.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **open-ended** (adj): allowing a wide range of responses or outcomes; not restricted | không giới hạn, để ngỏ
+- **pester power** (n phr): a child's ability to persuade parents to buy things through persistent requests | sức ép mè nheo (của trẻ)
+- **play affordance** (n phr): the type and range of play a toy enables or supports | khả năng trò chơi mà đồ chơi mang lại
+- **gender-congruent** (adj): matching expectations associated with one's gender | phù hợp với kỳ vọng giới tính
+- **rough-and-tumble play** (n phr): active, physical, often mock-aggressive play typical of children | trò chơi vật lộn, chạy nhảy sôi nổi
+- **amplifier** (n) (/ˈæm.plɪ.faɪər/): something that increases or intensifies an effect | bộ khuếch đại, yếu tố nhân lên
+- **credulity** (n) (/krɪˈdjuː.lɪ.ti/): a tendency to believe things too readily | tính cả tin
+- **toy attention economy** (n phr): the problem of children distributing attention thinly across many toys | kinh tế học chú ý trong trò chơi trẻ em
+- **licensed media property** (n phr): a brand or character owned by a media company used for products | tài sản thương hiệu truyền thông được cấp phép
+- **parental primacy** (n phr): the principle that parents have the primary right to make decisions for their children | quyền ưu tiên của phụ huynh
 
 ## Describe the time when you first talked in a foreign language
 
@@ -5002,77 +5742,98 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The first time I had a genuine conversation in English — as opposed to performing set phrases in a classroom — was at a hostel in Đà Nẵng when I was seventeen, during a family trip, with a young man from Australia who was travelling alone and who sat down at the same table at breakfast and asked where we were going that day. The conversation was, objectively, simple: he asked where I was from, what grade I was in, whether I liked school, what music I listened to — straightforward questions that my classroom English was technically adequate for — but what was remarkable about it was the shift in experience from using English as an academic exercise to using it as a tool for genuine exchange with a person who genuinely didn't know the answers to what he was asking. I couldn't hear my own accent clearly enough to be embarrassed by it, which helped. What I remember most precisely is the moment when he said something I didn't fully catch and I asked him to repeat it and he did, entirely without impatience, and I understood the second time — which was the moment I stopped being afraid that not understanding would end the conversation.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The first substantive conversation I had in English in a professional context rather than a tourist or academic one was at a conference in Singapore about eight years ago — I'd been at the conference for two days, attending sessions, but hadn't initiated any conversation beyond brief social pleasantries. On the third day, during a coffee break, a Singaporean researcher who worked in a field adjacent to mine asked me what I thought of a session we'd both just attended, and the question was specific enough — about a methodological issue in a paper that I'd noticed and found interesting — that I had something I actually wanted to say. The conversation lasted about twenty minutes and by the end of it I'd agreed to share a paper draft and had his email. What I noticed about the experience was the way that having something I genuinely wanted to say made the language difficulty feel substantially less prohibitive — which was the observation that changed how I prepared for professional English-language communication subsequently.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **set phrases** (n phr): fixed, pre-learned expressions used in specific situations | cụm từ cố định, mẫu câu bài bản
+- **genuine exchange** (n phr): honest, authentic communication between people | trao đổi thực sự chân thật
+- **substantive** (adj) (/ˈsʌb.stən.tɪv/): having real substance and importance | có chiều sâu, thực chất
+- **pleasantries** (n pl) (/ˈplez.ən.triz/): brief, polite, social remarks | những lời xã giao nhẹ nhàng
+- **methodological** (adj) (/ˌmeθ.ə.dəˈlɒdʒ.ɪ.kəl/): relating to the methods used in a particular field | thuộc về phương pháp học
+- **prohibitive** (adj) (/prəˈhɪb.ɪ.tɪv/): preventing or making something difficult | cản trở, ngăn cản
+- **adjacent** (adj) (/əˈdʒeɪ.sənt/): near or next to something; closely related | liền kề, gần gũi
+- **impatience** (n) (/ɪmˈpeɪ.ʃəns/): the tendency to get irritated when things are slow | sự thiếu kiên nhẫn
+- **academic exercise** (n phr): a task performed for educational purposes without real-world application | bài tập học thuật không thực tế
+- **hostel** (n) (/ˈhɒs.təl/): a type of inexpensive shared accommodation for travellers | nhà nghỉ tập thể dành cho khách du lịch
 
 ### 1. At what age should children start learning a foreign language?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The evidence on optimal foreign language learning onset identifies early childhood — between birth and approximately ten years old — as the period during which acquisition of native-like phonological competence, the capacity to perceive and produce the sound system of a foreign language without a strong accent, is most accessible. This phonological window — often called the critical period for language acquisition — closes progressively through adolescence, which means that learners who begin a foreign language during primary school age have a structural advantage in accent acquisition that subsequent learners cannot fully compensate for, however excellent their instruction or commitment. The practical implication is that the question of when to begin is primarily a question about the desired outcome: early start produces superior phonological outcomes; the motivational and metalinguistic benefits of learning that older learners bring can partially compensate for the phonological disadvantage of late onset, without fully eliminating it.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional applied linguistics perspective on optimal onset age is more nuanced than the "earlier is better" popular belief: while early start does produce the phonological advantages described, it also produces certain motivational and metalinguistic disadvantages compared to later starts. Young children are unable to use explicit grammar instruction efficiently — they acquire language only through input-based immersion — which means early foreign language instruction that relies on formal grammar learning is both developmentally inappropriate and empirically less effective than it would be for adolescent learners. The most evidence-supported recommendation is early onset prioritising high-quality communicative immersion — beginning when the school curriculum can provide sufficient instruction hours to achieve genuine communicative progress — rather than early onset with inadequate instruction time, which produces poor outcomes and may damage motivation in ways that harm later learning.
 
 ### 2. Which skill is more important, speaking or writing?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The comparative importance of speaking and writing in a foreign language is learner-purpose dependent rather than abstractly decidable — and the question is therefore most usefully answered by examining what the learner needs the language for rather than weighing the skills in the abstract. For the majority of foreign language users in contemporary global contexts — people using English as a lingua franca in international professional, educational, and travel contexts — speaking is more frequently the skill engaged and its absence is more immediately conspicuous and consequential. The case for writing as the more important skill is strongest for academic and research contexts, where written production is the primary vehicle for professional contribution and where the quality of written communication is the primary mechanism of professional credibility.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional applied linguistics perspective identifies the speaking/writing hierarchy as a false dichotomy in the context of serious language proficiency development, because the two skills are neither independent nor competing for the same developmental resources — they reinforce each other in ways that make the dichotomy educationally unhelpful. The more productive framing for educational planning is to ask which skill needs to be prioritised given available instruction time and learner goals, recognising that optimal development of both speaking and writing requires specific instructional attention that neither automatically produces the other. The practical professional argument is that speaking fluency is more immediately perceived and socially consequential in most professional contexts — a person's spoken English is the first and most socially salient indicator of their language proficiency in international interactions — which makes speaking the higher priority for most professional development purposes, without implying that writing is unimportant.
 
 ### 3. Does a person still need to learn other languages, if he or she is good at English?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+English proficiency provides significant access to a global communication infrastructure — it is the primary language of international academic publication, global business communication, and the content infrastructure of the internet — that would justify treating it as the highest-priority language investment for most people in most circumstances. The case for learning additional languages despite good English proficiency rests on three dimensions: the epistemic dimension (access to knowledge, literature, and cultural production in languages that is not fully available in English translation); the relational dimension (the kind of social access to people and communities in their own language that English interaction cannot provide); and the cognitive dimension (the evidence that bilingualism and multilingualism produce cognitive benefits that extend beyond language across working memory, executive function, and metalinguistic awareness). None of these arguments is decisive for every person in every context, but together they make a substantive case that language learning has value that English proficiency alone does not exhaust.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional argument for additional language learning beyond English is strongest in professional contexts where meaningful engagement with specific non-English-speaking communities or regions is part of the professional remit. The quality of professional relationships and cultural understanding accessible through a person's own language is substantially different from what is accessible via English intermediary — which is not merely a romantic or identity argument but a practical one with direct professional implications in fields including diplomacy, journalism, certain areas of business, and any professional field where deep cultural understanding is professionally valuable. The cognitive diversity argument — that engaging with the conceptual and grammatical structures of languages structurally distinct from English generates genuine new ways of thinking about problems — is less empirically established but has sufficient prima facie support to be taken seriously by professionals working in domains where flexible thinking is a competitive advantage.
 
 ### 4. Do you think minority languages will disappear?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The trajectory of minority language loss globally is well-documented and alarming: linguists estimate that approximately half of the world's current languages will be extinct by the end of this century, a rate of loss that has no historical precedent and that is driven primarily by the combination of urbanisation, globalisation, and the dominance of a small number of national and international prestige languages. The mechanism is primarily intergenerational: minority languages disappear when they stop being transmitted to children as primary languages, which typically happens when parents calculate — often correctly, in the context of economic opportunity — that their children's life prospects are better served by acquisition of the majority language than by maintenance of the minority one. The revitalisation examples — Welsh, Māori, Hawaiian — demonstrate that language death is not inevitable when communities make deliberate revitalisation choices with adequate institutional support, but the preconditions for successful revitalisation are demanding and relatively rarely achieved.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional linguistics perspective on minority language futures identifies the policy intervention point as intergenerational transmission: the single most predictive variable for whether a minority language survives is whether parents speak it to children at home as the primary language of family interaction, and the most effective policy instruments for language revitalisation are therefore those that support and incentivise home language transmission — immersion schooling, community-based language programmes, economic support for minority language media and cultural production — rather than classroom language instruction alone, which has a poor track record of reversing transmission decline without complementary community-level interventions. The linguistic diversity loss that majority language dominance produces is a genuine cultural and intellectual cost that is systematically undervalued in economic development frameworks: each language encodes a unique cognitive, conceptual, and ecological knowledge system that is irretrievable once the last fluent speaker dies.
 
 ### 5. Does learning a foreign language help in finding a job?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Foreign language proficiency provides measurable professional advantages whose magnitude depends on the specific language, the specific job market, and the specific industry — which means that the general answer is yes, but the value varies very substantially with context. The clearest professional language advantage is for proficiency in the primary international business language — English — in non-English-speaking countries and industries with significant international exposure: the premium for English proficiency in the Vietnamese labour market, for example, is substantial and well-documented across multiple sectors. The advantage of additional languages beyond English is more industry-specific: Japanese, Korean, and Chinese proficiency carries significant premiums in manufacturing, trade, and investment contexts where those economies' companies are major actors; French and German proficiency carries value in specific European professional contexts; and Arabic proficiency is valuable in a specific set of diplomatic, commercial, and regional studies contexts.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional labour economics research on language premium consistently finds that foreign language proficiency adds measurable earnings and employment advantages, but that the effect is non-linear and contextually dependent in ways the popular framing of "languages help careers" understates. The primary mechanism is access expansion: proficiency in a language associated with a specific economic or professional network expands the set of positions, employers, and professional communities accessible to the candidate in ways that translate into both immediate hiring advantage and longer-term career trajectory differences. The secondary mechanism is professional communication quality: at equivalent positions, the ability to communicate effectively in the languages of key counterparts — clients, partners, colleagues, management — affects the quality of professional relationships and the effectiveness of professional output in ways that translate into performance assessment and promotion decisions, particularly at senior professional levels.
 
 ### 6. Which stage of life do you think is the best for learning a foreign language?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Each major life stage offers distinct advantages for foreign language learning that correspond to different aspects of the acquisition process — which means the "best stage" depends on what outcome is being optimised. Early childhood offers the phonological acquisition advantage: the neural plasticity of the first decade of life makes native-like accent acquisition possible in ways that become progressively more difficult after approximately ten to twelve years. Adolescence and early adulthood offer the motivational and metalinguistic advantages of maturer learners: the capacity to use explicit grammar instruction effectively, stronger analytical approaches to language structure, and the ability to engage with authentic cultural and professional content that provides the richest input. Adulthood offers the experiential advantage: adult learners have a richer conceptual and experiential store to draw on when interpreting and contextualising foreign language input, and those whose professional lives provide authentic communicative need for the language typically acquire it faster than learners in purely instructional contexts.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional applied linguistics consensus is that the most productive learning happens when neurological access (relatively young age, maintaining some of the critical period advantages) coincides with motivational intensity (genuine communicative need, strong intrinsic interest, or high-stakes professional requirement) and instructional access (high-quality input, opportunities for genuine communicative practice, effective feedback). These three conditions coincide most frequently in early adolescence with well-designed immersive schooling, and in professionalising young adults who combine high intrinsic motivation with authentic communicative need. The worst conditions for language acquisition — common enough to be worth identifying — are adult learners in low-frequency classroom instruction without authentic communicative need: the motivational, contextual, and input-quality conditions that acquisition requires are all absent, and the learning that results is both slow and poorly retained.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **critical period** (n phr): a window of time in development during which language is most easily acquired | giai đoạn nhạy cảm (ngôn ngữ)
+- **phonological** (adj) (/ˌfɒn.əˈlɒdʒ.ɪ.kəl/): relating to the sound system of a language | thuộc âm vị học
+- **neural plasticity** (n phr): the brain's ability to reorganise itself by forming new connections | tính dẻo của thần kinh
+- **metalinguistic** (adj) (/ˌmet.ə.lɪŋˈɡwɪs.tɪk/): relating to thinking about and analysing language itself | siêu ngôn ngữ học
+- **lingua franca** (n phr): a language used for communication between people who don't share a native tongue | ngôn ngữ chung (trung gian)
+- **intergenerational transmission** (n phr): passing language or culture from parents to children | truyền thụ giữa các thế hệ
+- **revitalisation** (n) (/ˌriː.vaɪ.t̬əl.aɪˈzeɪ.ʃən/): restoring or renewing a language or culture to active use | hồi sinh, phục hưng (ngôn ngữ)
+- **minority language** (n phr): a language spoken by a smaller group within a country or region | ngôn ngữ thiểu số
+- **language premium** (n phr): the additional earnings or career advantage from knowing a language | lợi thế/phần thưởng ngôn ngữ
+- **immersive schooling** (n phr): an educational approach where learning takes place mainly in the target language | giáo dục ngôn ngữ theo phương thức đắm chìm
+
+
+
 
 ## Describe an occasion when you lost your way
 
@@ -5086,77 +5847,95 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+About two years ago I got thoroughly lost in the old quarter of Hội An in the early evening — not dramatically lost, in the sense that I wasn't in any danger, but genuinely disoriented in a way that took me about forty-five minutes to resolve. I'd been walking without much attention to navigation, following what looked interesting rather than tracking where I was going, and the narrow, winding streets of the old quarter — which are visually similar enough that distinguishing one from another without a landmark reference is difficult — meant that when I eventually did try to retrace my route I couldn't reliably confirm which direction I'd come from. My phone battery had run down to about eight percent, which meant using Google Maps was available but felt like a gamble. What I ended up doing was finding a café, ordering something cold, sitting down properly, and then asking the very patient woman at the counter which direction the central market was — which I knew was near the river, and from the river I knew I could navigate back. The resolution was completely undramatic, but what I remember about the experience was the specific quality of mild panic that disorientation produces — a sensation that is disproportionate to the actual danger involved and that surprised me in its intensity given how objectively benign the situation was.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The most professionally inconvenient occasion on which I lost my way was during a visit to a Japanese city I'd never been to before — Osaka — when I emerged from the wrong exit of a subway station and was sufficiently disoriented that I walked in the wrong direction for about fifteen minutes before the landmarks I was expecting failed to appear. The specific problem with getting lost in an unfamiliar city abroad is that the usual recovery strategy — asking someone — requires a minimum of shared linguistic capacity that was substantially absent, and the visual orientation cues that would have been useful in a city I knew better were entirely absent. I'd been overconfident because I'd looked at the route on the map before the meeting and had judged it simple — two stations and a short walk — and the overconfidence had produced the specific inattentiveness that allowed the wrong exit to translate into a fifteen-minute delay. I arrived at the meeting approximately twelve minutes after the scheduled time, which was resolved by an apology that I believe was understood, and I now have a very specific ritual of photographing my intended route before entering any unfamiliar subway system.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **disoriented** (adj) (/dɪsˈɔːr.i.en.tɪd/): confused about one's position or direction | mất phương hướng
+- **retrace** (v) (/ˌriːˈtreɪs/): to go back along the same path you came from | đi ngược lại con đường cũ
+- **benign** (adj) (/bɪˈnaɪn/): not harmful; gentle | vô hại, lành tính
+- **overconfident** (adj) (/ˌəʊ.vəˈkɒn.fɪ.dənt/): excessively certain in one's own abilities | quá tự tin
+- **orientation cue** (n phr): a visual or sensory signal used to determine one's position | dấu hiệu định hướng
+- **inattentiveness** (n) (/ˌɪn.əˈten.tɪv.nəs/): failure to pay proper attention | sự thiếu chú ý
+- **disproportionate** (adj) (/ˌdɪs.prəˈpɔː.ʃən.ət/): too large or too small compared to something else | không tương xứng
+- **winding** (adj) (/ˈwaɪn.dɪŋ/): having many curves and turns | quanh co, ngoằn ngoèo
+- **landmark** (n) (/ˈlænd.mɑːk/): a recognisable feature that serves as a guide | địa danh, điểm mốc
+- **navigation** (n) (/ˌnæv.ɪˈɡeɪ.ʃən/): the process of planning and following a route | sự định hướng, điều hướng
 
 ### 1. Why do some people get lost more easily than others?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Individual differences in spatial navigation ability — the capacity to build and update an accurate mental model of one's position in physical space — are substantial and consistently demonstrated across research settings, which means that the question of why some people get lost more easily is at least partly a question about genuine cognitive variation rather than simply attention or experience differences. The cognitive component most predictive of spatial navigation performance is the ability to construct, maintain, and update a spatial map — to keep track of how one's position and orientation have changed as one moves through an environment — and individual variation in this capacity is both large and relatively stable across life stages once established. The practical overlay is the well-documented gender difference in navigation strategy: on average, people who navigate using landmark-based strategies — sequential reference to specific recognisable features — are more vulnerable to disorientation in visually uniform environments than people who navigate using metric strategies — maintaining a sense of Euclidean position relative to a known starting point.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional cognitive science explanation of navigation performance variation identifies hippocampal function — the brain region primarily responsible for spatial memory and cognitive map formation — as the major neurological variable, alongside experience and strategy. The experience dimension is significant in ways that are practically relevant: people who grow up in grid-layout cities — where spatial navigation is largely reducible to direction counting — tend to perform poorly in organic, irregular urban environments because they've never needed to develop the egocentric updating strategy that such environments require. The strategy dimension is the most practically teachable: navigation performance is substantially improved by explicit training in maintaining orientation rather than relying purely on landmark recognition — and the professional implication for frequently travelling people is that developing a consistent pre-navigation practice (map study, route photography, identifying a reliable anchor point) compensates substantially for underlying spatial reasoning variation.
 
 ### 2. Do you think it is important to be able to read a map?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The practical importance of paper map reading has declined substantially with the near-universal adoption of GPS navigation for everyday wayfinding — the scenario in which paper map reading is the available or optimal navigation tool is now relatively rare in most urban and developed-world contexts. The argument for maintaining paper map reading as a genuinely important skill is therefore primarily a resilience argument: GPS navigation fails or is unavailable in situations including battery depletion, signal absence in remote environments, network outages, and deliberate electronic interference — and the person who cannot navigate without digital assistance is genuinely helpless in these circumstances in a way that would have seemed exotic to any previous generation. The secondary argument is a spatial cognition argument: the research suggests that habitual GPS reliance reduces the development and maintenance of the internal spatial mapping capacity that underlies good navigation generally, which means that exclusive GPS use may produce a genuine reduction in navigational competence beyond the immediate convenience it provides.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional view on map reading skills identifies them as part of a broader category of spatial literacy that remains professionally relevant across a wider range of fields than the GPS-navigation framing suggests. Urban planning, architecture, logistics, field research, emergency management, and military planning all require the capacity to read and reason from maps in ways that are not fully supported by GPS navigation interfaces, because map reading involves extracting spatial relationships, scale reasoning, and landscape analysis that GPS turn-by-turn navigation does not require or develop. The broader spatial literacy point is also relevant: geographers and cognitive scientists have documented a consistent correlation between map reading competence and the quality of spatial reasoning more generally, which suggests that the deprecation of map reading as an everyday skill may have wider cognitive consequences than the immediate navigational context implies.
 
 ### 3. Do you think it is important to do some preparation before you travel to new places?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Travel preparation is important, but the appropriate depth and type of preparation varies substantially with the nature of the trip, the destination characteristics, and the traveller's experience — and the polarisation between "heavy preparer" and "spontaneous traveller" identities in travel discourse somewhat obscures the more important distinction between preparation that serves the travel and preparation that substitutes for it. The most clearly valuable preparation is logistical: understanding transport connections, entry requirements, accommodation options, and the spatial layout of a destination produces genuine quality improvements across travel because it reduces the cognitive overhead of managing logistics in real time, leaving more available attention for the actual experience of the place. The over-preparation failure mode — where the itinerary is so tightly specified that unexpected opportunity, spontaneous deviation, and genuine discovery become difficult — is a real risk for certain traveller types, particularly those whose anxiety about the unfamiliar manifests as defensive over-planning.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional travel risk management perspective on pre-travel preparation identifies the preparation-spontaneity tradeoff differently depending on destination risk profile. For established, well-documented destinations with reliable infrastructure and services, the marginal safety value of thorough preparation beyond basic logistics is relatively small — the main downside of under-preparation is inefficiency and missed opportunity rather than genuine risk. For destinations with significant logistical challenges, safety concerns, or limited visitor infrastructure, preparation is qualitatively more important: the difference between an itinerary supported by advance bookings, emergency contacts, and medical preparation and one without is substantially a difference in realistic risk exposure that can have serious consequences. The professional implication is that preparation depth should track destination risk and complexity rather than traveller preference — and that the traveller identity investment in spontaneity should not override the practical safety calculus in high-complexity destinations.
 
 ### 4. How can people find their way when they are lost?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Navigating back from disorientation requires a specific set of cognitive moves — stopping, recalibrating, and finding a reliable reference point — that are frequently prevented by the affective response that disorientation produces, specifically the anxiety that drives continued movement in random directions rather than the deliberate halt and assessment that effective recovery requires. The first practical recovery step is therefore not physical but psychological: stopping movement long enough to allow a relatively calm assessment of what is known versus unknown about one's position. The physical recovery strategies that consistently work are reference-point identification (finding a feature visible from anywhere in an area — a mountain, a prominent building, a body of water — and using it to reorient) and strategic human inquiry (finding a reliable local informant rather than asking the first available person in ways that confirm rather than inform one's suspected position).
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional emergency navigation response identifies the STOP acronym — Stop, Think, Observe, Plan — developed in wilderness survival contexts but applicable across navigational disorientation scenarios — as the most reliably effective framework for navigation recovery. The Stop step is consistently identified as the most practically critical because the instinct to continue moving when lost — driven by anxiety and the feeling that movement is doing something about the problem — is frequently counterproductive and sometimes dangerously so. The Think and Observe steps involve systematic assessment of available position information: the angle of the sun, the flow direction of any water, distinctive sounds, visible topographic features, and any information from technology that remains available. The Plan step requires identifying the single most reliable recovery action given the observed information — which might be following water downhill, walking toward sound, or simply staying in place and making oneself visible — rather than committing to a direction without evidence.
 
 ### 5. Is a paper map still necessary?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The necessity of paper maps has declined significantly as a matter of practical everyday utility — the overlap between the situations in which paper maps are useful and the situations most people actually encounter in their ordinary lives is now genuinely small in most urban and developed-country contexts. The argument for paper map maintenance rests substantially on resilience and edge-case reasoning: the person who relies entirely on digital navigation and then encounters a dead battery, signal gap, or device failure in an unfamiliar environment is in a qualitatively worse position than one who can supplement digital navigation with paper-based orientation. Beyond the resilience argument, there are specific user populations — elderly people, children, wilderness travellers, and people in regions with limited digital infrastructure — for whom paper maps remain the primary navigational tool and whose wayfinding needs are not well-served by the assumption of universal digital navigation capability.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional cartography and geographic information systems perspective on paper maps' continued relevance identifies the planning use case as the domain where paper maps retain clear advantages over digital alternatives. The ability to view a large geographic area in high resolution at a single glance — to see spatial relationships, scale, and topology simultaneously across an area that would require many smartphone screens to represent — is a genuine analytical advantage in planning, logistics, and strategic navigation contexts that digital zoom-and-pan interfaces only partially compensate for. Emergency management, military planning, field research, and infrastructure management all continue to rely on paper maps precisely because the planning-scale overview they provide is not well-replicated by the interface design of consumer GPS applications, which are optimised for real-time turn-by-turn guidance rather than spatial analysis and planning.
 
 ### 6. How do people react when they get lost?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The range of reactions to disorientation is substantial and reflects both temperamental variation and situational factors — including perceived risk level, time pressure, social context, and prior experience with being lost — that interact with individual disposition to produce the specific response. The most common immediate response is anxiety activation: the recognition of disorientation triggers a mild threat response that manifests as elevated heart rate, reduced cognitive flexibility, and a characteristic sense of urgency that often produces the counterproductive continued movement described earlier. The response diverges most clearly between people according to how they regulate the initial anxiety: those who can relatively quickly downregulate from the initial threat activation and engage the calmer assessment mode tend to recover from disorientation faster and more effectively, while those who remain in high-anxiety activation tend to make less effective navigational decisions and sometimes escalate mild disorientation into genuine navigation challenges.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional behavioural emergency research on disorientation responses identifies the "Lost Person Behaviour" framework — developed from wilderness search-and-rescue data — as the most systematically supported description of how different populations respond to being lost. The fundamental finding is that people consistently underestimate how lost they are and overestimate how effectively they are navigating toward resolution — a combination of overconfidence in position knowledge and commitment to the initially chosen recovery direction that produces systematic delay in seeking help. The professional implication for anyone who regularly operates in unfamiliar environments — field researchers, travelling professionals, adventure travellers — is to establish an explicit decision rule for when to stop independent recovery attempts and seek external assistance, specifying the rule in advance rather than making it in the moment when overconfidence and reluctance to acknowledge lostness are both operating at their most powerful.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **STOP acronym** (n phr): Stop, Think, Observe, Plan — a survival framework for navigation recovery | phương pháp STOP trong định hướng khẩn cấp
+- **recalibrate** (v) (/ˌriːˈkæl.ɪ.breɪt/): to reassess and adjust one's position or approach | hiệu chỉnh lại, xác định lại hướng
+- **overestimate** (v) (/ˌəʊ.vərˈes.tɪ.meɪt/): to believe something is better or more than it actually is | đánh giá cao hơn thực tế
+- **egocentric** (adj) (/ˌiː.ɡəʊˈsen.trɪk/): relating to one's own position as the reference point | lấy bản thân làm trung tâm (định hướng)
+- **spatial literacy** (n phr): the ability to understand and work with maps and spatial information | hiểu biết về không gian
+- **hippocampal** (adj) (/ˌhɪp.əˈkæm.pəl/): relating to the hippocampus, the brain's spatial memory centre | thuộc hải mã, trung tâm trí nhớ không gian
+- **resilience argument** (n phr): a case for a skill based on its value in failure conditions | lập luận về khả năng phục hồi
+- **threat response** (n phr): the physiological reaction to a perceived danger | phản ứng với mối đe dọa
+- **downregulate** (v): to reduce the intensity of a physiological or emotional response | hạ thấp (phản ứng sinh lý/cảm xúc)
+- **Lost Person Behaviour** (n phr): a framework describing how people behave when they are lost | hành vi của người bị lạc đường
 
 ## Describe a time when someone apologized to you
 
@@ -5170,74 +5949,94 @@ You should say:
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+About a year and a half ago a classmate of mine apologised to me for something that had happened six months before that — and the gap between the incident and the apology was what made the experience most interesting to reflect on. The original incident was relatively minor: she had shared something I'd told her in confidence with two other people in our study group, not maliciously, just carelessly, and when I found out about it I'd felt the specific kind of betrayal that is less about the information itself than about the evidence it provides about how one is regarded. I didn't address it at the time — partly because the incident felt too minor to make a formal complaint about and partly because I wasn't sure how to express it without seeming disproportionately upset. When she apologised, it was in person, specifically worded, and unprompted: she named what she'd done, said why it was wrong from her perspective, and didn't ask for a specific response. The apology wasn't an emotional transaction whose purpose was her being forgiven — it was simply an accurate account of what had happened and an acknowledgement of her responsibility for it — and the quality of it was, I think, what made it more effective than most apologies I've received.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The apology that has stayed with me most from my professional life came from a manager I worked under about six years ago who called me into his office to apologise for how he'd handled a performance review meeting about three weeks earlier — a meeting in which he had delivered critical feedback in a way that was accurate in content but poorly calibrated in tone and context, leaving me to process the feedback's professional implications and the manner of delivery's emotional impact simultaneously in a way that made neither processing properly possible. The apology itself was factual and specific: he said that he had prepared the content carefully but had not adequately considered how the delivery would land given the full context of my situation at the time, and that he should have done so. He didn't over-explain, didn't seek my reassurance that no lasting harm had been done, and didn't try to soften the original feedback retrospectively. What I found most useful about the experience was not the apology itself but the model of professional accountability it provided — the demonstration that acknowledging a mistake in delivery is not the same as denying the truth of the content, and that the two can and should be addressed separately.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **in confidence** (adv phr): told as a secret; not to be shared | dưới dạng bí mật, được tin tưởng
+- **unprompted** (adj) (/ʌnˈprɒmp.tɪd/): done without being asked or reminded | tự nguyện, không cần nhắc nhở
+- **calibrated** (adj) (/ˈkæl.ɪ.breɪt.ɪd/): carefully adjusted to be appropriate to the situation | được điều chỉnh phù hợp
+- **retrospectively** (adv) (/ˌret.rəˈspek.tɪv.li/): looking back at or applying to past events | về sau nhìn lại, hồi tố
+- **accountability** (n) (/əˌkaʊn.təˈbɪl.ɪ.ti/): the fact of being responsible for one's actions | trách nhiệm giải trình
+- **disproportionately** (adv) (/ˌdɪs.prəˈpɔː.ʃən.ɪt.li/): to an extent that is too large or too small | một cách không tương xứng
+- **maliciously** (adv) (/məˈlɪʃ.ə.sli/): with the intention of causing harm | với ý định gây hại, một cách ác ý
+- **emotional transaction** (n phr): an interaction driven primarily by emotional need | giao dịch cảm xúc
+- **acknowledgement** (n) (/əkˈnɒl.ɪdʒ.mənt/): recognition or admission of a fact or situation | sự thừa nhận
+- **performance review** (n phr): a formal assessment of someone's work performance | đánh giá hiệu suất làm việc
 
 ### 1. Why do some people refuse to say "sorry" to others?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Resistance to apologising reflects a complex of psychological factors that combine to make the simple act of acknowledging a mistake feel substantially more threatening than the behaviour's face value suggests. The most fundamental mechanism is ego-threat: apology requires explicit acknowledgement that one has done something wrong, which conflicts with the self-concept of people who strongly associate their identity with being competent, fair, or morally good — and the cognitive effort required to protect a positive self-concept in the face of this evidence is often greater than the social cost of refusing to apologise. The power dimension is equally relevant: in hierarchical relationships, apologies traditionally flow from lower-status to higher-status individuals, and the expectation of upward apology — from a superior to a subordinate — violates a status norm that many people in positions of relative power are unwilling to challenge, because doing so is experienced as a status concession beyond the scope of the specific incident.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional organisational psychology analysis of apology avoidance identifies fear of liability as a significant institutional driver in professional and legal contexts — the concern that an explicit acknowledgement of wrongdoing will expose the apologiser to formal consequences including litigation, regulatory action, or formal disciplinary process. This concern is most acute in medical, legal, and corporate professional contexts, where explicit apologies have historically been used as admissions of liability in subsequent legal proceedings — and it has produced institutional cultures in which legal advice systematically overrides the relational and ethical case for acknowledgement. Several jurisdictions have responded by enacting "apology legislation" that explicitly excludes apologies from use as evidence in civil proceedings — precisely because the chilling effect of liability concern on the willingness to apologise imposes substantial relational and social costs across professional contexts.
 
 ### 2. Do you think people should apologize for anything wrong they do?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The universal apology norm — the position that any mistake or wrongdoing obligates an apology — is more nuanced in practice than its framing suggests, because the social and relational function of apology is better served by specific, well-considered acknowledgement than by reflexive apology for every minor infraction. The serial apologiser — the person who apologises constantly, for minor things, often preemptively — is a recognisable social type whose constant apologising typically communicates anxiety rather than genuine accountability, and whose apologies carry progressively less informational weight to the people who receive them frequently. The stronger position is that apology is most valuable — both functionally and ethically — when the wrongdoing is genuine, the acknowledgement specific, and the expression chosen with care rather than reflexively deployed as a social lubricant.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional ethics perspective on apology obligation identifies the severity, intentionality, and relational context of the wrongdoing as the variables that determine the nature and depth of the appropriate apology rather than obligating apology uniformly across all mistakes. For serious wrongs — those that cause significant harm, involve breach of trust, or reflect genuine moral failure — explicit, specific apology is ethically required and its absence represents a meaningful additional wrong. For minor, accidental infractions without significant impact — small disruptions, innocent misunderstandings, trivially inconvenient mistakes — the social norm of apology should be met but the magnitude of the acknowledgement should be calibrated to the magnitude of the wrong, because disproportionate apology for minor incidents creates social awkwardness and implicitly claims a greater severity than the incident warrants.
 
 ### 3. Do people in your country like to say "sorry"?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Vietnamese social norms around apology are characterised by a significant gap between the frequency of implicit acknowledgement — the avoidance of eye contact, the self-deprecating laugh, the gesture of deference that communicates awareness of having caused inconvenience — and the frequency of explicit verbal apology, which is somewhat less common in everyday social interaction than in British or North American social contexts. This gap reflects the importance of face in Vietnamese social interaction: explicit verbal apology, particularly in public or semi-public contexts, draws attention to the apologiser's failure in ways that increase rather than reduce face loss, making the implicit acknowledgement culturally more effective at restoring relational balance than the direct verbal admission that Western social norms typically expect. The pattern is nuanced by generation and context: younger urban Vietnamese are somewhat more likely than their parents' generation to use explicit verbal apology in close social relationships, reflecting the influence of international cultural exposure.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional cross-cultural communication perspective on Vietnamese apology norms identifies the distinction between high-context and low-context communication cultures as directly relevant. In high-context communication environments — where substantial meaning is conveyed through non-verbal cues, contextual knowledge, and implicit communication rather than through explicit verbal statement — the social work done by apology in low-context cultures is accomplished through different communicative means: in Vietnamese professional contexts, this means through gestures of deference, behavioural correction without verbal acknowledgement, and the re-establishment of relational harmony through acts of care rather than through verbal admission of fault. This pattern is not ethically deficient relative to explicit verbal apology norms; it reflects a different theory of how social repair is most effectively accomplished in the specific cultural context.
 
 ### 4. On what occasion do people usually apologize to others?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The occasions that most reliably elicit apology cluster around the categories of disruption, harm, and breach of expectation — but the specific occasions vary substantially with the social relationship context in ways that reflect the different apology norms operating in different relationship types. In close personal relationships — friendships and family — apology tends to occur after interpersonal conflict: after arguments, misunderstandings, and promises broken — when the relational damage is significant enough to require explicit acknowledgement for repair to begin. In formal and professional contexts — workplaces, commercial interactions, institutional settings — apology tends to be triggered by more specific and bounded occasions: delays, errors affecting others, misunderstandings with professional consequences, and breaches of professional commitment.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional analysis of apology occasions in organisational contexts identifies the service failure as the commercially and operationally most significant category — the moment when a product, service, or commitment fails to meet the expectation it created. Service recovery research consistently shows that effective apology for service failure — specific, prompt, accompanied by demonstrated understanding of the impact from the customer's perspective — is among the most powerful tools available for restoring customer trust after failure, and is more effective than compensation alone in producing long-term relationship restoration. The institutional occasions that go under-apologised — relative to what the evidence suggests would produce the best relational outcomes — are the ambiguous failure occasions, where the attribution of responsibility is contested or unclear, and where the institutional preference for not conceding fault produces apology avoidance in exactly the circumstances where acknowledgement would do most good.
 
 ### 5. Do you think every "sorry" is from the bottom of the heart?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Sincerity is not a binary property of apologies — apologies range across a spectrum from perfunctory social formulas whose communicative function is social lubrication rather than genuine acknowledgement, to deeply felt expressions of regret whose sincerity is difficult to doubt. The most common apologies in everyday social life — the "sorry" when bumping into someone on a pavement, the apologetic email opener that softens a request — are not from the bottom of the heart in any meaningful sense, and it would be both peculiar and somewhat exhausting to expect them to be: their social function doesn't require sincerity, only the performance of social awareness. The cases where sincerity genuinely matters — where the relational damage being repaired is significant enough that the apology's effectiveness depends on its being genuine — are identifiable precisely because the inadequacy of a pro forma apology in those contexts is immediately apparent to the person receiving it.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional psychological analysis of apology sincerity identifies the behavioural intention dimension — whether the apologiser genuinely intends to behave differently as a result of the acknowledgement — as the most reliable indicator of sincerity, more informative than the emotional expressiveness of the apology itself. Research on apology and forgiveness consistently shows that the quality of apology most predictive of successful relational repair is not emotional intensity but specificity and behavioural commitment: the apology that names what was done, acknowledges its impact from the other person's perspective, and identifies what the apologiser commits to doing differently, tends to produce more reliable relational repair than emotionally effusive apologies without the same specificity. Institutional apologies — from corporate entities, political figures, and public organisations — are most commonly evaluated as insincere precisely because they typically lack the behavioural commitment dimension: they acknowledge the harm but provide no credible mechanism for preventing its recurrence.
 
 ### 6. Are women better than men at recognizing emotions?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The evidence for average female superiority in emotion recognition tasks is reasonably consistent across research settings — studies using facial expression recognition, vocal affect identification, and emotion inference tasks typically find women outperforming men — but the magnitude of the differences is typically small, the overlap in the distributions very large, and the causal interpretation contested between those who attribute the difference to biological factors and those who attribute it primarily to differential socialisation. The socialisation argument is well-supported: girls are consistently trained from early childhood to attend to, interpret, and regulate emotional information to a greater degree than boys in most cultural contexts, and the emotional attention and interpretation habits formed in that socialisation would be expected to produce the observed performance differences on emotion recognition tasks without requiring appeal to biological differences. The practical implication is that the observed differences are likely both real and substantially reversible — evidence from training studies suggests that explicit emotion recognition training produces performance improvements in both sexes that substantially close the average gap.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The professional organisational psychology perspective on gender and emotion recognition identifies the occupational sorting mechanism as a significant confound in interpreting individual-level gender differences. Women are disproportionately represented in occupations that require well-developed emotion recognition capacity — primary education, social work, healthcare, human resources, counselling — which means that the average female advantage in emotion recognition studies may reflect occupational self-selection and practice effects as much as any prior individual difference. The research that explicitly controls for occupational role finds that the gender effect on emotion recognition is substantially reduced — suggesting that what looks like a stable gender difference is substantially a gender-correlated difference in occupational practice that, like the socialisation explanation, points toward a learned rather than fixed capacity. The professional implication is that organisations concerned with maximising emotion recognition capacity across their workforces should focus on training and role assignment rather than on demographic screening.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **pro forma** (adj phr) (/ˌprəʊ ˈfɔː.mə/): done as a matter of routine without real meaning | theo thủ tục, chiếu lệ
+- **effusive** (adj) (/ɪˈfjuː.sɪv/): expressing feelings in an exaggerated, unrestrained way | phô trương cảm xúc, nhiệt tình thái quá
+- **apology legislation** (n phr): laws that protect apologies from being used as legal admissions of fault | luật về xin lỗi (bảo vệ quyền xin lỗi)
+- **face loss** (n phr): the damage to one's social reputation or dignity | mất thể diện
+- **service recovery** (n phr): the steps taken to restore customer satisfaction after a service failure | khắc phục sự cố dịch vụ
+- **sincerity** (n) (/sɪnˈser.ɪ.ti/): the quality of being genuine and honest | sự chân thành, thành thật
+- **occupational sorting** (n phr): the tendency for people to self-select into jobs that match their traits | phân loại nghề nghiệp theo đặc điểm cá nhân
+- **confound** (n) (/ˈkɒn.faʊnd/): a variable that distorts the results of a study | biến số gây nhiễu
+- **emotion recognition** (n phr): the ability to identify and interpret others' emotional states | nhận dạng cảm xúc
+- **behavioural commitment** (n phr): a stated intention to change one's conduct going forward | cam kết thay đổi hành vi
+
+
