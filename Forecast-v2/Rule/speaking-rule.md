@@ -114,25 +114,27 @@ IELTS_SPEAKING_AGENT_RULES:
       - too many rare words
 
   part_3_script_rules:
-    answer_length: "4-7 sentences"
+    answer_length: "5-7 sentences"
+    style: argumentative_discursive
     structure:
-      - clear opinion/general answer
-      - explanation
-      - example or comparison
-      - nuance/counterpoint/result
-    style:
-      - analytical
-      - abstract/generalized
-      - balanced
+      - take_a_clear_stance: State a position or viewpoint directly. Do not hedge at the start.
+      - reasoning: Explain WHY this position holds, using logical cause-effect or principle-based argument.
+      - evidence_or_example: Support the argument with a concrete example, statistic, or social trend (not a personal anecdote).
+      - counter_argument: Briefly acknowledge the opposing view or a nuance that complicates the main position.
+      - conclusion_or_synthesis: Wrap up with a synthesis, implication, or balanced judgement.
     must_include:
-      - cause-effect language
-      - comparison/contrast where useful
-      - precise vocabulary
-      - complex sentence forms
+      - argumentative discourse markers (e.g., "It can be argued that...", "While it is true that...", "That said...", "The crux of the issue is...")
+      - cause-effect language (e.g., "This leads to...", "As a result...", "One consequence is...")
+      - comparison or contrast where relevant
+      - abstract, generalized statements (avoid "I personally" as the main support)
+      - precise, topic-specific vocabulary
+      - at least one complex sentence structure (e.g., concessive clause, conditional, relative clause)
     avoid:
-      - only personal examples
-      - simplistic yes/no answers
-      - unsupported opinions
+      - answering only from personal experience
+      - simplistic yes/no without argument
+      - unsupported or vague opinions
+      - informal or conversational-only tone in Part 3
+      - starting the answer with a personal pronoun ("I think..." is acceptable ONLY after an objective opening)
 
   response_generation_checklist:
     fluency_check:

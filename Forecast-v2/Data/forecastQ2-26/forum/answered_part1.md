@@ -712,74 +712,83 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I would say it is fairly quiet, especially at night. During the day, there is some traffic because many students live nearby, but it is not noisy enough to disturb my study routine.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+My area is a bit noisy because it is close to a main road and several office buildings. Still, my apartment is on a higher floor, so the noise is manageable most of the time.
 
 ### Do you like the area that you live in?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I do. It is close to my university, affordable food stalls, and a few cafes, so it is very convenient for student life.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, overall I like it. It is not the most peaceful neighbourhood, but it is practical because I can get to work quickly and run errands without travelling too far.
 
 ### Where do you like to go in that area?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I often go to a small coffee shop near my apartment. It has a quiet upstairs space, so I usually study there when I need a change of scenery.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I usually go to a nearby convenience store or a small gym after work. On weekends, I sometimes visit a brunch place in the area because it helps me unwind.
 
 ### Are the people in your neighborhood nice and friendly?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, most of them are quite friendly. The food stall owners near my building even remember what I usually order, which makes the area feel more welcoming.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+They are polite, though people tend to keep to themselves. In a busy city, I think that is normal, but whenever I need help, the security guards and shopkeepers are approachable.
 
 ### Do you know any of your neighbours?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I know a few students who live on the same floor. We are not extremely close, but we sometimes chat in the hallway or lend each other small things like chargers.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Only a few, to be honest. I recognise the people who live next door and we greet each other in the lift, but our conversations are usually very brief.
 
 ### Do you know any famous people in your area?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Not personally. I have heard that a few local influencers sometimes film videos at cafes nearby, but I have never actually met anyone famous there.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+No, I do not know any famous people in my area. There are some successful business owners around, but they are not celebrities in the usual sense.
 
 ### What are some changes in the area recently?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Recently, several new cafes and convenience stores have opened because more students are moving into the area. It is becoming livelier, but luckily it still feels quite safe.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+There has been a lot of construction recently, especially new apartment blocks and office spaces. It makes the area more modern, but it also causes dust and traffic jams from time to time.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **disturb** (v) (/dɪˈstɜːb/): to interrupt or make someone lose focus | làm phiền, gây gián đoạn
+- **manageable** (adj) (/ˈmæn.ɪ.dʒə.bəl/): possible to deal with without too much difficulty | có thể kiểm soát được
+- **run errands** (v phr) (/rʌn ˈer.əndz/): to do small necessary tasks outside the home | đi làm việc vặt
+- **change of scenery** (n phr) (/tʃeɪndʒ əv ˈsiː.nər.i/): a different place or environment | thay đổi không gian
+- **unwind** (v) (/ʌnˈwaɪnd/): to relax after stress or work | thư giãn
+- **welcoming** (adj) (/ˈwel.kəm.ɪŋ/): friendly and pleasant | thân thiện, dễ chịu
+- **keep to themselves** (idiom) (/kiːp tuː ðəmˈselvz/): to avoid much social interaction | sống khép kín
+- **approachable** (adj) (/əˈprəʊ.tʃə.bəl/): easy and pleasant to talk to | dễ gần
+- **lively** (adj) (/ˈlaɪv.li/): full of activity and energy | sôi động
+- **apartment block** (n phr) (/əˈpɑːt.mənt blɒk/): a large building containing many apartments | tòa chung cư
 
 # PART 1: DAILY LIFE & HABITS
 
@@ -789,54 +798,63 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+To be honest, I am not naturally a morning person. I like the feeling of waking up early, but during exam periods I often stay up late, so getting out of bed can be a real struggle.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I do, mainly because my workday starts quite early. If I wake up ahead of time, I can have breakfast properly and avoid rushing, which puts me in a better mood.
 
 ### What do you usually do in the morning?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+On weekdays, I usually wash up, grab a quick breakfast, and check my class schedule. If I have an early lecture, I leave home in a hurry, but when my class starts later, I review my notes for a while.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I normally make coffee, read a few work messages, and plan my priorities for the day. After that, I commute to the office, and I usually listen to a podcast on the way.
 
 ### What did you do in the morning when you were little? Why?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+When I was little, my mornings were much more structured. My parents woke me up, prepared breakfast, and made sure I packed my school bag because I was not responsible enough to organise everything myself.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+As a child, I usually watched cartoons while eating breakfast before school. It was a small routine that made mornings less boring, especially because I did not really enjoy getting up early back then.
 
 ### Are there any differences between what you do in the morning now and what you did in the past?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, definitely. In the past, my parents handled most things for me, but now I have to manage my own time, cook simple meals, and make sure I am not late for class.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+There is a big difference. My mornings used to be quite carefree, but now they are more purposeful because I need to prepare mentally for meetings, deadlines, and decisions at work.
 
 ### Do you spend your mornings doing the same things on both weekends and weekdays? Why?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+No, not really. On weekdays, my mornings are shaped by my timetable, but on weekends I usually sleep in, have a slower breakfast, and maybe do some light revision if I have exams coming up.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+No, my weekend mornings are much more relaxed. I do not check work emails unless something urgent comes up, and I often go for a walk or have brunch with friends.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **morning person** (n phr) (/ˈmɔː.nɪŋ ˈpɜː.sən/): someone who feels energetic in the morning | người thích buổi sáng/dậy sớm
+- **exam period** (n phr) (/ɪɡˈzæm ˈpɪə.ri.əd/): the time when students take exams | giai đoạn thi cử
+- **ahead of time** (adv phr) (/əˈhed əv taɪm/): earlier than necessary or expected | sớm hơn dự kiến
+- **put someone in a better mood** (v phr) (/pʊt ˈsʌm.wʌn ɪn ə ˈbet.ə muːd/): to make someone feel happier | khiến ai có tâm trạng tốt hơn
+- **structured** (adj) (/ˈstrʌk.tʃəd/): organised and planned clearly | có cấu trúc, có kế hoạch
+- **routine** (n) (/ruːˈtiːn/): a regular way of doing things | thói quen, lịch trình
+- **carefree** (adj) (/ˈkeə.friː/): free from worries or responsibilities | vô tư, không lo nghĩ
+- **purposeful** (adj) (/ˈpɜː.pəs.fəl/): having a clear aim or intention | có mục đích rõ ràng
+- **sleep in** (phr v) (/sliːp ɪn/): to sleep later than usual | ngủ nướng
+- **brunch** (n) (/brʌntʃ/): a meal between breakfast and lunch | bữa sáng muộn
 
 ## Spare Time
 
@@ -844,54 +862,63 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I have some free time, but not as much as I would like. My schedule changes from week to week, and assignments can easily take over my evenings.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Not really during weekdays. After work, commuting, and housework, I usually only have a small window of time to relax before going to bed.
 
 ### What do you usually do in your spare time?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I usually watch videos, listen to music, or meet friends at a cafe near campus. If I have more time, I like doing a bit of graphic design because it feels creative and relaxing.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I usually unwind by going to the gym or watching a light series. Sometimes I cook something simple because it helps me slow down after a demanding day.
 
 ### Do you have more free time on weekdays or at weekends?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Definitely at weekends. On weekdays, classes and homework take up most of my time, but weekends give me more breathing space to rest or catch up with friends.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I have much more free time at weekends. Weekdays are fairly packed, so Saturday and Sunday are when I can properly recharge and do things at my own pace.
 
 ### Which day do you have more free time on, Saturday or Sunday?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Usually Sunday. I sometimes have group meetings or part-time tasks on Saturday, while Sunday is the day when I can stay home, tidy my room, and prepare for the next week.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I would say Sunday. Saturday is often filled with errands or social plans, but Sunday feels quieter, so I can sleep a bit longer and enjoy a slower day.
 
 ### Would you like to have more free time in the future?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, absolutely. I would like to have more time for hobbies and exercise because at the moment I sometimes feel that my life revolves too much around deadlines.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I would. I do not want endless free time, but I would like a healthier balance where I can pursue personal interests without feeling guilty about unfinished work.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **take over** (phr v) (/teɪk ˈəʊ.vər/): to occupy or control something completely | chiếm hết, lấn át
+- **small window of time** (n phr) (/smɔːl ˈwɪn.dəʊ əv taɪm/): a short available period | khoảng thời gian ngắn
+- **unwind** (v) (/ʌnˈwaɪnd/): to relax after stress or work | thư giãn
+- **demanding** (adj) (/dɪˈmɑːn.dɪŋ/): requiring a lot of effort | đòi hỏi nhiều sức lực
+- **breathing space** (n phr) (/ˈbriː.ðɪŋ speɪs/): time or room to rest and think | khoảng nghỉ, không gian để thở
+- **recharge** (v) (/ˌriːˈtʃɑːdʒ/): to regain energy | nạp lại năng lượng
+- **at my own pace** (adv phr) (/æt maɪ əʊn peɪs/): at a speed that suits me | theo nhịp độ của riêng mình
+- **run errands** (v phr) (/rʌn ˈer.əndz/): to do small necessary tasks | làm việc vặt
+- **revolve around** (phr v) (/rɪˈvɒlv əˈraʊnd/): to have something as the main focus | xoay quanh
+- **unfinished work** (n phr) (/ʌnˈfɪn.ɪʃt wɜːk/): tasks that have not been completed | công việc chưa hoàn thành
 
 ## Day Off
 
@@ -899,44 +926,51 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The last time was after my final exams last semester. I had almost a week without classes, so I went back home, slept a lot, and spent some proper time with my family.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I had a few days off during the last public holiday. I did not travel anywhere far, but I used the time to rest, sort out personal errands, and catch up on sleep.
 
 ### What do you usually do when you have days off?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I usually slow down and do things I cannot fit into a normal school week. I might meet friends, watch a series, or simply stay at home and recharge.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+On my days off, I try not to think too much about work. I usually clean my apartment, go to a cafe, exercise a little, and maybe have dinner with friends in the evening.
 
 ### What would you like to do if you had a day off tomorrow?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+If I had a day off tomorrow, I would probably go to the beach in the morning and then study lightly in the afternoon. That would give me a nice balance between relaxation and responsibility.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I would love to have a slow morning, make breakfast at home, and then get a massage or go for a swim. I think one quiet day like that would help me reset mentally.
 
 ### Do you usually spend your days off with your parents or with your friends?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+It depends. If I am back in my hometown, I spend most of my time with my parents, but during the semester I usually hang out with friends because we live close to each other.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I spend them with both, but probably more often with friends because my parents live in another city. Still, I call my family regularly, especially when I have a more relaxed day.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **final exams** (n phr) (/ˈfaɪ.nəl ɪɡˈzæmz/): important exams at the end of a term | kỳ thi cuối kỳ
+- **public holiday** (n phr) (/ˌpʌb.lɪk ˈhɒl.ə.deɪ/): a national day off work or school | ngày nghỉ lễ
+- **sort out** (phr v) (/sɔːt aʊt/): to organise or deal with something | sắp xếp, xử lý
+- **catch up on sleep** (v phr) (/kætʃ ʌp ɒn sliːp/): to sleep more after not sleeping enough | ngủ bù
+- **slow down** (phr v) (/sləʊ daʊn/): to become less busy or active | chậm lại, nghỉ nhịp
+- **recharge** (v) (/ˌriːˈtʃɑːdʒ/): to regain energy | nạp lại năng lượng
+- **reset mentally** (v phr) (/ˌriːˈset ˈmen.təl.i/): to refresh one's mind | làm mới tinh thần
+- **hang out** (phr v) (/hæŋ aʊt/): to spend relaxed time with others | đi chơi, tụ tập
 
 ## Having a Break
 
@@ -944,44 +978,53 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I try to take a short break every hour when I am studying. If I study for too long without stopping, my concentration drops and I end up reading the same paragraph again and again.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I usually take two or three short breaks during the workday. They are not long, maybe just five or ten minutes, but they help me stay focused and avoid feeling drained.
 
 ### What do you usually do when you are resting?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I usually stretch, drink water, or scroll through my phone for a few minutes. Sometimes I step outside for fresh air, especially when I have been staring at my laptop for too long.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I often walk around the office, make a cup of tea, or chat briefly with a colleague. I try not to open social media too much because it can easily turn a short break into a long distraction.
 
 ### Do you take a nap when you are taking your rest?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, sometimes, especially after lunch or during exam weeks. A short nap of around twenty minutes can make me feel much more alert without making me too sleepy afterwards.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Not very often on workdays because there is no suitable place for it. But on weekends, I do enjoy taking a quick nap in the afternoon if I feel physically tired.
 
 ### How do you feel after taking a nap?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+If the nap is short, I feel refreshed and ready to study again. But if I sleep for too long, I wake up groggy and it actually becomes harder to concentrate.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+A good nap makes me feel recharged and calmer. It is almost like pressing a reset button, especially after a busy morning or a stressful week.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **concentration** (n) (/ˌkɒn.sənˈtreɪ.ʃən/): the ability to focus | sự tập trung
+- **end up** (phr v) (/end ʌp/): to finally be in a situation | rốt cuộc là
+- **drained** (adj) (/dreɪnd/): very tired and low on energy | kiệt sức
+- **stretch** (v) (/stretʃ/): to extend the body or muscles | duỗi người, giãn cơ
+- **distraction** (n) (/dɪˈstræk.ʃən/): something that takes attention away | sự xao nhãng
+- **alert** (adj) (/əˈlɜːt/): awake and able to think clearly | tỉnh táo
+- **physically tired** (adj phr) (/ˈfɪz.ɪ.kəl.i ˈtaɪəd/): tired in the body | mệt về thể chất
+- **refreshed** (adj) (/rɪˈfreʃt/): feeling rested and energetic again | sảng khoái
+- **groggy** (adj) (/ˈɡrɒɡ.i/): weak or confused after sleep | uể oải sau khi ngủ
+- **press a reset button** (idiom) (/pres ə ˈriː.set ˈbʌt.ən/): to start again with a clearer mind | như khởi động lại tinh thần
 
 ## Going Out
 
@@ -989,44 +1032,52 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, almost always. I use my phone for maps, messages, online payments, and even checking my class group chat, so leaving it at home would make me feel a bit disconnected.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, definitely. My phone is essential because I need it for work calls, banking apps, ride-hailing services, and keeping in touch with colleagues or clients.
 
 ### Do you often bring cash with you?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I usually bring a small amount of cash, just in case. Most places accept bank transfers now, but some food stalls near my university still prefer cash.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Not much, to be honest. I mainly pay by card or e-wallet, but I still keep some cash in my wallet for parking fees or small street-food places.
 
 ### How often do you use cash?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I use cash a few times a week. It is mostly for inexpensive things like breakfast, photocopying documents, or buying snacks from small vendors.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I use cash less and less these days. Digital payments are faster and easier to track, so cash is more of a backup option for me now.
 
 ### Do you bring food or snacks with you when going out?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Sometimes I do, especially when I have a long day at university. I might bring a sandwich or some biscuits because buying food on campus every day can add up.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Only occasionally. If I know I will be stuck in meetings or traffic, I may carry a protein bar or some nuts, but usually I just buy something nearby.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **disconnected** (adj) (/ˌdɪs.kəˈnek.tɪd/): not connected or out of touch | mất kết nối
+- **essential** (adj) (/ɪˈsen.ʃəl/): extremely important or necessary | thiết yếu
+- **ride-hailing service** (n phr) (/ˈraɪdˌheɪ.lɪŋ ˈsɜː.vɪs/): an app-based transport service | dịch vụ gọi xe công nghệ
+- **just in case** (adv phr) (/dʒʌst ɪn keɪs/): as a precaution | phòng khi cần
+- **e-wallet** (n) (/ˈiː ˌwɒl.ɪt/): a digital wallet for payments | ví điện tử
+- **vendor** (n) (/ˈven.dər/): a person who sells things | người bán hàng
+- **backup option** (n phr) (/ˈbæk.ʌp ˈɒp.ʃən/): an alternative used if needed | phương án dự phòng
+- **add up** (phr v) (/æd ʌp/): to gradually become a large amount | cộng dồn thành nhiều
+- **protein bar** (n phr) (/ˈprəʊ.tiːn bɑːr/): a snack bar high in protein | thanh đồ ăn giàu đạm
 
 ## Walking
 
@@ -1034,54 +1085,63 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, quite a lot, especially around campus. My classrooms, library, and favourite cafe are all within walking distance, so walking is part of my daily routine.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Not as much as I should. I sit at a desk for most of the day, so I try to walk after work or during lunch breaks to stay a bit more active.
 
 ### Where did you go for a walk lately?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+A few days ago, I walked along the beach with one of my classmates after our evening lecture. It was breezy and quiet, so it helped me clear my head.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Recently, I went for a walk around a park near my apartment. I only walked for about twenty minutes, but it was enough to loosen up after sitting in meetings all day.
 
 ### Did you often go outside to have a walk when you were a child?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I did. When I was little, my parents often took me for walks around the neighbourhood after dinner because it was a simple way for the family to spend time together.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, quite often. I grew up in a quieter area, so I used to walk or ride a bike with other kids in the neighbourhood almost every afternoon.
 
 ### Why do people like to walk in parks?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I think parks give people a break from screens and traffic. The fresh air, trees, and open space make walking feel more relaxing than just walking along a busy road.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+People like parks because they offer a rare sense of calm in crowded cities. Walking there can reduce stress, improve mood, and make people feel healthier without needing expensive equipment.
 
 ### Where would you like to take a long walk if you had the chance?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I would love to take a long walk along a coastal road at sunset. I think the sea breeze and the view would make it feel peaceful rather than tiring.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+If I had the chance, I would take a long walk in a quiet mountain town like Da Lat. The cool weather and slower pace would be a nice escape from city life.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **within walking distance** (adv phr) (/wɪˈðɪn ˈwɔː.kɪŋ ˈdɪs.təns/): close enough to walk to | trong khoảng cách đi bộ
+- **daily routine** (n phr) (/ˈdeɪ.li ruːˈtiːn/): regular activities done every day | thói quen hằng ngày
+- **breezy** (adj) (/ˈbriː.zi/): pleasantly windy | có gió nhẹ, thoáng mát
+- **clear my head** (v phr) (/klɪər maɪ hed/): to feel mentally calmer and clearer | làm đầu óc tỉnh táo
+- **loosen up** (phr v) (/ˈluː.sən ʌp/): to relax tight muscles or tension | thư giãn, giãn cơ
+- **open space** (n phr) (/ˈəʊ.pən speɪs/): an outdoor area without many buildings | không gian mở
+- **sense of calm** (n phr) (/sens əv kɑːm/): a feeling of peace | cảm giác bình yên
+- **coastal road** (n phr) (/ˈkəʊ.stəl rəʊd/): a road near or along the sea | đường ven biển
+- **sea breeze** (n phr) (/siː briːz/): a light wind from the sea | gió biển
+- **escape from city life** (n phr) (/ɪˈskeɪp frəm ˈsɪt.i laɪf/): a break from urban pressure | thoát khỏi nhịp sống thành phố
 
 # PART 1: PERSONAL PREFERENCES & ACTIVITIES
 
@@ -1091,44 +1151,52 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, my main hobby is graphic design. I started doing it for fun, but now I sometimes design posters for student clubs, so it feels both enjoyable and useful.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I like cooking and going to the gym. Cooking helps me relax after work, while exercising keeps me from feeling too stiff after sitting at a desk all day.
 
 ### Did you have any hobbies when you were a child?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I used to draw a lot when I was little. I could spend hours copying cartoon characters, and I think that was where my interest in design first came from.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Definitely. When I was a child, I loved collecting stickers and playing badminton with neighbours. They were simple hobbies, but they made my childhood feel very active and social.
 
 ### Do you have a hobby that you've had since childhood?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, drawing is the one hobby that has stayed with me. The tools have changed from coloured pencils to design software, but the basic interest is still the same.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I still enjoy badminton, although I do not play as often as before. Whenever I have time, I book a court with friends because it reminds me of my childhood.
 
 ### Do you have the same hobbies as your family members?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Not exactly. My parents prefer gardening and watching TV, while I am more into creative and digital activities, but we all enjoy listening to music at home.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Partly, yes. My mother enjoys cooking, and I think I picked up that habit from her, although I prefer trying quick modern recipes rather than traditional dishes that take hours.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **graphic design** (n phr) (/ˈɡræf.ɪk dɪˈzaɪn/): the art of creating visual materials | thiết kế đồ họa
+- **for fun** (adv phr) (/fə fʌn/): for enjoyment, not as work | để giải trí
+- **stiff** (adj) (/stɪf/): physically tight or hard to move | cứng cơ, nhức mỏi
+- **copying cartoon characters** (v phr) (/ˈkɒp.i.ɪŋ kɑːˈtuːn ˈkær.ək.təz/): drawing animated figures by looking at them | vẽ lại nhân vật hoạt hình
+- **collecting stickers** (v phr) (/kəˈlektɪŋ ˈstɪk.əz/): gathering decorative adhesive pictures | sưu tầm nhãn dán
+- **design software** (n phr) (/dɪˈzaɪn ˈsɒft.weər/): computer programs used for design | phần mềm thiết kế
+- **book a court** (v phr) (/bʊk ə kɔːt/): to reserve a sports court | đặt sân thể thao
+- **be into** (phr v) (/bi ˈɪn.tuː/): to be interested in something | thích, có hứng thú với
+- **pick up a habit** (v phr) (/pɪk ʌp ə ˈhæb.ɪt/): to gradually start doing something regularly | hình thành/thấm một thói quen
 
 ## Childhood Activities
 
@@ -1136,44 +1204,52 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+When I was a child, I loved playing hide-and-seek and riding my bike around the neighbourhood. Those activities were simple, but they gave me a lot of freedom and excitement.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+My favourite activities were outdoor games like football, badminton, and cycling. I spent a lot of time outside because smartphones were not as common then, so children naturally played together more.
 
 ### What are your favourite activities?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+These days, I enjoy meeting friends at cafes, designing posters, and watching films. I still like going outside, but I probably spend more time on screen-based activities than I did as a child.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Now my favourite activities are exercising, cooking, and having quiet coffee dates with friends. I prefer activities that help me recover from work rather than ones that require too much planning.
 
 ### Did you prefer to do activities alone or with a group of people when you were a child?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I preferred doing things with a group. I was quite energetic as a child, and games felt much more exciting when there were cousins or neighbours joining in.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I definitely preferred group activities. I grew up in a neighbourhood where children played outside together every afternoon, so being alone felt a bit boring to me.
 
 ### Are there any differences between the activities you liked when you were a child and those you like now?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, there are quite a few differences. As a child, I liked active outdoor games, but now I enjoy quieter activities like design, films, and cafe study sessions.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, my preferences have changed a lot. I used to love noisy group games, but now I value activities that are calming and flexible because my work life is already busy enough.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **hide-and-seek** (n) (/ˌhaɪd ən ˈsiːk/): a children's game where players hide and one person searches | trò trốn tìm
+- **neighbourhood** (n) (/ˈneɪ.bə.hʊd/): the area around where someone lives | khu phố
+- **outdoor games** (n phr) (/ˈaʊt.dɔː ɡeɪmz/): games played outside | trò chơi ngoài trời
+- **screen-based** (adj) (/skriːn beɪst/): involving phones, computers, or screens | dựa trên màn hình
+- **recover from work** (v phr) (/rɪˈkʌv.ər frəm wɜːk/): to regain energy after working | hồi sức sau công việc
+- **energetic** (adj) (/ˌen.əˈdʒet.ɪk/): full of energy | năng động
+- **joining in** (phr v) (/ˌdʒɔɪ.nɪŋ ˈɪn/): taking part in an activity | tham gia vào
+- **preference** (n) (/ˈpref.ər.əns/): something someone likes more than another | sở thích, sự ưu tiên
+- **flexible** (adj) (/ˈflek.sə.bəl/): easy to change or adapt | linh hoạt
 
 ## Sports Team
 
@@ -1181,44 +1257,52 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I was part of my class badminton team in high school. We were not professional or anything, but we practised after class and joined a small school tournament. It was a memorable experience because I learned how to cooperate under pressure, not just play for myself.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I used to play on a company football team for a while. We trained once a week after work and sometimes competed with teams from other departments. I was not the best player, but it was a great way to bond with colleagues outside the office.
 
 ### Do you like watching team games? Why?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I do, especially football and volleyball matches. Team games are exciting because the result can change very quickly, and you can see how players support each other. I also enjoy the atmosphere when everyone is cheering for the same side.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I quite enjoy watching team games, mainly because they are unpredictable. Even if one player is talented, the whole team still has to communicate well and follow a strategy. That makes the match more dramatic than just watching one person perform alone.
 
 ### Are team sports popular in your culture?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, definitely. In Vietnam, football is probably the most popular team sport, and people get incredibly excited during big regional tournaments. At school, students also play basketball, volleyball, and badminton, so team sports are a normal part of student life.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, team sports are quite popular, especially football. Many companies organise football clubs or sports days because they see them as a way to build teamwork. Even people who do not play often enjoy watching national matches with friends or family.
 
 ### What are the differences between team sports and individual sports?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The biggest difference is responsibility. In team sports, you have to think about other players and adjust your actions to fit the group, while individual sports depend more on self-discipline and personal performance. I think both are useful, but they train different kinds of skills.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Team sports require communication, trust, and coordination, whereas individual sports rely more on personal focus and consistency. In a team, one mistake can affect everyone, but one good decision can also lift the whole group. That is why I think team sports teach people a lot about collaboration.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **school tournament** (n phr) (/skuːl ˈtʊə.nə.mənt/): a sports competition at school | giải đấu ở trường
+- **cooperate** (v) (/kəʊˈɒp.ə.reɪt/): to work together with others | hợp tác
+- **bond with colleagues** (v phr) (/bɒnd wɪð ˈkɒl.iːɡz/): to build closer relationships with coworkers | gắn kết với đồng nghiệp
+- **unpredictable** (adj) (/ˌʌn.prɪˈdɪk.tə.bəl/): difficult to know what will happen | khó đoán
+- **strategy** (n) (/ˈstræt.ə.dʒi/): a planned way to achieve a goal | chiến thuật, chiến lược
+- **regional tournament** (n phr) (/ˈriː.dʒən.əl ˈtʊə.nə.mənt/): a competition within a region | giải đấu khu vực
+- **self-discipline** (n) (/ˌself ˈdɪs.ə.plɪn/): the ability to control oneself and keep working | tính kỷ luật tự thân
+- **coordination** (n) (/kəʊˌɔː.dɪˈneɪ.ʃən/): the ability to organise actions together | sự phối hợp
+- **collaboration** (n) (/kəˌlæb.əˈreɪ.ʃən/): working together to achieve something | sự cộng tác
 
 ## Reading
 
@@ -1226,44 +1310,53 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, but my reading habits have changed quite a lot. I do not read novels as much as I used to, but I read articles, course materials, and short posts related to business or design almost every day. Reading helps me pick up new ideas without feeling like I am forcing myself to study.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I do, although I have less time for it now. I mostly read business books, newsletters, and articles about marketing or productivity. Even twenty minutes of reading before bed helps me slow down and learn something useful.
 
 ### Do you prefer to read on paper or on a screen?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+For textbooks, I prefer reading on paper because it is easier to highlight important points and write notes in the margin. However, for quick articles or lecture slides, reading on a screen is more convenient. So I would say it depends on the purpose.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I prefer screens for work because documents are easier to search, edit, and share. But when I read for pleasure, I still like printed books because they feel less distracting. A physical book also helps me stay away from notifications for a while.
 
 ### Do you prefer scanning or detailed reading?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+It depends on what I am reading. If I only need the main idea, I scan the text first to save time, especially before class discussions. But for exam preparation, I have to read carefully because small details can make a big difference.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+At work, I often scan reports first because I need to find key numbers or conclusions quickly. After that, if something looks important, I go back and read it in detail. This approach helps me avoid wasting time on information that is not relevant.
 
 ### When do you need to read carefully, and when not?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I need to read carefully when I study academic materials, exam instructions, or assignment requirements. If I miss one small condition, I might lose marks. But when I read social media posts or simple news updates, scanning is usually enough.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I read carefully when dealing with contracts, client briefs, or important emails because misunderstanding one sentence could cause real problems. On the other hand, I do not read every newsletter or casual update word by word. For those, I just skim for anything useful.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **reading habit** (n phr) (/ˈriː.dɪŋ ˈhæb.ɪt/): a regular way of reading | thói quen đọc
+- **course materials** (n phr) (/kɔːs məˈtɪə.ri.əlz/): learning resources for a subject | tài liệu học tập
+- **newsletter** (n) (/ˈnjuːzˌlet.ər/): an email or document with updates | bản tin định kỳ
+- **highlight** (v) (/ˈhaɪ.laɪt/): to mark important information | đánh dấu nổi bật
+- **margin** (n) (/ˈmɑː.dʒɪn/): the blank space at the side of a page | lề trang
+- **printed book** (n phr) (/ˈprɪn.tɪd bʊk/): a physical book on paper | sách in
+- **scan the text** (v phr) (/skæn ðə tekst/): to read quickly for key information | đọc lướt để tìm ý chính
+- **exam preparation** (n phr) (/ɪɡˈzæm ˌprep.əˈreɪ.ʃən/): studying before an exam | ôn thi
+- **client brief** (n phr) (/ˈklaɪ.ənt briːf/): instructions or requirements from a client | bản yêu cầu của khách hàng
+- **skim** (v) (/skɪm/): to read quickly without focusing on every word | đọc lướt
 
 ## Typing
 
@@ -1271,44 +1364,52 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I prefer typing for most school tasks because it is much faster and easier to edit. When I write essays or prepare group reports, typing helps me organise ideas more clearly. That said, I still use handwriting when I need to memorise something because it feels more personal and focused.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I definitely prefer typing because almost everything at work is digital now. Emails, reports, meeting notes, and project updates all need to be typed and shared quickly. Handwriting is still useful for quick brainstorming, but it is not practical for my daily workload.
 
 ### When did you learn how to type on a keyboard?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I think I learned properly when I was in secondary school. At first, I typed very slowly and looked at the keyboard all the time, but I improved naturally by doing homework and chatting with friends online.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I started learning in high school, but I became much faster at university when I had to write assignments regularly. Later, work made my typing even more efficient because I had to reply to emails and prepare documents under time pressure.
 
 ### Do you type on a desktop or laptop keyboard every day?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I type on my laptop almost every day. I use it for taking notes, writing assignments, making presentations, and sometimes doing freelance design work. Without a keyboard, my study routine would be much less efficient.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I use a laptop keyboard every working day, and sometimes an external keyboard at the office. I type so much that I have become quite sensitive to whether a keyboard feels comfortable or not.
 
 ### How do you improve your typing?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I improve mostly through practice rather than formal training. The more I type essays, messages, and notes, the faster I become. I also try to type without looking at the keyboard because that saves a surprising amount of time.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+For me, accuracy matters as much as speed, so I try to slow down slightly when writing important emails. I also use keyboard shortcuts and templates for repetitive tasks. Over time, those small habits make typing feel smoother and more professional.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **edit** (v) (/ˈed.ɪt/): to change or correct written content | chỉnh sửa
+- **memorise** (v) (/ˈmem.ə.raɪz/): to learn something so you can remember it | ghi nhớ
+- **brainstorming** (n) (/ˈbreɪnˌstɔː.mɪŋ/): quickly producing ideas | động não, lên ý tưởng
+- **practical** (adj) (/ˈpræk.tɪ.kəl/): useful and suitable for real situations | thực tế, tiện dụng
+- **under time pressure** (adv phr) (/ˈʌn.də taɪm ˈpreʃ.ər/): with limited time available | dưới áp lực thời gian
+- **external keyboard** (n phr) (/ɪkˈstɜː.nəl ˈkiː.bɔːd/): a separate keyboard connected to a device | bàn phím rời
+- **accuracy** (n) (/ˈæk.jə.rə.si/): correctness without mistakes | độ chính xác
+- **keyboard shortcut** (n phr) (/ˈkiː.bɔːd ˈʃɔːt.kʌt/): a key combination that performs an action quickly | phím tắt
+- **repetitive task** (n phr) (/rɪˈpet.ə.tɪv tɑːsk/): a task done again and again | nhiệm vụ lặp đi lặp lại
 
 # PART 1: VIEWS, PLACES & TRAVEL
 
@@ -1318,44 +1419,53 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I once watched the sunrise from My Khe Beach in Da Nang, and it was genuinely unforgettable. The sky slowly turned pink and orange, and the sea looked almost silver in the early light. It was a simple moment, but it made me feel unusually calm before a busy school day.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, the most memorable view I have seen was from a rooftop bar in Ho Chi Minh City at night. The whole skyline was lit up, and you could see streams of traffic moving below. It made the city look chaotic but strangely beautiful at the same time.
 
 ### Do you like taking pictures of different views?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I do, especially when I travel or go to the beach with friends. I am not a professional photographer, but I like capturing views because photos help me remember how I felt at that moment. Sometimes I also use those pictures as design inspiration.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, but I do it more casually now. If I see a nice sunset, a quiet street, or an interesting city view, I take a quick photo on my phone. I rarely post everything online, but I like keeping those images as small memories.
 
 ### Do you prefer views in urban areas or rural areas?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I prefer rural or natural views because they feel more relaxing. Urban views can be impressive, especially at night, but nature gives me a stronger sense of peace. When I am stressed with exams, seeing the sea or mountains helps me clear my mind.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I enjoy both, but I slightly prefer rural views because my daily life is already surrounded by buildings and traffic. A view of rice fields, hills, or a quiet lake feels like a real escape. It reminds me that life does not always have to move so fast.
 
 ### Do you prefer views in your own country or in other countries?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+For now, I prefer views in my own country because I have not travelled abroad much. Vietnam has beaches, mountains, old towns, and rice terraces, so there is already a lot to explore. I would love to see foreign landscapes too, but I do not feel I have fully discovered my own country yet.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I appreciate both, but views in my own country feel more meaningful to me. When I see places like Ha Long Bay or the mountains in Da Lat, there is a sense of familiarity and pride. Foreign views can be stunning, but local scenery often feels closer to my heart.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **unforgettable** (adj) (/ˌʌn.fəˈɡet.ə.bəl/): impossible to forget | không thể quên
+- **sunrise** (n) (/ˈsʌn.raɪz/): the time when the sun appears in the morning | bình minh
+- **skyline** (n) (/ˈskaɪ.laɪn/): the outline of buildings against the sky | đường chân trời đô thị
+- **stream of traffic** (n phr) (/striːm əv ˈtræf.ɪk/): a continuous flow of vehicles | dòng xe cộ
+- **capture** (v) (/ˈkæp.tʃər/): to record something in a photo or video | ghi lại, chụp lại
+- **design inspiration** (n phr) (/dɪˈzaɪn ˌɪn.spəˈreɪ.ʃən/): ideas that help creative design | cảm hứng thiết kế
+- **sense of peace** (n phr) (/sens əv piːs/): a feeling of calmness | cảm giác bình yên
+- **rice terrace** (n phr) (/raɪs ˈter.əs/): stepped fields used for growing rice | ruộng bậc thang
+- **familiarity** (n) (/fəˌmɪl.iˈær.ə.ti/): the feeling of knowing something well | sự thân thuộc
+- **stunning** (adj) (/ˈstʌn.ɪŋ/): extremely beautiful or impressive | tuyệt đẹp, ấn tượng
 
 ## Scenery
 
@@ -1363,44 +1473,52 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I do it almost automatically, especially when I travel by bus between my hometown and university. Looking at the roads, fields, and small houses outside makes the journey feel shorter. It is also a nice break from staring at my phone for hours.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I often look out the window, particularly when I am not driving myself. Even in the city, I like observing little details such as street vendors, old buildings, and changing neighbourhoods. It gives me something calm to focus on during traffic.
 
 ### What are the most beautiful sights you have seen while travelling?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+One of the most beautiful sights I have seen was the view from Hai Van Pass. You can see the mountains on one side and the sea on the other, which feels incredibly dramatic. I remember taking lots of photos because the scenery looked different every few minutes.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+For me, the most beautiful sight was in Da Lat, where the hills were covered in mist early in the morning. It was quiet, cool, and completely different from the busy city where I work. That kind of scenery makes me feel as if time slows down.
 
 ### Do you prefer the mountains or the sea?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I slightly prefer the sea because I grew up near the coast. The sound of waves and the open horizon make me feel relaxed, especially when I am stressed about school. Mountains are beautiful too, but the sea feels more familiar to me.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I prefer the mountains these days. Since I spend most of my time in a hot, crowded city, cool mountain air feels refreshing. I also like the slower pace in mountain towns, where people seem less rushed.
 
 ### Do you like to take scenery pictures?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I like taking scenery pictures, although I mostly use my phone. I enjoy capturing sunsets, beaches, and quiet streets because those photos can bring back the mood of a trip. Sometimes I even use them as inspiration for my design projects.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, but I do not take photos obsessively. If a view is really striking, I take a few pictures and then put my phone away so I can enjoy it properly. I think photos are nice, but they should not replace the actual experience.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **automatically** (adv) (/ˌɔː.təˈmæt.ɪ.kəl.i/): without thinking much | một cách tự nhiên, tự động
+- **street vendor** (n phr) (/striːt ˈven.dər/): someone who sells goods on the street | người bán hàng rong
+- **dramatic** (adj) (/drəˈmæt.ɪk/): impressive and exciting to look at | ấn tượng, hùng vĩ
+- **mist** (n) (/mɪst/): thin cloud close to the ground | sương mù mỏng
+- **open horizon** (n phr) (/ˈəʊ.pən həˈraɪ.zən/): a wide view where the sky meets the land or sea | đường chân trời rộng mở
+- **refreshing** (adj) (/rɪˈfreʃ.ɪŋ/): making someone feel fresh and energetic | sảng khoái
+- **capture** (v) (/ˈkæp.tʃər/): to record something in a photo | ghi lại, chụp lại
+- **striking** (adj) (/ˈstraɪ.kɪŋ/): very noticeable or impressive | nổi bật, gây ấn tượng mạnh
+- **actual experience** (n phr) (/ˈæk.tʃu.əl ɪkˈspɪə.ri.əns/): the real moment or event itself | trải nghiệm thực tế
 
 ## Building
 
@@ -1408,44 +1526,53 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+There are a few tall apartment buildings near where I live, but the area is not packed with skyscrapers. Most buildings around my university are medium-sized, like cafes, dormitories, and small offices. I actually prefer that because the streets feel more open and less overwhelming.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, there are quite a few tall buildings near my apartment. I live close to a business district, so there are office towers, hotels, and modern apartment blocks all around. It looks impressive at night, but it also means the area can be crowded during rush hour.
 
 ### Do you take photos of buildings?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Sometimes, especially if the building has an interesting design or colourful walls. As someone who likes graphic design, I notice shapes, patterns, and lighting quite a lot. I do not post every picture, but I keep them for inspiration.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, occasionally. When I travel, I like taking photos of old buildings, temples, or unusual modern architecture. They tell you a lot about a place's history and personality, not just how it looks.
 
 ### Is there a building that you would like to visit?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+I would like to visit the Bitexco Financial Tower in Ho Chi Minh City. I have seen it in photos many times, and I think the observation deck would give me a great view of the city. It would also be interesting to compare that skyline with the quieter cityscape in Da Nang.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I would love to visit the Sydney Opera House one day. It is not just famous; its design is so distinctive that you can recognise it immediately. I think seeing it in person would be much more impressive than seeing it online.
 
 ### Do you want to live in a tall building?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Maybe in the future, but not necessarily now. Living in a tall building could be convenient and offer a nice view, but I would worry about high rent and crowded lifts. As a student, practicality matters more than having a fancy address.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, I would not mind living in a tall building if it were well-managed. A high-floor apartment can offer better views, more security, and useful facilities like a gym or swimming pool. However, I would still want the building to be quiet and not too densely populated.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **skyscraper** (n) (/ˈskaɪˌskreɪ.pər/): a very tall building | nhà chọc trời
+- **overwhelming** (adj) (/ˌəʊ.vəˈwel.mɪŋ/): too intense or crowded to handle easily | choáng ngợp
+- **business district** (n phr) (/ˈbɪz.nəs ˈdɪs.trɪkt/): an area with many offices and companies | khu thương mại/văn phòng
+- **apartment block** (n phr) (/əˈpɑːt.mənt blɒk/): a large building with many apartments | tòa chung cư
+- **pattern** (n) (/ˈpæt.ən/): a repeated design or arrangement | họa tiết, kiểu mẫu
+- **architecture** (n) (/ˈɑː.kɪ.tek.tʃər/): the design and style of buildings | kiến trúc
+- **observation deck** (n phr) (/ˌɒb.zəˈveɪ.ʃən dek/): a high area for viewing a city or landscape | đài quan sát
+- **cityscape** (n) (/ˈsɪt.i.skeɪp/): the visual appearance of a city | cảnh quan thành phố
+- **distinctive** (adj) (/dɪˈstɪŋk.tɪv/): clearly different and easy to recognise | đặc trưng, dễ nhận ra
+- **densely populated** (adj phr) (/ˈdens.li ˈpɒp.jə.leɪ.tɪd/): having many people in a small area | đông dân, mật độ cao
 
 ## Museum
 
@@ -1453,44 +1580,52 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I think museums are important because they make history and culture easier to understand. Reading about the past in a textbook can feel quite dry, but seeing real objects, photos, and old documents makes the story more vivid. For students like me, museums can turn learning into something more memorable.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, definitely. Museums preserve things that might otherwise be forgotten, such as traditional crafts, war memories, or local customs. I also think they give busy adults a chance to slow down and reconnect with history instead of only focusing on work and modern life.
 
 ### Are there many museums in your hometown?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+There are a few, but I would not say there are many. In Da Nang, for example, there are museums about Cham sculpture, local history, and fine arts. They are not huge, but they are still worth visiting if someone wants to understand the city better.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+My hometown has some interesting museums, though not as many as a capital city. The most famous ones are connected to local history and culture. I think they could attract more visitors if they became more interactive and better promoted online.
 
 ### Do you often visit a museum?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Not very often, to be honest. I usually visit museums when my teachers organise a field trip or when friends from another city come to visit. I enjoy the experience once I am there, but it is not something I do every weekend.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+I do not visit museums regularly, mainly because my schedule is quite full. However, when I travel, I try to include at least one museum because it helps me understand the place beyond restaurants and tourist spots.
 
 ### When was the last time you visited a museum?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+The last time was a few months ago when I visited the Museum of Cham Sculpture with some classmates. We had to do a small assignment about local culture, but I ended up enjoying it more than expected. The carvings were detailed, and the atmosphere was very quiet.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+The last time was during a short trip to Hanoi last year. I visited the Vietnam Museum of Ethnology, and I was impressed by how it showed the lifestyles of different ethnic groups. It was educational without feeling too heavy.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **preserve** (v) (/prɪˈzɜːv/): to protect something from being lost or damaged | bảo tồn
+- **vivid** (adj) (/ˈvɪv.ɪd/): clear, detailed, and easy to imagine | sinh động
+- **reconnect with history** (v phr) (/ˌriː.kəˈnekt wɪð ˈhɪs.tər.i/): to feel connected to the past again | kết nối lại với lịch sử
+- **Cham sculpture** (n phr) (/tʃɑːm ˈskʌlp.tʃər/): carved art from Cham culture | điêu khắc Chăm
+- **interactive** (adj) (/ˌɪn.təˈræk.tɪv/): involving active participation | có tính tương tác
+- **field trip** (n phr) (/fiːld trɪp/): an educational visit outside school | chuyến đi thực tế
+- **tourist spot** (n phr) (/ˈtʊə.rɪst spɒt/): a place popular with visitors | điểm du lịch
+- **carving** (n) (/ˈkɑː.vɪŋ/): an object or pattern cut from wood or stone | tác phẩm chạm khắc
+- **ethnic group** (n phr) (/ˈeθ.nɪk ɡruːp/): a group sharing culture or ancestry | nhóm dân tộc
 
 ## Public Places
 
@@ -1498,44 +1633,53 @@ Yes, I would recommend Ho Chi Minh City to people who are career-oriented and en
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, quite often. My friends and I usually go to cafes, parks, shopping centres, or the beach because those places are affordable and easy to reach. Public places are also more comfortable for students because no one has to host everyone at home.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, but mostly on weekends. My friends and I often meet at coffee shops, bookstores, or walking streets because they are convenient meeting points. After a long workweek, I prefer public places that are lively but not too noisy.
 
 ### Have you ever talked with someone you don't know in public places?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, a few times. For example, I once talked to a tourist at the beach because she needed directions, and we ended up chatting briefly about local food. It was not a deep conversation, but it felt friendly and natural.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, occasionally. I have spoken to strangers in cafes, airports, and queues, usually about simple things like directions or whether a seat is taken. I do not start conversations all the time, but I do not mind them when they happen naturally.
 
 ### Do you wear headphones in public places?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I often wear headphones when I am on the bus or studying in a cafe. They help me block out background noise and focus better. But if I am walking on a busy street, I keep the volume low for safety.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, especially when I commute or work in a shared space. Headphones help me create a small private bubble in a crowded environment. Still, I try to stay aware of what is happening around me, especially in traffic.
 
 ### Would you like to see more public places near where you live?
 
 **Sample 1: Học sinh / Sinh viên**
 
-[Nhập câu trả lời vào đây]
+Yes, I would love to see more green spaces and study-friendly public areas. Many students need places where they can relax or work without spending too much money. A clean park or public reading space would be really useful.
 
 **Sample 2: Người đi làm**
 
-[Nhập câu trả lời vào đây]
+Yes, definitely. I think cities need more parks, benches, and pedestrian-friendly areas, not just malls and office buildings. Good public spaces make daily life healthier and give people somewhere to breathe outside their apartments.
 
 **Vocabulary:**
-- **word** (/pron/): Nghĩa
+- **affordable** (adj) (/əˈfɔː.də.bəl/): reasonably priced | giá cả phải chăng
+- **host** (v) (/həʊst/): to invite and receive guests | tiếp đón, tổ chức tại nhà
+- **meeting point** (n phr) (/ˈmiː.tɪŋ pɔɪnt/): a place where people agree to meet | điểm hẹn
+- **directions** (n) (/daɪˈrek.ʃənz/): instructions for how to get somewhere | chỉ đường
+- **queue** (n) (/kjuː/): a line of people waiting | hàng chờ
+- **block out** (phr v) (/blɒk aʊt/): to stop something from being heard or noticed | chặn, loại bỏ
+- **private bubble** (n phr) (/ˈpraɪ.vət ˈbʌb.əl/): a personal mental space in public | không gian riêng tư nhỏ
+- **green space** (n phr) (/ɡriːn speɪs/): an area with grass, trees, or plants | không gian xanh
+- **pedestrian-friendly** (adj) (/pəˈdes.tri.ən ˈfrend.li/): safe and pleasant for walkers | thân thiện với người đi bộ
+- **somewhere to breathe** (n phr) (/ˈsʌm.weə tuː briːð/): a place to relax and feel less crowded | nơi để thư giãn, dễ thở hơn
 
 ## Crowded Place
 
