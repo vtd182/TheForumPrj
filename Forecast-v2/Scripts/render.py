@@ -24,38 +24,73 @@ def escape_latex(text):
 
 def build_vocab_table(raw_vocab_lines):
     """Convert raw markdown vocab lines into a 5-column LaTeX tabularx table.
-    Format: - **word** (part_of_speech) (IPA): English meaning | Vietnamese meaning
+
+    Supported formats (flexible):
+      - **word** (pos) (/IPA/): English meaning | Vietnamese meaning
+      - **word** (/IPA/): English meaning | Vietnamese meaning
+      - **word** (pos): English meaning | Vietnamese meaning
+      - **word** (pos) (IPA): English meaning | Vietnamese meaning  [no / delimiters]
+    The function distinguishes IPA from pos by checking if the group starts with /
+    or contains only letters/spaces (pos) vs IPA characters.
     """
+    def is_ipa(s):
+        """Return True if this parenthetical group looks like an IPA transcription."""
+        s = s.strip()
+        return s.startswith('/') or s.startswith('ˌ') or s.startswith('ˈ')
+
     rows = []
     for v in raw_vocab_lines:
         v = v.strip()
         if not v.startswith('- '):
             continue
         v = v[2:].strip()
-        # Pattern: "**word** (pos) (IPA): English meaning | Vietnamese meaning"
-        m = re.match(
-            r'\*\*(.*?)\*\*\s*\((.*?)\)\s*\((.*?)\)\s*:\s*(.*?)\s*\|\s*(.*)',
-            v
-        )
-        if m:
-            word = escape_latex(m.group(1))
-            pos = escape_latex(m.group(2))
-            ipa = m.group(3)  # Don't italics, xelatex handles symbols
-            eng = escape_latex(m.group(4).strip())
-            vie = escape_latex(m.group(5).strip())
-            rows.append(
-                f"\\textbf{{{word}}} & {pos} & {ipa} & {eng} & {vie} \\\\ \\hline"
-            )
+
+        # Extract bold word
+        m_word = re.match(r'\*\*(.*?)\*\*\s*(.*)', v)
+        if not m_word:
+            continue
+        word = escape_latex(m_word.group(1))
+        rest = m_word.group(2).strip()
+
+        # Extract all parenthetical groups before the colon
+        # e.g. "(adj)" "(/fʊd/)" "(n phr)" "(/ˌep.ɪˈstiː.mɪk/)"
+        paren_pattern = re.compile(r'^\(([^)]*)\)\s*')
+        groups = []
+        while rest.startswith('('):
+            pm = paren_pattern.match(rest)
+            if pm:
+                groups.append(pm.group(1))
+                rest = rest[pm.end():]
+            else:
+                break
+
+        # rest should now start with ": meaning | meaning"
+        if not rest.startswith(':'):
+            continue
+        meaning_part = rest[1:].strip()
+
+        # Split meaning into English | Vietnamese
+        if '|' in meaning_part:
+            eng_raw, vie_raw = meaning_part.split('|', 1)
+            eng = escape_latex(eng_raw.strip())
+            vie = escape_latex(vie_raw.strip())
         else:
-            # Fallback 1: 3-field format "**word** (/IPA/): Vietnamese meaning"
-            m2 = re.match(r'\*\*(.*?)\*\*\s*\((.*?)\)\s*:\s*(.*)', v)
-            if m2:
-                word = escape_latex(m2.group(1))
-                ipa = m2.group(2)
-                vie = escape_latex(m2.group(3).strip())
-                rows.append(
-                    f"\\textbf{{{word}}} & & {ipa} & & {vie} \\\\ \\hline"
-                )
+            # No pipe — treat whole thing as Vietnamese meaning
+            eng = ''
+            vie = escape_latex(meaning_part.strip())
+
+        # Classify groups into pos vs ipa
+        pos = ''
+        ipa = ''
+        for g in groups:
+            if is_ipa(g):
+                ipa = g
+            else:
+                pos = escape_latex(g)
+
+        rows.append(
+            f"\\textbf{{{word}}} & {pos} & {ipa} & {eng} & {vie} \\\\ \\hline"
+        )
 
     if not rows:
         return ""
@@ -74,6 +109,7 @@ def build_vocab_table(raw_vocab_lines):
     )
     footer = "\\end{tabularx}\n\\end{center}\n"
     return header + "\n".join(rows) + "\n" + footer
+
 
 
 def process_topic_block(topic_chunk):

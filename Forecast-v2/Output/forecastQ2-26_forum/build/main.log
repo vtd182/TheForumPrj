@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  28 APR 2026 15:59
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.18)  28 APR 2026 16:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2320,7 +2320,7 @@ Overfull \hbox (10.6563pt too wide) in paragraph at lines 1127--1127
 
 
 [150]
-Overfull \vbox (88.33786pt too high) has occurred while \output is active []
+Overfull \vbox (6.73782pt too high) has occurred while \output is active []
 
 
 
@@ -2386,9 +2386,6 @@ s. That said, there are genuine
 [158]
 
 [159]
-Overfull \vbox (27.13783pt too high) has occurred while \output is active []
-
-
 
 [160]
 
@@ -2442,28 +2439,25 @@ minate employment by volume,
 [167]
 
 [168]
-Overfull \vbox (6.73782pt too high) has occurred while \output is active []
-
-
 
 [169]
 
 [170]
-
-[171]
 Overfull \hbox (40.40639pt too wide) in paragraph at lines 1508--1509
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
-[172]
+[171]
 Overfull \hbox (0.49745pt too wide) in paragraph at lines 1519--1520
 \TU/lmr/m/n/12 engagement with visual representation is strong: drawing is fund
 amentally a cognitive activity
  []
 
 
+
+[172]
 Overfull \hbox (9.68948pt too wide) in paragraph at lines 1532--1533
 \TU/lmr/m/n/12 contexts — design, architecture, medicine, research — where visu
 al representation is sufficiently
@@ -2472,8 +2466,6 @@ al representation is sufficiently
 
 
 [173]
-
-[174]
 Overfull \hbox (13.66815pt too wide) in paragraph at lines 1554--1555
 \TU/lmr/m/n/12 lower-income families, ethnic minority communities, and first-ti
 me visitors — whose engagement
@@ -2493,9 +2485,9 @@ tains access while generating
 
 
 
-[175]
+[174]
 
-[176]
+[175]
 Overfull \hbox (5.92448pt too wide) in paragraph at lines 1608--1608
  \TU/ArialUnicodeMS(0)/b/n/10.95 dɪˌmɒk.rə.taɪˈzeɪ.ʃən/| 
  []
@@ -2507,25 +2499,25 @@ Overfull \hbox (5.68388pt too wide) in paragraph at lines 1608--1608
 
 
 
+[176]
+Overfull \vbox (20.33783pt too high) has occurred while \output is active []
+
+
+
 [177]
-Overfull \vbox (95.13786pt too high) has occurred while \output is active []
-
-
 
 [178]
 
 [179]
-
-[180]
 Overfull \hbox (40.40639pt too wide) in paragraph at lines 1668--1669
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
-[181]
+[180]
 
-[182]
+[181]
 Overfull \hbox (9.86552pt too wide) in paragraph at lines 1692--1693
 []\TU/lmr/m/n/12 The aversion to apps among certain professional and older-adul
 t populations is substantially
@@ -2557,7 +2549,7 @@ a wide range of organisations.
 
 
 
-[183]
+[182]
 Overfull \hbox (8.43887pt too wide) in paragraph at lines 1718--1719
 \TU/lmr/m/n/12 different from thirty minutes of algorithmic infinite-scroll con
 tent, and treating them identically
@@ -2565,7 +2557,7 @@ tent, and treating them identically
 
 
 
-[184]
+[183]
 Overfull \hbox (12.64687pt too wide) in paragraph at lines 1740--1741
 \TU/lmr/m/n/12 generation has experienced, exposure to algorithmically optimise
 d content designed to maximise
@@ -2603,79 +2595,78 @@ int. The underlying justification
 
 
 
+[184]
+
 [185]
 
 [186]
-Overfull \vbox (13.53783pt too high) has occurred while \output is active []
-
-
 
 [187]
 
 [188]
-
-[189]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 1827--1828
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 1826--1827
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
-[190]
-Overfull \hbox (26.27617pt too wide) in paragraph at lines 1847--1848
+[189]
+Overfull \hbox (26.27617pt too wide) in paragraph at lines 1846--1847
 \TU/lmr/m/n/12 occupational literacy, connects learning to purpose, and helps c
 hildren build a richer understanding
  []
 
 
-Overfull \hbox (4.32155pt too wide) in paragraph at lines 1847--1848
+Overfull \hbox (4.32155pt too wide) in paragraph at lines 1846--1847
 \TU/lmr/m/n/12 commitments made before adequate self-knowledge has developed te
 nd to be either abandoned
  []
 
 
 
-[191]
-Overfull \hbox (23.98155pt too wide) in paragraph at lines 1851--1852
+[190]
+Overfull \hbox (23.98155pt too wide) in paragraph at lines 1850--1851
 \TU/lmr/m/n/12 case against early career commitment — which is compelling and w
 ell-supported by developmental
  []
 
 
-Overfull \hbox (12.26155pt too wide) in paragraph at lines 1851--1852
+Overfull \hbox (12.26155pt too wide) in paragraph at lines 1850--1851
 \TU/lmr/m/n/12 career education that builds broad occupational awareness and se
 lf-knowledge without requiring
  []
 
 
-Overfull \hbox (0.73756pt too wide) in paragraph at lines 1864--1865
+Overfull \hbox (0.73756pt too wide) in paragraph at lines 1863--1864
 []\TU/lmr/m/n/12 The observed behaviour of young people in academic settings su
 ggests that study planning
  []
 
 
 
-[192]
-Overfull \hbox (0.78549pt too wide) in paragraph at lines 1873--1874
+[191]
+Overfull \hbox (0.78549pt too wide) in paragraph at lines 1872--1873
 \TU/lmr/m/n/12 professional fields — medicine, law, engineering, architecture —
  the major directly determines
  []
 
 
-Overfull \hbox (4.65353pt too wide) in paragraph at lines 1886--1887
+Overfull \hbox (4.65353pt too wide) in paragraph at lines 1885--1886
 []\TU/lmr/m/n/12 The activities that most benefit from prior planning share a s
 et of structural characteristics:
  []
 
 
 
-[193]
-Overfull \hbox (1.68016pt too wide) in paragraph at lines 1890--1891
+[192]
+Overfull \hbox (1.68016pt too wide) in paragraph at lines 1889--1890
 \TU/lmr/m/n/12 which activities generate the highest costs when coordination fa
 ils, time is wasted, or resources
  []
 
 
+
+[193]
 
 [194]
 
@@ -2684,195 +2675,183 @@ ils, time is wasted, or resources
 [196]
 
 [197]
-
-[198]
-Overfull \vbox (6.73782pt too high) has occurred while \output is active []
-
-
-
-[199]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 1986--1987
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 1985--1986
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
-Overfull \hbox (49.51733pt too wide) in paragraph at lines 2006--2007
+
+[198]
+Overfull \hbox (49.51733pt too wide) in paragraph at lines 2005--2006
 \TU/lmr/m/n/12 recognition within specific online communities even without main
 stream visibility. The democratisation
  []
 
 
 
-[200]
-Overfull \hbox (5.74556pt too wide) in paragraph at lines 2010--2011
+[199]
+Overfull \hbox (5.74556pt too wide) in paragraph at lines 2009--2010
 []\TU/lmr/m/n/12 The contemporary landscape of childhood fame-pursuit reflects 
 both the genuine expansion
  []
 
 
-Overfull \hbox (8.41748pt too wide) in paragraph at lines 2010--2011
+Overfull \hbox (8.41748pt too wide) in paragraph at lines 2009--2010
 \TU/lmr/m/n/12 literacy, personal branding capability, and in many cases parent
 al support, financial investment,
  []
 
 
-Overfull \hbox (6.06276pt too wide) in paragraph at lines 2010--2011
+Overfull \hbox (6.06276pt too wide) in paragraph at lines 2009--2010
 \TU/lmr/m/n/12 changed as fundamentally as digital optimists sometimes suggest:
  early identification, intensive
  []
 
 
 
-[201]
-Overfull \hbox (7.76534pt too wide) in paragraph at lines 2036--2037
+[200]
+Overfull \hbox (7.76534pt too wide) in paragraph at lines 2035--2036
 \TU/lmr/m/n/12 institutional affiliation will systematically achieve different 
 levels of recognition. Understanding
  []
 
 
 
-[202]
-Overfull \hbox (1.79208pt too wide) in paragraph at lines 2058--2059
+[201]
+Overfull \hbox (1.79208pt too wide) in paragraph at lines 2057--2058
 \TU/lmr/m/n/12 fame requires are, on balance, unappealing to me: the continuous
  presence on public platforms,
  []
 
 
-Overfull \hbox (9.93759pt too wide) in paragraph at lines 2058--2059
+Overfull \hbox (9.93759pt too wide) in paragraph at lines 2057--2058
 \TU/lmr/m/n/12 thinks and what one can say in a particular public context witho
 ut triggering a disproportionate
  []
 
 
 
+[202]
+
 [203]
 
 [204]
-Overfull \vbox (88.33786pt too high) has occurred while \output is active []
-
-
 
 [205]
 
 [206]
-
-[207]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 2147--2148
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2146--2147
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
-[208]
-Overfull \hbox (2.07487pt too wide) in paragraph at lines 2158--2159
+[207]
+Overfull \hbox (2.07487pt too wide) in paragraph at lines 2157--2158
 \TU/lmr/m/n/12 from either a numerical or a cultural significance perspective, 
 and the answers are interestingly
  []
 
 
 
+[208]
+
 [209]
 
 [210]
-
-[211]
-Overfull \hbox (21.4029pt too wide) in paragraph at lines 2219--2220
+Overfull \hbox (21.4029pt too wide) in paragraph at lines 2218--2219
 \TU/lmr/m/n/12 genuinely different answers depending on what one prioritises, a
 nd neither position is categorically
  []
 
 
-Overfull \hbox (22.9641pt too wide) in paragraph at lines 2223--2224
+Overfull \hbox (22.9641pt too wide) in paragraph at lines 2222--2223
 \TU/lmr/m/n/12 are real: energy efficiency, compliance with contemporary safety
  standards, and lower maintenance
  []
 
 
-Overfull \hbox (6.78688pt too wide) in paragraph at lines 2223--2224
+Overfull \hbox (6.78688pt too wide) in paragraph at lines 2222--2223
 \TU/lmr/m/n/12 advantages are frequently overstated in the marketing of new dev
 elopments, and the systematic
  []
 
 
-Overfull \hbox (20.4975pt too wide) in paragraph at lines 2223--2224
+Overfull \hbox (20.4975pt too wide) in paragraph at lines 2222--2223
 \TU/lmr/m/n/12 to historical standards, thin walls, inadequate natural light, a
 nd the absence of the neighbourhood
  []
 
 
 
+[211]
+
 [212]
 
 [213]
-Overfull \vbox (88.33786pt too high) has occurred while \output is active []
-
-
-
-[214]
-Overfull \hbox (8.09691pt too wide) in paragraph at lines 2252--2252
+Overfull \hbox (8.09691pt too wide) in paragraph at lines 2251--2251
 |[]\TU/lmr/bx/n/17.28 Describe a movie you watched and enjoyed recently| 
  []
 
 
 
-[215]
-Overfull \hbox (3.06401pt too wide) in paragraph at lines 2301--2301
+[214]
+Overfull \hbox (3.06401pt too wide) in paragraph at lines 2300--2300
  []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌsɪn.ə.məˈtɒɡ.rə.fər/| 
  []
 
 
-Overfull \vbox (47.53784pt too high) has occurred while \output is active []
-
-
-
-[216]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 2304--2305
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2303--2304
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
-Overfull \hbox (10.82555pt too wide) in paragraph at lines 2315--2316
+
+[215]
+Overfull \hbox (10.82555pt too wide) in paragraph at lines 2314--2315
 []\TU/lmr/m/n/12 The commercial success patterns of the Vietnamese film market 
 reveal something interesting
  []
 
 
 
-[217]
-Overfull \hbox (2.10957pt too wide) in paragraph at lines 2328--2329
+[216]
+Overfull \hbox (2.10957pt too wide) in paragraph at lines 2327--2328
 \TU/lmr/m/n/12 drives opening-weekend commercial performance and what determine
 s a film’s lasting cultural
  []
 
 
 
-[218]
-Overfull \hbox (11.86957pt too wide) in paragraph at lines 2354--2355
+[217]
+Overfull \hbox (11.86957pt too wide) in paragraph at lines 2353--2354
 \TU/lmr/m/n/12 though the evidence on whether algorithmic discovery actually co
 mpensates for the reputational
  []
 
 
-
-[219]
-Overfull \hbox (0.61754pt too wide) in paragraph at lines 2363--2364
+Overfull \hbox (0.61754pt too wide) in paragraph at lines 2362--2363
 \TU/lmr/m/n/12 magnetism and partly because their names function as marketing s
 ignals that reduce audience
  []
 
 
-Overfull \hbox (19.44685pt too wide) in paragraph at lines 2363--2364
+Overfull \hbox (19.44685pt too wide) in paragraph at lines 2362--2363
 \TU/lmr/m/n/12 than opening-weekend decision-making, show rather weaker correla
 tions between star attachment
  []
 
 
-Overfull \hbox (7.14555pt too wide) in paragraph at lines 2367--2368
+
+[218]
+Overfull \hbox (7.14555pt too wide) in paragraph at lines 2366--2367
 \TU/lmr/m/n/12 structural shift in pre-production economics that has begun to r
 eshape how studio development
  []
 
 
+
+[219]
 
 [220]
 
@@ -2881,251 +2860,347 @@ eshape how studio development
 [222]
 
 [223]
-
-[224]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 2465--2466
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2464--2465
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
-Overfull \hbox (2.05353pt too wide) in paragraph at lines 2472--2473
+Overfull \hbox (2.05353pt too wide) in paragraph at lines 2471--2472
 \TU/lmr/m/n/12 capturing and maintaining this orientation because they are extr
 aordinarily good at delivering
  []
 
 
 
-[225]
-Overfull \hbox (7.96533pt too wide) in paragraph at lines 2476--2477
+[224]
+Overfull \hbox (7.96533pt too wide) in paragraph at lines 2475--2476
 \TU/lmr/m/n/12 captured. The combination produces an attraction that is qualita
 tively different from children’s
  []
 
 
-Overfull \hbox (4.88556pt too wide) in paragraph at lines 2485--2486
+Overfull \hbox (4.88556pt too wide) in paragraph at lines 2484--2485
 \TU/lmr/m/n/12 psychologically complex phenomenon that deserves a more nuanced 
 analysis than the standard
  []
 
 
-Overfull \hbox (12.56558pt too wide) in paragraph at lines 2485--2486
+Overfull \hbox (12.56558pt too wide) in paragraph at lines 2484--2485
 \TU/lmr/m/n/12 which means that discarding something that has been in one’s pos
 session for years is experienced
  []
 
 
 
-[226]
-Overfull \hbox (2.85759pt too wide) in paragraph at lines 2498--2499
+[225]
+Overfull \hbox (2.85759pt too wide) in paragraph at lines 2497--2498
 \TU/lmr/m/n/12 content — has transformed what would previously have been inspir
 ational media consumption
  []
 
 
-Overfull \hbox (11.06555pt too wide) in paragraph at lines 2498--2499
+Overfull \hbox (11.06555pt too wide) in paragraph at lines 2497--2498
 \TU/lmr/m/n/12 friction between seeing something desirable and completing its p
 urchase has been systematically
  []
 
 
-Overfull \hbox (2.47757pt too wide) in paragraph at lines 2498--2499
+Overfull \hbox (2.47757pt too wide) in paragraph at lines 2497--2498
 \TU/lmr/m/n/12 reduced to the point where the decision-making process that once
  intervened between stimulus
  []
 
 
-Overfull \hbox (14.13753pt too wide) in paragraph at lines 2498--2499
+Overfull \hbox (14.13753pt too wide) in paragraph at lines 2497--2498
 \TU/lmr/m/n/12 comparison and algorithmic prompting than the brick-and-mortar r
 etail model it is progressively
  []
 
 
-Overfull \hbox (22.24153pt too wide) in paragraph at lines 2502--2503
+Overfull \hbox (22.24153pt too wide) in paragraph at lines 2501--2502
 \TU/lmr/m/n/12 generates decision fatigue that makes consumers more rather than
  less susceptible to commercially
  []
 
 
-Overfull \hbox (14.48131pt too wide) in paragraph at lines 2502--2503
+Overfull \hbox (14.48131pt too wide) in paragraph at lines 2501--2502
 \TU/lmr/m/n/12 motivated nudges. The business model implications of this transf
 ormation are equally significant:
  []
 
 
 
-[227]
-Overfull \hbox (11.32133pt too wide) in paragraph at lines 2511--2512
+[226]
+Overfull \hbox (11.32133pt too wide) in paragraph at lines 2510--2511
 \TU/lmr/m/n/12 awareness. The most sophisticated consumer behaviour education f
 ocuses on building awareness
  []
 
 
-Overfull \hbox (7.53467pt too wide) in paragraph at lines 2515--2516
+Overfull \hbox (7.53467pt too wide) in paragraph at lines 2514--2515
 \TU/lmr/m/n/12 consumer protection. From a marketing perspective, the most prod
 uctive insight of behavioural
  []
 
 
-Overfull \hbox (20.63754pt too wide) in paragraph at lines 2515--2516
+Overfull \hbox (20.63754pt too wide) in paragraph at lines 2514--2515
 \TU/lmr/m/n/12 interventions that focus primarily on improving access to inform
 ation substantially underestimate
  []
 
 
 
-[228]
-Overfull \hbox (5.62157pt too wide) in paragraph at lines 2528--2529
+[227]
+Overfull \hbox (5.62157pt too wide) in paragraph at lines 2527--2528
 []\TU/lmr/m/n/12 The question of why children universally engage with toys is o
 ne that sits at the intersection
  []
 
 
-Overfull \hbox (25.50151pt too wide) in paragraph at lines 2528--2529
+Overfull \hbox (25.50151pt too wide) in paragraph at lines 2527--2528
 \TU/lmr/m/n/12 of developmental psychology, evolutionary biology, and cultural 
 anthropology, and the convergence
  []
 
 
-Overfull \hbox (22.05746pt too wide) in paragraph at lines 2528--2529
+Overfull \hbox (22.05746pt too wide) in paragraph at lines 2527--2528
 \TU/lmr/m/n/12 shaped these developmental needs in ways that are not always wel
 l-aligned: the most commercially
  []
 
 
 
+[228]
+
 [229]
+Overfull \vbox (81.53786pt too high) has occurred while \output is active []
+
+
 
 [230]
-Overfull \vbox (258.33794pt too high) has occurred while \output is active []
-
-
 
 [231]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 2605--2606
+Overfull \hbox (10.59213pt too wide) in paragraph at lines 2610--2610
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌmʌl.tiˈlɪŋ.ɡwə.lɪ.zəm/| 
+ []
+
+
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2613--2614
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
 [232]
+Overfull \hbox (27.43748pt too wide) in paragraph at lines 2620--2621
+\TU/lmr/m/n/12 aggregate into substantial aggregate demand effects: direct spen
+ding by visitors on accommodation,
+ []
+
+
+Overfull \hbox (28.59354pt too wide) in paragraph at lines 2624--2625
+[]\TU/lmr/m/n/12 The professional urban economics analysis of tourism benefits 
+identifies economic diversification
+ []
+
+
+Overfull \hbox (7.05353pt too wide) in paragraph at lines 2637--2638
+[]\TU/lmr/m/n/12 The professional urban sociology analysis of young people’s re
+sidential preferences identifies
+ []
+
+
+Overfull \hbox (1.92555pt too wide) in paragraph at lines 2637--2638
+\TU/lmr/m/n/12 the agglomeration of opportunity as the primary structural drive
+r and the experience economy
+ []
+
+
+Overfull \hbox (0.97356pt too wide) in paragraph at lines 2637--2638
+\TU/lmr/m/n/12 disproportionately attractive to young people whose identities o
+r interests locate them outside
+ []
+
+
 
 [233]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 2736--2737
-[][][][]\TU/lmss/bx/n/14.4 IELTS
+Overfull \hbox (14.31355pt too wide) in paragraph at lines 2650--2651
+[]\TU/lmr/m/n/12 The professional urban planning and ageing policy perspective 
+identifies the city/countryside
+ []
+
+
+Overfull \hbox (9.30531pt too wide) in paragraph at lines 2659--2660
+\TU/lmr/m/n/12 of-life degradation. The most immediately visible effect is acco
+mmodation market displacement:
  []
 
 
 
 [234]
+Overfull \hbox (16.59755pt too wide) in paragraph at lines 2672--2673
+\TU/lmr/m/n/12 urbanisation creates the conditions for welfare improvements tha
+t rural populations at equivalent
+ []
+
+
 
 [235]
-Underfull \hbox (badness 1990) in paragraph at lines 2856--2857
+Overfull \hbox (1.93758pt too wide) in paragraph at lines 2689--2690
+\TU/lmr/m/n/12 identifies the government’s active spatial planning policy as th
+e most distinctive and uncertain
+ []
+
+
+Overfull \hbox (17.20686pt too wide) in paragraph at lines 2689--2690
+\TU/lmr/m/n/12 direction — investing heavily in transport infrastructure connec
+ting second-tier cities, developing
+ []
+
+
+
+[236]
+Overfull \vbox (61.13785pt too high) has occurred while \output is active []
+
+
+
+[237]
+
+[238]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2762--2763
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[239]
+Overfull \hbox (9.38144pt too wide) in paragraph at lines 2769--2770
+\TU/lmr/m/n/12 occurs are specifically designed to facilitate unplanned purchas
+ing: recommendation algorithms,
+ []
+
+
+Overfull \hbox (3.15347pt too wide) in paragraph at lines 2769--2770
+\TU/lmr/m/n/12 purchasing is the research process: going into a purchase with i
+nadequate information typically
+ []
+
+
+
+[240]
+Overfull \hbox (9.31088pt too wide) in paragraph at lines 2786--2787
+\TU/lmr/m/n/12 — that has no real generational precedent, and whose cost when a
+ggregated across subscriptions,
+ []
+
+
+Overfull \hbox (8.97086pt too wide) in paragraph at lines 2786--2787
+\TU/lmr/m/n/12 hardware upgrades, and data services is substantially larger tha
+n most young adults consciously
+ []
+
+
+Overfull \hbox (9.20154pt too wide) in paragraph at lines 2799--2800
+[]\TU/lmr/m/n/12 The professional personal finance perspective on saving import
+ance identifies the distinction
+ []
+
+
+Overfull \hbox (17.52417pt too wide) in paragraph at lines 2799--2800
+\TU/lmr/m/n/12 specific future expenditures including housing, education, and r
+etirement — as the organisational
+ []
+
+
+
+[241]
+Overfull \hbox (22.48946pt too wide) in paragraph at lines 2808--2809
+[]\TU/lmr/m/n/12 Consumer psychology’s most consistently robust finding is prec
+isely this: people systematically
+ []
+
+
+Overfull \hbox (24.75732pt too wide) in paragraph at lines 2812--2813
+\TU/lmr/m/n/12 rather than a neutral conduit for pre-existing consumer demand. 
+The architecture of contemporary
+ []
+
+
+Overfull \hbox (4.02957pt too wide) in paragraph at lines 2812--2813
+\TU/lmr/m/n/12 recommendations designed to surface goods the consumer is likely
+ to want before the consumer
+ []
+
+
+Overfull \hbox (23.65889pt too wide) in paragraph at lines 2812--2813
+\TU/lmr/m/n/12 has consciously identified the want, and frictionless payment sy
+stems that reduce the psychological
+ []
+
+
+Overfull \hbox (16.54155pt too wide) in paragraph at lines 2812--2813
+\TU/lmr/m/n/12 utility of goods purchased on impulse — all of which increase th
+e friction that retail environments
+ []
+
+
+
+[242]
+Overfull \hbox (1.97353pt too wide) in paragraph at lines 2825--2826
+[]\TU/lmr/m/n/12 The professional development economics perspective on private 
+philanthropy versus public
+ []
+
+
+Overfull \hbox (13.16153pt too wide) in paragraph at lines 2834--2835
+[]\TU/lmr/m/n/12 The categories of goods and services whose customers are relia
+bly willing to pay substantially
+ []
+
+
+Overfull \hbox (3.96156pt too wide) in paragraph at lines 2838--2839
+\TU/lmr/m/n/12 trust and reliability as the most commercially powerful premium 
+justification across categories:
+ []
+
+
+
+[243]
+Overfull \vbox (101.93787pt too high) has occurred while \output is active []
+
+
+
+[244]
+Underfull \hbox (badness 1990) in paragraph at lines 2891--2892
 \TU/lmr/m/n/12 association to speak about bridge construction methods used in V
 ietnamese
  []
 
 
 
-[236]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 2884--2885
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[237]
-Overfull \hbox (24.96938pt too wide) in paragraph at lines 2895--2896
-\TU/lmr/m/n/12 externally nominated. The distinction matters because the former
- reflects a genuine developmental
- []
-
-
-Overfull \hbox (1.26158pt too wide) in paragraph at lines 2904--2905
-\TU/lmr/m/n/12 provide the external reinforcement that helps habits form before
- intrinsic satisfaction becomes
- []
-
-
-Overfull \hbox (10.01755pt too wide) in paragraph at lines 2908--2909
-[]\TU/lmr/m/n/12 The parenting and educational psychology research on reward sy
-stems consistently supports
- []
-
-
-
-[238]
-
-[239]
-Overfull \hbox (15.91733pt too wide) in paragraph at lines 2947--2948
-\TU/lmr/m/n/12 with long-term motivational costs. The most sophisticated parent
-ing and educational approaches
- []
-
-
-Overfull \hbox (36.29755pt too wide) in paragraph at lines 2947--2948
-\TU/lmr/m/n/12 outperform those whose motivation remains primarily extrinsic ac
-ross most long-term developmental
- []
-
-
-Overfull \hbox (17.81757pt too wide) in paragraph at lines 2956--2957
-\TU/lmr/m/n/12 shallower and less transferable than knowledge acquired through 
-genuine intellectual engagement.
- []
-
-
-
-[240]
-
-[241]
-
-[242]
-
-[243]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 3041--3042
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[244]
-Overfull \hbox (8.86932pt too wide) in paragraph at lines 3065--3066
-\TU/lmr/m/n/12 neighbouring provinces are significant contributors alongside ve
-hicle emissions. The implication
- []
-
-
-
 [245]
-Overfull \hbox (18.22287pt too wide) in paragraph at lines 3087--3088
-\TU/lmr/m/n/12 education, markets — that make transport cost a significant prop
-ortion of household expenditure.
- []
-
-
-Overfull \hbox (5.97208pt too wide) in paragraph at lines 3087--3088
-\TU/lmr/m/n/12 other forms of disadvantage: limited access to healthcare, educa
-tion, and economic opportunity
- []
-
-
-Overfull \hbox (6.16553pt too wide) in paragraph at lines 3091--3092
-[]\TU/lmr/m/n/12 The urban-rural transport infrastructure gap in Vietnam reflec
-ts both historical investment
- []
-
-
-Overfull \hbox (5.38954pt too wide) in paragraph at lines 3091--3092
-\TU/lmr/m/n/12 patterns and the structural challenge of providing viable public
- transport across geographically
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 2919--2920
+[][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
 [246]
-Overfull \hbox (4.50954pt too wide) in paragraph at lines 3100--3101
-[]\TU/lmr/m/n/12 The growth in private car ownership in Vietnam reflects the in
-tersection of rising household
+Overfull \hbox (24.96938pt too wide) in paragraph at lines 2930--2931
+\TU/lmr/m/n/12 externally nominated. The distinction matters because the former
+ reflects a genuine developmental
+ []
+
+
+Overfull \hbox (1.26158pt too wide) in paragraph at lines 2939--2940
+\TU/lmr/m/n/12 provide the external reinforcement that helps habits form before
+ intrinsic satisfaction becomes
+ []
+
+
+Overfull \hbox (10.01755pt too wide) in paragraph at lines 2943--2944
+[]\TU/lmr/m/n/12 The parenting and educational psychology research on reward sy
+stems consistently supports
  []
 
 
@@ -3133,342 +3208,307 @@ tersection of rising household
 [247]
 
 [248]
-Overfull \vbox (33.93784pt too high) has occurred while \output is active []
+Overfull \hbox (15.91733pt too wide) in paragraph at lines 2982--2983
+\TU/lmr/m/n/12 with long-term motivational costs. The most sophisticated parent
+ing and educational approaches
+ []
+
+
+Overfull \hbox (36.29755pt too wide) in paragraph at lines 2982--2983
+\TU/lmr/m/n/12 outperform those whose motivation remains primarily extrinsic ac
+ross most long-term developmental
+ []
+
+
+Overfull \hbox (17.81757pt too wide) in paragraph at lines 2991--2992
+\TU/lmr/m/n/12 shallower and less transferable than knowledge acquired through 
+genuine intellectual engagement.
+ []
 
 
 
 [249]
-Overfull \hbox (0.68382pt too wide) in paragraph at lines 3146--3146
-|[]\TU/lmr/bx/n/17.28 Describe a person who solved a problem in a smart
- []
-
-
 
 [250]
-Overfull \hbox (5.05298pt too wide) in paragraph at lines 3195--3195
- []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌɪn.tə.dɪˌpɑːt.ˈmen.tl/| 
- []
-
-
 
 [251]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 3198--3199
+
+[252]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3076--3077
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
-[252]
-Overfull \hbox (16.81355pt too wide) in paragraph at lines 3205--3206
+[253]
+Overfull \hbox (8.86932pt too wide) in paragraph at lines 3100--3101
+\TU/lmr/m/n/12 neighbouring provinces are significant contributors alongside ve
+hicle emissions. The implication
+ []
+
+
+
+[254]
+Overfull \hbox (18.22287pt too wide) in paragraph at lines 3122--3123
+\TU/lmr/m/n/12 education, markets — that make transport cost a significant prop
+ortion of household expenditure.
+ []
+
+
+Overfull \hbox (5.97208pt too wide) in paragraph at lines 3122--3123
+\TU/lmr/m/n/12 other forms of disadvantage: limited access to healthcare, educa
+tion, and economic opportunity
+ []
+
+
+Overfull \hbox (6.16553pt too wide) in paragraph at lines 3126--3127
+[]\TU/lmr/m/n/12 The urban-rural transport infrastructure gap in Vietnam reflec
+ts both historical investment
+ []
+
+
+Overfull \hbox (5.38954pt too wide) in paragraph at lines 3126--3127
+\TU/lmr/m/n/12 patterns and the structural challenge of providing viable public
+ transport across geographically
+ []
+
+
+
+[255]
+Overfull \hbox (4.50954pt too wide) in paragraph at lines 3135--3136
+[]\TU/lmr/m/n/12 The growth in private car ownership in Vietnam reflects the in
+tersection of rising household
+ []
+
+
+
+[256]
+
+[257]
+
+[258]
+Overfull \hbox (0.68382pt too wide) in paragraph at lines 3181--3181
+|[]\TU/lmr/bx/n/17.28 Describe a person who solved a problem in a smart
+ []
+
+
+
+[259]
+Overfull \hbox (5.05298pt too wide) in paragraph at lines 3230--3230
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌɪn.tə.dɪˌpɑːt.ˈmen.tl/| 
+ []
+
+
+
+[260]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3233--3234
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[261]
+Overfull \hbox (16.81355pt too wide) in paragraph at lines 3240--3241
 []\TU/lmr/m/n/12 The nature-nurture framing of intelligence is one that develop
 mental science has substantially
  []
 
 
-Overfull \hbox (0.99756pt too wide) in paragraph at lines 3209--3210
+Overfull \hbox (0.99756pt too wide) in paragraph at lines 3244--3245
 \TU/lmr/m/n/12 capacity is neither purely innate nor purely developed — it is t
 he product of gene-environment
  []
 
 
-Overfull \hbox (27.03354pt too wide) in paragraph at lines 3209--3210
+Overfull \hbox (27.03354pt too wide) in paragraph at lines 3244--3245
 \TU/lmr/m/n/12 assuming intelligence is fixed produces educational and parentin
 g environments that systematically
  []
 
 
-Overfull \hbox (1.4653pt too wide) in paragraph at lines 3222--3223
+Overfull \hbox (1.4653pt too wide) in paragraph at lines 3257--3258
 \TU/lmr/m/n/12 understanding rather than recall. Teacher quality — defined not 
 primarily as subject expertise
  []
 
 
-Overfull \hbox (14.40285pt too wide) in paragraph at lines 3222--3223
+Overfull \hbox (14.40285pt too wide) in paragraph at lines 3257--3258
 \TU/lmr/m/n/12 consistently accounting for more variance in student outcomes th
 an curriculum design, resources,
  []
 
 
 
-[253]
-Overfull \hbox (0.40556pt too wide) in paragraph at lines 3231--3232
+[262]
+Overfull \hbox (0.40556pt too wide) in paragraph at lines 3266--3267
 []\TU/lmr/m/n/12 The spectrum from breadth to depth of ability reflects the int
 eraction of innate inclination,
  []
 
 
-Overfull \hbox (3.17358pt too wide) in paragraph at lines 3231--3232
+Overfull \hbox (3.17358pt too wide) in paragraph at lines 3266--3267
 \TU/lmr/m/n/12 Some people have genuinely broader cognitive profiles — their st
 rongest abilities span multiple
  []
 
 
-Overfull \hbox (4.08954pt too wide) in paragraph at lines 3231--3232
+Overfull \hbox (4.08954pt too wide) in paragraph at lines 3266--3267
 \TU/lmr/m/n/12 domains rather than concentrating in one — which predisposes the
 m to breadth of engagement
  []
 
 
-Overfull \hbox (12.21333pt too wide) in paragraph at lines 3235--3236
+Overfull \hbox (12.21333pt too wide) in paragraph at lines 3270--3271
 \TU/lmr/m/n/12 implications for both individual career development and organisa
 tional design. At the individual
  []
 
 
-Overfull \hbox (7.05487pt too wide) in paragraph at lines 3235--3236
+Overfull \hbox (7.05487pt too wide) in paragraph at lines 3270--3271
 \TU/lmr/m/n/12 level, depth of expertise in a specific domain is typically deve
 loped through sustained deliberate
  []
 
 
-Overfull \hbox (11.56554pt too wide) in paragraph at lines 3235--3236
+Overfull \hbox (11.56554pt too wide) in paragraph at lines 3270--3271
 \TU/lmr/m/n/12 environments and temperaments that sustain curiosity across doma
 ins without the motivational
  []
 
 
-Overfull \hbox (0.93488pt too wide) in paragraph at lines 3244--3245
+Overfull \hbox (0.93488pt too wide) in paragraph at lines 3279--3280
 \TU/lmr/m/n/12 navigate social and political environments, data-rich analytical
  systems that cannot formulate
  []
 
 
-Overfull \hbox (8.03354pt too wide) in paragraph at lines 3248--3249
+Overfull \hbox (8.03354pt too wide) in paragraph at lines 3283--3284
 \TU/lmr/m/n/12 of people who approach problems similarly will find certain cate
 gories of solution systematically
  []
 
 
-Overfull \hbox (9.58945pt too wide) in paragraph at lines 3248--3249
+Overfull \hbox (9.58945pt too wide) in paragraph at lines 3283--3284
 \TU/lmr/m/n/12 societies further amplifies this point: the systems that make ec
 onomic life possible — healthcare,
  []
 
 
 
-[254]
-Overfull \hbox (8.57356pt too wide) in paragraph at lines 3257--3258
+[263]
+Overfull \hbox (8.57356pt too wide) in paragraph at lines 3292--3293
 []\TU/lmr/m/n/12 The assumption that high cognitive ability is associated with 
 greater happiness in childhood
  []
 
 
-Overfull \hbox (0.65732pt too wide) in paragraph at lines 3257--3258
+Overfull \hbox (0.65732pt too wide) in paragraph at lines 3292--3293
 \TU/lmr/m/n/12 in ways that produce frustration and disengagement rather than s
 atisfaction. The relationship
  []
 
 
-Overfull \hbox (3.65747pt too wide) in paragraph at lines 3257--3258
+Overfull \hbox (3.65747pt too wide) in paragraph at lines 3292--3293
 \TU/lmr/m/n/12 between intelligence and happiness is also moderated heavily by 
 the environment: a cognitively
  []
 
 
 
-[255]
-Overfull \hbox (32.74554pt too wide) in paragraph at lines 3274--3275
+[264]
+Overfull \hbox (32.74554pt too wide) in paragraph at lines 3309--3310
 \TU/lmr/m/n/12 learning approaches produce better outcomes than undifferentiate
 d instruction — but implementing
  []
 
 
-Overfull \hbox (5.92982pt too wide) in paragraph at lines 3298--3298
+Overfull \hbox (5.92982pt too wide) in paragraph at lines 3333--3333
  []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌʌn.dɪˈfer.ən.ʃi.eɪ.tɪd/| 
  []
 
 
 
-[256]
-Overfull \vbox (81.53786pt too high) has occurred while \output is active []
+[265]
 
-
-
-[257]
-Overfull \hbox (22.66396pt too wide) in paragraph at lines 3303--3303
+[266]
+Overfull \hbox (22.66396pt too wide) in paragraph at lines 3338--3338
 |[]\TU/lmr/bx/n/17.28 Describe an occasion when many people were smiling| 
  []
 
 
 
-[258]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 3355--3356
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[259]
-
-[260]
-
-[261]
-
-[262]
-
-[263]
-Overfull \vbox (101.93787pt too high) has occurred while \output is active []
-
-
-
-[264]
-
-[265]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 3512--3513
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[266]
-Overfull \hbox (44.71349pt too wide) in paragraph at lines 3519--3520
-\TU/lmr/m/n/12 presences that mediate social life, entertainment, identity cons
-truction, and navigation simultaneously;
- []
-
-
-Overfull \hbox (10.88959pt too wide) in paragraph at lines 3532--3533
-[]\TU/lmr/m/n/12 Mobile phones have both expanded the conditions under which fr
-iendship can be maintained
- []
-
-
-Overfull \hbox (14.34523pt too wide) in paragraph at lines 3532--3533
-\TU/lmr/m/n/12 human social life. The positive impact is primarily relational c
-ontinuity: phones allow friendships
- []
-
-
-
 [267]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3390--3391
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
 
 [268]
-Overfull \hbox (33.30144pt too wide) in paragraph at lines 3571--3572
-\TU/lmr/m/n/12 the inverse: answering calls or checking notifications during co
-nversations without acknowledgement;
- []
-
-
-Overfull \hbox (23.09348pt too wide) in paragraph at lines 3575--3576
-\TU/lmr/m/n/12 phone manners are: placing the phone face-down or out of sight d
-uring meetings and conversations,
- []
-
-
 
 [269]
-Overfull \hbox (8.12677pt too wide) in paragraph at lines 3588--3589
-\TU/lmr/m/n/12 development findings of the past two decades: access to reliable
-, affordable internet is correlated
- []
-
-
-Overfull \hbox (8.96675pt too wide) in paragraph at lines 3612--3612
- []|\TU/ArialUnicodeMS(0)/b/n/10.95 /dɪˌmɒk.rə.taɪˈzeɪ.ʃən/| 
- []
-
-
 
 [270]
 
 [271]
 
 [272]
-Overfull \hbox (1.60971pt too wide) in paragraph at lines 3666--3666
- []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌəʊ.vər.ɪkˈspəʊ.ʒər/| 
- []
-
-
 
 [273]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 3669--3670
+
+[274]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3547--3548
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
-[274]
-Overfull \hbox (6.66418pt too wide) in paragraph at lines 3676--3677
-\TU/lmr/m/n/12 employees who have appropriate autonomy, clear and meaningful go
-als, and sufficient challenge
- []
-
-
-Overfull \hbox (6.41086pt too wide) in paragraph at lines 3680--3681
-\TU/lmr/m/n/12 work accompanied by genuine support — which means providing reso
-urces, removing obstacles,
- []
-
-
-
 [275]
-Overfull \hbox (4.50018pt too wide) in paragraph at lines 3702--3703
-[]\TU/lmr/m/n/12 The most effective kind of encouragement parents can give is s
-pecific, honest, and grounded
+Overfull \hbox (44.71349pt too wide) in paragraph at lines 3554--3555
+\TU/lmr/m/n/12 presences that mediate social life, entertainment, identity cons
+truction, and navigation simultaneously;
  []
 
 
-Overfull \hbox (8.83356pt too wide) in paragraph at lines 3702--3703
-\TU/lmr/m/n/12 Encouragement that is truthful — that acknowledges difficulty ho
-nestly rather than minimising
+Overfull \hbox (10.88959pt too wide) in paragraph at lines 3567--3568
+[]\TU/lmr/m/n/12 Mobile phones have both expanded the conditions under which fr
+iendship can be maintained
  []
 
 
-Overfull \hbox (12.42152pt too wide) in paragraph at lines 3706--3707
-[]\TU/lmr/m/n/12 The parenting research on encouragement distinguishes consiste
-ntly between encouragement
- []
-
-
-Overfull \hbox (0.35332pt too wide) in paragraph at lines 3706--3707
-\TU/lmr/m/n/12 abilities). Parents who provide ”autonomy-supportive”encourageme
-nt — which acknowledges
+Overfull \hbox (14.34523pt too wide) in paragraph at lines 3567--3568
+\TU/lmr/m/n/12 human social life. The positive impact is primarily relational c
+ontinuity: phones allow friendships
  []
 
 
 
 [276]
-Overfull \hbox (9.08682pt too wide) in paragraph at lines 3719--3720
-\TU/lmr/m/n/12 resonant for the specific audience, and what might be called per
-suasive integrity: the willingness
- []
-
-
-Overfull \hbox (15.52156pt too wide) in paragraph at lines 3728--3729
-\TU/lmr/m/n/12 crucially on distinguishing between compliance as an uncondition
-al norm and as a developmental
- []
-
-
-Overfull \hbox (3.94556pt too wide) in paragraph at lines 3732--3733
-\TU/lmr/m/n/12 conflates necessary authority with desirable compliance at a lev
-el that does not serve children’s
- []
-
-
-Overfull \hbox (4.78285pt too wide) in paragraph at lines 3732--3733
-\TU/lmr/m/n/12 consistently show lower autonomous decision-making capacity, low
-er resilience under authority
- []
-
-
 
 [277]
-Overfull \hbox (10.80556pt too wide) in paragraph at lines 3741--3742
-\TU/lmr/m/n/12 through direct motivational intervention — creating conditions i
-n which the work is intrinsically
+Overfull \hbox (33.30144pt too wide) in paragraph at lines 3606--3607
+\TU/lmr/m/n/12 the inverse: answering calls or checking notifications during co
+nversations without acknowledgement;
  []
 
 
-Overfull \hbox (18.38933pt too wide) in paragraph at lines 3741--3742
-\TU/lmr/m/n/12 genuine engagement rather than routine execution. Direct encoura
-gement — through recognition,
+Overfull \hbox (23.09348pt too wide) in paragraph at lines 3610--3611
+\TU/lmr/m/n/12 phone manners are: placing the phone face-down or out of sight d
+uring meetings and conversations,
  []
 
 
 
 [278]
-Overfull \vbox (74.73785pt too high) has occurred while \output is active []
+Overfull \hbox (8.12677pt too wide) in paragraph at lines 3623--3624
+\TU/lmr/m/n/12 development findings of the past two decades: access to reliable
+, affordable internet is correlated
+ []
+
+
+Overfull \hbox (8.96675pt too wide) in paragraph at lines 3647--3647
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /dɪˌmɒk.rə.taɪˈzeɪ.ʃən/| 
+ []
 
 
 
@@ -3477,246 +3517,258 @@ Overfull \vbox (74.73785pt too high) has occurred while \output is active []
 [280]
 
 [281]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 3826--3827
-[][][][]\TU/lmss/bx/n/14.4 IELTS
+Overfull \hbox (1.60971pt too wide) in paragraph at lines 3701--3701
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌəʊ.vər.ɪkˈspəʊ.ʒər/| 
  []
 
 
 
 [282]
-Overfull \hbox (23.59355pt too wide) in paragraph at lines 3833--3834
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3704--3705
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[283]
+Overfull \hbox (6.66418pt too wide) in paragraph at lines 3711--3712
+\TU/lmr/m/n/12 employees who have appropriate autonomy, clear and meaningful go
+als, and sufficient challenge
+ []
+
+
+Overfull \hbox (6.41086pt too wide) in paragraph at lines 3715--3716
+\TU/lmr/m/n/12 work accompanied by genuine support — which means providing reso
+urces, removing obstacles,
+ []
+
+
+
+[284]
+Overfull \hbox (4.50018pt too wide) in paragraph at lines 3737--3738
+[]\TU/lmr/m/n/12 The most effective kind of encouragement parents can give is s
+pecific, honest, and grounded
+ []
+
+
+Overfull \hbox (8.83356pt too wide) in paragraph at lines 3737--3738
+\TU/lmr/m/n/12 Encouragement that is truthful — that acknowledges difficulty ho
+nestly rather than minimising
+ []
+
+
+Overfull \hbox (12.42152pt too wide) in paragraph at lines 3741--3742
+[]\TU/lmr/m/n/12 The parenting research on encouragement distinguishes consiste
+ntly between encouragement
+ []
+
+
+Overfull \hbox (0.35332pt too wide) in paragraph at lines 3741--3742
+\TU/lmr/m/n/12 abilities). Parents who provide ”autonomy-supportive”encourageme
+nt — which acknowledges
+ []
+
+
+
+[285]
+Overfull \hbox (9.08682pt too wide) in paragraph at lines 3754--3755
+\TU/lmr/m/n/12 resonant for the specific audience, and what might be called per
+suasive integrity: the willingness
+ []
+
+
+Overfull \hbox (15.52156pt too wide) in paragraph at lines 3763--3764
+\TU/lmr/m/n/12 crucially on distinguishing between compliance as an uncondition
+al norm and as a developmental
+ []
+
+
+Overfull \hbox (3.94556pt too wide) in paragraph at lines 3767--3768
+\TU/lmr/m/n/12 conflates necessary authority with desirable compliance at a lev
+el that does not serve children’s
+ []
+
+
+Overfull \hbox (4.78285pt too wide) in paragraph at lines 3767--3768
+\TU/lmr/m/n/12 consistently show lower autonomous decision-making capacity, low
+er resilience under authority
+ []
+
+
+
+[286]
+Overfull \hbox (10.80556pt too wide) in paragraph at lines 3776--3777
+\TU/lmr/m/n/12 through direct motivational intervention — creating conditions i
+n which the work is intrinsically
+ []
+
+
+Overfull \hbox (18.38933pt too wide) in paragraph at lines 3776--3777
+\TU/lmr/m/n/12 genuine engagement rather than routine execution. Direct encoura
+gement — through recognition,
+ []
+
+
+
+[287]
+
+[288]
+
+[289]
+
+[290]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 3861--3862
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[291]
+Overfull \hbox (23.59355pt too wide) in paragraph at lines 3868--3869
 \TU/lmr/m/n/12 rather than those with the highest financial value — a distincti
 on that is sometimes misunderstood
  []
 
 
-Overfull \hbox (0.79753pt too wide) in paragraph at lines 3837--3838
+Overfull \hbox (0.79753pt too wide) in paragraph at lines 3872--3873
 []\TU/lmr/m/n/12 The objects that families preserve across generations tend to 
 cluster around two categories:
  []
 
 
-Overfull \hbox (15.15755pt too wide) in paragraph at lines 3850--3851
+Overfull \hbox (15.15755pt too wide) in paragraph at lines 3885--3886
 \TU/lmr/m/n/12 represented significant accumulations of time and skill that mad
 e their preservation economically
  []
 
 
 
-[283]
-Overfull \hbox (34.39871pt too wide) in paragraph at lines 3859--3860
+[292]
+Overfull \hbox (34.39871pt too wide) in paragraph at lines 3894--3895
 \TU/lmr/m/n/12 categories are broad: art, historical artefacts, natural specime
 ns, scientific instruments, ethnographic
  []
 
 
-Overfull \hbox (4.73062pt too wide) in paragraph at lines 3859--3860
+Overfull \hbox (4.73062pt too wide) in paragraph at lines 3894--3895
 \TU/lmr/m/n/12 objects, and archival documents. But which specific items within
  these categories are preserved
  []
 
 
-Overfull \hbox (7.70155pt too wide) in paragraph at lines 3863--3864
+Overfull \hbox (7.70155pt too wide) in paragraph at lines 3898--3899
 \TU/lmr/m/n/12 versus cultural sovereignty and community connection — reflect g
 enuinely different frameworks
  []
 
 
-Overfull \hbox (23.57864pt too wide) in paragraph at lines 3872--3873
+Overfull \hbox (23.57864pt too wide) in paragraph at lines 3907--3908
 \TU/lmr/m/n/12 are experienced, and the effects are substantially positive when
  managed thoughtfully. Digitisation
  []
 
 
 
-[284]
-Overfull \hbox (13.58154pt too wide) in paragraph at lines 3876--3877
+[293]
+Overfull \hbox (13.58154pt too wide) in paragraph at lines 3911--3912
 []\TU/lmr/m/n/12 The technological transformation of museums has proceeded acro
 ss three distinct dimensions
  []
 
 
-Overfull \hbox (18.29477pt too wide) in paragraph at lines 3876--3877
+Overfull \hbox (18.29477pt too wide) in paragraph at lines 3911--3912
 \TU/lmr/m/n/12 simultaneously: access (digitisation making collections globally
  available), experience (interactive
  []
 
 
-Overfull \hbox (4.27357pt too wide) in paragraph at lines 3885--3886
+Overfull \hbox (4.27357pt too wide) in paragraph at lines 3920--3921
 []\TU/lmr/m/n/12 Technology has substantially expanded both the accessibility a
 nd the modality of historical
  []
 
 
-Overfull \hbox (10.8734pt too wide) in paragraph at lines 3885--3886
+Overfull \hbox (10.8734pt too wide) in paragraph at lines 3920--3921
 \TU/lmr/m/n/12 primary benefit is access: digitised archives, newspapers, maps,
  and records that were previously
  []
 
 
-Overfull \hbox (14.22154pt too wide) in paragraph at lines 3885--3886
+Overfull \hbox (14.22154pt too wide) in paragraph at lines 3920--3921
 \TU/lmr/m/n/12 interpretive frameworks produces confident misinformation rather
  than enhanced understanding
  []
 
 
-Overfull \hbox (7.88948pt too wide) in paragraph at lines 3889--3890
+Overfull \hbox (7.88948pt too wide) in paragraph at lines 3924--3925
 \TU/lmr/m/n/12 access improvements are the most structurally significant: the d
 igitisation and open publication
  []
 
 
-Overfull \hbox (6.80956pt too wide) in paragraph at lines 3889--3890
+Overfull \hbox (6.80956pt too wide) in paragraph at lines 3924--3925
 \TU/lmr/m/n/12 of archival collections has made primary historical research acc
 essible in ways that dramatically
  []
 
 
 
-[285]
-Overfull \hbox (10.83345pt too wide) in paragraph at lines 3902--3903
+[294]
+Overfull \hbox (10.83345pt too wide) in paragraph at lines 3937--3938
 \TU/lmr/m/n/12 visitor experience consistently identifies five primary motivati
 onal clusters: intellectual curiosity,
  []
 
 
 
-[286]
-Overfull \vbox (88.33786pt too high) has occurred while \output is active []
+[295]
+Overfull \vbox (27.13783pt too high) has occurred while \output is active []
 
 
 
-[287]
-Overfull \hbox (10.15326pt too wide) in paragraph at lines 3931--3931
+[296]
+Overfull \hbox (10.15326pt too wide) in paragraph at lines 3966--3966
 |[]\TU/lmr/bx/n/17.28 Describe a time you needed to use your imagination| 
  []
 
 
 
-[288]
-
-[289]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 3983--3984
+[297]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4018--4019
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
-[290]
-Overfull \hbox (1.29486pt too wide) in paragraph at lines 4003--4004
+[298]
+Overfull \hbox (1.29486pt too wide) in paragraph at lines 4038--4039
 \TU/lmr/m/n/12 creative core of the scientific enterprise, even though science’
 s public image tends to emphasise
  []
 
 
 
-[291]
+[299]
 
-[292]
-Overfull \hbox (13.66554pt too wide) in paragraph at lines 4033--4034
+[300]
+Overfull \hbox (13.66554pt too wide) in paragraph at lines 4068--4069
 []\TU/lmr/m/n/12 The educational research on imagination development in childre
 n identifies several consistent
  []
 
 
-Overfull \hbox (4.59886pt too wide) in paragraph at lines 4033--4034
+Overfull \hbox (4.59886pt too wide) in paragraph at lines 4068--4069
 \TU/lmr/m/n/12 development, because it requires children to construct solution 
 approaches from first principles.
  []
 
 
 
-[293]
-Overfull \hbox (1.78954pt too wide) in paragraph at lines 4059--4060
+[301]
+Overfull \hbox (1.78954pt too wide) in paragraph at lines 4094--4095
 []\TU/lmr/m/n/12 The developmental importance of imagination in childhood is di
 fficult to overstate because
  []
-
-
-
-[294]
-Overfull \vbox (61.13785pt too high) has occurred while \output is active []
-
-
-
-[295]
-
-[296]
-Overfull \hbox (6.25598pt too wide) in paragraph at lines 4135--4135
- []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌkaʊn.tər.ɪnˈtjuː.ɪ.tɪv/| 
- []
-
-
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 4138--4139
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[297]
-Overfull \hbox (0.38934pt too wide) in paragraph at lines 4145--4146
-\TU/lmr/m/n/12 curiosity and an awareness of competitive self-improvement press
-ures. The most sociologically
- []
-
-
-Overfull \hbox (13.78156pt too wide) in paragraph at lines 4149--4150
-[]\TU/lmr/m/n/12 The reading preferences of young people are shaped by an inter
-action between developmental
- []
-
-
-Overfull \hbox (3.3947pt too wide) in paragraph at lines 4149--4150
-\TU/lmr/m/n/12 environment. In the current context, short video platforms and s
-ocial reading recommendation
- []
-
-
-Overfull \hbox (0.62556pt too wide) in paragraph at lines 4149--4150
-\TU/lmr/m/n/12 apps have significantly increased the cultural visibility of a s
-pecific subset of titles — primarily
- []
-
-
-
-[298]
-
-[299]
-Overfull \hbox (15.9896pt too wide) in paragraph at lines 4201--4202
-\TU/lmr/m/n/12 but the most important transformations have been those that rede
-fined the library’s institutional
- []
-
-
-Overfull \hbox (13.14531pt too wide) in paragraph at lines 4201--4202
-\TU/lmr/m/n/12 identity rather than simply expanding its service menu. The most
- valuable thing a contemporary
- []
-
-
-Overfull \hbox (4.64017pt too wide) in paragraph at lines 4201--4202
-\TU/lmr/m/n/12 library — but the human, curatorial, and community infrastructur
-e that helps people navigate,
- []
-
-
-
-[300]
-Overfull \hbox (6.66666pt too wide) in paragraph at lines 4210--4211
-\TU/lmr/m/n/12 considerably higher than the cost of the library itself. Practic
-ally, the libraries most successfully
- []
-
-
-Overfull \hbox (0.85753pt too wide) in paragraph at lines 4214--4215
-\TU/lmr/m/n/12 campaigns that make the equity argument for library access expli
-cit and emotionally resonant,
- []
-
-
-
-[301]
-Overfull \vbox (67.93785pt too high) has occurred while \output is active []
 
 
 
@@ -3725,238 +3777,255 @@ Overfull \vbox (67.93785pt too high) has occurred while \output is active []
 [303]
 
 [304]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 4295--4296
+Overfull \hbox (6.25598pt too wide) in paragraph at lines 4170--4170
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌkaʊn.tər.ɪnˈtjuː.ɪ.tɪv/| 
+ []
+
+
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4173--4174
 [][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+Overfull \hbox (0.38934pt too wide) in paragraph at lines 4180--4181
+\TU/lmr/m/n/12 curiosity and an awareness of competitive self-improvement press
+ures. The most sociologically
  []
 
 
 
 [305]
-Overfull \hbox (7.37334pt too wide) in paragraph at lines 4302--4303
+Overfull \hbox (13.78156pt too wide) in paragraph at lines 4184--4185
+[]\TU/lmr/m/n/12 The reading preferences of young people are shaped by an inter
+action between developmental
+ []
+
+
+Overfull \hbox (3.3947pt too wide) in paragraph at lines 4184--4185
+\TU/lmr/m/n/12 environment. In the current context, short video platforms and s
+ocial reading recommendation
+ []
+
+
+Overfull \hbox (0.62556pt too wide) in paragraph at lines 4184--4185
+\TU/lmr/m/n/12 apps have significantly increased the cultural visibility of a s
+pecific subset of titles — primarily
+ []
+
+
+
+[306]
+
+[307]
+Overfull \hbox (15.9896pt too wide) in paragraph at lines 4236--4237
+\TU/lmr/m/n/12 but the most important transformations have been those that rede
+fined the library’s institutional
+ []
+
+
+Overfull \hbox (13.14531pt too wide) in paragraph at lines 4236--4237
+\TU/lmr/m/n/12 identity rather than simply expanding its service menu. The most
+ valuable thing a contemporary
+ []
+
+
+Overfull \hbox (4.64017pt too wide) in paragraph at lines 4236--4237
+\TU/lmr/m/n/12 library — but the human, curatorial, and community infrastructur
+e that helps people navigate,
+ []
+
+
+Overfull \hbox (6.66666pt too wide) in paragraph at lines 4245--4246
+\TU/lmr/m/n/12 considerably higher than the cost of the library itself. Practic
+ally, the libraries most successfully
+ []
+
+
+
+[308]
+Overfull \hbox (0.85753pt too wide) in paragraph at lines 4249--4250
+\TU/lmr/m/n/12 campaigns that make the equity argument for library access expli
+cit and emotionally resonant,
+ []
+
+
+
+[309]
+
+[310]
+
+[311]
+
+[312]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4330--4331
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[313]
+Overfull \hbox (7.37334pt too wide) in paragraph at lines 4337--4338
 \TU/lmr/m/n/12 and non-cognitive domains than most comparable educational activ
 ities. The cognitive benefits
  []
 
 
-Overfull \hbox (1.66689pt too wide) in paragraph at lines 4302--4303
+Overfull \hbox (1.66689pt too wide) in paragraph at lines 4337--4338
 \TU/lmr/m/n/12 capacity to accept failure and sustain effort through difficulty
 , and the experience of producing
  []
 
 
-Overfull \hbox (0.90556pt too wide) in paragraph at lines 4319--4320
+Overfull \hbox (0.90556pt too wide) in paragraph at lines 4354--4355
 []\TU/lmr/m/n/12 The question of how artists acquire inspiration is best addres
 sed by distinguishing between
  []
 
 
-Overfull \hbox (6.29758pt too wide) in paragraph at lines 4319--4320
+Overfull \hbox (6.29758pt too wide) in paragraph at lines 4354--4355
 \TU/lmr/m/n/12 the spontaneous quality that inspiration feels like from the ins
 ide and the systematic conditions
  []
 
 
 
-[306]
-Overfull \hbox (2.82286pt too wide) in paragraph at lines 4332--4333
+[314]
+Overfull \hbox (2.82286pt too wide) in paragraph at lines 4367--4368
 \TU/lmr/m/n/12 salient, emotionally arousing events — produces overestimation o
 f their frequency and severity
  []
 
 
-Overfull \hbox (9.90933pt too wide) in paragraph at lines 4332--4333
+Overfull \hbox (9.90933pt too wide) in paragraph at lines 4367--4368
 \TU/lmr/m/n/12 prioritisation. The most intellectually responsible position is 
 that visual elements are important,
  []
 
 
-Overfull \hbox (11.24954pt too wide) in paragraph at lines 4341--4342
+Overfull \hbox (11.24954pt too wide) in paragraph at lines 4376--4377
 []\TU/lmr/m/n/12 Protecting children’s creativity requires both removing constr
 aints and providing conditions,
  []
 
 
-Overfull \hbox (2.80687pt too wide) in paragraph at lines 4341--4342
+Overfull \hbox (2.80687pt too wide) in paragraph at lines 4376--4377
 \TU/lmr/m/n/12 children who spend most of their time in adult-directed activiti
 es — academic study, organised
  []
 
 
-Overfull \hbox (2.99887pt too wide) in paragraph at lines 4341--4342
+Overfull \hbox (2.99887pt too wide) in paragraph at lines 4376--4377
 \TU/lmr/m/n/12 sport, supervised extracurricular programmes — have significantl
 y less opportunity to develop
  []
 
 
 
-[307]
-Overfull \hbox (1.72556pt too wide) in paragraph at lines 4354--4355
+[315]
+Overfull \hbox (1.72556pt too wide) in paragraph at lines 4389--4390
 \TU/lmr/m/n/12 children because it simultaneously develops several distinct cap
 acities that together constitute
  []
 
 
-Overfull \hbox (12.05345pt too wide) in paragraph at lines 4367--4368
+Overfull \hbox (12.05345pt too wide) in paragraph at lines 4402--4403
 \TU/lmr/m/n/12 roles — requires creative problem-solving: the capacity to gener
 ate multiple possible approaches,
  []
 
 
 
-[308]
-Overfull \hbox (15.05194pt too wide) in paragraph at lines 4371--4372
+[316]
+Overfull \hbox (15.05194pt too wide) in paragraph at lines 4406--4407
 \TU/lmr/m/n/12 strategy, entrepreneurship, and the arts. Roles that require ada
 ptive creativity — the application
  []
 
 
-Overfull \hbox (12.14256pt too wide) in paragraph at lines 4371--4372
+Overfull \hbox (12.14256pt too wide) in paragraph at lines 4406--4407
 \TU/lmr/m/n/12 medicine, law, teaching, management, and engineering. Roles that
  require interpretive creativity
  []
 
 
 
-[309]
-Overfull \vbox (115.53787pt too high) has occurred while \output is active []
+[317]
+Overfull \vbox (6.73782pt too high) has occurred while \output is active []
 
 
 
-[310]
-Underfull \hbox (badness 1406) in paragraph at lines 4416--4417
+[318]
+Underfull \hbox (badness 1406) in paragraph at lines 4451--4452
 \TU/lmr/m/n/12 something more serious: we had all been studying regional develo
 pment and
  []
 
 
 
-[311]
-Overfull \hbox (4.86732pt too wide) in paragraph at lines 4449--4449
+[319]
+Overfull \hbox (4.86732pt too wide) in paragraph at lines 4484--4484
  []|\TU/lmr/m/n/10.95 adj/adv| 
  []
 
 
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 4452--4453
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4487--4488
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
-[312]
-Overfull \hbox (9.60548pt too wide) in paragraph at lines 4463--4464
+[320]
+Overfull \hbox (9.60548pt too wide) in paragraph at lines 4498--4499
 \TU/lmr/m/n/12 where surface alternatives exist; on journey quality, the compar
 ison is highly context-dependent.
  []
 
 
-Overfull \hbox (5.58144pt too wide) in paragraph at lines 4463--4464
+Overfull \hbox (5.58144pt too wide) in paragraph at lines 4498--4499
 \TU/lmr/m/n/12 The most interesting professional productivity case involves lon
 g-distance train travel: research
  []
 
 
 
-[313]
-Overfull \hbox (15.88135pt too wide) in paragraph at lines 4485--4486
+[321]
+Overfull \hbox (15.88135pt too wide) in paragraph at lines 4520--4521
 \TU/lmr/m/n/12 most people focus on and what most travel advice addresses. Phys
 ical preparation — appropriate
  []
 
 
-Overfull \hbox (32.39357pt too wide) in paragraph at lines 4485--4486
+Overfull \hbox (32.39357pt too wide) in paragraph at lines 4520--4521
 \TU/lmr/m/n/12 genuine encounter possible rather than superficial tourism — is 
 the most consistently underprepared
  []
 
 
 
-[314]
-Overfull \hbox (6.16019pt too wide) in paragraph at lines 4511--4512
+[322]
+Overfull \hbox (6.16019pt too wide) in paragraph at lines 4546--4547
 \TU/lmr/m/n/12 ability to read, ask questions, and understand responses without
  interpretation — dramatically
  []
 
 
 
-[315]
-Overfull \hbox (9.24152pt too wide) in paragraph at lines 4528--4529
+[323]
+Overfull \hbox (9.24152pt too wide) in paragraph at lines 4563--4564
 \TU/lmr/m/n/12 to different institutional models, policy frameworks, business p
 ractices, and cultural approaches
  []
 
 
-Overfull \hbox (10.50932pt too wide) in paragraph at lines 4528--4529
+Overfull \hbox (10.50932pt too wide) in paragraph at lines 4563--4564
 \TU/lmr/m/n/12 among professionals who have worked across national contexts. Th
 e mechanism — encountering
  []
 
 
 
-[316]
-Overfull \vbox (129.13788pt too high) has occurred while \output is active []
-
-
-
-[317]
-
-[318]
-
-[319]
-Overfull \vbox (61.13785pt too high) has occurred while \output is active []
-
-
-
-[320]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 4609--4610
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[321]
-Overfull \hbox (11.86687pt too wide) in paragraph at lines 4633--4634
-\TU/lmr/m/n/12 professional management — where non-family managers have real au
-thority, where performance
- []
-
-
-Overfull \hbox (3.62154pt too wide) in paragraph at lines 4646--4647
-[]\TU/lmr/m/n/12 The entrepreneurial motivation research distinguishes systemat
-ically between opportunity-
- []
-
-
-
-[322]
-Overfull \hbox (6.5255pt too wide) in paragraph at lines 4659--4660
-\TU/lmr/m/n/12 specific family business falls above or below the average: famil
-y businesses with professionalised
- []
-
-
-Overfull \hbox (4.17757pt too wide) in paragraph at lines 4659--4660
-\TU/lmr/m/n/12 equity structures that don’t conflate family membership with own
-ership rights — substantially
- []
-
-
-
-[323]
-Overfull \hbox (12.86682pt too wide) in paragraph at lines 4681--4682
-\TU/lmr/m/n/12 across generations are those that plan succession early, develop
- successor capability intentionally
- []
-
-
-Overfull \hbox (12.33354pt too wide) in paragraph at lines 4685--4686
-[]\TU/lmr/m/n/12 The research on multi-generational family business success ide
-ntifies a remarkably consistent
- []
-
-
-
 [324]
-Overfull \vbox (108.73787pt too high) has occurred while \output is active []
+Overfull \vbox (61.13785pt too high) has occurred while \output is active []
 
 
 
@@ -3965,193 +4034,173 @@ Overfull \vbox (108.73787pt too high) has occurred while \output is active []
 [326]
 
 [327]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 4766--4767
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4644--4645
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
 [328]
-Overfull \hbox (0.94556pt too wide) in paragraph at lines 4790--4791
+
+[329]
+Overfull \hbox (11.86687pt too wide) in paragraph at lines 4668--4669
+\TU/lmr/m/n/12 professional management — where non-family managers have real au
+thority, where performance
+ []
+
+
+Overfull \hbox (3.62154pt too wide) in paragraph at lines 4681--4682
+[]\TU/lmr/m/n/12 The entrepreneurial motivation research distinguishes systemat
+ically between opportunity-
+ []
+
+
+
+[330]
+Overfull \hbox (6.5255pt too wide) in paragraph at lines 4694--4695
+\TU/lmr/m/n/12 specific family business falls above or below the average: famil
+y businesses with professionalised
+ []
+
+
+Overfull \hbox (4.17757pt too wide) in paragraph at lines 4694--4695
+\TU/lmr/m/n/12 equity structures that don’t conflate family membership with own
+ership rights — substantially
+ []
+
+
+
+[331]
+Overfull \hbox (12.86682pt too wide) in paragraph at lines 4716--4717
+\TU/lmr/m/n/12 across generations are those that plan succession early, develop
+ successor capability intentionally
+ []
+
+
+Overfull \hbox (12.33354pt too wide) in paragraph at lines 4720--4721
+[]\TU/lmr/m/n/12 The research on multi-generational family business success ide
+ntifies a remarkably consistent
+ []
+
+
+
+[332]
+
+[333]
+
+[334]
+
+[335]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4801--4802
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[336]
+Overfull \hbox (0.94556pt too wide) in paragraph at lines 4825--4826
 \TU/lmr/m/n/12 anthropomorphically appealing species attract disproportionate c
 onservation support relative
  []
 
 
-Overfull \hbox (3.22154pt too wide) in paragraph at lines 4790--4791
+Overfull \hbox (3.22154pt too wide) in paragraph at lines 4825--4826
 \TU/lmr/m/n/12 to their ecological importance — than those that are scientifica
 lly important but experientially
  []
 
 
 
-[329]
-Overfull \hbox (1.30156pt too wide) in paragraph at lines 4803--4804
+[337]
+Overfull \hbox (1.30156pt too wide) in paragraph at lines 4838--4839
 []\TU/lmr/m/n/12 The zoo question warrants careful distinctions between differe
 nt kinds of zoos and different
  []
 
 
 
-[330]
-Overfull \hbox (11.67357pt too wide) in paragraph at lines 4829--4830
+[338]
+Overfull \hbox (11.67357pt too wide) in paragraph at lines 4864--4865
 \TU/lmr/m/n/12 environmental attitudes and behavioural dispositions toward the 
 natural world are substantially
  []
 
 
-Overfull \hbox (7.50287pt too wide) in paragraph at lines 4829--4830
+Overfull \hbox (7.50287pt too wide) in paragraph at lines 4864--4865
 \TU/lmr/m/n/12 formed in childhood and early adolescence, making early educatio
 n a high-leverage intervention
  []
 
 
 
-[331]
-Overfull \hbox (10.21617pt too wide) in paragraph at lines 4842--4843
+[339]
+Overfull \hbox (10.21617pt too wide) in paragraph at lines 4877--4878
 \TU/lmr/m/n/12 regulation, forest protection, and the management of agricultura
 l expansion are more important
  []
 
 
-Overfull \hbox (1.83427pt too wide) in paragraph at lines 4866--4866
+Overfull \hbox (1.83427pt too wide) in paragraph at lines 4901--4901
  []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti/| 
  []
 
 
 
-[332]
-Overfull \vbox (176.7379pt too high) has occurred while \output is active []
-
-
-
-[333]
-
-[334]
-Overfull \hbox (4.24562pt too wide) in paragraph at lines 4920--4920
- []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌself.ˈflædʒ.ə.leɪ.tɪŋ/| 
- []
-
-
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 4923--4924
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[335]
-Overfull \hbox (36.13748pt too wide) in paragraph at lines 4930--4931
-\TU/lmr/m/n/12 Ceramics and glassware — cups, bowls, plates, and drinking glass
-es — account for a disproportionate
- []
-
-
-Overfull \hbox (2.09476pt too wide) in paragraph at lines 4934--4935
-\TU/lmr/m/n/12 routine handling in contexts of divided attention: carrying some
-thing while distracted, moving
- []
-
-
-Overfull \hbox (5.09087pt too wide) in paragraph at lines 4934--4935
-\TU/lmr/m/n/12 quickly through constrained spaces, or operating in familiar env
-ironments where the automatic
- []
-
-
-Overfull \hbox (19.14554pt too wide) in paragraph at lines 4943--4944
-[]\TU/lmr/m/n/12 The tendency to repair rather than replace broken objects refl
-ects a recognisable psychological
- []
-
-
-
-[336]
-Overfull \hbox (5.68933pt too wide) in paragraph at lines 4960--4961
-\TU/lmr/m/n/12 economically viable. Artisanal production’s quality advantages a
-re in the individual-dependent
- []
-
-
-Overfull \hbox (2.94678pt too wide) in paragraph at lines 4960--4961
-\TU/lmr/m/n/12 attributes: the fit customisation that bespoke tailoring provide
-s, the material and construction
- []
-
-
-
-[337]
-
-[338]
-Overfull \hbox (4.16272pt too wide) in paragraph at lines 4995--4996
-\TU/lmr/m/n/12 The instrumental argument is clear: repair skills reduce materia
-l waste, extend object lifespans,
- []
-
-
-Overfull \hbox (15.20134pt too wide) in paragraph at lines 4995--4996
-\TU/lmr/m/n/12 constraint or environmental pressure. The broader significance i
-s that practical skill transmission
- []
-
-
-Overfull \hbox (17.07352pt too wide) in paragraph at lines 4999--5000
-[]\TU/lmr/m/n/12 The case for intergenerational repair skill transmission is we
-ll-established both instrumentally
- []
-
-
-Overfull \hbox (17.58559pt too wide) in paragraph at lines 5023--5023
- []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌɪn.tə.dʒen.əˈreɪ.ʃən.əl/| 
- []
-
-
-
-[339]
-Overfull \vbox (61.13785pt too high) has occurred while \output is active []
-
-
-
 [340]
+Overfull \vbox (13.53783pt too high) has occurred while \output is active []
+
+
 
 [341]
 
 [342]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 5080--5081
+Overfull \hbox (4.24562pt too wide) in paragraph at lines 4955--4955
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌself.ˈflædʒ.ə.leɪ.tɪŋ/| 
+ []
+
+
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 4958--4959
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
 [343]
-Overfull \hbox (13.71463pt too wide) in paragraph at lines 5087--5088
-\TU/lmr/m/n/12 veneration, and are typically displayed prominently rather than 
-stored. Religious and ceremonial
+Overfull \hbox (36.13748pt too wide) in paragraph at lines 4965--4966
+\TU/lmr/m/n/12 Ceramics and glassware — cups, bowls, plates, and drinking glass
+es — account for a disproportionate
+ []
+
+
+Overfull \hbox (2.09476pt too wide) in paragraph at lines 4969--4970
+\TU/lmr/m/n/12 routine handling in contexts of divided attention: carrying some
+thing while distracted, moving
+ []
+
+
+Overfull \hbox (5.09087pt too wide) in paragraph at lines 4969--4970
+\TU/lmr/m/n/12 quickly through constrained spaces, or operating in familiar env
+ironments where the automatic
+ []
+
+
+Overfull \hbox (19.14554pt too wide) in paragraph at lines 4978--4979
+[]\TU/lmr/m/n/12 The tendency to repair rather than replace broken objects refl
+ects a recognisable psychological
  []
 
 
 
 [344]
-Overfull \hbox (0.76418pt too wide) in paragraph at lines 5113--5114
-\TU/lmr/m/n/12 stage, the different temporal horizons within which each generat
-ion operates, and the material
+Overfull \hbox (5.68933pt too wide) in paragraph at lines 4995--4996
+\TU/lmr/m/n/12 economically viable. Artisanal production’s quality advantages a
+re in the individual-dependent
  []
 
 
-Overfull \hbox (13.89868pt too wide) in paragraph at lines 5117--5118
-\TU/lmr/m/n/12 irreplaceable. Younger adults’ retention portfolios, in a contex
-t of digital media and subscription-
- []
-
-
-Overfull \hbox (8.36958pt too wide) in paragraph at lines 5117--5118
-\TU/lmr/m/n/12 personal provenance stand out in a consumption context that make
-s most objects experientially
- []
-
-
-Overfull \hbox (14.14157pt too wide) in paragraph at lines 5126--5127
-\TU/lmr/m/n/12 because the material conditions of their time made replacement c
-ostly and quality differentiation
+Overfull \hbox (2.94678pt too wide) in paragraph at lines 4995--4996
+\TU/lmr/m/n/12 attributes: the fit customisation that bespoke tailoring provide
+s, the material and construction
  []
 
 
@@ -4159,6 +4208,29 @@ ostly and quality differentiation
 [345]
 
 [346]
+Overfull \hbox (4.16272pt too wide) in paragraph at lines 5030--5031
+\TU/lmr/m/n/12 The instrumental argument is clear: repair skills reduce materia
+l waste, extend object lifespans,
+ []
+
+
+Overfull \hbox (15.20134pt too wide) in paragraph at lines 5030--5031
+\TU/lmr/m/n/12 constraint or environmental pressure. The broader significance i
+s that practical skill transmission
+ []
+
+
+Overfull \hbox (17.07352pt too wide) in paragraph at lines 5034--5035
+[]\TU/lmr/m/n/12 The case for intergenerational repair skill transmission is we
+ll-established both instrumentally
+ []
+
+
+Overfull \hbox (17.58559pt too wide) in paragraph at lines 5058--5058
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌɪn.tə.dʒen.əˈreɪ.ʃən.əl/| 
+ []
+
+
 
 [347]
 
@@ -4167,229 +4239,229 @@ ostly and quality differentiation
 [349]
 
 [350]
-Overfull \vbox (33.93784pt too high) has occurred while \output is active []
-
-
-
-[351]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 5237--5238
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5115--5116
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
-Overfull \hbox (11.19754pt too wide) in paragraph at lines 5244--5245
-[]\TU/lmr/m/n/12 Children’s school-based friendship formation follows a set of 
-mechanisms that are reasonably
+Overfull \hbox (13.71463pt too wide) in paragraph at lines 5122--5123
+\TU/lmr/m/n/12 veneration, and are typically displayed prominently rather than 
+stored. Religious and ceremonial
  []
 
 
-Overfull \hbox (1.59357pt too wide) in paragraph at lines 5244--5245
-\TU/lmr/m/n/12 well understood developmentally and that differ meaningfully fro
-m adult friendship formation.
- []
 
-
-Overfull \hbox (13.69466pt too wide) in paragraph at lines 5244--5245
-\TU/lmr/m/n/12 that sustains engagement. In early childhood, shared activity is
- the primary bonding mechanism:
- []
-
-
-Overfull \hbox (7.61732pt too wide) in paragraph at lines 5257--5258
-\TU/lmr/m/n/12 environment that makes school friendships relatively predictable
- is absent. The most significant
- []
-
-
-Overfull \hbox (10.47733pt too wide) in paragraph at lines 5257--5258
-\TU/lmr/m/n/12 that bring children with shared interests into repeated contact.
- Digital contexts have introduced
- []
-
-
-Overfull \hbox (2.18555pt too wide) in paragraph at lines 5257--5258
-\TU/lmr/m/n/12 the developmental consequences of friendships formed primarily i
-n digital rather than physical
- []
-
-
+[351]
 
 [352]
-Overfull \hbox (8.03465pt too wide) in paragraph at lines 5270--5271
-\TU/lmr/m/n/12 regulation, and social skill than a larger network of more super
-ficial connections. The important
+Overfull \hbox (0.76418pt too wide) in paragraph at lines 5148--5149
+\TU/lmr/m/n/12 stage, the different temporal horizons within which each generat
+ion operates, and the material
+ []
+
+
+Overfull \hbox (13.89868pt too wide) in paragraph at lines 5152--5153
+\TU/lmr/m/n/12 irreplaceable. Younger adults’ retention portfolios, in a contex
+t of digital media and subscription-
+ []
+
+
+Overfull \hbox (8.36958pt too wide) in paragraph at lines 5152--5153
+\TU/lmr/m/n/12 personal provenance stand out in a consumption context that make
+s most objects experientially
+ []
+
+
+Overfull \hbox (14.14157pt too wide) in paragraph at lines 5161--5162
+\TU/lmr/m/n/12 because the material conditions of their time made replacement c
+ostly and quality differentiation
  []
 
 
 
 [353]
-Overfull \hbox (11.45758pt too wide) in paragraph at lines 5287--5288
-\TU/lmr/m/n/12 and weaker family attachment develop different competence profil
-es with different characteristic
- []
-
-
 
 [354]
-Overfull \hbox (0.40556pt too wide) in paragraph at lines 5309--5310
-\TU/lmr/m/n/12 differential that defines the professional relationship creates 
-specific asymmetries that genuine
- []
-
-
-Overfull \hbox (22.33755pt too wide) in paragraph at lines 5313--5314
-\TU/lmr/m/n/12 professional answer is that genuine friendship is possible but r
-equires more deliberate management
- []
-
-
 
 [355]
-Overfull \vbox (33.93784pt too high) has occurred while \output is active []
-
-
 
 [356]
 
 [357]
 
 [358]
-Overfull \vbox (27.13783pt too high) has occurred while \output is active []
-
-
-
-[359]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 5394--5395
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5272--5273
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
-Overfull \hbox (10.07755pt too wide) in paragraph at lines 5405--5406
-[]\TU/lmr/m/n/12 The contemporary Vietnamese music market is characterised by a
- pronounced segmentation
+
+[359]
+Overfull \hbox (11.19754pt too wide) in paragraph at lines 5279--5280
+[]\TU/lmr/m/n/12 Children’s school-based friendship formation follows a set of 
+mechanisms that are reasonably
  []
 
 
-Overfull \hbox (3.7576pt too wide) in paragraph at lines 5405--5406
-\TU/lmr/m/n/12 whose emergence represents one of the more culturally interestin
-g developments in Vietnamese
+Overfull \hbox (1.59357pt too wide) in paragraph at lines 5279--5280
+\TU/lmr/m/n/12 well understood developmentally and that differ meaningfully fro
+m adult friendship formation.
  []
 
 
-Overfull \hbox (5.41354pt too wide) in paragraph at lines 5418--5419
-[]\TU/lmr/m/n/12 The research and commercial intelligence on young people’s mus
-ic consumption in Vietnam
+Overfull \hbox (13.69466pt too wide) in paragraph at lines 5279--5280
+\TU/lmr/m/n/12 that sustains engagement. In early childhood, shared activity is
+ the primary bonding mechanism:
  []
 
 
-Overfull \hbox (22.41754pt too wide) in paragraph at lines 5418--5419
-\TU/lmr/m/n/12 consistently identifies several structural features that disting
-uish it from older cohorts’ preferences.
+Overfull \hbox (7.61732pt too wide) in paragraph at lines 5292--5293
+\TU/lmr/m/n/12 environment that makes school friendships relatively predictable
+ is absent. The most significant
  []
 
 
-Overfull \hbox (43.77086pt too wide) in paragraph at lines 5418--5419
-\TU/lmr/m/n/12 primarily through streaming platforms with algorithmic recommend
-ation, which differs fundamentally
+Overfull \hbox (10.47733pt too wide) in paragraph at lines 5292--5293
+\TU/lmr/m/n/12 that bring children with shared interests into repeated contact.
+ Digital contexts have introduced
+ []
+
+
+Overfull \hbox (2.18555pt too wide) in paragraph at lines 5292--5293
+\TU/lmr/m/n/12 the developmental consequences of friendships formed primarily i
+n digital rather than physical
  []
 
 
 
 [360]
-Overfull \hbox (16.43488pt too wide) in paragraph at lines 5427--5428
-\TU/lmr/m/n/12 and early adulthood — this is the ”reminiscence bump”phenomenon,
- in which music encountered
- []
-
-
-Overfull \hbox (21.70155pt too wide) in paragraph at lines 5427--5428
-\TU/lmr/m/n/12 during a particular developmental window retains disproportionat
-e emotional salience throughout
- []
-
-
-Overfull \hbox (10.64156pt too wide) in paragraph at lines 5440--5441
-[]\TU/lmr/m/n/12 The developmental benefits of musical instrument learning in c
-hildren are multi-dimensional
- []
-
-
-Overfull \hbox (11.63618pt too wide) in paragraph at lines 5440--5441
-\TU/lmr/m/n/12 measurable improvements in working memory, phonological processi
-ng, fine motor coordination,
+Overfull \hbox (8.03465pt too wide) in paragraph at lines 5305--5306
+\TU/lmr/m/n/12 regulation, and social skill than a larger network of more super
+ficial connections. The important
  []
 
 
 
 [361]
-Overfull \hbox (47.01355pt too wide) in paragraph at lines 5453--5454
-[]\TU/lmr/m/n/12 Children’s current musical preferences are substantially shape
-d by the algorithmic recommendation
- []
-
-
-Overfull \hbox (0.39755pt too wide) in paragraph at lines 5457--5458
-[]\TU/lmr/m/n/12 The professional observation on children’s current musical pre
-ferences is that the platform-
+Overfull \hbox (11.45758pt too wide) in paragraph at lines 5322--5323
+\TU/lmr/m/n/12 and weaker family attachment develop different competence profil
+es with different characteristic
  []
 
 
 
 [362]
-Overfull \hbox (6.4536pt too wide) in paragraph at lines 5466--5467
-\TU/lmr/m/n/12 educational concert programming — rests on the role of live musi
-cal institutions in maintaining
+Overfull \hbox (0.40556pt too wide) in paragraph at lines 5344--5345
+\TU/lmr/m/n/12 differential that defines the professional relationship creates 
+specific asymmetries that genuine
  []
 
 
-Overfull \hbox (35.86554pt too wide) in paragraph at lines 5470--5471
-\TU/lmr/m/n/12 through the specific categories of investment being considered r
-ather than as a single undifferentiated
+Overfull \hbox (22.33755pt too wide) in paragraph at lines 5348--5349
+\TU/lmr/m/n/12 professional answer is that genuine friendship is possible but r
+equires more deliberate management
  []
 
 
 
 [363]
-Overfull \vbox (115.53787pt too high) has occurred while \output is active []
-
-
 
 [364]
 
 [365]
 
 [366]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 5551--5552
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5429--5430
 [][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-Overfull \hbox (14.3442pt too wide) in paragraph at lines 5558--5559
-\TU/lmr/m/n/12 performance of family gathering, continuity with tradition, and 
-the specific emotional experience
  []
 
 
 
 [367]
-
-[368]
-
-[369]
-Overfull \hbox (11.08957pt too wide) in paragraph at lines 5614--5615
-[]\TU/lmr/m/n/12 The research on meal conversation — which has been studied in 
-both family and professional
+Overfull \hbox (10.07755pt too wide) in paragraph at lines 5440--5441
+[]\TU/lmr/m/n/12 The contemporary Vietnamese music market is characterised by a
+ pronounced segmentation
  []
 
 
-Overfull \hbox (14.55331pt too wide) in paragraph at lines 5614--5615
-\TU/lmr/m/n/12 generate conversation topics without the need for deliberate age
-nda-setting. The most important
+Overfull \hbox (3.7576pt too wide) in paragraph at lines 5440--5441
+\TU/lmr/m/n/12 whose emergence represents one of the more culturally interestin
+g developments in Vietnamese
+ []
+
+
+Overfull \hbox (5.41354pt too wide) in paragraph at lines 5453--5454
+[]\TU/lmr/m/n/12 The research and commercial intelligence on young people’s mus
+ic consumption in Vietnam
+ []
+
+
+Overfull \hbox (22.41754pt too wide) in paragraph at lines 5453--5454
+\TU/lmr/m/n/12 consistently identifies several structural features that disting
+uish it from older cohorts’ preferences.
+ []
+
+
+Overfull \hbox (43.77086pt too wide) in paragraph at lines 5453--5454
+\TU/lmr/m/n/12 primarily through streaming platforms with algorithmic recommend
+ation, which differs fundamentally
+ []
+
+
+
+[368]
+Overfull \hbox (16.43488pt too wide) in paragraph at lines 5462--5463
+\TU/lmr/m/n/12 and early adulthood — this is the ”reminiscence bump”phenomenon,
+ in which music encountered
+ []
+
+
+Overfull \hbox (21.70155pt too wide) in paragraph at lines 5462--5463
+\TU/lmr/m/n/12 during a particular developmental window retains disproportionat
+e emotional salience throughout
+ []
+
+
+Overfull \hbox (10.64156pt too wide) in paragraph at lines 5475--5476
+[]\TU/lmr/m/n/12 The developmental benefits of musical instrument learning in c
+hildren are multi-dimensional
+ []
+
+
+Overfull \hbox (11.63618pt too wide) in paragraph at lines 5475--5476
+\TU/lmr/m/n/12 measurable improvements in working memory, phonological processi
+ng, fine motor coordination,
+ []
+
+
+
+[369]
+Overfull \hbox (47.01355pt too wide) in paragraph at lines 5488--5489
+[]\TU/lmr/m/n/12 Children’s current musical preferences are substantially shape
+d by the algorithmic recommendation
+ []
+
+
+Overfull \hbox (0.39755pt too wide) in paragraph at lines 5492--5493
+[]\TU/lmr/m/n/12 The professional observation on children’s current musical pre
+ferences is that the platform-
  []
 
 
 
 [370]
+Overfull \hbox (6.4536pt too wide) in paragraph at lines 5501--5502
+\TU/lmr/m/n/12 educational concert programming — rests on the role of live musi
+cal institutions in maintaining
+ []
+
+
+Overfull \hbox (35.86554pt too wide) in paragraph at lines 5505--5506
+\TU/lmr/m/n/12 through the specific categories of investment being considered r
+ather than as a single undifferentiated
+ []
+
+
 
 [371]
 
@@ -4398,77 +4470,116 @@ nda-setting. The most important
 [373]
 
 [374]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 5700--5701
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5586--5587
 [][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+Overfull \hbox (14.3442pt too wide) in paragraph at lines 5593--5594
+\TU/lmr/m/n/12 performance of family gathering, continuity with tradition, and 
+the specific emotional experience
  []
 
 
 
 [375]
-Overfull \hbox (7.30287pt too wide) in paragraph at lines 5711--5712
+
+[376]
+
+[377]
+Overfull \hbox (11.08957pt too wide) in paragraph at lines 5649--5650
+[]\TU/lmr/m/n/12 The research on meal conversation — which has been studied in 
+both family and professional
+ []
+
+
+Overfull \hbox (14.55331pt too wide) in paragraph at lines 5649--5650
+\TU/lmr/m/n/12 generate conversation topics without the need for deliberate age
+nda-setting. The most important
+ []
+
+
+
+[378]
+
+[379]
+
+[380]
+
+[381]
+
+[382]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5735--5736
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[383]
+Overfull \hbox (7.30287pt too wide) in paragraph at lines 5746--5747
 \TU/lmr/m/n/12 choices in this category include changing industry or function (
 not merely employer), relocating
  []
 
 
 
-[376]
-Overfull \hbox (1.84134pt too wide) in paragraph at lines 5737--5738
+[384]
+Overfull \hbox (1.84134pt too wide) in paragraph at lines 5772--5773
 \TU/lmr/m/n/12 accountability. The third is a preference for reversible decisio
 ns that cannot be made reversible
  []
 
 
 
-[377]
+[385]
 
-[378]
+[386]
 
-[379]
-Overfull \hbox (4.65819pt too wide) in paragraph at lines 5792--5792
+[387]
+Overfull \hbox (4.65819pt too wide) in paragraph at lines 5827--5827
 |[]\TU/lmr/bx/n/17.28 Describe a time when the electricity suddenly went
  []
 
 
 
-[380]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 5836--5837
+[388]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 5871--5872
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
-
-[381]
-Overfull \hbox (8.49886pt too wide) in paragraph at lines 5843--5844
+Overfull \hbox (8.49886pt too wide) in paragraph at lines 5878--5879
 \TU/lmr/m/n/12 for users primarily motivated by physical conditioning, those ma
 king short flat-terrain journeys,
  []
 
 
 
-[382]
-Overfull \hbox (16.12288pt too wide) in paragraph at lines 5882--5883
+[389]
+
+[390]
+Overfull \hbox (16.12288pt too wide) in paragraph at lines 5917--5918
 \TU/lmr/m/n/12 and temporal rhythms than contemporary ones, and the question of
  how they ”managed”without
  []
 
 
 
-[383]
-Overfull \hbox (1.72133pt too wide) in paragraph at lines 5908--5909
+[391]
+Overfull \hbox (1.72133pt too wide) in paragraph at lines 5943--5944
 \TU/lmr/m/n/12 the data centres that cloud computing relies on. The per-capita 
 trend in high-income countries
  []
 
 
-Overfull \hbox (5.18954pt too wide) in paragraph at lines 5912--5913
+Overfull \hbox (5.18954pt too wide) in paragraph at lines 5947--5948
 []\TU/lmr/m/n/12 The electricity consumption trend is increasing at global scal
 e but with significant variation
  []
 
 
 
-[384]
+[392]
 Missing character: There is no ₂ (U+2082) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ₂ (U+2082) in font [lmroman10-regular]:mapping=t
@@ -4476,68 +4587,18 @@ ex-text;!
 Missing character: There is no ₂ (U+2082) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Overfull \hbox (4.86732pt too wide) in paragraph at lines 5936--5936
+Overfull \hbox (4.86732pt too wide) in paragraph at lines 5971--5971
  []|\TU/lmr/m/n/10.95 adj/adv| 
  []
 
 
 
-[385]
-Overfull \vbox (74.73785pt too high) has occurred while \output is active []
-
-
-
-[386]
-
-[387]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 5985--5986
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
-
-[388]
-
-[389]
-Overfull \hbox (12.32957pt too wide) in paragraph at lines 6031--6032
-\TU/lmr/m/n/12 acquisition being the clearest example — but the generational su
-periority narrative is overstated
- []
-
-
-
-[390]
-Overfull \hbox (25.41354pt too wide) in paragraph at lines 6057--6058
-[]\TU/lmr/m/n/12 The benefits of novelty-seeking are well-documented across bot
-h psychological and neurological
- []
-
-
-Overfull \hbox (30.91754pt too wide) in paragraph at lines 6061--6062
-[]\TU/lmr/m/n/12 The professional case for systematically trying new things res
-ts primarily on what organisational
- []
-
-
-
-[391]
-
-[392]
-Overfull \vbox (61.13785pt too high) has occurred while \output is active []
-
-
-
 [393]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 6125--6126
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
-
-
 
 [394]
 
 [395]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 6256--6257
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6020--6021
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
@@ -4546,44 +4607,102 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 6256--6257
 [396]
 
 [397]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 6387--6388
-[][][][]\TU/lmss/bx/n/14.4 IELTS
+Overfull \hbox (12.32957pt too wide) in paragraph at lines 6066--6067
+\TU/lmr/m/n/12 acquisition being the clearest example — but the generational su
+periority narrative is overstated
  []
 
 
 
 [398]
-
-[399]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 6518--6519
-[][][][]\TU/lmss/bx/n/14.4 IELTS
+Overfull \hbox (25.41354pt too wide) in paragraph at lines 6092--6093
+[]\TU/lmr/m/n/12 The benefits of novelty-seeking are well-documented across bot
+h psychological and neurological
  []
 
 
+Overfull \hbox (30.91754pt too wide) in paragraph at lines 6096--6097
+[]\TU/lmr/m/n/12 The professional case for systematically trying new things res
+ts primarily on what organisational
+ []
+
+
+
+[399]
 
 [400]
 
 [401]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 6649--6650
+
+[402]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6169--6170
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
-[402]
-
 [403]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 6781--6782
-[][][][]\TU/lmss/bx/n/14.4 IELTS
+Overfull \hbox (5.48555pt too wide) in paragraph at lines 6176--6177
+[]\TU/lmr/m/n/12 Children’s story preferences reflect their developmental stage
+ more than any fixed aesthetic:
+ []
+
+
+Overfull \hbox (1.80554pt too wide) in paragraph at lines 6180--6181
+[]\TU/lmr/m/n/12 The professional and developmental perspective on children’s s
+tory preferences emphasises
+ []
+
+
+Overfull \hbox (16.44156pt too wide) in paragraph at lines 6189--6190
+[]\TU/lmr/m/n/12 Bedtime storytelling provides a distinctive set of development
+al benefits that arise specifically
+ []
+
+
+Overfull \hbox (16.64526pt too wide) in paragraph at lines 6193--6194
+\TU/lmr/m/n/12 regulation. The attention and co-presence dimension is arguably 
+the most significant: storytelling
  []
 
 
 
 [404]
+Overfull \hbox (11.16408pt too wide) in paragraph at lines 6206--6207
+\TU/lmr/m/n/12 substitution: recorded stories, audiobooks, and digital storytel
+ling devices can deliver equivalent
+ []
+
+
+Overfull \hbox (0.42958pt too wide) in paragraph at lines 6206--6207
+\TU/lmr/m/n/12 narrative content but cannot replicate the co-presence that acco
+unts for much of the practice’s
+ []
+
+
 
 [405]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 6912--6913
-[][][][]\TU/lmss/bx/n/14.4 IELTS
+Overfull \hbox (6.34532pt too wide) in paragraph at lines 6241--6242
+\TU/lmr/m/n/12 emotional investment and the motivation to continue watching. Fi
+lms with visually spectacular
+ []
+
+
+Overfull \hbox (16.72154pt too wide) in paragraph at lines 6245--6246
+[]\TU/lmr/m/n/12 The industry data on what drives sustained commercial performa
+nce for films is unambiguous
+ []
+
+
+Overfull \hbox (10.84557pt too wide) in paragraph at lines 6245--6246
+\TU/lmr/m/n/12 narratively weaker productions may have higher opening-weekend n
+umbers driven by marketing
+ []
+
+
+Overfull \hbox (11.40152pt too wide) in paragraph at lines 6245--6246
+\TU/lmr/m/n/12 between narrative quality and sustained viewer engagement much m
+ore visible to commissioners
  []
 
 
@@ -4591,62 +4710,118 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 6912--6913
 [406]
 
 [407]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7043--7044
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
+Overfull \vbox (27.13783pt too high) has occurred while \output is active []
 
 
 
 [408]
 
 [409]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7175--7176
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6318--6319
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
 [410]
+Overfull \hbox (19.84552pt too wide) in paragraph at lines 6342--6343
+\TU/lmr/m/n/12 urban design standards rather than encouraging older people to l
+eave cities for rural environments
+ []
+
+
 
 [411]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7306--7307
-[][][][]\TU/lmss/bx/n/14.4 IELTS
+Overfull \hbox (2.64955pt too wide) in paragraph at lines 6351--6352
+\TU/lmr/m/n/12 into cities — is theoretically conceivable but practically limit
+ed by the economic and ecological
+ []
+
+
+Overfull \hbox (6.98148pt too wide) in paragraph at lines 6355--6356
+\TU/lmr/m/n/12 economic activities — agriculture, mineral extraction, energy ge
+neration, nature-based tourism
+ []
+
+
+Overfull \hbox (16.40953pt too wide) in paragraph at lines 6368--6369
+[]\TU/lmr/m/n/12 The urban-unfriendly stereotype is a persistent mischaracteris
+ation that conflates withdrawal
  []
 
 
 
 [412]
-
-[413]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7437--7438
-[][][][]\TU/lmss/bx/n/14.4 IELTS
+Overfull \hbox (21.25356pt too wide) in paragraph at lines 6390--6391
+[]\TU/lmr/m/n/12 Urban safety is a multidimensional problem whose most effectiv
+e interventions are consistently
  []
 
 
+Overfull \hbox (11.79327pt too wide) in paragraph at lines 6390--6391
+\TU/lmr/m/n/12 evidence base. Street design is the most reliable safety lever a
+vailable to governments: pedestrian
+ []
+
+
+Overfull \hbox (23.23616pt too wide) in paragraph at lines 6390--6391
+\TU/lmr/m/n/12 productive social activity for at-risk populations, which means 
+social services, youth programming,
+ []
+
+
+
+[413]
 
 [414]
 
 [415]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7568--7569
+
+[416]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6467--6468
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
-[416]
-
 [417]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7699--7700
-[][][][]\TU/lmss/bx/n/14.4 IELTS
+Overfull \hbox (26.28549pt too wide) in paragraph at lines 6487--6488
+\TU/lmr/m/n/12 shift: the movement of commodity purchasing — standardised goods
+ whose physical characteristics
+ []
+
+
+Overfull \hbox (0.11357pt too wide) in paragraph at lines 6487--6488
+\TU/lmr/m/n/12 hollowed out the commodity retail segment of physical shopping w
+hile leaving the experiential
  []
 
 
 
 [418]
+Overfull \hbox (1.54686pt too wide) in paragraph at lines 6513--6514
+\TU/lmr/m/n/12 engagement — whereas malls are characterised by standardised pri
+cing, branded environment,
+ []
+
+
 
 [419]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7830--7831
-[][][][]\TU/lmss/bx/n/14.4 IELTS
+Overfull \hbox (1.24687pt too wide) in paragraph at lines 6526--6527
+\TU/lmr/m/n/12 evaluation remains important, and lower engagement with the algo
+rithmic discovery processes
+ []
+
+
+Overfull \hbox (19.83087pt too wide) in paragraph at lines 6530--6531
+\TU/lmr/m/n/12 more influential among younger consumers than older ones, which 
+is transforming the competitive
+ []
+
+
+Overfull \hbox (1.30534pt too wide) in paragraph at lines 6543--6544
+\TU/lmr/m/n/12 channel attribution that retail analytics historically relied on
+. The most sophisticated retailers
  []
 
 
@@ -4654,38 +4829,1039 @@ Overfull \hbox (40.40639pt too wide) in paragraph at lines 7830--7831
 [420]
 
 [421]
-Overfull \hbox (4.86557pt too wide) in paragraph at lines 7926--7926
-|[]\TU/lmr/bx/n/17.28 Describe the time when you first talked in a foreign
- []
-
-
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 7961--7962
-[][][][]\TU/lmss/bx/n/14.4 IELTS
- []
+Overfull \vbox (13.53783pt too high) has occurred while \output is active []
 
 
 
 [422]
 
 [423]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 8092--8093
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6616--6617
 [][][][]\TU/lmss/bx/n/14.4 IELTS
  []
 
 
 
 [424]
+Overfull \hbox (5.96535pt too wide) in paragraph at lines 6636--6637
+\TU/lmr/m/n/12 centred on the relational and knowledge dimensions of the shoppi
+ng experience. The knowledge
+ []
+
+
+Overfull \hbox (2.01076pt too wide) in paragraph at lines 6636--6637
+\TU/lmr/m/n/12 disadvantages are structural: small shops cannot offer the selec
+tion breadth, price competition,
+ []
+
+
+Overfull \hbox (6.42152pt too wide) in paragraph at lines 6640--6641
+[]\TU/lmr/m/n/12 The professional analysis of small versus large format retail 
+advantages identifies experience
+ []
+
+
+Overfull \hbox (17.27744pt too wide) in paragraph at lines 6640--6641
+\TU/lmr/m/n/12 set facing small retail is increasingly structural rather than m
+erely competitive: rising commercial
+ []
+
+
 
 [425]
-Overfull \hbox (40.40639pt too wide) in paragraph at lines 8223--8224
-[][][][]\TU/lmss/bx/n/14.4 IELTS
+Overfull \hbox (4.29753pt too wide) in paragraph at lines 6653--6654
+[]\TU/lmr/m/n/12 The reasons professionals and busy urban consumers in particul
+ar underuse small specialist
  []
 
 
 
 [426]
 
-[427]) (build/main.aux)
+[427]
+
+[428]
+
+[429]
+
+[430]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6765--6766
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+Overfull \hbox (21.11755pt too wide) in paragraph at lines 6772--6773
+[]\TU/lmr/m/n/12 The population of people drawn to natural environments is more
+ diverse than the stereotypical
+ []
+
+
+
+[431]
+Overfull \hbox (4.44156pt too wide) in paragraph at lines 6776--6777
+[]\TU/lmr/m/n/12 The professional understanding of who visits natural places ha
+s been substantially enriched
+ []
+
+
+Overfull \hbox (4.76286pt too wide) in paragraph at lines 6776--6777
+\TU/lmr/m/n/12 by attention restoration research, which identifies restorative 
+experience rather than recreation
+ []
+
+
+Overfull \hbox (6.39467pt too wide) in paragraph at lines 6776--6777
+\TU/lmr/m/n/12 cognitive demands. That said, access constraints mean that obser
+ved nature visitation patterns
+ []
+
+
+Overfull \hbox (15.98956pt too wide) in paragraph at lines 6785--6786
+[]\TU/lmr/m/n/12 The city-nature distinction is most productively understood as
+ a difference in the relationship
+ []
+
+
+Overfull \hbox (10.17752pt too wide) in paragraph at lines 6789--6790
+[]\TU/lmr/m/n/12 The professional significance of the city-nature distinction i
+s most apparent when considered
+ []
+
+
+
+[432]
+Overfull \hbox (36.55086pt too wide) in paragraph at lines 6798--6799
+\TU/lmr/m/n/12 findings in environmental psychology, and they operate through m
+ultiple mechanisms simultaneously.
+ []
+
+
+Overfull \hbox (11.88556pt too wide) in paragraph at lines 6798--6799
+\TU/lmr/m/n/12 sufficient external stimulation to interrupt internally-directed
+ thought without making demands
+ []
+
+
+Overfull \hbox (16.03352pt too wide) in paragraph at lines 6802--6803
+[]\TU/lmr/m/n/12 The emotional effects of natural places on professional popula
+tions are particularly significant
+ []
+
+
+Overfull \hbox (6.78955pt too wide) in paragraph at lines 6802--6803
+\TU/lmr/m/n/12 that natural settings engage recovers directed attention capacit
+y while simultaneously reducing
+ []
+
+
+
+[433]
+Overfull \hbox (8.45753pt too wide) in paragraph at lines 6841--6842
+\TU/lmr/m/n/12 environments that genuinely approximate their natural habitat re
+quirements — which typically
+ []
+
+
+
+[434]
+Overfull \hbox (11.49573pt too wide) in paragraph at lines 6865--6865
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌpær.ə.ˌsɪm.pəˈθet.ɪk/| 
+ []
+
+
+Overfull \hbox (1.83427pt too wide) in paragraph at lines 6865--6865
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti/| 
+ []
+
+
+
+[435]
+
+[436]
+
+[437]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 6915--6916
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[438]
+Overfull \hbox (1.90953pt too wide) in paragraph at lines 6935--6936
+\TU/lmr/m/n/12 weakest rather than consolidating competencies that are already 
+strong — which distinguishes
+ []
+
+
+
+[439]
+Overfull \hbox (8.34558pt too wide) in paragraph at lines 6961--6962
+[]\TU/lmr/m/n/12 Early talent identification in children is substantially less 
+reliable than most talent detection
+ []
+
+
+Overfull \hbox (0.11467pt too wide) in paragraph at lines 6965--6966
+\TU/lmr/m/n/12 identification, but it is not the only one. Early talent identif
+ication systems also systematically
+ []
+
+
+Overfull \hbox (15.44133pt too wide) in paragraph at lines 6965--6966
+\TU/lmr/m/n/12 systems screen. The professional sports organisations that have 
+developed the most sophisticated
+ []
+
+
+
+[440]
+
+[441]
+Overfull \hbox (0.16133pt too wide) in paragraph at lines 6991--6992
+\TU/lmr/m/n/12 pathway rather than an absolute constraint on human potential. A
+t each stage of development
+ []
+
+
+
+[442]
+Overfull \vbox (27.13783pt too high) has occurred while \output is active []
+
+
+
+[443]
+
+[444]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 7064--7065
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[445]
+Overfull \hbox (23.80153pt too wide) in paragraph at lines 7075--7076
+[]\TU/lmr/m/n/12 The professional education research perspective on science dis
+engagement identifies assessment
+ []
+
+
+
+[446]
+Overfull \hbox (4.31221pt too wide) in paragraph at lines 7114--7115
+\TU/lmr/m/n/12 directly professionally relevant — which, in the contemporary ec
+onomy, includes a significantly
+ []
+
+
+Overfull \hbox (4.05756pt too wide) in paragraph at lines 7114--7115
+\TU/lmr/m/n/12 and scientific reasoning mean that maintaining and developing sc
+ientific literacy is increasingly
+ []
+
+
+Overfull \hbox (2.56154pt too wide) in paragraph at lines 7114--7115
+\TU/lmr/m/n/12 recognised that evidence-based decision-making cannot be delegat
+ed to specialist departments
+ []
+
+
+
+[447]
+Overfull \hbox (1.66953pt too wide) in paragraph at lines 7123--7124
+\TU/lmr/m/n/12 with deep domain knowledge rather than general journalists parac
+huting into science coverage:
+ []
+
+
+Overfull \hbox (1.10687pt too wide) in paragraph at lines 7123--7124
+\TU/lmr/m/n/12 the quality difference between careful scientific journalism and
+ the simplified, often misleading
+ []
+
+
+
+[448]
+Overfull \hbox (8.38396pt too wide) in paragraph at lines 7164--7164
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ɪˌpɪs.tɪ.məˈlɒdʒ.ɪ.kəl/| 
+ []
+
+
+
+[449]
+
+[450]
+
+[451]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 7213--7214
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[452]
+Overfull \hbox (32.08687pt too wide) in paragraph at lines 7224--7225
+\TU/lmr/m/n/12 drama production — particularly melodrama formats organised arou
+nd family conflict, generational
+ []
+
+
+Overfull \hbox (9.78558pt too wide) in paragraph at lines 7233--7234
+\TU/lmr/m/n/12 international content accessible at low cost and without the del
+ays that previously characterised
+ []
+
+
+Overfull \hbox (10.25734pt too wide) in paragraph at lines 7233--7234
+\TU/lmr/m/n/12 beyond entertainment. American content maintains a strong presen
+ce in the 18–35 demographic
+ []
+
+
+
+[453]
+Overfull \hbox (7.24286pt too wide) in paragraph at lines 7250--7251
+\TU/lmr/m/n/12 alone, which gives in-person animal experience a specific value 
+that cannot be straightforwardly
+ []
+
+
+
+[454]
+Overfull \hbox (7.63086pt too wide) in paragraph at lines 7263--7264
+\TU/lmr/m/n/12 trained in, which explains why the increase in video availabilit
+y has not produced proportionate
+ []
+
+
+Overfull \hbox (17.26933pt too wide) in paragraph at lines 7263--7264
+\TU/lmr/m/n/12 improvements in learning outcomes at scale. The most critical di
+mension of effective instructional
+ []
+
+
+
+[455]
+Overfull \hbox (7.30557pt too wide) in paragraph at lines 7285--7286
+\TU/lmr/m/n/12 forms — is regularly and effectively transmitted through well-ma
+de documentary programming
+ []
+
+
+Overfull \hbox (3.36954pt too wide) in paragraph at lines 7289--7290
+\TU/lmr/m/n/12 entertainment while incidentally learning”produces significantly
+ different knowledge outcomes
+ []
+
+
+
+[456]
+
+[457]
+
+[458]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 7366--7367
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[459]
+
+[460]
+Overfull \hbox (13.76958pt too wide) in paragraph at lines 7399--7400
+[]\TU/lmr/m/n/12 Technology’s effect on leisure time is the most consequential 
+and least adequately understood
+ []
+
+
+Overfull \hbox (1.98558pt too wide) in paragraph at lines 7399--7400
+\TU/lmr/m/n/12 evidence that this substitution has had measurable negative effe
+cts on mental health outcomes
+ []
+
+
+
+[461]
+Overfull \hbox (15.51347pt too wide) in paragraph at lines 7425--7426
+\TU/lmr/m/n/12 The neurological dimension: auditory processing changes with age
+ in ways that make background
+ []
+
+
+Overfull \hbox (10.40154pt too wide) in paragraph at lines 7429--7430
+[]\TU/lmr/m/n/12 The professional gerontological understanding of residential p
+reference in older age identifies
+ []
+
+
+Overfull \hbox (1.80154pt too wide) in paragraph at lines 7429--7430
+\TU/lmr/m/n/12 quiet as one element of a larger syndrome of preferences for env
+ironments that are manageable,
+ []
+
+
+
+[462]
+Overfull \hbox (9.81152pt too wide) in paragraph at lines 7466--7466
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌdʒer.ɒn.təˈlɒdʒ.ɪ.kəl/| 
+ []
+
+
+
+[463]
+
+[464]
+
+[465]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 7515--7516
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[466]
+Overfull \hbox (19.25754pt too wide) in paragraph at lines 7526--7527
+[]\TU/lmr/m/n/12 The professional child development research perspective on hab
+its identifies the metacognitive
+ []
+
+
+Overfull \hbox (8.72133pt too wide) in paragraph at lines 7526--7527
+\TU/lmr/m/n/12 being willing to invest additional effort when the honest answer
+ is the latter. This metacognitive
+ []
+
+
+
+[467]
+Overfull \hbox (10.58531pt too wide) in paragraph at lines 7561--7562
+\TU/lmr/m/n/12 impulse control that accompany ageing. The situational cue mecha
+nism is the most immediately
+ []
+
+
+Overfull \hbox (2.81732pt too wide) in paragraph at lines 7561--7562
+\TU/lmr/m/n/12 environmental cues that maintained them are no longer consistent
+ly present. The motivational
+ []
+
+
+Overfull \hbox (22.63618pt too wide) in paragraph at lines 7565--7566
+\TU/lmr/m/n/12 people’s habits are disproportionately sustained by external cue
+s, social norms, and environmental
+ []
+
+
+
+[468]
+
+[469]
+
+[470]
+Overfull \vbox (20.33783pt too high) has occurred while \output is active []
+
+
+
+[471]
+
+[472]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 7664--7665
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[473]
+Overfull \hbox (5.48686pt too wide) in paragraph at lines 7684--7685
+\TU/lmr/m/n/12 significant internal frustration, metabolising cortisol in ways 
+that affect mood and performance
+ []
+
+
+Overfull \hbox (5.08157pt too wide) in paragraph at lines 7688--7689
+\TU/lmr/m/n/12 implication for designing waiting experiences is that the condit
+ions that make waiting tolerable
+ []
+
+
+
+[474]
+Overfull \hbox (13.27887pt too wide) in paragraph at lines 7697--7698
+\TU/lmr/m/n/12 widely shared but difficult to establish rigorously, partly beca
+use patience was not systematically
+ []
+
+
+Overfull \hbox (3.39354pt too wide) in paragraph at lines 7701--7702
+[]\TU/lmr/m/n/12 The professional behavioural science analysis of patience chan
+ges identifies the smartphone
+ []
+
+
+Overfull \hbox (6.51886pt too wide) in paragraph at lines 7710--7711
+\TU/lmr/m/n/12 character — are epistemic assets, generating information that fa
+ster resolution would eliminate.
+ []
+
+
+Overfull \hbox (4.52684pt too wide) in paragraph at lines 7714--7715
+\TU/lmr/m/n/12 unoccupied, and unexplained waits are experienced as significant
+ly longer and more distressing
+ []
+
+
+
+[475]
+
+[476]
+
+[477]
+
+[478]
+
+[479]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 7812--7813
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[480]
+Overfull \hbox (4.45757pt too wide) in paragraph at lines 7819--7820
+[]\TU/lmr/m/n/12 Social media’s appeal operates through a set of psychological 
+mechanisms that its designers
+ []
+
+
+Overfull \hbox (11.18556pt too wide) in paragraph at lines 7823--7824
+[]\TU/lmr/m/n/12 The professional media psychology analysis of social media app
+eal identifies the combination
+ []
+
+
+Overfull \hbox (6.22955pt too wide) in paragraph at lines 7832--7833
+[]\TU/lmr/m/n/12 The categories that consistently generate the highest engageme
+nt on social media platforms
+ []
+
+
+Overfull \hbox (16.01755pt too wide) in paragraph at lines 7836--7837
+[]\TU/lmr/m/n/12 The professional content analytics perspective on social media
+ popularity identifies emotional
+ []
+
+
+Overfull \hbox (2.21358pt too wide) in paragraph at lines 7836--7837
+\TU/lmr/m/n/12 valence and shareability as the two most reliably predictive dim
+ensions of content performance
+ []
+
+
+Overfull \hbox (3.04155pt too wide) in paragraph at lines 7836--7837
+\TU/lmr/m/n/12 consequence is that social media’s popularity rankings systemati
+cally underrepresent accurate,
+ []
+
+
+
+[481]
+Overfull \hbox (3.21355pt too wide) in paragraph at lines 7845--7846
+\TU/lmr/m/n/12 comparison between one’s own private experience and others’ cura
+ted public self-presentations
+ []
+
+
+Overfull \hbox (12.26555pt too wide) in paragraph at lines 7849--7850
+[]\TU/lmr/m/n/12 The professional analysis of social media’s cost-benefit profi
+le concludes that the distribution
+ []
+
+
+
+[482]
+Overfull \hbox (1.96956pt too wide) in paragraph at lines 7862--7863
+[]\TU/lmr/m/n/12 The professional sociological perspective on online friendship
+ formation is that the internet
+ []
+
+
+Overfull \hbox (11.67085pt too wide) in paragraph at lines 7862--7863
+\TU/lmr/m/n/12 interests, people belonging to minority communities too small to
+ find adequate social connection
+ []
+
+
+Overfull \hbox (0.40935pt too wide) in paragraph at lines 7862--7863
+\TU/lmr/m/n/12 in their immediate environment. The qualification is that the re
+moval of geographic constraint
+ []
+
+
+Overfull \hbox (2.00154pt too wide) in paragraph at lines 7875--7876
+\TU/lmr/m/n/12 clearest.”The conditions that most consistently predict positive
+ rather than negative outcomes
+ []
+
+
+
+[483]
+
+[484]
+
+[485]
+
+[486]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 7961--7962
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[487]
+Overfull \hbox (16.12158pt too wide) in paragraph at lines 7968--7969
+[]\TU/lmr/m/n/12 The question of whether talented artists should ”focus”on thei
+r talents contains a prescriptive
+ []
+
+
+Overfull \hbox (17.46146pt too wide) in paragraph at lines 7968--7969
+\TU/lmr/m/n/12 assumption that merits examination: the framing assumes that spe
+cialisation is straightforwardly
+ []
+
+
+Overfull \hbox (8.50134pt too wide) in paragraph at lines 7972--7973
+\TU/lmr/m/n/12 stage of development as the critical variable. During the acquis
+ition phase — when fundamental
+ []
+
+
+Overfull \hbox (24.51347pt too wide) in paragraph at lines 7972--7973
+\TU/lmr/m/n/12 strongly favours breadth: the artists who develop the most disti
+nctive voices are disproportionately
+ []
+
+
+Overfull \hbox (1.20686pt too wide) in paragraph at lines 7981--7982
+\TU/lmr/m/n/12 signals don’t exist, but because the relationship between early 
+aptitude and adult achievement
+ []
+
+
+Overfull \hbox (7.44154pt too wide) in paragraph at lines 7981--7982
+\TU/lmr/m/n/12 an early aptitude develops into serious adult practice are at th
+at age almost entirely unobserved
+ []
+
+
+Overfull \hbox (0.30954pt too wide) in paragraph at lines 7981--7982
+\TU/lmr/m/n/12 strong fine motor interest — are more evenly distributed across 
+the population than outcomes,
+ []
+
+
+Overfull \hbox (24.94556pt too wide) in paragraph at lines 7985--7986
+[]\TU/lmr/m/n/12 The developmental psychology research on early identification 
+of creative potential consistently
+ []
+
+
+Overfull \hbox (3.75755pt too wide) in paragraph at lines 7985--7986
+\TU/lmr/m/n/12 — because the qualities that produce exceptional early performan
+ce (early parental instruction,
+ []
+
+
+Overfull \hbox (7.37486pt too wide) in paragraph at lines 7985--7986
+\TU/lmr/m/n/12 unusual memory, strong imitative capacity) are not the same qual
+ities that produce exceptional
+ []
+
+
+
+[488]
+Overfull \hbox (0.42155pt too wide) in paragraph at lines 7998--7999
+\TU/lmr/m/n/12 that extraordinary achievement is available to anyone with suffi
+cient talent and determination
+ []
+
+
+Overfull \hbox (4.34686pt too wide) in paragraph at lines 7998--7999
+\TU/lmr/m/n/12 performance as explicit social competition with audience and jud
+ge evaluation, which activates
+ []
+
+
+Overfull \hbox (15.04556pt too wide) in paragraph at lines 8007--8008
+[]\TU/lmr/m/n/12 The comparative interest of famous versus ordinary performers 
+in talent-based entertainment
+ []
+
+
+
+[489]
+Overfull \hbox (0.24156pt too wide) in paragraph at lines 8020--8021
+\TU/lmr/m/n/12 that are most culturally prevalent are often those whose methods
+ are most likely to undermine
+ []
+
+
+Overfull \hbox (4.45358pt too wide) in paragraph at lines 8020--8021
+\TU/lmr/m/n/12 make the activity intrinsically motivating — that preserve the c
+hild’s autonomous engagement,
+ []
+
+
+Overfull \hbox (8.51756pt too wide) in paragraph at lines 8020--8021
+\TU/lmr/m/n/12 that produces technically impressive child performers but dispro
+portionately results in burnout,
+ []
+
+
+
+[490]
+Overfull \hbox (16.05617pt too wide) in paragraph at lines 8033--8034
+\TU/lmr/m/n/12 performance infrastructure — certain niche musical genres, unusu
+al craft skills, hyper-specialised
+ []
+
+
+Overfull \hbox (13.38533pt too wide) in paragraph at lines 8037--8038
+\TU/lmr/m/n/12 affirmation as the primary psychological driver beyond pure perf
+ormance motivation. Displaying
+ []
+
+
+Overfull \hbox (8.96675pt too wide) in paragraph at lines 8061--8061
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /dɪˌmɒk.rə.taɪˈzeɪ.ʃən/| 
+ []
+
+
+
+[491]
+
+[492]
+
+[493]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 8110--8111
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+Overfull \hbox (7.61884pt too wide) in paragraph at lines 8117--8118
+\TU/lmr/m/n/12 advertisements are accurate descriptions of those products, rath
+er than curated representations
+ []
+
+
+
+[494]
+Overfull \hbox (3.44133pt too wide) in paragraph at lines 8130--8131
+\TU/lmr/m/n/12 was argued before implementation. The position against prohibiti
+on typically rests on parental
+ []
+
+
+Overfull \hbox (14.63354pt too wide) in paragraph at lines 8134--8135
+[]\TU/lmr/m/n/12 The professional public health and developmental policy perspe
+ctive predominantly supports
+ []
+
+
+
+[495]
+Overfull \hbox (4.58556pt too wide) in paragraph at lines 8143--8144
+[]\TU/lmr/m/n/12 The most significant structural difference between contemporar
+y toys and those of previous
+ []
+
+
+Overfull \hbox (13.42957pt too wide) in paragraph at lines 8143--8144
+\TU/lmr/m/n/12 play is consistently associated in developmental research with s
+tronger development of creativity,
+ []
+
+
+
+[496]
+Overfull \hbox (0.95734pt too wide) in paragraph at lines 8160--8161
+\TU/lmr/m/n/12 supports. The practical advice that developmental science genera
+tes is simple and consistently
+ []
+
+
+Overfull \hbox (29.54956pt too wide) in paragraph at lines 8169--8170
+[]\TU/lmr/m/n/12 Gender differences in toy preferences are real but significant
+ly smaller and more environmentally
+ []
+
+
+Overfull \hbox (11.14684pt too wide) in paragraph at lines 8169--8170
+\TU/lmr/m/n/12 gender-congruent toy preferences are not specifically reinforced
+ by parental guidance, marketing
+ []
+
+
+
+[497]
+Overfull \hbox (18.13618pt too wide) in paragraph at lines 8186--8187
+\TU/lmr/m/n/12 constraint, multiple solution paths, and meaningful feedback — m
+ay offer superior developmental
+ []
+
+
+
+[498]
+Overfull \vbox (40.73784pt too high) has occurred while \output is active []
+
+
+
+[499]
+Overfull \hbox (4.86557pt too wide) in paragraph at lines 8215--8215
+|[]\TU/lmr/bx/n/17.28 Describe the time when you first talked in a foreign
+ []
+
+
+Overfull \hbox (6.44312pt too wide) in paragraph at lines 8256--8256
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌmeθ.ə.dəˈlɒdʒ.ɪ.kəl/| 
+ []
+
+
+
+[500]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 8259--8260
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[501]
+Overfull \hbox (17.34552pt too wide) in paragraph at lines 8270--8271
+\TU/lmr/m/n/12 early foreign language instruction that relies on formal grammar
+ learning is both developmentally
+ []
+
+
+
+[502]
+Overfull \hbox (12.27885pt too wide) in paragraph at lines 8292--8293
+\TU/lmr/m/n/12 it is the primary language of international academic publication
+, global business communication,
+ []
+
+
+Overfull \hbox (10.94931pt too wide) in paragraph at lines 8296--8297
+\TU/lmr/m/n/12 communities or regions is part of the professional remit. The qu
+ality of professional relationships
+ []
+
+
+Overfull \hbox (8.46544pt too wide) in paragraph at lines 8305--8306
+[]\TU/lmr/m/n/12 The trajectory of minority language loss globally is well-docu
+mented and alarming: linguists
+ []
+
+
+
+[503]
+Overfull \hbox (8.70152pt too wide) in paragraph at lines 8318--8319
+[]\TU/lmr/m/n/12 Foreign language proficiency provides measurable professional 
+advantages whose magnitude
+ []
+
+
+Overfull \hbox (16.18954pt too wide) in paragraph at lines 8318--8319
+\TU/lmr/m/n/12 business language — English — in non-English-speaking countries 
+and industries with significant
+ []
+
+
+Overfull \hbox (2.83755pt too wide) in paragraph at lines 8322--8323
+\TU/lmr/m/n/12 and the effectiveness of professional output in ways that transl
+ate into performance assessment
+ []
+
+
+
+[504]
+Overfull \hbox (11.24954pt too wide) in paragraph at lines 8331--8332
+[]\TU/lmr/m/n/12 Each major life stage offers distinct advantages for foreign l
+anguage learning that correspond
+ []
+
+
+Overfull \hbox (3.84155pt too wide) in paragraph at lines 8335--8336
+[]\TU/lmr/m/n/12 The professional applied linguistics consensus is that the mos
+t productive learning happens
+ []
+
+
+Overfull \hbox (12.35484pt too wide) in paragraph at lines 8335--8336
+\TU/lmr/m/n/12 advantages) coincides with motivational intensity (genuine commu
+nicative need, strong intrinsic
+ []
+
+
+Overfull \hbox (4.94604pt too wide) in paragraph at lines 8359--8359
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌriː.vaɪ.t̬əl.aɪˈzeɪ.ʃən/| 
+ []
+
+
+
+[505]
+Overfull \vbox (33.93784pt too high) has occurred while \output is active []
+
+
+
+[506]
+
+[507]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 8408--8409
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[508]
+Overfull \hbox (10.03754pt too wide) in paragraph at lines 8419--8420
+[]\TU/lmr/m/n/12 The professional cognitive science explanation of navigation p
+erformance variation identifies
+ []
+
+
+Overfull \hbox (16.18144pt too wide) in paragraph at lines 8419--8420
+\TU/lmr/m/n/12 The strategy dimension is the most practically teachable: naviga
+tion performance is substantially
+ []
+
+
+Overfull \hbox (9.12555pt too wide) in paragraph at lines 8419--8420
+\TU/lmr/m/n/12 improved by explicit training in maintaining orientation rather 
+than relying purely on landmark
+ []
+
+
+Overfull \hbox (13.18155pt too wide) in paragraph at lines 8419--8420
+\TU/lmr/m/n/12 recognition — and the professional implication for frequently tr
+avelling people is that developing
+ []
+
+
+
+[509]
+Overfull \hbox (13.72417pt too wide) in paragraph at lines 8445--8446
+\TU/lmr/m/n/12 established, well-documented destinations with reliable infrastr
+ucture and services, the marginal
+ []
+
+
+Overfull \hbox (4.20277pt too wide) in paragraph at lines 8445--8446
+\TU/lmr/m/n/12 infrastructure, preparation is qualitatively more important: the
+ difference between an itinerary
+ []
+
+
+Overfull \hbox (10.23358pt too wide) in paragraph at lines 8445--8446
+\TU/lmr/m/n/12 without is substantially a difference in realistic risk exposure
+ that can have serious consequences.
+ []
+
+
+
+[510]
+Overfull \hbox (2.56953pt too wide) in paragraph at lines 8458--8459
+\TU/lmr/m/n/12 navigational disorientation scenarios — as the most reliably eff
+ective framework for navigation
+ []
+
+
+Overfull \hbox (2.10532pt too wide) in paragraph at lines 8467--8468
+\TU/lmr/m/n/12 and developed-country contexts. The argument for paper map maint
+enance rests substantially
+ []
+
+
+
+[511]
+
+[512]
+Overfull \vbox (47.53784pt too high) has occurred while \output is active []
+
+
+
+[513]
+Overfull \hbox (1.04831pt too wide) in paragraph at lines 8554--8554
+ []|\TU/ArialUnicodeMS(0)/b/n/10.95 /ˌdɪs.prəˈpɔː.ʃən.ɪt.li/| 
+ []
+
+
+
+[514]
+Overfull \hbox (40.40639pt too wide) in paragraph at lines 8557--8558
+[][][][]\TU/lmss/bx/n/14.4 IELTS
+ []
+
+
+
+[515]
+Overfull \hbox (5.34555pt too wide) in paragraph at lines 8577--8578
+\TU/lmr/m/n/12 whose constant apologising typically communicates anxiety rather
+ than genuine accountability,
+ []
+
+
+Overfull \hbox (17.32686pt too wide) in paragraph at lines 8581--8582
+[]\TU/lmr/m/n/12 The professional ethics perspective on apology obligation iden
+tifies the severity, intentionality,
+ []
+
+
+
+[516]
+Overfull \hbox (6.48688pt too wide) in paragraph at lines 8590--8591
+\TU/lmr/m/n/12 the frequency of implicit acknowledgement — the avoidance of eye
+ contact, the self-deprecating
+ []
+
+
+Overfull \hbox (5.26817pt too wide) in paragraph at lines 8594--8595
+\TU/lmr/m/n/12 professional contexts, this means through gestures of deference,
+ behavioural correction without
+ []
+
+
+Overfull \hbox (27.70007pt too wide) in paragraph at lines 8603--8604
+\TU/lmr/m/n/12 specific and bounded occasions: delays, errors affecting others,
+ misunderstandings with professional
+ []
+
+
+
+[517]
+
+[518]
+Overfull \hbox (0.64153pt too wide) in paragraph at lines 8633--8634
+[]\TU/lmr/m/n/12 The professional organisational psychology perspective on gend
+er and emotion recognition
+ []
+
+
+Overfull \hbox (16.23756pt too wide) in paragraph at lines 8633--8634
+\TU/lmr/m/n/12 identifies the occupational sorting mechanism as a significant c
+onfound in interpreting individual-
+ []
+
+
+Overfull \hbox (4.07335pt too wide) in paragraph at lines 8633--8634
+\TU/lmr/m/n/12 level gender differences. Women are disproportionately represent
+ed in occupations that require
+ []
+
+
+
+[519]
+
+[520]) (build/main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -4698,12 +5874,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 2A2875599D4BC3625D404635587631C5;27796.
  ) 
 Here is how much of TeX's memory you used:
- 46531 strings out of 473832
- 1114379 string characters out of 5729481
- 1774889 words of memory out of 5000000
- 68807 multiletter control sequences out of 15000+600000
+ 46537 strings out of 473832
+ 1114487 string characters out of 5729481
+ 1775889 words of memory out of 5000000
+ 68813 multiletter control sequences out of 15000+600000
  564154 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,13n,96p,1624b,1446s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on build/main.pdf (433 pages).
+Output written on build/main.pdf (526 pages).
